@@ -1,0 +1,67 @@
+{
+  "id": 1360186349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.87042,-13.61597,31.87042,-13.61597",
+    "geom:latitude":-13.61597,
+    "geom:longitude":31.87042,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malijani",
+    "gn:country_code":"ZM",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908123,
+    "gn:latitude":-13.61597,
+    "gn:longitude":31.87042,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Malijani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908123
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ea18752a7f2e75b85e6828a667bbb7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1360186349,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1360186349,
+    "wof:lastmodified":1536799615,
+    "wof:name":"Malijani",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.87042000000001,
+    -13.61597,
+    31.87042000000001,
+    -13.61597
+],
+  "geometry": {"coordinates":[31.87042000000001,-13.61597],"type":"Point"}
+}

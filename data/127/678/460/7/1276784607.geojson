@@ -1,0 +1,72 @@
+{
+  "id": 1276784607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93982,-10.64702,31.93982,-10.64702",
+    "geom:latitude":-10.64702,
+    "geom:longitude":31.93982,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nkula",
+    "gn:country_code":"ZM",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900700,
+    "gn:latitude":-10.64702,
+    "gn:longitude":31.93982,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nkula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkula Bemba",
+        "Nkulu",
+        "Nkula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900700
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"991b6836fe7775e977b09078554c2c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":1276784607,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1276784607,
+    "wof:lastmodified":1537716484,
+    "wof:name":"Nkula",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93982,
+    -10.64702,
+    31.93982,
+    -10.64702
+],
+  "geometry": {"coordinates":[31.93982,-10.64702],"type":"Point"}
+}

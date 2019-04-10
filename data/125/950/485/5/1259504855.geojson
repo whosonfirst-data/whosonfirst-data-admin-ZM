@@ -1,0 +1,76 @@
+{
+  "id": 1259504855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.14319,-17.1616,27.14319,-17.1616",
+    "geom:latitude":-17.1616,
+    "geom:longitude":27.14319,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maliko",
+    "gn:country_code":"ZM",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908117,
+    "gn:latitude":-17.1616,
+    "gn:longitude":27.14319,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maliko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maliko"
+    ],
+    "name:eng_x_variant":[
+        "Malco"
+    ],
+    "name:und_x_variant":[
+        "Malco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908117
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2839d608ed3336c16026e90d29acce89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782473,
+            "locality_id":1259504855,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1259504855,
+    "wof:lastmodified":1537716517,
+    "wof:name":"Maliko",
+    "wof:parent_id":1108782473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14319,
+    -17.1616,
+    27.14319,
+    -17.1616
+],
+  "geometry": {"coordinates":[27.14319,-17.1616],"type":"Point"}
+}

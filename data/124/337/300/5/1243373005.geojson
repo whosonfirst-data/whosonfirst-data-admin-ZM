@@ -1,0 +1,67 @@
+{
+  "id": 1243373005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00406,-14.62966,25.00406,-14.62966",
+    "geom:latitude":-14.62966,
+    "geom:longitude":25.00406,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bungana",
+    "gn:country_code":"ZM",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921220,
+    "gn:latitude":-14.62966,
+    "gn:longitude":25.00406,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bungana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921220
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a02e8a223e2c06af265e004ec002852d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":1243373005,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1243373005,
+    "wof:lastmodified":1536911768,
+    "wof:name":"Bungana",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00406,
+    -14.62966,
+    25.00406,
+    -14.62966
+],
+  "geometry": {"coordinates":[25.00406,-14.62966],"type":"Point"}
+}

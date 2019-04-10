@@ -1,0 +1,71 @@
+{
+  "id": 1225938539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7,-16.35,26.7,-16.35",
+    "geom:latitude":-16.35,
+    "geom:longitude":26.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tombabanyama",
+    "gn:country_code":"ZM",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896618,
+    "gn:latitude":-16.35,
+    "gn:longitude":26.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tombabanyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tombamanyama",
+        "Tombabanyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896618
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0d2d9f8096f310d7fa06cf0f06d7b906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782481,
+            "locality_id":1225938539,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1225938539,
+    "wof:lastmodified":1537716461,
+    "wof:name":"Tombabanyama",
+    "wof:parent_id":1108782481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7,
+    -16.35,
+    26.7,
+    -16.35
+],
+  "geometry": {"coordinates":[26.7,-16.35],"type":"Point"}
+}

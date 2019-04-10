@@ -1,0 +1,67 @@
+{
+  "id": 1310714765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.34979,-13.91672,28.34979,-13.91672",
+    "geom:latitude":-13.91672,
+    "geom:longitude":28.34979,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mwanachiyaba",
+    "gn:country_code":"ZM",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903129,
+    "gn:latitude":-13.91672,
+    "gn:longitude":28.34979,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mwanachiyaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903129
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b66d5e3c1fdfc3d6bd4da1ac9e86b7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782355,
+            "locality_id":1310714765,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1310714765,
+    "wof:lastmodified":1536612490,
+    "wof:name":"Mwanachiyaba",
+    "wof:parent_id":1108782355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.34979,
+    -13.91672,
+    28.34979,
+    -13.91672
+],
+  "geometry": {"coordinates":[28.34979,-13.91672],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209604377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.15,-11.86667,33.15,-11.86667",
+    "geom:latitude":-11.86667,
+    "geom:longitude":33.15,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zinonyi",
+    "gn:country_code":"ZM",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":895890,
+    "gn:latitude":-11.86667,
+    "gn:longitude":33.15,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zinonyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895890
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5a0ef294e1e7c504bfba71f70faf07d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209604377
+        }
+    ],
+    "wof:id":1209604377,
+    "wof:lastmodified":1536282061,
+    "wof:name":"Zinonyi",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15,
+    -11.86667,
+    33.15,
+    -11.86667
+],
+  "geometry": {"coordinates":[33.15,-11.86667],"type":"Point"}
+}

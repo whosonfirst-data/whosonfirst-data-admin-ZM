@@ -1,0 +1,67 @@
+{
+  "id": 1276584157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84361,-10.77606,30.84361,-10.77606",
+    "geom:latitude":-10.77606,
+    "geom:longitude":30.84361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ngosa",
+    "gn:country_code":"ZM",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901049,
+    "gn:latitude":-10.77606,
+    "gn:longitude":30.84361,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ngosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901049
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1f95c094a089f756c3add3b84ab5235d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782461,
+            "locality_id":1276584157,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1276584157,
+    "wof:lastmodified":1536940919,
+    "wof:name":"Ngosa",
+    "wof:parent_id":1108782461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84361,
+    -10.77606,
+    30.84361,
+    -10.77606
+],
+  "geometry": {"coordinates":[30.84361,-10.77606],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209522923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6682,-13.45694,32.6682,-13.45694",
+    "geom:latitude":-13.45694,
+    "geom:longitude":32.6682,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chimombo",
+    "gn:country_code":"ZM",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919217,
+    "gn:latitude":-13.45694,
+    "gn:longitude":32.6682,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chimombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919217
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"347cd773d6e407a6f42cc5d7f2b5f531",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209522923
+        }
+    ],
+    "wof:id":1209522923,
+    "wof:lastmodified":1536284522,
+    "wof:name":"Chimombo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6682,
+    -13.45694,
+    32.6682,
+    -13.45694
+],
+  "geometry": {"coordinates":[32.6682,-13.45694],"type":"Point"}
+}

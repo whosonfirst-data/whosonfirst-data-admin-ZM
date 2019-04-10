@@ -1,0 +1,71 @@
+{
+  "id": 1260194473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83228,-13.1172,31.83228,-13.1172",
+    "geom:latitude":-13.1172,
+    "geom:longitude":31.83228,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyachiu",
+    "gn:country_code":"ZM",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900371,
+    "gn:latitude":-13.1172,
+    "gn:longitude":31.83228,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nyachiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyachi",
+        "Nyachiu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900371
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a0331edf0c8823ac25cd490afe16e2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1260194473,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1260194473,
+    "wof:lastmodified":1537716482,
+    "wof:name":"Nyachiu",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83228,
+    -13.1172,
+    31.83228,
+    -13.1172
+],
+  "geometry": {"coordinates":[31.83228,-13.1172],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209628977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9,-16.4,22.9,-16.4",
+    "geom:latitude":-16.4,
+    "geom:longitude":22.9,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nosiku",
+    "gn:country_code":"ZM",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900592,
+    "gn:latitude":-16.4,
+    "gn:longitude":22.9,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nosiku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900592
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"75351abc8543e79e141df0aee0975a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209628977
+        }
+    ],
+    "wof:id":1209628977,
+    "wof:lastmodified":1536281255,
+    "wof:name":"Nosiku",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9,
+    -16.4,
+    22.9,
+    -16.4
+],
+  "geometry": {"coordinates":[22.9,-16.4],"type":"Point"}
+}

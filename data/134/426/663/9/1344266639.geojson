@@ -1,0 +1,67 @@
+{
+  "id": 1344266639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36667,-15.61667,23.36667,-15.61667",
+    "geom:latitude":-15.61667,
+    "geom:longitude":23.36667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Akabiti",
+    "gn:country_code":"ZM",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921623,
+    "gn:latitude":-15.61667,
+    "gn:longitude":23.36667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Akabiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921623
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"76bb04ea4a1308daa857d26d642c53d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782505,
+            "locality_id":1344266639,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1344266639,
+    "wof:lastmodified":1537072029,
+    "wof:name":"Akabiti",
+    "wof:parent_id":1108782505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36667000000001,
+    -15.61667,
+    23.36667000000001,
+    -15.61667
+],
+  "geometry": {"coordinates":[23.36667000000001,-15.61667],"type":"Point"}
+}

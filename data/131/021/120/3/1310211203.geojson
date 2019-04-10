@@ -1,0 +1,67 @@
+{
+  "id": 1310211203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49544,-11.95452,29.49544,-11.95452",
+    "geom:latitude":-11.95452,
+    "geom:longitude":29.49544,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kasanka",
+    "gn:country_code":"ZM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912691,
+    "gn:latitude":-11.95452,
+    "gn:longitude":29.49544,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kasanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912691
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9ff6be6c51bac14f28d43b172e27ab75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782413,
+            "locality_id":1310211203,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1310211203,
+    "wof:lastmodified":1536842936,
+    "wof:name":"Kasanka",
+    "wof:parent_id":1108782413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49544,
+    -11.95452,
+    29.49544,
+    -11.95452
+],
+  "geometry": {"coordinates":[29.49544,-11.95452],"type":"Point"}
+}

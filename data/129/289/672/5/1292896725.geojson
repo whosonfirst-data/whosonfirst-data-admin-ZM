@@ -1,0 +1,67 @@
+{
+  "id": 1292896725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71838,-12.95411,28.71838,-12.95411",
+    "geom:latitude":-12.95411,
+    "geom:longitude":28.71838,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mutolilo",
+    "gn:country_code":"ZM",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903551,
+    "gn:latitude":-12.95411,
+    "gn:longitude":28.71838,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mutolilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903551
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"52339d3898b65a5666c1a28c3118cdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782377,
+            "locality_id":1292896725,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1292896725,
+    "wof:lastmodified":1536644046,
+    "wof:name":"Mutolilo",
+    "wof:parent_id":1108782377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71838,
+    -12.95411,
+    28.71838,
+    -12.95411
+],
+  "geometry": {"coordinates":[28.71838,-12.95411],"type":"Point"}
+}

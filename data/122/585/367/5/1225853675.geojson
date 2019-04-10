@@ -1,0 +1,67 @@
+{
+  "id": 1225853675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98054,-14.25271,26.98054,-14.25271",
+    "geom:latitude":-14.25271,
+    "geom:longitude":26.98054,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chilambi",
+    "gn:country_code":"ZM",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919644,
+    "gn:latitude":-14.25271,
+    "gn:longitude":26.98054,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chilambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919644
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bb4699383edda87047c61c77b3a06c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782359,
+            "locality_id":1225853675,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1225853675,
+    "wof:lastmodified":1537001405,
+    "wof:name":"Chilambi",
+    "wof:parent_id":1108782359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98054,
+    -14.25271,
+    26.98054,
+    -14.25271
+],
+  "geometry": {"coordinates":[26.98054,-14.25271],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209915897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94262,-13.95093,32.94262,-13.95093",
+    "geom:latitude":-13.95093,
+    "geom:longitude":32.94262,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mchenjesa",
+    "gn:country_code":"ZM",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906821,
+    "gn:latitude":-13.95093,
+    "gn:longitude":32.94262,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mchenjesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906821
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6df5ee44fd1763b2c70838cde4c53565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782385,
+            "locality_id":1209915897,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1209915897,
+    "wof:lastmodified":1536373786,
+    "wof:name":"Mchenjesa",
+    "wof:parent_id":1108782385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94262,
+    -13.95093,
+    32.94262,
+    -13.95093
+],
+  "geometry": {"coordinates":[32.94262,-13.95093],"type":"Point"}
+}

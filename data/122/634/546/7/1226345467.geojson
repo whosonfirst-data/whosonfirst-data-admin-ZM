@@ -1,0 +1,72 @@
+{
+  "id": 1226345467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.80891,-14.95865,27.80891,-14.95865",
+    "geom:latitude":-14.95865,
+    "geom:longitude":27.80891,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nkwanga",
+    "gn:country_code":"ZM",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900641,
+    "gn:latitude":-14.95865,
+    "gn:longitude":27.80891,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nkwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwangwa",
+        "Nwangwa",
+        "Nkwanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900641
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ce883b06c2c47cab8c43a37483f161c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1226345467,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1226345467,
+    "wof:lastmodified":1537716484,
+    "wof:name":"Nkwanga",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.80891,
+    -14.95865,
+    27.80891,
+    -14.95865
+],
+  "geometry": {"coordinates":[27.80891,-14.95865],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209101181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81667,-9.36667,32.81667,-9.36667",
+    "geom:latitude":-9.36667,
+    "geom:longitude":32.81667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mbezuma",
+    "gn:country_code":"ZM",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176125,
+    "gn:latitude":-9.36667,
+    "gn:longitude":32.81667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mbezuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbesuma",
+        "Mbezuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176125
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"741c105c3db8e52e1889f7933a5bbdde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209101181
+        }
+    ],
+    "wof:id":1209101181,
+    "wof:lastmodified":1537716452,
+    "wof:name":"Mbezuma",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81667,
+    -9.36667,
+    32.81667,
+    -9.36667
+],
+  "geometry": {"coordinates":[32.81667,-9.36667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326519893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.30928,-15.38505,28.30928,-15.38505",
+    "geom:latitude":-15.38505,
+    "geom:longitude":28.30928,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chikupi",
+    "gn:country_code":"ZM",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497868,
+    "gn:latitude":-15.38505,
+    "gn:longitude":28.30928,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chikupi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497868
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"aea7624cf8d40634c5a3bf5850d60a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782421,
+            "locality_id":1326519893,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1326519893,
+    "wof:lastmodified":1537001098,
+    "wof:name":"Chikupi",
+    "wof:parent_id":1108782421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.30928,
+    -15.38505,
+    28.30928,
+    -15.38505
+],
+  "geometry": {"coordinates":[28.30928,-15.38505],"type":"Point"}
+}

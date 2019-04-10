@@ -1,0 +1,71 @@
+{
+  "id": 1193268939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78333,-11.88333,29.78333,-11.88333",
+    "geom:latitude":-11.88333,
+    "geom:longitude":29.78333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kataba",
+    "gn:country_code":"ZM",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912226,
+    "gn:latitude":-11.88333,
+    "gn:longitude":29.78333,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Kataba",
+    "gn:population":14000,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912226,
+        "wk:page":"Kataba"
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2b0e266bdcf0d2b1f2855a8a0e1b37c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782413,
+            "locality_id":1193268939,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1193268939,
+    "wof:lastmodified":1537576387,
+    "wof:name":"Kataba",
+    "wof:parent_id":1108782413,
+    "wof:placetype":"locality",
+    "wof:population":14000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78333,
+    -11.88333,
+    29.78333,
+    -11.88333
+],
+  "geometry": {"coordinates":[29.78333,-11.88333],"type":"Point"}
+}

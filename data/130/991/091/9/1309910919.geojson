@@ -1,0 +1,67 @@
+{
+  "id": 1309910919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54461,-9.40104,31.54461,-9.40104",
+    "geom:latitude":-9.40104,
+    "geom:longitude":31.54461,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chindo",
+    "gn:country_code":"ZM",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177599,
+    "gn:latitude":-9.40104,
+    "gn:longitude":31.54461,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177599
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4e43e38b3c1a945478afbc74c440fa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782465,
+            "locality_id":1309910919,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1309910919,
+    "wof:lastmodified":1536780040,
+    "wof:name":"Chindo",
+    "wof:parent_id":1108782465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54461,
+    -9.40104,
+    31.54461,
+    -9.40104
+],
+  "geometry": {"coordinates":[31.54461,-9.40104],"type":"Point"}
+}

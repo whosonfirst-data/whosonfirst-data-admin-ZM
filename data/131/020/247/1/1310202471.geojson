@@ -1,0 +1,71 @@
+{
+  "id": 1310202471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69865,-12.32214,26.69865,-12.32214",
+    "geom:latitude":-12.32214,
+    "geom:longitude":26.69865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ntombo",
+    "gn:country_code":"ZM",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900429,
+    "gn:latitude":-12.32214,
+    "gn:longitude":26.69865,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ntombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntambo",
+        "Ntombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900429
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d04a1a0f9e0f7d9898678856f3af5d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782451,
+            "locality_id":1310202471,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1310202471,
+    "wof:lastmodified":1537716482,
+    "wof:name":"Ntombo",
+    "wof:parent_id":1108782451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69865,
+    -12.32214,
+    26.69865,
+    -12.32214
+],
+  "geometry": {"coordinates":[26.69865,-12.32214],"type":"Point"}
+}

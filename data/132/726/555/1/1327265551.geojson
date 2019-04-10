@@ -1,0 +1,71 @@
+{
+  "id": 1327265551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84659,-8.83994,30.84659,-8.83994",
+    "geom:latitude":-8.83994,
+    "geom:longitude":30.84659,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chitimbwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177428,
+    "gn:latitude":-8.83994,
+    "gn:longitude":30.84659,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chitimbwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chitibwa",
+        "Chitimbwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177428
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"fdf5ef1579e304d8c12fd83faebc40de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1327265551,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1327265551,
+    "wof:lastmodified":1537716457,
+    "wof:name":"Chitimbwa",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84659000000001,
+    -8.83994,
+    30.84659000000001,
+    -8.83994
+],
+  "geometry": {"coordinates":[30.84659000000001,-8.83994],"type":"Point"}
+}

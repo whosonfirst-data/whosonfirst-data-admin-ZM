@@ -1,0 +1,67 @@
+{
+  "id": 1343275915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95559,-17.25671,22.95559,-17.25671",
+    "geom:latitude":-17.25671,
+    "geom:longitude":22.95559,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lubinda",
+    "gn:country_code":"ZM",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909764,
+    "gn:latitude":-17.25671,
+    "gn:longitude":22.95559,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Lubinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909764
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1454cb4915b791b69a0bcd44999e138d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1343275915,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1343275915,
+    "wof:lastmodified":1537011794,
+    "wof:name":"Lubinda",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95559,
+    -17.25671,
+    22.95559,
+    -17.25671
+],
+  "geometry": {"coordinates":[22.95559,-17.25671],"type":"Point"}
+}

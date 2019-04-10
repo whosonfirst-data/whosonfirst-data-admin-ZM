@@ -1,0 +1,71 @@
+{
+  "id": 1326539549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90219,-17.03455,24.90219,-17.03455",
+    "geom:latitude":-17.03455,
+    "geom:longitude":24.90219,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Namazingu Lumino",
+    "gn:country_code":"ZM",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901990,
+    "gn:latitude":-17.03455,
+    "gn:longitude":24.90219,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Namazingu Lumino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namuzingu Lumino",
+        "Namazingu Lumino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901990
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d983fa4603358fd3b1941feabd2a4540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1326539549,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1326539549,
+    "wof:lastmodified":1537716488,
+    "wof:name":"Namazingu Lumino",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90219,
+    -17.03455,
+    24.90219,
+    -17.03455
+],
+  "geometry": {"coordinates":[24.90219,-17.03455],"type":"Point"}
+}

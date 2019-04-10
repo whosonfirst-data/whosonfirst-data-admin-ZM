@@ -1,0 +1,61 @@
+{
+  "id": 1209422697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6114,-13.95327,31.6114,-13.95327",
+    "geom:latitude":-13.95327,
+    "geom:longitude":31.6114,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Masiri",
+    "gn:country_code":"ZM",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907470,
+    "gn:latitude":-13.95327,
+    "gn:longitude":31.6114,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Masiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907470
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"286332c8ab0d9cb6a730d012ceae4759",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209422697
+        }
+    ],
+    "wof:id":1209422697,
+    "wof:lastmodified":1536287479,
+    "wof:name":"Masiri",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6114,
+    -13.953270000000002,
+    31.6114,
+    -13.953270000000002
+],
+  "geometry": {"coordinates":[31.6114,-13.95327],"type":"Point"}
+}

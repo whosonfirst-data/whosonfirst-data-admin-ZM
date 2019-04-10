@@ -1,0 +1,67 @@
+{
+  "id": 1343558831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88555,-13.41618,23.88555,-13.41618",
+    "geom:latitude":-13.41618,
+    "geom:longitude":23.88555,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sacheka",
+    "gn:country_code":"ZM",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899607,
+    "gn:latitude":-13.41618,
+    "gn:longitude":23.88555,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sacheka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899607
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"94d567fbf0856df2e405ffba80a64f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782443,
+            "locality_id":1343558831,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1343558831,
+    "wof:lastmodified":1536601129,
+    "wof:name":"Sacheka",
+    "wof:parent_id":1108782443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88555,
+    -13.41618,
+    23.88555,
+    -13.41618
+],
+  "geometry": {"coordinates":[23.88555,-13.41618],"type":"Point"}
+}

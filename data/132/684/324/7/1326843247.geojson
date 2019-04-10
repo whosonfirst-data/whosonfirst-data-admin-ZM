@@ -1,0 +1,72 @@
+{
+  "id": 1326843247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2,-14.4,27.2,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":27.2,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Enoch Chikwaba",
+    "gn:country_code":"ZM",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917358,
+    "gn:latitude":-14.4,
+    "gn:longitude":27.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Enoch Chikwaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anock Chikwaba",
+        "Enock Chikwaba",
+        "Enoch Chikwaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917358
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"79a01d47afc41dd06cd43b93219f3885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1326843247,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1326843247,
+    "wof:lastmodified":1537716548,
+    "wof:name":"Enoch Chikwaba",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2,
+    -14.4,
+    27.2,
+    -14.4
+],
+  "geometry": {"coordinates":[27.2,-14.4],"type":"Point"}
+}

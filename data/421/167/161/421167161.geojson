@@ -1,0 +1,115 @@
+{
+  "id": 421167161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60691,-16.49755,27.60691,-16.49755",
+    "geom:latitude":-16.49755,
+    "geom:longitude":27.60691,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Gwembe"
+    ],
+    "name:dut_x_preferred":[
+        "Gwembe"
+    ],
+    "name:eng_x_preferred":[
+        "Gwembe"
+    ],
+    "name:fre_x_preferred":[
+        "Gwembe"
+    ],
+    "name:ger_x_preferred":[
+        "Gwembe"
+    ],
+    "name:ita_x_preferred":[
+        "Gwembe"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0413\u0432\u0435\u043c\u0431\u0435"
+    ],
+    "name:por_x_preferred":[
+        "Gwembe"
+    ],
+    "name:ron_x_preferred":[
+        "Gwembe"
+    ],
+    "name:rum_x_preferred":[
+        "Gwembe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0435\u043c\u0431\u0435"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":917011,
+    "qs:gn_pop":2052,
+    "qs:name":"Gwembe",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":130007,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1565655,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917011,
+        "gp:id":1565655,
+        "qs:id":130007,
+        "wd:id":"Q1022140",
+        "wk:page":"Gwembe"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459008721,
+    "wof:geomhash":"bedf0058bf72000df8e219684c5978cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782475,
+            "locality_id":421167161,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":421167161,
+    "wof:lastmodified":1527716153,
+    "wof:name":"Gwembe",
+    "wof:parent_id":1108782475,
+    "wof:placetype":"locality",
+    "wof:population":2052,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60691,
+    -16.49755,
+    27.60691,
+    -16.49755
+],
+  "geometry": {"coordinates":[27.60691,-16.49755],"type":"Point"}
+}

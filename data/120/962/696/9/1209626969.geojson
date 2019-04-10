@@ -1,0 +1,65 @@
+{
+  "id": 1209626969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0847,-14.60911,31.0847,-14.60911",
+    "geom:latitude":-14.60911,
+    "geom:longitude":31.0847,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mazonde",
+    "gn:country_code":"ZM",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907078,
+    "gn:latitude":-14.60911,
+    "gn:longitude":31.0847,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mazonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matonje",
+        "Mazonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907078
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"440d8204c5283ad32e76da89696c767a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209626969
+        }
+    ],
+    "wof:id":1209626969,
+    "wof:lastmodified":1537716512,
+    "wof:name":"Mazonde",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0847,
+    -14.60911,
+    31.0847,
+    -14.60911
+],
+  "geometry": {"coordinates":[31.0847,-14.60911],"type":"Point"}
+}

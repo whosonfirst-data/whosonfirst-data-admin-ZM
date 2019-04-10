@@ -1,0 +1,64 @@
+{
+  "id": 1209636735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22254,-17.35667,27.22254,-17.35667",
+    "geom:latitude":-17.35667,
+    "geom:longitude":27.22254,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mamba",
+    "gn:country_code":"ZM",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907976,
+    "gn:latitude":-17.35667,
+    "gn:longitude":27.22254,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907976
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"44d5e47c17c4a5d0d1eb7d8af92490ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209636735
+        }
+    ],
+    "wof:id":1209636735,
+    "wof:lastmodified":1537716516,
+    "wof:name":"Mamba",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22254,
+    -17.35667,
+    27.22254,
+    -17.35667
+],
+  "geometry": {"coordinates":[27.22254,-17.35667],"type":"Point"}
+}

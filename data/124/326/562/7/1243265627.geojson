@@ -1,0 +1,67 @@
+{
+  "id": 1243265627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97936,-14.51193,30.97936,-14.51193",
+    "geom:latitude":-14.51193,
+    "geom:longitude":30.97936,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chipembe",
+    "gn:country_code":"ZM",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918676,
+    "gn:latitude":-14.51193,
+    "gn:longitude":30.97936,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chipembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918676
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2c45a4f5e013baa8a9f0eb8eac27ef52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782395,
+            "locality_id":1243265627,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1243265627,
+    "wof:lastmodified":1537063397,
+    "wof:name":"Chipembe",
+    "wof:parent_id":1108782395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97936,
+    -14.51193,
+    30.97936,
+    -14.51193
+],
+  "geometry": {"coordinates":[30.97936,-14.51193],"type":"Point"}
+}

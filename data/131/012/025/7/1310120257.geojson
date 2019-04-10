@@ -1,0 +1,67 @@
+{
+  "id": 1310120257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58333,-15.63333,23.58333,-15.63333",
+    "geom:latitude":-15.63333,
+    "geom:longitude":23.58333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kandepwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913954,
+    "gn:latitude":-15.63333,
+    "gn:longitude":23.58333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kandepwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913954
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"fa410d1f683fd14b1c3ae518e7d828fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1310120257,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1310120257,
+    "wof:lastmodified":1536974630,
+    "wof:name":"Kandepwe",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58333,
+    -15.63333,
+    23.58333,
+    -15.63333
+],
+  "geometry": {"coordinates":[23.58333,-15.63333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326819445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35,-9.31667,32.35,-9.31667",
+    "geom:latitude":-9.31667,
+    "geom:longitude":32.35,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Malisawa",
+    "gn:country_code":"ZM",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176241,
+    "gn:latitude":-9.31667,
+    "gn:longitude":32.35,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Malisawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176241
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"31baa340f55597352b5e6a3cb02c3d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782435,
+            "locality_id":1326819445,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1326819445,
+    "wof:lastmodified":1537064392,
+    "wof:name":"Malisawa",
+    "wof:parent_id":1108782435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35,
+    -9.31667,
+    32.35,
+    -9.31667
+],
+  "geometry": {"coordinates":[32.35,-9.31667],"type":"Point"}
+}

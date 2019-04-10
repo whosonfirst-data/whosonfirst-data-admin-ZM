@@ -1,0 +1,67 @@
+{
+  "id": 1310196801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05347,-16.01327,26.05347,-16.01327",
+    "geom:latitude":-16.01327,
+    "geom:longitude":26.05347,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kamonwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914318,
+    "gn:latitude":-16.01327,
+    "gn:longitude":26.05347,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kamonwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914318
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d537b507751a0aadd7428f4646bf3837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782479,
+            "locality_id":1310196801,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1310196801,
+    "wof:lastmodified":1536863531,
+    "wof:name":"Kamonwa",
+    "wof:parent_id":1108782479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05347,
+    -16.01327,
+    26.05347,
+    -16.01327
+],
+  "geometry": {"coordinates":[26.05347,-16.01327],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293401531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18333,-14.05,32.18333,-14.05",
+    "geom:latitude":-14.05,
+    "geom:longitude":32.18333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kachitowi",
+    "gn:country_code":"ZM",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915964,
+    "gn:latitude":-14.05,
+    "gn:longitude":32.18333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kachitowi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915964
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f2a30c4b49bd4c8ac5a7167036215c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1293401531,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1293401531,
+    "wof:lastmodified":1536911227,
+    "wof:name":"Kachitowi",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18333,
+    -14.05,
+    32.18333,
+    -14.05
+],
+  "geometry": {"coordinates":[32.18333,-14.05],"type":"Point"}
+}

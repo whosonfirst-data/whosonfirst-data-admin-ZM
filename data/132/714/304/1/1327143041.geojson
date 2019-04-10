@@ -1,0 +1,71 @@
+{
+  "id": 1327143041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9349,-14.70688,27.9349,-14.70688",
+    "geom:latitude":-14.70688,
+    "geom:longitude":27.9349,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kapembi",
+    "gn:country_code":"ZM",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913145,
+    "gn:latitude":-14.70688,
+    "gn:longitude":27.9349,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kapembi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapempi",
+        "Kapembi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913145
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9f54a04d8b643bbe978c556104d9ae91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1327143041,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1327143041,
+    "wof:lastmodified":1537716533,
+    "wof:name":"Kapembi",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9349,
+    -14.70688,
+    27.9349,
+    -14.70688
+],
+  "geometry": {"coordinates":[27.9349,-14.70688],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343256275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.96667,-16.06667,26.96667,-16.06667",
+    "geom:latitude":-16.06667,
+    "geom:longitude":26.96667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shimulombela",
+    "gn:country_code":"ZM",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898570,
+    "gn:latitude":-16.06667,
+    "gn:longitude":26.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Shimulombela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898570
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"74500ac9b678bf3270eae1b3ab2a8e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782491,
+            "locality_id":1343256275,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1343256275,
+    "wof:lastmodified":1537039283,
+    "wof:name":"Shimulombela",
+    "wof:parent_id":1108782491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.96667,
+    -16.06667,
+    26.96667,
+    -16.06667
+],
+  "geometry": {"coordinates":[26.96667,-16.06667],"type":"Point"}
+}

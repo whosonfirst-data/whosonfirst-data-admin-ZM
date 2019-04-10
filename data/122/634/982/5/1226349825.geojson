@@ -1,0 +1,71 @@
+{
+  "id": 1226349825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33333,-14.3,31.33333,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":31.33333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chabisa",
+    "gn:country_code":"ZM",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921045,
+    "gn:latitude":-14.3,
+    "gn:longitude":31.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chabisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chibisa",
+        "Chabisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921045
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c462dc3c8637cc9dfd7beee4c2f83ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1226349825,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1226349825,
+    "wof:lastmodified":1537716567,
+    "wof:name":"Chabisa",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33333,
+    -14.3,
+    31.33333,
+    -14.3
+],
+  "geometry": {"coordinates":[31.33333,-14.3],"type":"Point"}
+}

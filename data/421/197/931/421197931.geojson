@@ -1,0 +1,108 @@
+{
+  "id": 421197931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42727,-12.09514,26.42727,-12.09514",
+    "geom:latitude":-12.09514,
+    "geom:longitude":26.42727,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kansanshi"
+    ],
+    "name:eng_x_preferred":[
+        "Kansanshi"
+    ],
+    "name:ger_x_preferred":[
+        "Kansanshi"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u043d\u0441\u0430\u043d\u0448\u0438"
+    ],
+    "name:nob_x_preferred":[
+        "Kansanshi"
+    ],
+    "name:pol_x_preferred":[
+        "Kansanshi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0441\u0430\u043d\u0448\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kansanshi"
+    ],
+    "name:unk_x_variant":[
+        "Kansanshi Mine"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":913613,
+    "qs:gn_pop":40705,
+    "qs:name":"Kansanshi",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"North-Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":263163,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1567045,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913613,
+        "gp:id":1567045,
+        "qs:id":263163,
+        "wd:id":"Q1636203"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009930,
+    "wof:geomhash":"9a95547d5a6d548d4f57c033a66af09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782451,
+            "locality_id":421197931,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":421197931,
+    "wof:lastmodified":1527716398,
+    "wof:name":"Kansanshi",
+    "wof:parent_id":1108782451,
+    "wof:placetype":"locality",
+    "wof:population":40705,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42727,
+    -12.09514,
+    26.42727,
+    -12.09514
+],
+  "geometry": {"coordinates":[26.42727,-12.09514],"type":"Point"}
+}

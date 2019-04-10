@@ -1,0 +1,115 @@
+{
+  "id": 421194171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.43839,-15.75042,26.43839,-15.75042",
+    "geom:latitude":-15.75042,
+    "geom:longitude":26.43839,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Namwala"
+    ],
+    "name:dut_x_preferred":[
+        "Namwala"
+    ],
+    "name:eng_x_preferred":[
+        "Namwala"
+    ],
+    "name:fre_x_preferred":[
+        "Namwala"
+    ],
+    "name:ger_x_preferred":[
+        "Namwala"
+    ],
+    "name:ita_x_preferred":[
+        "Namwala"
+    ],
+    "name:lit_x_preferred":[
+        "Namvala"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041d\u0430\u043c\u0432\u0430\u043b\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Namwala"
+    ],
+    "name:ron_x_preferred":[
+        "Namwala"
+    ],
+    "name:rum_x_preferred":[
+        "Namwala"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":901766,
+    "qs:gn_pop":4450,
+    "qs:name":"Namwala",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1029322,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1572779,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901766,
+        "gp:id":1572779,
+        "qs:id":1029322,
+        "wd:id":"Q912503",
+        "wk:page":"Namwala"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009796,
+    "wof:geomhash":"5728871ed6710ff09991add313ab916b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782491,
+            "locality_id":421194171,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":421194171,
+    "wof:lastmodified":1527716138,
+    "wof:name":"Namwala",
+    "wof:parent_id":1108782491,
+    "wof:placetype":"locality",
+    "wof:population":4450,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.43839,
+    -15.75042,
+    26.43839,
+    -15.75042
+],
+  "geometry": {"coordinates":[26.43839,-15.75042],"type":"Point"}
+}

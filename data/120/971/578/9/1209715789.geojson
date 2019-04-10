@@ -1,0 +1,67 @@
+{
+  "id": 1209715789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.37478,-12.40349,29.37478,-12.40349",
+    "geom:latitude":-12.40349,
+    "geom:longitude":29.37478,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaloka",
+    "gn:country_code":"ZM",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915122,
+    "gn:latitude":-12.40349,
+    "gn:longitude":29.37478,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kaloka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915122
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"680d6d274fa8a278d769cc23f631be06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782407,
+            "locality_id":1209715789,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1209715789,
+    "wof:lastmodified":1536388635,
+    "wof:name":"Kaloka",
+    "wof:parent_id":1108782407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.37478,
+    -12.40349,
+    29.37478,
+    -12.40349
+],
+  "geometry": {"coordinates":[29.37478,-12.40349],"type":"Point"}
+}

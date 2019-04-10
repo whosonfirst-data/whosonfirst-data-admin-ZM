@@ -1,0 +1,67 @@
+{
+  "id": 1260181315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28754,-9.28195,31.28754,-9.28195",
+    "geom:latitude":-9.28195,
+    "geom:longitude":31.28754,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chisunga",
+    "gn:country_code":"ZM",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177461,
+    "gn:latitude":-9.28195,
+    "gn:longitude":31.28754,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chisunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177461
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"cc378871d9ec8524be459de6ab15e573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1260181315,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1260181315,
+    "wof:lastmodified":1536849851,
+    "wof:name":"Chisunga",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28754,
+    -9.28195,
+    31.28754,
+    -9.28195
+],
+  "geometry": {"coordinates":[31.28754,-9.28195],"type":"Point"}
+}

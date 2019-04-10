@@ -1,0 +1,71 @@
+{
+  "id": 1259506301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,-8.95,30.93333,-8.95",
+    "geom:latitude":-8.95,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lyapa Kapaso",
+    "gn:country_code":"ZM",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176298,
+    "gn:latitude":-8.95,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lyapa Kapaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyapa Kapasu",
+        "Lyapa Kapaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176298
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d4fd44cea67f939f3cc83b1658105e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1259506301,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1259506301,
+    "wof:lastmodified":1537716453,
+    "wof:name":"Lyapa Kapaso",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    -8.95,
+    30.93333,
+    -8.95
+],
+  "geometry": {"coordinates":[30.93333,-8.95],"type":"Point"}
+}

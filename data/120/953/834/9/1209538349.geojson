@@ -1,0 +1,61 @@
+{
+  "id": 1209538349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.72973,-9.81898,32.72973,-9.81898",
+    "geom:latitude":-9.81898,
+    "geom:longitude":32.72973,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sansamwenge",
+    "gn:country_code":"ZM",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11280895,
+    "gn:latitude":-9.81898,
+    "gn:longitude":32.72973,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Sansamwenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280895
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"23c9a4779ed388539072e10cf036ca7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209538349
+        }
+    ],
+    "wof:id":1209538349,
+    "wof:lastmodified":1536284066,
+    "wof:name":"Sansamwenge",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72973,
+    -9.81898,
+    32.72973,
+    -9.81898
+],
+  "geometry": {"coordinates":[32.72973,-9.81898],"type":"Point"}
+}

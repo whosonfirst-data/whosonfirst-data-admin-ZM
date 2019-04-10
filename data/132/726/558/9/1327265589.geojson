@@ -1,0 +1,67 @@
+{
+  "id": 1327265589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58333,-9.3,31.58333,-9.3",
+    "geom:latitude":-9.3,
+    "geom:longitude":31.58333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kalesu",
+    "gn:country_code":"ZM",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177033,
+    "gn:latitude":-9.3,
+    "gn:longitude":31.58333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalesu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177033
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"64a7aae59a86b9c7802fc63c8079a53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782465,
+            "locality_id":1327265589,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1327265589,
+    "wof:lastmodified":1536922441,
+    "wof:name":"Kalesu",
+    "wof:parent_id":1108782465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58333,
+    -9.3,
+    31.58333,
+    -9.3
+],
+  "geometry": {"coordinates":[31.58333,-9.3],"type":"Point"}
+}

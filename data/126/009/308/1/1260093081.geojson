@@ -1,0 +1,67 @@
+{
+  "id": 1260093081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37084,-12.85763,30.37084,-12.85763",
+    "geom:latitude":-12.85763,
+    "geom:longitude":30.37084,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tipoti Mumbe",
+    "gn:country_code":"ZM",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896640,
+    "gn:latitude":-12.85763,
+    "gn:longitude":30.37084,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tipoti Mumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896640
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"15fc7d6dc64ab60b2b187e5cf18248ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1260093081,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1260093081,
+    "wof:lastmodified":1536973717,
+    "wof:name":"Tipoti Mumbe",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37084,
+    -12.85763,
+    30.37084,
+    -12.85763
+],
+  "geometry": {"coordinates":[30.37084,-12.85763],"type":"Point"}
+}

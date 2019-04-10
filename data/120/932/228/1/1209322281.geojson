@@ -1,0 +1,61 @@
+{
+  "id": 1209322281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.68267,-13.54095,32.68267,-13.54095",
+    "geom:latitude":-13.54095,
+    "geom:longitude":32.68267,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jingo",
+    "gn:country_code":"ZM",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916535,
+    "gn:latitude":-13.54095,
+    "gn:longitude":32.68267,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Jingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916535
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"95c0b8dd93104898d8e174a6308ecf0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209322281
+        }
+    ],
+    "wof:id":1209322281,
+    "wof:lastmodified":1536290651,
+    "wof:name":"Jingo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.68267,
+    -13.54095,
+    32.68267,
+    -13.54095
+],
+  "geometry": {"coordinates":[32.68267,-13.54095],"type":"Point"}
+}

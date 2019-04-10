@@ -1,0 +1,61 @@
+{
+  "id": 1209303627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4,-9.16667,32.4,-9.16667",
+    "geom:latitude":-9.16667,
+    "geom:longitude":32.4,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mwananombwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175668,
+    "gn:latitude":-9.16667,
+    "gn:longitude":32.4,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mwananombwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175668
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"30d18a537ff196b62ff83b149cf40b53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209303627
+        }
+    ],
+    "wof:id":1209303627,
+    "wof:lastmodified":1536291270,
+    "wof:name":"Mwananombwe",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4,
+    -9.16667,
+    32.4,
+    -9.16667
+],
+  "geometry": {"coordinates":[32.4,-9.16667],"type":"Point"}
+}

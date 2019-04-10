@@ -1,0 +1,67 @@
+{
+  "id": 1193134245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.62567,-13.45489,28.62567,-13.45489",
+    "geom:latitude":-13.45489,
+    "geom:longitude":28.62567,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kalimpata",
+    "gn:country_code":"ZM",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915185,
+    "gn:latitude":-13.45489,
+    "gn:longitude":28.62567,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kalimpata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915185
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d05923592509f1dbde1757f582e9ccb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782377,
+            "locality_id":1193134245,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1193134245,
+    "wof:lastmodified":1536372491,
+    "wof:name":"Kalimpata",
+    "wof:parent_id":1108782377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.62567,
+    -13.45489,
+    28.62567,
+    -13.45489
+],
+  "geometry": {"coordinates":[28.62567,-13.45489],"type":"Point"}
+}

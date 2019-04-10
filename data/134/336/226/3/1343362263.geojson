@@ -1,0 +1,67 @@
+{
+  "id": 1343362263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37667,-12.68591,30.37667,-12.68591",
+    "geom:latitude":-12.68591,
+    "geom:longitude":30.37667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fulbek Mulenga",
+    "gn:country_code":"ZM",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917136,
+    "gn:latitude":-12.68591,
+    "gn:longitude":30.37667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Fulbek Mulenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917136
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d6d2554e7d8aefcc189920d2e9e7195f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1343362263,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1343362263,
+    "wof:lastmodified":1536887433,
+    "wof:name":"Fulbek Mulenga",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37667,
+    -12.68591,
+    30.37667,
+    -12.68591
+],
+  "geometry": {"coordinates":[30.37667,-12.68591],"type":"Point"}
+}

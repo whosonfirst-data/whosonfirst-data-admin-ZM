@@ -1,0 +1,67 @@
+{
+  "id": 1310326437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13101,-16.45454,28.13101,-16.45454",
+    "geom:latitude":-16.45454,
+    "geom:longitude":28.13101,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chamwe",
+    "gn:country_code":"ZM",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920746,
+    "gn:latitude":-16.45454,
+    "gn:longitude":28.13101,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chamwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920746
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b6a2ff33b46f0e629a706b6c1b757ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782475,
+            "locality_id":1310326437,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1310326437,
+    "wof:lastmodified":1536677790,
+    "wof:name":"Chamwe",
+    "wof:parent_id":1108782475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13101,
+    -16.45454,
+    28.13101,
+    -16.45454
+],
+  "geometry": {"coordinates":[28.13101,-16.45454],"type":"Point"}
+}

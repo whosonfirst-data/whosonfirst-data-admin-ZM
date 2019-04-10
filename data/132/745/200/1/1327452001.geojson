@@ -1,0 +1,67 @@
+{
+  "id": 1327452001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98333,-11.83333,31.98333,-11.83333",
+    "geom:latitude":-11.83333,
+    "geom:longitude":31.98333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chitembo",
+    "gn:country_code":"ZM",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918168,
+    "gn:latitude":-11.83333,
+    "gn:longitude":31.98333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chitembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918168
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b64a17751c8338ce42b34fb729a4d045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1327452001,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1327452001,
+    "wof:lastmodified":1536652373,
+    "wof:name":"Chitembo",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98333,
+    -11.83333,
+    31.98333,
+    -11.83333
+],
+  "geometry": {"coordinates":[31.98333,-11.83333],"type":"Point"}
+}

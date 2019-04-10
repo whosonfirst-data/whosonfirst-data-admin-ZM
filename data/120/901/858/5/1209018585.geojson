@@ -1,0 +1,61 @@
+{
+  "id": 1209018585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96667,-15.23333,22.96667,-15.23333",
+    "geom:latitude":-15.23333,
+    "geom:longitude":22.96667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nganga",
+    "gn:country_code":"ZM",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901197,
+    "gn:latitude":-15.23333,
+    "gn:longitude":22.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901197
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"731c6ac1097f7506ac510ac0ffc19230",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209018585
+        }
+    ],
+    "wof:id":1209018585,
+    "wof:lastmodified":1536300216,
+    "wof:name":"Nganga",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96667,
+    -15.23333,
+    22.96667,
+    -15.23333
+],
+  "geometry": {"coordinates":[22.96667,-15.23333],"type":"Point"}
+}

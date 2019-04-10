@@ -1,0 +1,61 @@
+{
+  "id": 1209504073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69759,-9.5923,32.69759,-9.5923",
+    "geom:latitude":-9.5923,
+    "geom:longitude":32.69759,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chiwelewele",
+    "gn:country_code":"ZM",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177390,
+    "gn:latitude":-9.5923,
+    "gn:longitude":32.69759,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chiwelewele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177390
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84f0a6ced1fa3416a6c79f0feed3820f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209504073
+        }
+    ],
+    "wof:id":1209504073,
+    "wof:lastmodified":1536285090,
+    "wof:name":"Chiwelewele",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.697590000000005,
+    -9.5923,
+    32.697590000000005,
+    -9.5923
+],
+  "geometry": {"coordinates":[32.69759000000001,-9.5923],"type":"Point"}
+}

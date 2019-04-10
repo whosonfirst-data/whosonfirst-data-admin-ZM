@@ -1,0 +1,74 @@
+{
+  "id": 421190167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.885848,-17.845446,25.885848,-17.845446",
+    "geom:latitude":-17.845446,
+    "geom:longitude":25.885848,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mulamba",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Southern",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118530,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1571054,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1571054,
+        "qs:id":1118530
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009649,
+    "wof:geomhash":"5cfa26fcc135f8225a0c34abf4bcd7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782485,
+            "locality_id":421190167,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":421190167,
+    "wof:lastmodified":1496498212,
+    "wof:name":"Mulamba",
+    "wof:parent_id":1108782485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.885848,
+    -17.845446,
+    25.885848,
+    -17.845446
+],
+  "geometry": {"coordinates":[25.885848,-17.845446],"type":"Point"}
+}

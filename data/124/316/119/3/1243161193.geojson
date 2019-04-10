@@ -1,0 +1,71 @@
+{
+  "id": 1243161193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78546,-12.60769,30.78546,-12.60769",
+    "geom:latitude":-12.60769,
+    "geom:longitude":30.78546,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chimutonda",
+    "gn:country_code":"ZM",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919141,
+    "gn:latitude":-12.60769,
+    "gn:longitude":30.78546,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chimutonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dixon Mabeti",
+        "Chimutonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919141
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"730e5394b60c8bea7c4d05e2562fbd5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1243161193,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1243161193,
+    "wof:lastmodified":1537716557,
+    "wof:name":"Chimutonda",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78546,
+    -12.60769,
+    30.78546,
+    -12.60769
+],
+  "geometry": {"coordinates":[30.78546,-12.60769],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421180451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66192,-8.46887,29.66192,-8.46887",
+    "geom:latitude":-8.46887,
+    "geom:longitude":29.66192,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":176758,
+    "qs:gn_pop":2683,
+    "qs:name":"Kaputa",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":432587,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1577071,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176758,
+        "gp:id":1577071,
+        "qs:id":432587
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009259,
+    "wof:geomhash":"035845fc9a8f7fe3441e53f1f2cb3cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":421180451,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":421180451,
+    "wof:lastmodified":1505340647,
+    "wof:name":"Kaputa",
+    "wof:parent_id":1108782457,
+    "wof:placetype":"locality",
+    "wof:population":2683,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66192,
+    -8.46887,
+    29.66192,
+    -8.46887
+],
+  "geometry": {"coordinates":[29.66192,-8.46887],"type":"Point"}
+}

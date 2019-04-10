@@ -1,0 +1,61 @@
+{
+  "id": 1209518553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73879,-14.78734,27.73879,-14.78734",
+    "geom:latitude":-14.78734,
+    "geom:longitude":27.73879,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Luwana",
+    "gn:country_code":"ZM",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908938,
+    "gn:latitude":-14.78734,
+    "gn:longitude":27.73879,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Luwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908938
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3e619c70b61becf67a10d0076e7dd70a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209518553
+        }
+    ],
+    "wof:id":1209518553,
+    "wof:lastmodified":1536284653,
+    "wof:name":"Luwana",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73879,
+    -14.78734,
+    27.73879,
+    -14.78734
+],
+  "geometry": {"coordinates":[27.73879,-14.78734],"type":"Point"}
+}

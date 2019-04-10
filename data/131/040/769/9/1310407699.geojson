@@ -1,0 +1,67 @@
+{
+  "id": 1310407699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80797,-13.26944,31.80797,-13.26944",
+    "geom:latitude":-13.26944,
+    "geom:longitude":31.80797,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kaweche",
+    "gn:country_code":"ZM",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":911551,
+    "gn:latitude":-13.26944,
+    "gn:longitude":31.80797,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kaweche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":911551
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"20e95a268786fa0265721b74c926f8a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1310407699,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1310407699,
+    "wof:lastmodified":1537055688,
+    "wof:name":"Kaweche",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80797,
+    -13.26944,
+    31.80797,
+    -13.26944
+],
+  "geometry": {"coordinates":[31.80797,-13.26944],"type":"Point"}
+}

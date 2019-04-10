@@ -1,0 +1,67 @@
+{
+  "id": 1226047337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17082,-9.66175,31.17082,-9.66175",
+    "geom:latitude":-9.66175,
+    "geom:longitude":31.17082,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Muzombe",
+    "gn:country_code":"ZM",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175694,
+    "gn:latitude":-9.66175,
+    "gn:longitude":31.17082,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Muzombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175694
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5a73d261b1789c5b1ecfa9dc19bffa46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782471,
+            "locality_id":1226047337,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1226047337,
+    "wof:lastmodified":1536723195,
+    "wof:name":"Muzombe",
+    "wof:parent_id":1108782471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17082000000001,
+    -9.66175,
+    31.17082000000001,
+    -9.66175
+],
+  "geometry": {"coordinates":[31.17082000000001,-9.66175],"type":"Point"}
+}

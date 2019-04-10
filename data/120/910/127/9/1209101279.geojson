@@ -1,0 +1,61 @@
+{
+  "id": 1209101279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16667,-10.15,33.16667,-10.15",
+    "geom:latitude":-10.15,
+    "geom:longitude":33.16667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kakusa",
+    "gn:country_code":"ZM",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915514,
+    "gn:latitude":-10.15,
+    "gn:longitude":33.16667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kakusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915514
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"44558f10d96949a2183a1c1ba9d0409f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209101279
+        }
+    ],
+    "wof:id":1209101279,
+    "wof:lastmodified":1536297724,
+    "wof:name":"Kakusa",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16667,
+    -10.15,
+    33.16667,
+    -10.15
+],
+  "geometry": {"coordinates":[33.16667,-10.15],"type":"Point"}
+}

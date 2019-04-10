@@ -1,0 +1,73 @@
+{
+  "id": 1243247405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8823,-11.23901,32.8823,-11.23901",
+    "geom:latitude":-11.23901,
+    "geom:longitude":32.8823,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zaweli",
+    "gn:country_code":"ZM",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":895934,
+    "gn:latitude":-11.23901,
+    "gn:longitude":32.8823,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zaweli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zowoli",
+        "Zawoli",
+        "Zowole",
+        "Zaweli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895934
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"994bcba0c42e96eb865c5e2e3861544a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1243247405,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1243247405,
+    "wof:lastmodified":1537716460,
+    "wof:name":"Zaweli",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8823,
+    -11.23901,
+    32.8823,
+    -11.23901
+],
+  "geometry": {"coordinates":[32.8823,-11.23901],"type":"Point"}
+}

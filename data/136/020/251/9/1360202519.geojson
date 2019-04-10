@@ -1,0 +1,67 @@
+{
+  "id": 1360202519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91667,-15.25,22.91667,-15.25",
+    "geom:latitude":-15.25,
+    "geom:longitude":22.91667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Walubita",
+    "gn:country_code":"ZM",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896274,
+    "gn:latitude":-15.25,
+    "gn:longitude":22.91667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Walubita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896274
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e9d1482ab54c6746e069ef7d8619fec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1360202519,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1360202519,
+    "wof:lastmodified":1536776849,
+    "wof:name":"Walubita",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91667,
+    -15.25,
+    22.91667,
+    -15.25
+],
+  "geometry": {"coordinates":[22.91667,-15.25],"type":"Point"}
+}

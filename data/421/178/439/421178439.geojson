@@ -1,0 +1,79 @@
+{
+  "id": 421178439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.745,-9.34213,32.745,-9.34213",
+    "geom:latitude":-9.34213,
+    "geom:longitude":32.745,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":175555,
+    "qs:gn_pop":10652,
+    "qs:name":"Nakonde",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122648,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1572556,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175555,
+        "gp:id":1572556,
+        "qs:id":122648
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009182,
+    "wof:geomhash":"3271defbffb2501296234a4ad6343bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782435,
+            "locality_id":421178439,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":421178439,
+    "wof:lastmodified":1505340637,
+    "wof:name":"Nakonde",
+    "wof:parent_id":1108782435,
+    "wof:placetype":"locality",
+    "wof:population":10652,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.745,
+    -9.34213,
+    32.745,
+    -9.34213
+],
+  "geometry": {"coordinates":[32.745,-9.34213],"type":"Point"}
+}

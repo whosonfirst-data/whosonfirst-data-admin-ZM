@@ -1,0 +1,67 @@
+{
+  "id": 1226445693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27524,-12.84015,30.27524,-12.84015",
+    "geom:latitude":-12.84015,
+    "geom:longitude":30.27524,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nai Esaia",
+    "gn:country_code":"ZM",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902385,
+    "gn:latitude":-12.84015,
+    "gn:longitude":30.27524,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nai Esaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902385
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5d34efb737fb01112bccfd39944663d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1226445693,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1226445693,
+    "wof:lastmodified":1536644939,
+    "wof:name":"Nai Esaia",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27524,
+    -12.84015,
+    30.27524,
+    -12.84015
+],
+  "geometry": {"coordinates":[30.27524,-12.84015],"type":"Point"}
+}

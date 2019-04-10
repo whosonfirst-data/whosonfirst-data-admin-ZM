@@ -1,0 +1,61 @@
+{
+  "id": 1209016027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,-13.13333,32.1,-13.13333",
+    "geom:latitude":-13.13333,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pondamali",
+    "gn:country_code":"ZM",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899757,
+    "gn:latitude":-13.13333,
+    "gn:longitude":32.1,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Pondamali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899757
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"03342f3d768f3fc1e55970ffbcb37705",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209016027
+        }
+    ],
+    "wof:id":1209016027,
+    "wof:lastmodified":1536300296,
+    "wof:name":"Pondamali",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    -13.13333,
+    32.1,
+    -13.13333
+],
+  "geometry": {"coordinates":[32.1,-13.13333],"type":"Point"}
+}

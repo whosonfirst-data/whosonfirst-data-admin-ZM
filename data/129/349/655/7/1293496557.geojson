@@ -1,0 +1,71 @@
+{
+  "id": 1293496557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.64987,-14.20705,27.64987,-14.20705",
+    "geom:latitude":-14.20705,
+    "geom:longitude":27.64987,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamwengo",
+    "gn:country_code":"ZM",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914060,
+    "gn:latitude":-14.20705,
+    "gn:longitude":27.64987,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kamwengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamwenga VII",
+        "Kamwengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914060
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d1eab599c469150fc74754965e672b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782355,
+            "locality_id":1293496557,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1293496557,
+    "wof:lastmodified":1537716536,
+    "wof:name":"Kamwengo",
+    "wof:parent_id":1108782355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64987,
+    -14.20705,
+    27.64987,
+    -14.20705
+],
+  "geometry": {"coordinates":[27.64987,-14.20705],"type":"Point"}
+}

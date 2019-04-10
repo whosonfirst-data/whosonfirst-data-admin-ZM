@@ -1,0 +1,61 @@
+{
+  "id": 1209326115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.92493,-13.30364,31.92493,-13.30364",
+    "geom:latitude":-13.30364,
+    "geom:longitude":31.92493,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aliyuda",
+    "gn:country_code":"ZM",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921593,
+    "gn:latitude":-13.30364,
+    "gn:longitude":31.92493,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Aliyuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921593
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"78de8718176e3d9c41e673c24f5e8b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209326115
+        }
+    ],
+    "wof:id":1209326115,
+    "wof:lastmodified":1536290529,
+    "wof:name":"Aliyuda",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.92493,
+    -13.30364,
+    31.92493,
+    -13.30364
+],
+  "geometry": {"coordinates":[31.92493,-13.30364],"type":"Point"}
+}

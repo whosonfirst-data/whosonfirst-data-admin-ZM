@@ -1,0 +1,61 @@
+{
+  "id": 1209213975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88333,-9.6,30.88333,-9.6",
+    "geom:latitude":-9.6,
+    "geom:longitude":30.88333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chingambo",
+    "gn:country_code":"ZM",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177595,
+    "gn:latitude":-9.6,
+    "gn:longitude":30.88333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chingambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177595
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"80b434f064258ac6175ce18d78645c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209213975
+        }
+    ],
+    "wof:id":1209213975,
+    "wof:lastmodified":1536294196,
+    "wof:name":"Chingambo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88333,
+    -9.6,
+    30.88333,
+    -9.6
+],
+  "geometry": {"coordinates":[30.88333,-9.6],"type":"Point"}
+}

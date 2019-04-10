@@ -1,0 +1,79 @@
+{
+  "id": 421205437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15504,-13.50914,28.15504,-13.50914",
+    "geom:latitude":-13.50914,
+    "geom:longitude":28.15504,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":905789,
+    "qs:gn_pop":8997,
+    "qs:name":"Mpongwe",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Copperbelt",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":263161,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1570502,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905789,
+        "gp:id":1570502,
+        "qs:id":263161
+    },
+    "wof:country":"ZM",
+    "wof:created":1459010224,
+    "wof:geomhash":"966961c5b89f75f484361a0882adc9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782379,
+            "locality_id":421205437,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":421205437,
+    "wof:lastmodified":1505340794,
+    "wof:name":"Mpongwe",
+    "wof:parent_id":1108782379,
+    "wof:placetype":"locality",
+    "wof:population":8997,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15504,
+    -13.50914,
+    28.15504,
+    -13.50914
+],
+  "geometry": {"coordinates":[28.15504,-13.50914],"type":"Point"}
+}

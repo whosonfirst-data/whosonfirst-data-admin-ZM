@@ -1,0 +1,67 @@
+{
+  "id": 1309720927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34418,-12.80211,30.34418,-12.80211",
+    "geom:latitude":-12.80211,
+    "geom:longitude":30.34418,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pai Mutakasha",
+    "gn:country_code":"ZM",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899946,
+    "gn:latitude":-12.80211,
+    "gn:longitude":30.34418,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Pai Mutakasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899946
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4a6cefdce4a88c4dae467162b5d8dc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1309720927,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1309720927,
+    "wof:lastmodified":1537051215,
+    "wof:name":"Pai Mutakasha",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34418,
+    -12.80211,
+    30.34418,
+    -12.80211
+],
+  "geometry": {"coordinates":[30.34418,-12.80211],"type":"Point"}
+}

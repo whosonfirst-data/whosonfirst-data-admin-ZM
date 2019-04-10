@@ -1,0 +1,67 @@
+{
+  "id": 1293281409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82426,-11.22961,31.82426,-11.22961",
+    "geom:latitude":-11.22961,
+    "geom:longitude":31.82426,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chafilwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921022,
+    "gn:latitude":-11.22961,
+    "gn:longitude":31.82426,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chafilwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921022
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2e9e930bd9b0764c34904d7e22641f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":1293281409,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1293281409,
+    "wof:lastmodified":1537080970,
+    "wof:name":"Chafilwa",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82426,
+    -11.22961,
+    31.82426,
+    -11.22961
+],
+  "geometry": {"coordinates":[31.82426,-11.22961],"type":"Point"}
+}

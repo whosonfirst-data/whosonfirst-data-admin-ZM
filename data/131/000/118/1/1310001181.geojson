@@ -1,0 +1,67 @@
+{
+  "id": 1310001181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74539,-12.80685,30.74539,-12.80685",
+    "geom:latitude":-12.80685,
+    "geom:longitude":30.74539,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kabuswe",
+    "gn:country_code":"ZM",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916130,
+    "gn:latitude":-12.80685,
+    "gn:longitude":30.74539,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kabuswe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916130
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"07cc9eb978ce26eee4ee48a7c4762c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1310001181,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1310001181,
+    "wof:lastmodified":1536649279,
+    "wof:name":"Kabuswe",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74539,
+    -12.80685,
+    30.74539,
+    -12.80685
+],
+  "geometry": {"coordinates":[30.74539,-12.80685],"type":"Point"}
+}

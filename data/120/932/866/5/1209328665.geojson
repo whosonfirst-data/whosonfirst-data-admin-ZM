@@ -1,0 +1,61 @@
+{
+  "id": 1209328665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9,-15.36667,24.9,-15.36667",
+    "geom:latitude":-15.36667,
+    "geom:longitude":24.9,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Katako",
+    "gn:country_code":"ZM",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912212,
+    "gn:latitude":-15.36667,
+    "gn:longitude":24.9,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912212
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"30c93b4c16b72e32363e186ae902bf1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209328665
+        }
+    ],
+    "wof:id":1209328665,
+    "wof:lastmodified":1536290445,
+    "wof:name":"Katako",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9,
+    -15.36667,
+    24.9,
+    -15.36667
+],
+  "geometry": {"coordinates":[24.9,-15.36667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343766121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8502,-17.24291,23.8502,-17.24291",
+    "geom:latitude":-17.24291,
+    "geom:longitude":23.8502,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cholola",
+    "gn:country_code":"ZM",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917757,
+    "gn:latitude":-17.24291,
+    "gn:longitude":23.8502,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cholola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiolola",
+        "Chiololo",
+        "Cholola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917757
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"58e912cfa0e51d48666df33330c22f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1343766121,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1343766121,
+    "wof:lastmodified":1537716549,
+    "wof:name":"Cholola",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8502,
+    -17.24291,
+    23.8502,
+    -17.24291
+],
+  "geometry": {"coordinates":[23.8502,-17.24291],"type":"Point"}
+}

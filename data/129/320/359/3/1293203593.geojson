@@ -1,0 +1,67 @@
+{
+  "id": 1293203593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51563,-12.98915,30.51563,-12.98915",
+    "geom:latitude":-12.98915,
+    "geom:longitude":30.51563,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Salamu Katikulula",
+    "gn:country_code":"ZM",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899428,
+    "gn:latitude":-12.98915,
+    "gn:longitude":30.51563,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Salamu Katikulula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899428
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"aff7369d6a8352af9a67850f7bb7b8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1293203593,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1293203593,
+    "wof:lastmodified":1536699603,
+    "wof:name":"Salamu Katikulula",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51563,
+    -12.98915,
+    30.51563,
+    -12.98915
+],
+  "geometry": {"coordinates":[30.51563,-12.98915],"type":"Point"}
+}

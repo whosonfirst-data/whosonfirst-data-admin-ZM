@@ -1,0 +1,67 @@
+{
+  "id": 1343366583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,-14.56667,30.93333,-14.56667",
+    "geom:latitude":-14.56667,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kapenda",
+    "gn:country_code":"ZM",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913140,
+    "gn:latitude":-14.56667,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kapenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913140
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9ce67d99dfc81d2fe54c3ed4c15186ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782395,
+            "locality_id":1343366583,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1343366583,
+    "wof:lastmodified":1536880872,
+    "wof:name":"Kapenda",
+    "wof:parent_id":1108782395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    -14.56667,
+    30.93333,
+    -14.56667
+],
+  "geometry": {"coordinates":[30.93333,-14.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260196809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6,-15.41667,23.6,-15.41667",
+    "geom:latitude":-15.41667,
+    "geom:longitude":23.6,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nelomwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901274,
+    "gn:latitude":-15.41667,
+    "gn:longitude":23.6,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nelomwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901274
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"12d55c1f60db52b19ce6d5077708cc4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1260196809,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1260196809,
+    "wof:lastmodified":1536828606,
+    "wof:name":"Nelomwe",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6,
+    -15.41667,
+    23.6,
+    -15.41667
+],
+  "geometry": {"coordinates":[23.6,-15.41667],"type":"Point"}
+}

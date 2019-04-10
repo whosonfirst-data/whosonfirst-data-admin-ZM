@@ -1,0 +1,67 @@
+{
+  "id": 1276121193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73934,-14.64205,27.73934,-14.64205",
+    "geom:latitude":-14.64205,
+    "geom:longitude":27.73934,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mwandaluma",
+    "gn:country_code":"ZM",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903009,
+    "gn:latitude":-14.64205,
+    "gn:longitude":27.73934,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mwandaluma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903009
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5160184a9e3f397c2eb9b2c180f721c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1276121193,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276121193,
+    "wof:lastmodified":1537060170,
+    "wof:name":"Mwandaluma",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73934,
+    -14.64205,
+    27.73934,
+    -14.64205
+],
+  "geometry": {"coordinates":[27.73934,-14.64205],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260084109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25,-15.08333,23.25,-15.08333",
+    "geom:latitude":-15.08333,
+    "geom:longitude":23.25,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nawina",
+    "gn:country_code":"ZM",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901476,
+    "gn:latitude":-15.08333,
+    "gn:longitude":23.25,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nawina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901476
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b1ff9e5cd508f509972621a7e3a3d5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1260084109,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1260084109,
+    "wof:lastmodified":1536986276,
+    "wof:name":"Nawina",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25,
+    -15.08333,
+    23.25,
+    -15.08333
+],
+  "geometry": {"coordinates":[23.25,-15.08333],"type":"Point"}
+}

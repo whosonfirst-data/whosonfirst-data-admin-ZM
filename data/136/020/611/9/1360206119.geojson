@@ -1,0 +1,76 @@
+{
+  "id": 1360206119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48333,-17.08333,27.48333,-17.08333",
+    "geom:latitude":-17.08333,
+    "geom:longitude":27.48333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tobonte",
+    "gn:country_code":"ZM",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896630,
+    "gn:latitude":-17.08333,
+    "gn:longitude":27.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tobonte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tobonte"
+    ],
+    "name:eng_x_variant":[
+        "Tobote"
+    ],
+    "name:und_x_variant":[
+        "Tobote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896630
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"05543029f9eb8466f3294347cd466a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782493,
+            "locality_id":1360206119,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1360206119,
+    "wof:lastmodified":1537716461,
+    "wof:name":"Tobonte",
+    "wof:parent_id":1108782493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48333,
+    -17.08333,
+    27.48333,
+    -17.08333
+],
+  "geometry": {"coordinates":[27.48333,-17.08333],"type":"Point"}
+}

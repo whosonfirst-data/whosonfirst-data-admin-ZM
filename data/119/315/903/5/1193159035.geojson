@@ -1,0 +1,67 @@
+{
+  "id": 1193159035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27943,-12.79382,24.27943,-12.79382",
+    "geom:latitude":-12.79382,
+    "geom:longitude":24.27943,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sambalama",
+    "gn:country_code":"ZM",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899320,
+    "gn:latitude":-12.79382,
+    "gn:longitude":24.27943,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sambalama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899320
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"94e410adc8422b265195d5f2151ad3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782443,
+            "locality_id":1193159035,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1193159035,
+    "wof:lastmodified":1536370045,
+    "wof:name":"Sambalama",
+    "wof:parent_id":1108782443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27943,
+    -12.79382,
+    24.27943,
+    -12.79382
+],
+  "geometry": {"coordinates":[24.27943,-12.79382],"type":"Point"}
+}

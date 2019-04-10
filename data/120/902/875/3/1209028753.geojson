@@ -1,0 +1,61 @@
+{
+  "id": 1209028753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0,-13.23333,23.0,-13.23333",
+    "geom:latitude":-13.23333,
+    "geom:longitude":23.0,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kakupa",
+    "gn:country_code":"ZM",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915518,
+    "gn:latitude":-13.23333,
+    "gn:longitude":23.0,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kakupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915518
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"78c571b313692e30fb76b5e6fec147b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209028753
+        }
+    ],
+    "wof:id":1209028753,
+    "wof:lastmodified":1536299911,
+    "wof:name":"Kakupa",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0,
+    -13.23333,
+    23.0,
+    -13.23333
+],
+  "geometry": {"coordinates":[23.0,-13.23333],"type":"Point"}
+}

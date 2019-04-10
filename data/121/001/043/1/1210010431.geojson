@@ -1,0 +1,67 @@
+{
+  "id": 1210010431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25592,-10.46623,33.25592,-10.46623",
+    "geom:latitude":-10.46623,
+    "geom:longitude":33.25592,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jombe",
+    "gn:country_code":"ZM",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916509,
+    "gn:latitude":-10.46623,
+    "gn:longitude":33.25592,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Jombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916509
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4583f282d1aa8a475eb628f489061530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1210010431,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1210010431,
+    "wof:lastmodified":1536368951,
+    "wof:name":"Jombe",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25592,
+    -10.46623,
+    33.25592,
+    -10.46623
+],
+  "geometry": {"coordinates":[33.25592,-10.46623],"type":"Point"}
+}

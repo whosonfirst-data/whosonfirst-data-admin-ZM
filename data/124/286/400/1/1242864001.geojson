@@ -1,0 +1,67 @@
+{
+  "id": 1242864001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7,-15.51667,28.7,-15.51667",
+    "geom:latitude":-15.51667,
+    "geom:longitude":28.7,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shifonkula",
+    "gn:country_code":"ZM",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898679,
+    "gn:latitude":-15.51667,
+    "gn:longitude":28.7,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Shifonkula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898679
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9809916112da714cb8faac2feacd72ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1242864001,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1242864001,
+    "wof:lastmodified":1536650951,
+    "wof:name":"Shifonkula",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7,
+    -15.51667,
+    28.7,
+    -15.51667
+],
+  "geometry": {"coordinates":[28.7,-15.51667],"type":"Point"}
+}

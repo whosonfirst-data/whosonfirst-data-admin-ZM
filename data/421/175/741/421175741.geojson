@@ -1,0 +1,259 @@
+{
+  "id": 421175741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66985,-13.97147,28.66985,-13.97147",
+    "geom:latitude":-13.97147,
+    "geom:longitude":28.66985,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0628\u064a\u0631\u064a \u0645\u0628\u0648\u0634\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0440\u0438 \u041c\u043f\u043e\u0448\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u76ae\u91cc\u59c6\u6ce2\u5e0c"
+    ],
+    "name:deu_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:dut_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:eng_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:epo_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:fin_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:fra_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:fre_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:ger_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:ita_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d4\u30ea\u30fb\u30e0\u30dd\u30b7"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ud53c\ub9ac\uc74c\ud3ec\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Kapiri Mpo\u0161is"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0440\u0438 \u041c\u043f\u043e\u0448\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:nob_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:nor_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:pol_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:por_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:ron_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:rum_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0440\u0438-\u041c\u043f\u043e\u0448\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kapiri Mposhi"
+    ],
+    "name:unk_x_variant":[
+        "Kapiri Imposhi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u76ae\u91cc\u59c6\u6ce2\u5e0c"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Zambia",
+    "ne:ADM0_A3":"ZMB",
+    "ne:ADM1NAME":"Central",
+    "ne:ADMIN1_COD":5,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":913029,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Kapiri Mposhi",
+    "ne:GN_POP":37942,
+    "ne:GTOPO30":1286.0,
+    "ne:ISO_A2":"ZM",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":-13.969601,
+    "ne:LONGITUDE":28.659997,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Kapiri Mposhi",
+    "ne:MAX_AREAKM":17.0,
+    "ne:MAX_AREAMI":6.0,
+    "ne:MAX_BBXMAX":28.708333,
+    "ne:MAX_BBXMIN":28.658333,
+    "ne:MAX_BBYMAX":-13.941667,
+    "ne:MAX_BBYMIN":-13.991667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":27.0,
+    "ne:MAX_PERMI":17.0,
+    "ne:MAX_POP10":22214,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":28.682917,
+    "ne:MEAN_BBYC":-13.964583,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":17.0,
+    "ne:MIN_AREAMI":6.0,
+    "ne:MIN_BBXMAX":28.708333,
+    "ne:MIN_BBXMIN":28.658333,
+    "ne:MIN_BBYMAX":-13.941667,
+    "ne:MIN_BBYMIN":-13.991667,
+    "ne:MIN_PERKM":27.0,
+    "ne:MIN_PERMI":17.0,
+    "ne:NAME":"Kapiri Mposhi",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Kapiri Mposhi",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":37942,
+    "ne:POP_MIN":22214,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Zambia",
+    "ne:SOV_A3":"ZMB",
+    "ne:TIMEZONE":"Africa/Lusaka",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":913029,
+    "qs:gn_pop":37942,
+    "qs:name":"Kapiri Mposhi",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1029360,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1567277,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913029,
+        "gp:id":1567277,
+        "qs:id":1029360,
+        "wd:id":"Q985822",
+        "wk:page":"Kapiri Mposhi"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009077,
+    "wof:geomhash":"520a2417895f74b907d8e7a0b9a19d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782355,
+            "locality_id":421175741,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":421175741,
+    "wof:lastmodified":1527716340,
+    "wof:name":"Kapiri Mposhi",
+    "wof:parent_id":1108782355,
+    "wof:placetype":"locality",
+    "wof:population":37942,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66985,
+    -13.97147,
+    28.66985,
+    -13.97147
+],
+  "geometry": {"coordinates":[28.66985,-13.97147],"type":"Point"}
+}

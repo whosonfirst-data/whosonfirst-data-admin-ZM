@@ -1,0 +1,67 @@
+{
+  "id": 1276345019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91667,-17.28333,23.91667,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":23.91667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mutanda",
+    "gn:country_code":"ZM",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903654,
+    "gn:latitude":-17.28333,
+    "gn:longitude":23.91667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mutanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903654
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e3e33b41af208d3c1f1764fbb2de8ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1276345019,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1276345019,
+    "wof:lastmodified":1536763012,
+    "wof:name":"Mutanda",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91667,
+    -17.28333,
+    23.91667,
+    -17.28333
+],
+  "geometry": {"coordinates":[23.91667,-17.28333],"type":"Point"}
+}

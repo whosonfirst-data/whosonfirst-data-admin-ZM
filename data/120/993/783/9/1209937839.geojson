@@ -1,0 +1,71 @@
+{
+  "id": 1209937839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26667,-16.73333,27.26667,-16.73333",
+    "geom:latitude":-16.73333,
+    "geom:longitude":27.26667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maluma",
+    "gn:country_code":"ZM",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908024,
+    "gn:latitude":-16.73333,
+    "gn:longitude":27.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maluma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maruma",
+        "Maluma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908024
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7efc8ab75690db7aae145f40996a6ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782473,
+            "locality_id":1209937839,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1209937839,
+    "wof:lastmodified":1537716517,
+    "wof:name":"Maluma",
+    "wof:parent_id":1108782473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26667,
+    -16.73333,
+    27.26667,
+    -16.73333
+],
+  "geometry": {"coordinates":[27.26667,-16.73333],"type":"Point"}
+}

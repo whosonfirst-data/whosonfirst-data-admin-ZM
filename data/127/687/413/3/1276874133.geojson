@@ -1,0 +1,67 @@
+{
+  "id": 1276874133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72961,-14.44177,31.72961,-14.44177",
+    "geom:latitude":-14.44177,
+    "geom:longitude":31.72961,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chiwanja",
+    "gn:country_code":"ZM",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917916,
+    "gn:latitude":-14.44177,
+    "gn:longitude":31.72961,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chiwanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917916
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ca6d7ed65f2be4bace96d0d4fff25f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1276874133,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276874133,
+    "wof:lastmodified":1537046877,
+    "wof:name":"Chiwanja",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72961,
+    -14.44177,
+    31.72961,
+    -14.44177
+],
+  "geometry": {"coordinates":[31.72961,-14.44177],"type":"Point"}
+}

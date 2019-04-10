@@ -1,0 +1,71 @@
+{
+  "id": 1310684993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83333,-11.11667,30.83333,-11.11667",
+    "geom:latitude":-11.11667,
+    "geom:longitude":30.83333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kasesha",
+    "gn:country_code":"ZM",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912571,
+    "gn:latitude":-11.11667,
+    "gn:longitude":30.83333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kasesha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaseshia",
+        "Kasesha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912571
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9537d8fbf6790932a74dc3d34fb82f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1310684993,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1310684993,
+    "wof:lastmodified":1537716531,
+    "wof:name":"Kasesha",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83333,
+    -11.11667,
+    30.83333,
+    -11.11667
+],
+  "geometry": {"coordinates":[30.83333,-11.11667],"type":"Point"}
+}

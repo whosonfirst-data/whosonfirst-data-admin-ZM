@@ -1,0 +1,67 @@
+{
+  "id": 1277097853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60586,-16.00287,27.60586,-16.00287",
+    "geom:latitude":-16.00287,
+    "geom:longitude":27.60586,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Magoye",
+    "gn:country_code":"ZM",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908534,
+    "gn:latitude":-16.00287,
+    "gn:longitude":27.60586,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Magoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908534
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9bec17ea399f2e862bb708db8cdcb0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782487,
+            "locality_id":1277097853,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1277097853,
+    "wof:lastmodified":1536745604,
+    "wof:name":"Magoye",
+    "wof:parent_id":1108782487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60586,
+    -16.00287,
+    27.60586,
+    -16.00287
+],
+  "geometry": {"coordinates":[27.60586,-16.00287],"type":"Point"}
+}

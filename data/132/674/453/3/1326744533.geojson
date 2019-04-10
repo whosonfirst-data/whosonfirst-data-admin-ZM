@@ -1,0 +1,67 @@
+{
+  "id": 1326744533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78333,-15.53333,23.78333,-15.53333",
+    "geom:latitude":-15.53333,
+    "geom:longitude":23.78333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sazhi",
+    "gn:country_code":"ZM",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899008,
+    "gn:latitude":-15.53333,
+    "gn:longitude":23.78333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sazhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899008
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"aca5705f48810a92ad1456a3c4371535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1326744533,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1326744533,
+    "wof:lastmodified":1536677892,
+    "wof:name":"Sazhi",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78333,
+    -15.53333,
+    23.78333,
+    -15.53333
+],
+  "geometry": {"coordinates":[23.78333,-15.53333],"type":"Point"}
+}

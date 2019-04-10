@@ -1,0 +1,67 @@
+{
+  "id": 1360287179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.69034,-14.44194,31.69034,-14.44194",
+    "geom:latitude":-14.44194,
+    "geom:longitude":31.69034,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cekani",
+    "gn:country_code":"ZM",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921068,
+    "gn:latitude":-14.44194,
+    "gn:longitude":31.69034,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Cekani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921068
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b073c8599a6d5c83e37109bcd7e85228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1360287179,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1360287179,
+    "wof:lastmodified":1536654048,
+    "wof:name":"Cekani",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.69034000000001,
+    -14.44194,
+    31.69034000000001,
+    -14.44194
+],
+  "geometry": {"coordinates":[31.69034000000001,-14.44194],"type":"Point"}
+}

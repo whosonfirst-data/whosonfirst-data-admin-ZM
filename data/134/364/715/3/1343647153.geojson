@@ -1,0 +1,67 @@
+{
+  "id": 1343647153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91667,-13.01667,27.91667,-13.01667",
+    "geom:latitude":-13.01667,
+    "geom:longitude":27.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kahende",
+    "gn:country_code":"ZM",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915745,
+    "gn:latitude":-13.01667,
+    "gn:longitude":27.91667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kahende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915745
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e78feb527b2266c150686d7732c115d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782375,
+            "locality_id":1343647153,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1343647153,
+    "wof:lastmodified":1536973821,
+    "wof:name":"Kahende",
+    "wof:parent_id":1108782375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91667,
+    -13.01667,
+    27.91667,
+    -13.01667
+],
+  "geometry": {"coordinates":[27.91667,-13.01667],"type":"Point"}
+}

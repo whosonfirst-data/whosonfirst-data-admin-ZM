@@ -1,0 +1,61 @@
+{
+  "id": 1209429121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,-16.03333,22.73333,-16.03333",
+    "geom:latitude":-16.03333,
+    "geom:longitude":22.73333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sosikwana",
+    "gn:country_code":"ZM",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896980,
+    "gn:latitude":-16.03333,
+    "gn:longitude":22.73333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sosikwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896980
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"fab71b2b0550b0c600df291e0ad59fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209429121
+        }
+    ],
+    "wof:id":1209429121,
+    "wof:lastmodified":1536287288,
+    "wof:name":"Sosikwana",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    -16.03333,
+    22.73333,
+    -16.03333
+],
+  "geometry": {"coordinates":[22.73333,-16.03333],"type":"Point"}
+}

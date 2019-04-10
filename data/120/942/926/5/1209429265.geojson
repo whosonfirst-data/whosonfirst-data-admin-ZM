@@ -1,0 +1,61 @@
+{
+  "id": 1209429265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16667,-15.31667,24.16667,-15.31667",
+    "geom:latitude":-15.31667,
+    "geom:longitude":24.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kampende",
+    "gn:country_code":"ZM",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914251,
+    "gn:latitude":-15.31667,
+    "gn:longitude":24.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kampende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914251
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d6a17a9086e75449247d9422a6e9ee3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209429265
+        }
+    ],
+    "wof:id":1209429265,
+    "wof:lastmodified":1536287284,
+    "wof:name":"Kampende",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16667,
+    -15.316670000000002,
+    24.16667,
+    -15.316670000000002
+],
+  "geometry": {"coordinates":[24.16667,-15.31667],"type":"Point"}
+}

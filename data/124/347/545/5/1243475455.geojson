@@ -1,0 +1,67 @@
+{
+  "id": 1243475455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03551,-16.08577,26.03551,-16.08577",
+    "geom:latitude":-16.08577,
+    "geom:longitude":26.03551,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chibwaulu",
+    "gn:country_code":"ZM",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920148,
+    "gn:latitude":-16.08577,
+    "gn:longitude":26.03551,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chibwaulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920148
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2b0d0a08580bd5f8e78330fd9aea7d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782479,
+            "locality_id":1243475455,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1243475455,
+    "wof:lastmodified":1536764091,
+    "wof:name":"Chibwaulu",
+    "wof:parent_id":1108782479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03551,
+    -16.08577,
+    26.03551,
+    -16.08577
+],
+  "geometry": {"coordinates":[26.03551,-16.08577],"type":"Point"}
+}

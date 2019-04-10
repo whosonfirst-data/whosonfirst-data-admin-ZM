@@ -1,0 +1,61 @@
+{
+  "id": 1209518513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36667,-13.38333,30.36667,-13.38333",
+    "geom:latitude":-13.38333,
+    "geom:longitude":30.36667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nakosa",
+    "gn:country_code":"ZM",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902285,
+    "gn:latitude":-13.38333,
+    "gn:longitude":30.36667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nakosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902285
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"35b989573eddbaf01780c692ced8f458",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209518513
+        }
+    ],
+    "wof:id":1209518513,
+    "wof:lastmodified":1536284654,
+    "wof:name":"Nakosa",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.366670000000006,
+    -13.38333,
+    30.366670000000006,
+    -13.38333
+],
+  "geometry": {"coordinates":[30.36667000000001,-13.38333],"type":"Point"}
+}

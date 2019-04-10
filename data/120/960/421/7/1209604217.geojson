@@ -1,0 +1,65 @@
+{
+  "id": 1209604217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57538,-12.27886,30.57538,-12.27886",
+    "geom:latitude":-12.27886,
+    "geom:longitude":30.57538,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chiundaponde",
+    "gn:country_code":"ZM",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918004,
+    "gn:latitude":-12.27886,
+    "gn:longitude":30.57538,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chiundaponde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chundeponde",
+        "Chiundaponde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918004
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"299082bcf95aebe11eaff8e6f66993e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209604217
+        }
+    ],
+    "wof:id":1209604217,
+    "wof:lastmodified":1537716551,
+    "wof:name":"Chiundaponde",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57538,
+    -12.27886,
+    30.57538,
+    -12.27886
+],
+  "geometry": {"coordinates":[30.57538,-12.27886],"type":"Point"}
+}

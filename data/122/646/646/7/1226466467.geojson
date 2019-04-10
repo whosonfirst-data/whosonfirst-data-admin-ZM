@@ -1,0 +1,67 @@
+{
+  "id": 1226466467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06667,-11.3,30.06667,-11.3",
+    "geom:latitude":-11.3,
+    "geom:longitude":30.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chansa",
+    "gn:country_code":"ZM",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920621,
+    "gn:latitude":-11.3,
+    "gn:longitude":30.06667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920621
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bdf515e0d90ef279777aaab1570be356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782413,
+            "locality_id":1226466467,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1226466467,
+    "wof:lastmodified":1536613229,
+    "wof:name":"Chansa",
+    "wof:parent_id":1108782413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06667,
+    -11.3,
+    30.06667,
+    -11.3
+],
+  "geometry": {"coordinates":[30.06667,-11.3],"type":"Point"}
+}

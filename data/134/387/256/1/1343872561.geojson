@@ -1,0 +1,67 @@
+{
+  "id": 1343872561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96667,-14.96667,22.96667,-14.96667",
+    "geom:latitude":-14.96667,
+    "geom:longitude":22.96667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mayapi",
+    "gn:country_code":"ZM",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907164,
+    "gn:latitude":-14.96667,
+    "gn:longitude":22.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mayapi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907164
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"aba733bd542784cc07a2be77ee402adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1343872561,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1343872561,
+    "wof:lastmodified":1536648747,
+    "wof:name":"Mayapi",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96667,
+    -14.96667,
+    22.96667,
+    -14.96667
+],
+  "geometry": {"coordinates":[22.96667,-14.96667],"type":"Point"}
+}

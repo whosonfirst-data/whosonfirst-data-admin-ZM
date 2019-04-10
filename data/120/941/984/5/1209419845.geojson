@@ -1,0 +1,61 @@
+{
+  "id": 1209419845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46122,-8.38791,30.46122,-8.38791",
+    "geom:latitude":-8.38791,
+    "geom:longitude":30.46122,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Munsni",
+    "gn:country_code":"ZM",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175812,
+    "gn:latitude":-8.38791,
+    "gn:longitude":30.46122,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Munsni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175812
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4e16fac53fe03442293273492bc0b27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209419845
+        }
+    ],
+    "wof:id":1209419845,
+    "wof:lastmodified":1536287568,
+    "wof:name":"Munsni",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46122,
+    -8.38791,
+    30.46122,
+    -8.38791
+],
+  "geometry": {"coordinates":[30.46122,-8.38791],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259366801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0,-11.56667,33.0,-11.56667",
+    "geom:latitude":-11.56667,
+    "geom:longitude":33.0,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mchenche",
+    "gn:country_code":"ZM",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906826,
+    "gn:latitude":-11.56667,
+    "gn:longitude":33.0,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mchenche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906826
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"28ca2652bc0d701b16cb6613491d1760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1259366801,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1259366801,
+    "wof:lastmodified":1537025158,
+    "wof:name":"Mchenche",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0,
+    -11.56667,
+    33.0,
+    -11.56667
+],
+  "geometry": {"coordinates":[33.0,-11.56667],"type":"Point"}
+}

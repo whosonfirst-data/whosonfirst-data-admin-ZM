@@ -1,0 +1,67 @@
+{
+  "id": 1243475731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5524,-17.68673,25.5524,-17.68673",
+    "geom:latitude":-17.68673,
+    "geom:longitude":25.5524,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Musiya",
+    "gn:country_code":"ZM",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903795,
+    "gn:latitude":-17.68673,
+    "gn:longitude":25.5524,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Musiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903795
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"40c99395390aa6b93159279ec8a99dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782483,
+            "locality_id":1243475731,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1243475731,
+    "wof:lastmodified":1536763664,
+    "wof:name":"Musiya",
+    "wof:parent_id":1108782483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5524,
+    -17.68672999999999,
+    25.5524,
+    -17.68672999999999
+],
+  "geometry": {"coordinates":[25.5524,-17.68672999999999],"type":"Point"}
+}

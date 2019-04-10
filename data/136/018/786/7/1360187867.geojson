@@ -1,0 +1,67 @@
+{
+  "id": 1360187867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.58333,-14.93333,28.58333,-14.93333",
+    "geom:latitude":-14.93333,
+    "geom:longitude":28.58333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chipembi",
+    "gn:country_code":"ZM",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918660,
+    "gn:latitude":-14.93333,
+    "gn:longitude":28.58333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chipembi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918660
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"47dc6d10fefb77dfb70d8656d616e734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1360187867,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1360187867,
+    "wof:lastmodified":1536797504,
+    "wof:name":"Chipembi",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.58333,
+    -14.93333,
+    28.58333,
+    -14.93333
+],
+  "geometry": {"coordinates":[28.58333,-14.93333],"type":"Point"}
+}

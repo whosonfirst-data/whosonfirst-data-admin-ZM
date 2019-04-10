@@ -1,0 +1,66 @@
+{
+  "id": 1209309605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15,-11.11667,32.15,-11.11667",
+    "geom:latitude":-11.11667,
+    "geom:longitude":32.15,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rapia",
+    "gn:country_code":"ZM",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899690,
+    "gn:latitude":-11.11667,
+    "gn:longitude":32.15,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Rapia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lupiya",
+        "Rupia",
+        "Rapia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899690
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5b267021bec0a5611e3732cafe4fed51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209309605
+        }
+    ],
+    "wof:id":1209309605,
+    "wof:lastmodified":1537716479,
+    "wof:name":"Rapia",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15,
+    -11.11667,
+    32.15,
+    -11.11667
+],
+  "geometry": {"coordinates":[32.15,-11.11667],"type":"Point"}
+}

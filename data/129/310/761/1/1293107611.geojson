@@ -1,0 +1,67 @@
+{
+  "id": 1293107611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67932,-12.86681,30.67932,-12.86681",
+    "geom:latitude":-12.86681,
+    "geom:longitude":30.67932,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jacob Filingisi",
+    "gn:country_code":"ZM",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916615,
+    "gn:latitude":-12.86681,
+    "gn:longitude":30.67932,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Jacob Filingisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916615
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"50287b343555835ff42788b388bec040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1293107611,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1293107611,
+    "wof:lastmodified":1536836600,
+    "wof:name":"Jacob Filingisi",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67932,
+    -12.86681,
+    30.67932,
+    -12.86681
+],
+  "geometry": {"coordinates":[30.67932,-12.86681],"type":"Point"}
+}

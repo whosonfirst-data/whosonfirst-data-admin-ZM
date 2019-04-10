@@ -1,0 +1,72 @@
+{
+  "id": 1243461865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98469,-14.07328,31.98469,-14.07328",
+    "geom:latitude":-14.07328,
+    "geom:longitude":31.98469,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chimtukulo",
+    "gn:country_code":"ZM",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919160,
+    "gn:latitude":-14.07328,
+    "gn:longitude":31.98469,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chimtukulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimutukulu",
+        "Chimkule",
+        "Chimtukulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919160
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6c34a024b63f8c8c0fb9b42112dec317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1243461865,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1243461865,
+    "wof:lastmodified":1537716558,
+    "wof:name":"Chimtukulo",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98469,
+    -14.07328,
+    31.98469,
+    -14.07328
+],
+  "geometry": {"coordinates":[31.98469,-14.07328],"type":"Point"}
+}

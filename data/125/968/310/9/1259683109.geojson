@@ -1,0 +1,67 @@
+{
+  "id": 1259683109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.91107,-8.7051,29.91107,-8.7051",
+    "geom:latitude":-8.7051,
+    "geom:longitude":29.91107,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kafwanka",
+    "gn:country_code":"ZM",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177107,
+    "gn:latitude":-8.7051,
+    "gn:longitude":29.91107,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kafwanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177107
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"63c74e2384b3474d32a0f8ab190b1dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":1259683109,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1259683109,
+    "wof:lastmodified":1537064712,
+    "wof:name":"Kafwanka",
+    "wof:parent_id":1108782457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91107,
+    -8.7051,
+    29.91107,
+    -8.7051
+],
+  "geometry": {"coordinates":[29.91107,-8.7051],"type":"Point"}
+}

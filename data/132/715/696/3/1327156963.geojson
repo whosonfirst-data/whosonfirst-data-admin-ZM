@@ -1,0 +1,67 @@
+{
+  "id": 1327156963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06997,-10.25917,30.06997,-10.25917",
+    "geom:latitude":-10.25917,
+    "geom:longitude":30.06997,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chikoti",
+    "gn:country_code":"ZM",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919800,
+    "gn:latitude":-10.25917,
+    "gn:longitude":30.06997,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chikoti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919800
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3f7ddab8939d023c1edd7388a050892d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782463,
+            "locality_id":1327156963,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1327156963,
+    "wof:lastmodified":1537075453,
+    "wof:name":"Chikoti",
+    "wof:parent_id":1108782463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06997,
+    -10.25917,
+    30.06997,
+    -10.25917
+],
+  "geometry": {"coordinates":[30.06997,-10.25917],"type":"Point"}
+}

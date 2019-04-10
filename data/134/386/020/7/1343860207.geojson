@@ -1,0 +1,71 @@
+{
+  "id": 1343860207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15,-14.25,32.15,-14.25",
+    "geom:latitude":-14.25,
+    "geom:longitude":32.15,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shiyanda",
+    "gn:country_code":"ZM",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898485,
+    "gn:latitude":-14.25,
+    "gn:longitude":32.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shiyanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shianda",
+        "Shiyanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898485
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3077163d3aba3c0327a756c15f3aafda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1343860207,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1343860207,
+    "wof:lastmodified":1537716471,
+    "wof:name":"Shiyanda",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15,
+    -14.25,
+    32.15,
+    -14.25
+],
+  "geometry": {"coordinates":[32.15,-14.25],"type":"Point"}
+}

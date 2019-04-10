@@ -1,0 +1,65 @@
+{
+  "id": 1209208793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18333,-10.83333,33.18333,-10.83333",
+    "geom:latitude":-10.83333,
+    "geom:longitude":33.18333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kanganti",
+    "gn:country_code":"ZM",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913876,
+    "gn:latitude":-10.83333,
+    "gn:longitude":33.18333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kanganti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyanti",
+        "Kanganti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913876
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"55dd3520bcc8e79406891761d2a4dbca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209208793
+        }
+    ],
+    "wof:id":1209208793,
+    "wof:lastmodified":1537716535,
+    "wof:name":"Kanganti",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18333,
+    -10.83333,
+    33.18333,
+    -10.83333
+],
+  "geometry": {"coordinates":[33.18333,-10.83333],"type":"Point"}
+}

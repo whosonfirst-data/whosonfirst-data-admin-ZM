@@ -1,0 +1,67 @@
+{
+  "id": 1193002131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,-10.26667,33.31667,-10.26667",
+    "geom:latitude":-10.26667,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chinyombe",
+    "gn:country_code":"ZM",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918791,
+    "gn:latitude":-10.26667,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chinyombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918791
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"64f51d8f6fac3fc76d289fbe1b344819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1193002131,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1193002131,
+    "wof:lastmodified":1536369370,
+    "wof:name":"Chinyombe",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    -10.26667,
+    33.31667,
+    -10.26667
+],
+  "geometry": {"coordinates":[33.31667,-10.26667],"type":"Point"}
+}

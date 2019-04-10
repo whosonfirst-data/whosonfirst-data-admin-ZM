@@ -1,0 +1,61 @@
+{
+  "id": 1209038343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23333,-10.71667,30.23333,-10.71667",
+    "geom:latitude":-10.71667,
+    "geom:longitude":30.23333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mubanga",
+    "gn:country_code":"ZM",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905560,
+    "gn:latitude":-10.71667,
+    "gn:longitude":30.23333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mubanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905560
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"00ca8c82a370ab9193978da9a7ad350c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209038343
+        }
+    ],
+    "wof:id":1209038343,
+    "wof:lastmodified":1536299626,
+    "wof:name":"Mubanga",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23333,
+    -10.71667,
+    30.23333,
+    -10.71667
+],
+  "geometry": {"coordinates":[30.23333,-10.71667],"type":"Point"}
+}

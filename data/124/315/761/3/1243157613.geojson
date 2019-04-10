@@ -1,0 +1,67 @@
+{
+  "id": 1243157613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,-13.05,27.76667,-13.05",
+    "geom:latitude":-13.05,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nsepe",
+    "gn:country_code":"ZM",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900540,
+    "gn:latitude":-13.05,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nsepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900540
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8c7b339f34106e0c0a33470c409eb000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782375,
+            "locality_id":1243157613,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1243157613,
+    "wof:lastmodified":1536725385,
+    "wof:name":"Nsepe",
+    "wof:parent_id":1108782375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    -13.05,
+    27.76667,
+    -13.05
+],
+  "geometry": {"coordinates":[27.76667,-13.05],"type":"Point"}
+}

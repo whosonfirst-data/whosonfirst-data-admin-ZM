@@ -1,0 +1,67 @@
+{
+  "id": 1310018847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61916,-14.88402,28.61916,-14.88402",
+    "geom:latitude":-14.88402,
+    "geom:longitude":28.61916,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chamuka",
+    "gn:country_code":"ZM",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920757,
+    "gn:latitude":-14.88402,
+    "gn:longitude":28.61916,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chamuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920757
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9a97e3b7dfd864c5d9fe94574cb9f866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1310018847,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1310018847,
+    "wof:lastmodified":1536621962,
+    "wof:name":"Chamuka",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61916,
+    -14.88402,
+    28.61916,
+    -14.88402
+],
+  "geometry": {"coordinates":[28.61916,-14.88402],"type":"Point"}
+}

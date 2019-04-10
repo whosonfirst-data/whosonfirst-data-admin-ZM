@@ -1,0 +1,67 @@
+{
+  "id": 1343561435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10008,-11.7875,29.10008,-11.7875",
+    "geom:latitude":-11.7875,
+    "geom:longitude":29.10008,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Milambo",
+    "gn:country_code":"ZM",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906628,
+    "gn:latitude":-11.7875,
+    "gn:longitude":29.10008,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Milambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906628
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2eab40c291af866223243dd84b24755f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782407,
+            "locality_id":1343561435,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1343561435,
+    "wof:lastmodified":1537094857,
+    "wof:name":"Milambo",
+    "wof:parent_id":1108782407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10008,
+    -11.7875,
+    29.10008,
+    -11.7875
+],
+  "geometry": {"coordinates":[29.10008,-11.7875],"type":"Point"}
+}

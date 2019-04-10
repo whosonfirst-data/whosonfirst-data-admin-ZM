@@ -1,0 +1,61 @@
+{
+  "id": 1209416867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6,-13.95,31.6,-13.95",
+    "geom:latitude":-13.95,
+    "geom:longitude":31.6,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mbenjere",
+    "gn:country_code":"ZM",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906998,
+    "gn:latitude":-13.95,
+    "gn:longitude":31.6,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mbenjere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906998
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"749cda5f4107450ce4bd0e68ef0fac64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209416867
+        }
+    ],
+    "wof:id":1209416867,
+    "wof:lastmodified":1536287658,
+    "wof:name":"Mbenjere",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6,
+    -13.95,
+    31.6,
+    -13.95
+],
+  "geometry": {"coordinates":[31.6,-13.95],"type":"Point"}
+}

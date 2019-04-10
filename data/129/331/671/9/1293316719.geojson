@@ -1,0 +1,67 @@
+{
+  "id": 1293316719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.04265,-9.04865,29.04265,-9.04865",
+    "geom:latitude":-9.04865,
+    "geom:longitude":29.04265,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mununga",
+    "gn:country_code":"ZM",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175808,
+    "gn:latitude":-9.04865,
+    "gn:longitude":29.04265,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Mununga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175808
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"fec3c42152a0a3e9d486eedcc7987dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782399,
+            "locality_id":1293316719,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1293316719,
+    "wof:lastmodified":1537031861,
+    "wof:name":"Mununga",
+    "wof:parent_id":1108782399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.04265,
+    -9.04865,
+    29.04265,
+    -9.04865
+],
+  "geometry": {"coordinates":[29.04265,-9.04865],"type":"Point"}
+}

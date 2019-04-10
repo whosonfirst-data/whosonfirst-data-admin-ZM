@@ -1,0 +1,67 @@
+{
+  "id": 1293593333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25,-16.18333,23.25,-16.18333",
+    "geom:latitude":-16.18333,
+    "geom:longitude":23.25,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mubita",
+    "gn:country_code":"ZM",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905519,
+    "gn:latitude":-16.18333,
+    "gn:longitude":23.25,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mubita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905519
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"58fcda72b98473a315fd6e26ed6ec611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782505,
+            "locality_id":1293593333,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1293593333,
+    "wof:lastmodified":1536633087,
+    "wof:name":"Mubita",
+    "wof:parent_id":1108782505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25,
+    -16.18333,
+    23.25,
+    -16.18333
+],
+  "geometry": {"coordinates":[23.25,-16.18333],"type":"Point"}
+}

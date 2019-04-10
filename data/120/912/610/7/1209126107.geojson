@@ -1,0 +1,61 @@
+{
+  "id": 1209126107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8,-12.98333,28.8,-12.98333",
+    "geom:latitude":-12.98333,
+    "geom:longitude":28.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Suse",
+    "gn:country_code":"ZM",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896887,
+    "gn:latitude":-12.98333,
+    "gn:longitude":28.8,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Suse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896887
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"de840eff8a4fa4b44c76d07fb6f96fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209126107
+        }
+    ],
+    "wof:id":1209126107,
+    "wof:lastmodified":1536296953,
+    "wof:name":"Suse",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8,
+    -12.98333,
+    28.8,
+    -12.98333
+],
+  "geometry": {"coordinates":[28.8,-12.98333],"type":"Point"}
+}

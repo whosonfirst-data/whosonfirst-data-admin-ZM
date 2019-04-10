@@ -1,0 +1,71 @@
+{
+  "id": 1243089529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73305,-12.23747,26.73305,-12.23747",
+    "geom:latitude":-12.23747,
+    "geom:longitude":26.73305,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kulima",
+    "gn:country_code":"ZM",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910963,
+    "gn:latitude":-12.23747,
+    "gn:longitude":26.73305,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kulima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurima",
+        "Kulima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910963
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bbe330cdb697c6b13c756b01a2e2d4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782451,
+            "locality_id":1243089529,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1243089529,
+    "wof:lastmodified":1537716527,
+    "wof:name":"Kulima",
+    "wof:parent_id":1108782451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73305,
+    -12.23747,
+    26.73305,
+    -12.23747
+],
+  "geometry": {"coordinates":[26.73305,-12.23747],"type":"Point"}
+}

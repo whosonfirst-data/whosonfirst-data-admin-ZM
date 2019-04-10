@@ -1,0 +1,67 @@
+{
+  "id": 1327336741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13333,-13.03333,30.13333,-13.03333",
+    "geom:latitude":-13.03333,
+    "geom:longitude":30.13333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lupiya",
+    "gn:country_code":"ZM",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909167,
+    "gn:latitude":-13.03333,
+    "gn:longitude":30.13333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Lupiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909167
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"43103c4004daef5cd20dba44db9883c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1327336741,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1327336741,
+    "wof:lastmodified":1536818046,
+    "wof:name":"Lupiya",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13333,
+    -13.03333,
+    30.13333,
+    -13.03333
+],
+  "geometry": {"coordinates":[30.13333,-13.03333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293006635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81667,-10.88333,28.81667,-10.88333",
+    "geom:latitude":-10.88333,
+    "geom:longitude":28.81667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lubebe",
+    "gn:country_code":"ZM",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909798,
+    "gn:latitude":-10.88333,
+    "gn:longitude":28.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lubebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luwewe",
+        "Lubebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909798
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4e967fb06aedef16ffc8cb40a25d61ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782403,
+            "locality_id":1293006635,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1293006635,
+    "wof:lastmodified":1537716524,
+    "wof:name":"Lubebe",
+    "wof:parent_id":1108782403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81667,
+    -10.88333,
+    28.81667,
+    -10.88333
+],
+  "geometry": {"coordinates":[28.81667,-10.88333],"type":"Point"}
+}

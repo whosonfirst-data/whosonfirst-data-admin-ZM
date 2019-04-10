@@ -1,0 +1,75 @@
+{
+  "id": 421178365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88333,-17.85,25.88333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":25.88333,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":910596,
+    "qs:gn_pop":0,
+    "qs:name":"Libuyu",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Southern",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":279574,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1568386,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910596,
+        "gp:id":1568386,
+        "qs:id":279574
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009179,
+    "wof:geomhash":"c7d89e599f0f69c1e2e4432be66069c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782485,
+            "locality_id":421178365,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":421178365,
+    "wof:lastmodified":1496498212,
+    "wof:name":"Libuyu",
+    "wof:parent_id":1108782485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88333,
+    -17.85,
+    25.88333,
+    -17.85
+],
+  "geometry": {"coordinates":[25.88333,-17.85],"type":"Point"}
+}

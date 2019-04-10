@@ -1,0 +1,67 @@
+{
+  "id": 1276476663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55972,-9.20843,31.55972,-9.20843",
+    "geom:latitude":-9.20843,
+    "geom:longitude":31.55972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kalenje",
+    "gn:country_code":"ZM",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177037,
+    "gn:latitude":-9.20843,
+    "gn:longitude":31.55972,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kalenje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177037
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2152ff9f74a495a0b2c4e90c3ab19966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782465,
+            "locality_id":1276476663,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1276476663,
+    "wof:lastmodified":1537080847,
+    "wof:name":"Kalenje",
+    "wof:parent_id":1108782465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55972,
+    -9.20843,
+    31.55972,
+    -9.20843
+],
+  "geometry": {"coordinates":[31.55972,-9.20843],"type":"Point"}
+}

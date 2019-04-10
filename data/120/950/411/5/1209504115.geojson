@@ -1,0 +1,65 @@
+{
+  "id": 1209504115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53333,-10.58333,33.53333,-10.58333",
+    "geom:latitude":-10.58333,
+    "geom:longitude":33.53333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chakoma",
+    "gn:country_code":"ZM",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920966,
+    "gn:latitude":-10.58333,
+    "gn:longitude":33.53333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chakoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chagoma",
+        "Chakoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920966
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"66661aa3d25185df1e534b56adc2f5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209504115
+        }
+    ],
+    "wof:id":1209504115,
+    "wof:lastmodified":1537716566,
+    "wof:name":"Chakoma",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53333,
+    -10.58333,
+    33.53333,
+    -10.58333
+],
+  "geometry": {"coordinates":[33.53333,-10.58333],"type":"Point"}
+}

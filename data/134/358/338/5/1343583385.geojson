@@ -1,0 +1,67 @@
+{
+  "id": 1343583385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66667,-13.08333,22.66667,-13.08333",
+    "geom:latitude":-13.08333,
+    "geom:longitude":22.66667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chijilo",
+    "gn:country_code":"ZM",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919978,
+    "gn:latitude":-13.08333,
+    "gn:longitude":22.66667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chijilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919978
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e9d8d51759ca6ae4b73d6be7f220f0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782437,
+            "locality_id":1343583385,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1343583385,
+    "wof:lastmodified":1537063608,
+    "wof:name":"Chijilo",
+    "wof:parent_id":1108782437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66667,
+    -13.08333,
+    22.66667,
+    -13.08333
+],
+  "geometry": {"coordinates":[22.66667,-13.08333],"type":"Point"}
+}

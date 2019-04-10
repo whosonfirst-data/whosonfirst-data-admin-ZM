@@ -1,0 +1,61 @@
+{
+  "id": 1209119039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60087,-12.75427,30.60087,-12.75427",
+    "geom:latitude":-12.75427,
+    "geom:longitude":30.60087,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Namwape Njoni",
+    "gn:country_code":"ZM",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901754,
+    "gn:latitude":-12.75427,
+    "gn:longitude":30.60087,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Namwape Njoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901754
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84495494a9e7f99b47d9d1c0761eb76f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209119039
+        }
+    ],
+    "wof:id":1209119039,
+    "wof:lastmodified":1536297162,
+    "wof:name":"Namwape Njoni",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60087,
+    -12.75427,
+    30.60087,
+    -12.75427
+],
+  "geometry": {"coordinates":[30.60087,-12.75427],"type":"Point"}
+}

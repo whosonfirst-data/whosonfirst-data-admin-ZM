@@ -1,0 +1,71 @@
+{
+  "id": 1293581091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6019,-17.37548,25.6019,-17.37548",
+    "geom:latitude":-17.37548,
+    "geom:longitude":25.6019,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mapolyomoka",
+    "gn:country_code":"ZM",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907637,
+    "gn:latitude":-17.37548,
+    "gn:longitude":25.6019,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mapolyomoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapolymoka",
+        "Mapolyomoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907637
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ba7485383d49dbd9b8031357d65212fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782483,
+            "locality_id":1293581091,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1293581091,
+    "wof:lastmodified":1537716515,
+    "wof:name":"Mapolyomoka",
+    "wof:parent_id":1108782483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6019,
+    -17.37548,
+    25.6019,
+    -17.37548
+],
+  "geometry": {"coordinates":[25.6019,-17.37548],"type":"Point"}
+}

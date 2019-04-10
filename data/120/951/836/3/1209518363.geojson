@@ -1,0 +1,61 @@
+{
+  "id": 1209518363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42908,-12.77019,30.42908,-12.77019",
+    "geom:latitude":-12.77019,
+    "geom:longitude":30.42908,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kanchule Chisenga",
+    "gn:country_code":"ZM",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913987,
+    "gn:latitude":-12.77019,
+    "gn:longitude":30.42908,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kanchule Chisenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913987
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"acc48ec75f43ec688f25bebf6711e454",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209518363
+        }
+    ],
+    "wof:id":1209518363,
+    "wof:lastmodified":1536284659,
+    "wof:name":"Kanchule Chisenga",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42908,
+    -12.77019,
+    30.42908,
+    -12.77019
+],
+  "geometry": {"coordinates":[30.42908,-12.77019],"type":"Point"}
+}

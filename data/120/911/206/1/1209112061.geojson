@@ -1,0 +1,61 @@
+{
+  "id": 1209112061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,-8.66667,29.16667,-8.66667",
+    "geom:latitude":-8.66667,
+    "geom:longitude":29.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ponde",
+    "gn:country_code":"ZM",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175304,
+    "gn:latitude":-8.66667,
+    "gn:longitude":29.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ponde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175304
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ab41caa8d4f43b406545447639ded39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209112061
+        }
+    ],
+    "wof:id":1209112061,
+    "wof:lastmodified":1536297374,
+    "wof:name":"Ponde",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    -8.66667,
+    29.16667,
+    -8.66667
+],
+  "geometry": {"coordinates":[29.16667,-8.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242580535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66973,-12.90825,30.66973,-12.90825",
+    "geom:latitude":-12.90825,
+    "geom:longitude":30.66973,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Saumoni Kasinje",
+    "gn:country_code":"ZM",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899034,
+    "gn:latitude":-12.90825,
+    "gn:longitude":30.66973,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Saumoni Kasinje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899034
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"571190e064929c1a0fe439280eec10f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1242580535,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1242580535,
+    "wof:lastmodified":1537056901,
+    "wof:name":"Saumoni Kasinje",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66973,
+    -12.90825,
+    30.66973,
+    -12.90825
+],
+  "geometry": {"coordinates":[30.66973,-12.90825],"type":"Point"}
+}

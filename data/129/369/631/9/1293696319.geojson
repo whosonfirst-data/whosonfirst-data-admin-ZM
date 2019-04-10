@@ -1,0 +1,67 @@
+{
+  "id": 1293696319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9219,-16.96415,23.9219,-16.96415",
+    "geom:latitude":-16.96415,
+    "geom:longitude":23.9219,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chiligwa",
+    "gn:country_code":"ZM",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919555,
+    "gn:latitude":-16.96415,
+    "gn:longitude":23.9219,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Chiligwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919555
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"28e6cfa021183e52feec733ac40641ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1293696319,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1293696319,
+    "wof:lastmodified":1536982486,
+    "wof:name":"Chiligwa",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9219,
+    -16.96415,
+    23.9219,
+    -16.96415
+],
+  "geometry": {"coordinates":[23.9219,-16.96415],"type":"Point"}
+}

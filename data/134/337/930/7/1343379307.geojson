@@ -1,0 +1,67 @@
+{
+  "id": 1343379307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40822,-10.84016,31.40822,-10.84016",
+    "geom:latitude":-10.84016,
+    "geom:longitude":31.40822,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sele",
+    "gn:country_code":"ZM",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898965,
+    "gn:latitude":-10.84016,
+    "gn:longitude":31.40822,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898965
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c67b7853d69fff1cc68b1f888a3b83fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":1343379307,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1343379307,
+    "wof:lastmodified":1536861918,
+    "wof:name":"Sele",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40822,
+    -10.84016,
+    31.40822,
+    -10.84016
+],
+  "geometry": {"coordinates":[31.40822,-10.84016],"type":"Point"}
+}

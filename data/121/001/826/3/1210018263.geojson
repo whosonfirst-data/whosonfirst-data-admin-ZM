@@ -1,0 +1,67 @@
+{
+  "id": 1210018263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77469,-14.16362,31.77469,-14.16362",
+    "geom:latitude":-14.16362,
+    "geom:longitude":31.77469,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamtambe",
+    "gn:country_code":"ZM",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914184,
+    "gn:latitude":-14.16362,
+    "gn:longitude":31.77469,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kamtambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914184
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a28b855e5eeb6963249080bfe604cf3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1210018263,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1210018263,
+    "wof:lastmodified":1536394071,
+    "wof:name":"Kamtambe",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77469,
+    -14.16362,
+    31.77469,
+    -14.16362
+],
+  "geometry": {"coordinates":[31.77469,-14.16362],"type":"Point"}
+}

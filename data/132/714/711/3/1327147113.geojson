@@ -1,0 +1,67 @@
+{
+  "id": 1327147113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50807,-12.80185,30.50807,-12.80185",
+    "geom:latitude":-12.80185,
+    "geom:longitude":30.50807,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Finish Mumbwaila",
+    "gn:country_code":"ZM",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917255,
+    "gn:latitude":-12.80185,
+    "gn:longitude":30.50807,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Finish Mumbwaila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917255
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"83269e3b10223ad1ed6be03629a62043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1327147113,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1327147113,
+    "wof:lastmodified":1537089478,
+    "wof:name":"Finish Mumbwaila",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50807,
+    -12.80185,
+    30.50807,
+    -12.80185
+],
+  "geometry": {"coordinates":[30.50807,-12.80185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276764251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85975,-14.06278,31.85975,-14.06278",
+    "geom:latitude":-14.06278,
+    "geom:longitude":31.85975,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Enosi",
+    "gn:country_code":"ZM",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917353,
+    "gn:latitude":-14.06278,
+    "gn:longitude":31.85975,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Enosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enos",
+        "Enosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917353
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"805cd92aa4a04cd844bf39e734f30779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1276764251,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276764251,
+    "wof:lastmodified":1537716548,
+    "wof:name":"Enosi",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85975,
+    -14.06278,
+    31.85975,
+    -14.06278
+],
+  "geometry": {"coordinates":[31.85975,-14.06278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243461821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93556,-12.85077,32.93556,-12.85077",
+    "geom:latitude":-12.85077,
+    "geom:longitude":32.93556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kanyuka",
+    "gn:country_code":"ZM",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913345,
+    "gn:latitude":-12.85077,
+    "gn:longitude":32.93556,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kanyuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913345
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3215f71d0b43fcd430caff65c2ff322d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1243461821,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1243461821,
+    "wof:lastmodified":1536783786,
+    "wof:name":"Kanyuka",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93556,
+    -12.85077,
+    32.93556,
+    -12.85077
+],
+  "geometry": {"coordinates":[32.93556,-12.85077],"type":"Point"}
+}

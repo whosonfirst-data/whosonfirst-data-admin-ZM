@@ -1,0 +1,71 @@
+{
+  "id": 1310397203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.37189,-15.69111,26.37189,-15.69111",
+    "geom:latitude":-15.69111,
+    "geom:longitude":26.37189,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shimbizi",
+    "gn:country_code":"ZM",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898605,
+    "gn:latitude":-15.69111,
+    "gn:longitude":26.37189,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shimbizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chief Shimbizi",
+        "Shimbizi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898605
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"704455914345bc0976340c8aaac0dd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782479,
+            "locality_id":1310397203,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1310397203,
+    "wof:lastmodified":1537716472,
+    "wof:name":"Shimbizi",
+    "wof:parent_id":1108782479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.37189,
+    -15.69111,
+    26.37189,
+    -15.69111
+],
+  "geometry": {"coordinates":[26.37189,-15.69111],"type":"Point"}
+}

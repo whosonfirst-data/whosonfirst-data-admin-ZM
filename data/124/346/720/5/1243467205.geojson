@@ -1,0 +1,67 @@
+{
+  "id": 1243467205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.47136,-12.9806,30.47136,-12.9806",
+    "geom:latitude":-12.9806,
+    "geom:longitude":30.47136,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tebulondashi",
+    "gn:country_code":"ZM",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896750,
+    "gn:latitude":-12.9806,
+    "gn:longitude":30.47136,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tebulondashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896750
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2e8a5d8070a4e5a4eb8aa411ab96dd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1243467205,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1243467205,
+    "wof:lastmodified":1536776131,
+    "wof:name":"Tebulondashi",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.47136,
+    -12.9806,
+    30.47136,
+    -12.9806
+],
+  "geometry": {"coordinates":[30.47136,-12.9806],"type":"Point"}
+}

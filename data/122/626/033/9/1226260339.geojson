@@ -1,0 +1,67 @@
+{
+  "id": 1226260339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01667,-15.81667,23.01667,-15.81667",
+    "geom:latitude":-15.81667,
+    "geom:longitude":23.01667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wasa",
+    "gn:country_code":"ZM",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896188,
+    "gn:latitude":-15.81667,
+    "gn:longitude":23.01667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Wasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896188
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9335d80d33c1d5d69fb9f9cbbba163ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782505,
+            "locality_id":1226260339,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1226260339,
+    "wof:lastmodified":1536912999,
+    "wof:name":"Wasa",
+    "wof:parent_id":1108782505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01667,
+    -15.81667,
+    23.01667,
+    -15.81667
+],
+  "geometry": {"coordinates":[23.01667,-15.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209708103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16667,-12.11667,26.16667,-12.11667",
+    "geom:latitude":-12.11667,
+    "geom:longitude":26.16667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chitaoni",
+    "gn:country_code":"ZM",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918186,
+    "gn:latitude":-12.11667,
+    "gn:longitude":26.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chitaoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918186
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5d22cb6c000ffe9686eba1750e73e445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782451,
+            "locality_id":1209708103,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1209708103,
+    "wof:lastmodified":1536391933,
+    "wof:name":"Chitaoni",
+    "wof:parent_id":1108782451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16667,
+    -12.11667,
+    26.16667,
+    -12.11667
+],
+  "geometry": {"coordinates":[26.16667,-12.11667],"type":"Point"}
+}

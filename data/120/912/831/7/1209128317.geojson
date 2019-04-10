@@ -1,0 +1,61 @@
+{
+  "id": 1209128317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13333,-12.05,24.13333,-12.05",
+    "geom:latitude":-12.05,
+    "geom:longitude":24.13333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kakula",
+    "gn:country_code":"ZM",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915574,
+    "gn:latitude":-12.05,
+    "gn:longitude":24.13333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kakula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915574
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84e346f8974a7faaa99bdd4a41b79275",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209128317
+        }
+    ],
+    "wof:id":1209128317,
+    "wof:lastmodified":1536296886,
+    "wof:name":"Kakula",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13333,
+    -12.05,
+    24.13333,
+    -12.05
+],
+  "geometry": {"coordinates":[24.13333,-12.05],"type":"Point"}
+}

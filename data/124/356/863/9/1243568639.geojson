@@ -1,0 +1,67 @@
+{
+  "id": 1243568639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28333,-14.63333,22.28333,-14.63333",
+    "geom:latitude":-14.63333,
+    "geom:longitude":22.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lusimo",
+    "gn:country_code":"ZM",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909054,
+    "gn:latitude":-14.63333,
+    "gn:longitude":22.28333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Lusimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909054
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bddf4eb313ccc8750fb07e799d7760e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1243568639,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1243568639,
+    "wof:lastmodified":1536627617,
+    "wof:name":"Lusimo",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28333,
+    -14.63333,
+    22.28333,
+    -14.63333
+],
+  "geometry": {"coordinates":[22.28333,-14.63333],"type":"Point"}
+}

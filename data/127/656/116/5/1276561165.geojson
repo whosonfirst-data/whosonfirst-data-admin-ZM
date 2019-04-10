@@ -1,0 +1,67 @@
+{
+  "id": 1276561165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43541,-14.54875,27.43541,-14.54875",
+    "geom:latitude":-14.54875,
+    "geom:longitude":27.43541,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chunimutobola",
+    "gn:country_code":"ZM",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917568,
+    "gn:latitude":-14.54875,
+    "gn:longitude":27.43541,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chunimutobola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917568
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"17ecafbc5aa129fae9e56e06d497bbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1276561165,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276561165,
+    "wof:lastmodified":1536970398,
+    "wof:name":"Chunimutobola",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43541,
+    -14.54875,
+    27.43541,
+    -14.54875
+],
+  "geometry": {"coordinates":[27.43541,-14.54875],"type":"Point"}
+}

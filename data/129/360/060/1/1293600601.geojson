@@ -1,0 +1,71 @@
+{
+  "id": 1293600601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15906,-14.1516,32.15906,-14.1516",
+    "geom:latitude":-14.1516,
+    "geom:longitude":32.15906,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kapito",
+    "gn:country_code":"ZM",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913011,
+    "gn:latitude":-14.1516,
+    "gn:longitude":32.15906,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kapito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapiko",
+        "Kapito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913011
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1c89968b2e1f6d7e5241926ad1e5db9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1293600601,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1293600601,
+    "wof:lastmodified":1537716532,
+    "wof:name":"Kapito",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15906,
+    -14.1516,
+    32.15906,
+    -14.1516
+],
+  "geometry": {"coordinates":[32.15906,-14.1516],"type":"Point"}
+}

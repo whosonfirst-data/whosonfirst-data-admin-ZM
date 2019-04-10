@@ -1,0 +1,67 @@
+{
+  "id": 1327449143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45,-15.3,22.45,-15.3",
+    "geom:latitude":-15.3,
+    "geom:longitude":22.45,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mukenge",
+    "gn:country_code":"ZM",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905180,
+    "gn:latitude":-15.3,
+    "gn:longitude":22.45,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mukenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905180
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8732e706d884eebb3bf7883e14e49c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1327449143,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1327449143,
+    "wof:lastmodified":1536656668,
+    "wof:name":"Mukenge",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45,
+    -15.3,
+    22.45,
+    -15.3
+],
+  "geometry": {"coordinates":[22.45,-15.3],"type":"Point"}
+}

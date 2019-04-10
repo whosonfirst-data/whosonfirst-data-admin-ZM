@@ -1,0 +1,61 @@
+{
+  "id": 1209336565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8,-12.18333,24.8,-12.18333",
+    "geom:latitude":-12.18333,
+    "geom:longitude":24.8,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Malambo",
+    "gn:country_code":"ZM",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908206,
+    "gn:latitude":-12.18333,
+    "gn:longitude":24.8,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Malambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908206
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"259fa027ef664486eb8ca4abb27a1bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209336565
+        }
+    ],
+    "wof:id":1209336565,
+    "wof:lastmodified":1536290200,
+    "wof:name":"Malambo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8,
+    -12.18333,
+    24.8,
+    -12.18333
+],
+  "geometry": {"coordinates":[24.8,-12.18333],"type":"Point"}
+}

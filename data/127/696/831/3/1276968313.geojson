@@ -1,0 +1,67 @@
+{
+  "id": 1276968313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55,-11.45,30.55,-11.45",
+    "geom:latitude":-11.45,
+    "geom:longitude":30.55,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Munkunta",
+    "gn:country_code":"ZM",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904207,
+    "gn:latitude":-11.45,
+    "gn:longitude":30.55,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Munkunta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904207
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"724707c7e54413e686568e6fd79a8e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1276968313,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1276968313,
+    "wof:lastmodified":1536923481,
+    "wof:name":"Munkunta",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55,
+    -11.45,
+    30.55,
+    -11.45
+],
+  "geometry": {"coordinates":[30.55,-11.45],"type":"Point"}
+}

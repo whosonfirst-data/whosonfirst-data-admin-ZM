@@ -1,0 +1,67 @@
+{
+  "id": 1293301795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38951,-12.53766,30.38951,-12.53766",
+    "geom:latitude":-12.53766,
+    "geom:longitude":30.38951,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Amoni Mukando",
+    "gn:country_code":"ZM",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921578,
+    "gn:latitude":-12.53766,
+    "gn:longitude":30.38951,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Amoni Mukando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921578
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"fbd6d835d5e71b05bd3d33d43af66b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1293301795,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1293301795,
+    "wof:lastmodified":1537052394,
+    "wof:name":"Amoni Mukando",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38951,
+    -12.53766,
+    30.38951,
+    -12.53766
+],
+  "geometry": {"coordinates":[30.38951,-12.53766],"type":"Point"}
+}

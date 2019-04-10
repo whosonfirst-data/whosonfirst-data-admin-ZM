@@ -1,0 +1,71 @@
+{
+  "id": 1276451597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94851,-14.90919,27.94851,-14.90919",
+    "geom:latitude":-14.90919,
+    "geom:longitude":27.94851,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mwachisompola",
+    "gn:country_code":"ZM",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903251,
+    "gn:latitude":-14.90919,
+    "gn:longitude":27.94851,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mwachisompola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chisompola",
+        "Mwachisompola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903251
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a2e025c11245d724528e5f4dc65c4642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1276451597,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276451597,
+    "wof:lastmodified":1537716494,
+    "wof:name":"Mwachisompola",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94851,
+    -14.90919,
+    27.94851,
+    -14.90919
+],
+  "geometry": {"coordinates":[27.94851,-14.90919],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310001225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6,-9.41667,32.6,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":32.6,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chipokoso",
+    "gn:country_code":"ZM",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177535,
+    "gn:latitude":-9.41667,
+    "gn:longitude":32.6,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chipokoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177535
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7a18a770e4d115638466c824b3d6dbd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782435,
+            "locality_id":1310001225,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1310001225,
+    "wof:lastmodified":1536649214,
+    "wof:name":"Chipokoso",
+    "wof:parent_id":1108782435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6,
+    -9.41667,
+    32.6,
+    -9.41667
+],
+  "geometry": {"coordinates":[32.6,-9.41667],"type":"Point"}
+}

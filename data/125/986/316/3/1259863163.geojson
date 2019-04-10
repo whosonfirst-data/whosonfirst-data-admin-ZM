@@ -1,0 +1,67 @@
+{
+  "id": 1259863163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38333,-11.7,32.38333,-11.7",
+    "geom:latitude":-11.7,
+    "geom:longitude":32.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kasonkowavika",
+    "gn:country_code":"ZM",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912318,
+    "gn:latitude":-11.7,
+    "gn:longitude":32.38333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kasonkowavika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912318
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5bbc7d5b73a76cc23ff8e45c9dc2706f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1259863163,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1259863163,
+    "wof:lastmodified":1536808158,
+    "wof:name":"Kasonkowavika",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38333,
+    -11.7,
+    32.38333,
+    -11.7
+],
+  "geometry": {"coordinates":[32.38333,-11.7],"type":"Point"}
+}

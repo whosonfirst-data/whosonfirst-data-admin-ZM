@@ -1,0 +1,67 @@
+{
+  "id": 1293205315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77044,-9.09127,30.77044,-9.09127",
+    "geom:latitude":-9.09127,
+    "geom:longitude":30.77044,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yamutenga",
+    "gn:country_code":"ZM",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175034,
+    "gn:latitude":-9.09127,
+    "gn:longitude":30.77044,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Yamutenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175034
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6980ae29184b40d3e100e7f6b52d4144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1293205315,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1293205315,
+    "wof:lastmodified":1536697025,
+    "wof:name":"Yamutenga",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77044,
+    -9.09127,
+    30.77044,
+    -9.09127
+],
+  "geometry": {"coordinates":[30.77044,-9.09127],"type":"Point"}
+}

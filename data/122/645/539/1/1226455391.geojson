@@ -1,0 +1,71 @@
+{
+  "id": 1226455391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93333,-12.18333,29.93333,-12.18333",
+    "geom:latitude":-12.18333,
+    "geom:longitude":29.93333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chongola",
+    "gn:country_code":"ZM",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917701,
+    "gn:latitude":-12.18333,
+    "gn:longitude":29.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chongola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshongola",
+        "Chongola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917701
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"127b0739ca64674d96509cb7f8ee9b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1226455391,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1226455391,
+    "wof:lastmodified":1537716549,
+    "wof:name":"Chongola",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93333,
+    -12.18333,
+    29.93333,
+    -12.18333
+],
+  "geometry": {"coordinates":[29.93333,-12.18333],"type":"Point"}
+}

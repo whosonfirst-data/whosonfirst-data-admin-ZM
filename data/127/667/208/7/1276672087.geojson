@@ -1,0 +1,67 @@
+{
+  "id": 1276672087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53333,-14.9,22.53333,-14.9",
+    "geom:latitude":-14.9,
+    "geom:longitude":22.53333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ngambeka",
+    "gn:country_code":"ZM",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901223,
+    "gn:latitude":-14.9,
+    "gn:longitude":22.53333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ngambeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901223
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"19a879457a33eb739d306002302dc4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1276672087,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1276672087,
+    "wof:lastmodified":1536820851,
+    "wof:name":"Ngambeka",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53333,
+    -14.9,
+    22.53333,
+    -14.9
+],
+  "geometry": {"coordinates":[22.53333,-14.9],"type":"Point"}
+}

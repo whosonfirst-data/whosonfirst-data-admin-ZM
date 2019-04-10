@@ -1,0 +1,67 @@
+{
+  "id": 1310503423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89612,-14.23405,31.89612,-14.23405",
+    "geom:latitude":-14.23405,
+    "geom:longitude":31.89612,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyamkumbila",
+    "gn:country_code":"ZM",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900211,
+    "gn:latitude":-14.23405,
+    "gn:longitude":31.89612,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nyamkumbila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900211
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e69390f7a3d5460a8b170d62c60b0962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1310503423,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1310503423,
+    "wof:lastmodified":1536920555,
+    "wof:name":"Nyamkumbila",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89612,
+    -14.23405,
+    31.89612,
+    -14.23405
+],
+  "geometry": {"coordinates":[31.89612,-14.23405],"type":"Point"}
+}

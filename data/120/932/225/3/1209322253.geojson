@@ -1,0 +1,61 @@
+{
+  "id": 1209322253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16667,-12.31667,33.16667,-12.31667",
+    "geom:latitude":-12.31667,
+    "geom:longitude":33.16667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalonje",
+    "gn:country_code":"ZM",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915033,
+    "gn:latitude":-12.31667,
+    "gn:longitude":33.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalonje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915033
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0d37463c643221ef2cbc5c7a3cd17f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209322253
+        }
+    ],
+    "wof:id":1209322253,
+    "wof:lastmodified":1536290652,
+    "wof:name":"Kalonje",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16667,
+    -12.31667,
+    33.16667,
+    -12.31667
+],
+  "geometry": {"coordinates":[33.16667,-12.31667],"type":"Point"}
+}

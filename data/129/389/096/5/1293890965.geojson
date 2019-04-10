@@ -1,0 +1,67 @@
+{
+  "id": 1293890965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20794,-14.52467,31.20794,-14.52467",
+    "geom:latitude":-14.52467,
+    "geom:longitude":31.20794,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Walasa",
+    "gn:country_code":"ZM",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896288,
+    "gn:latitude":-14.52467,
+    "gn:longitude":31.20794,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Walasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896288
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f3a482f946110cbf6a8d8f84ab849613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1293890965,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1293890965,
+    "wof:lastmodified":1536702797,
+    "wof:name":"Walasa",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20794,
+    -14.52467,
+    31.20794,
+    -14.52467
+],
+  "geometry": {"coordinates":[31.20794,-14.52467],"type":"Point"}
+}

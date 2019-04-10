@@ -1,0 +1,67 @@
+{
+  "id": 1242582221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35,-10.05,31.35,-10.05",
+    "geom:latitude":-10.05,
+    "geom:longitude":31.35,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mukasa",
+    "gn:country_code":"ZM",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905221,
+    "gn:latitude":-10.05,
+    "gn:longitude":31.35,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mukasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905221
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dd3bfb1060f88af2c5f3408235d11ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782471,
+            "locality_id":1242582221,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1242582221,
+    "wof:lastmodified":1537054582,
+    "wof:name":"Mukasa",
+    "wof:parent_id":1108782471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35,
+    -10.05,
+    31.35,
+    -10.05
+],
+  "geometry": {"coordinates":[31.35,-10.05],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209236491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21703,-13.3327,23.21703,-13.3327",
+    "geom:latitude":-13.3327,
+    "geom:longitude":23.21703,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nyakawanda",
+    "gn:country_code":"ZM",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900340,
+    "gn:latitude":-13.3327,
+    "gn:longitude":23.21703,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Nyakawanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900340
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"586389eb7c2f66ef9457ce302aa215b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209236491
+        }
+    ],
+    "wof:id":1209236491,
+    "wof:lastmodified":1536293462,
+    "wof:name":"Nyakawanda",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21703,
+    -13.3327,
+    23.21703,
+    -13.3327
+],
+  "geometry": {"coordinates":[23.21703,-13.3327],"type":"Point"}
+}

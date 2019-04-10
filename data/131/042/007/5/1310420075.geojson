@@ -1,0 +1,67 @@
+{
+  "id": 1310420075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83877,-16.63389,24.83877,-16.63389",
+    "geom:latitude":-16.63389,
+    "geom:longitude":24.83877,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luwaya",
+    "gn:country_code":"ZM",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908929,
+    "gn:latitude":-16.63389,
+    "gn:longitude":24.83877,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Luwaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908929
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dcf7d310de024432548b1dddf85055a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1310420075,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1310420075,
+    "wof:lastmodified":1537038508,
+    "wof:name":"Luwaya",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83877,
+    -16.63389,
+    24.83877,
+    -16.63389
+],
+  "geometry": {"coordinates":[24.83877,-16.63389],"type":"Point"}
+}

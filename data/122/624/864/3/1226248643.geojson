@@ -1,0 +1,71 @@
+{
+  "id": 1226248643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.88333,-11.2,28.88333,-11.2",
+    "geom:latitude":-11.2,
+    "geom:longitude":28.88333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nsakanya",
+    "gn:country_code":"ZM",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900577,
+    "gn:latitude":-11.2,
+    "gn:longitude":28.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nsakanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakania",
+        "Nsakanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900577
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b6cad7bee708595623e22ca5de74cdc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782403,
+            "locality_id":1226248643,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1226248643,
+    "wof:lastmodified":1537716484,
+    "wof:name":"Nsakanya",
+    "wof:parent_id":1108782403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.88333,
+    -11.2,
+    28.88333,
+    -11.2
+],
+  "geometry": {"coordinates":[28.88333,-11.2],"type":"Point"}
+}

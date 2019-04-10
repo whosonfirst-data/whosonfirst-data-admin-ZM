@@ -1,0 +1,67 @@
+{
+  "id": 1326533847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3,-16.13333,22.3,-16.13333",
+    "geom:latitude":-16.13333,
+    "geom:longitude":22.3,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kwalela",
+    "gn:country_code":"ZM",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":910844,
+    "gn:latitude":-16.13333,
+    "gn:longitude":22.3,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kwalela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910844
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"915f8ead02528f0c332a0474337aee7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782509,
+            "locality_id":1326533847,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1326533847,
+    "wof:lastmodified":1536981032,
+    "wof:name":"Kwalela",
+    "wof:parent_id":1108782509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3,
+    -16.13332999999999,
+    22.3,
+    -16.13332999999999
+],
+  "geometry": {"coordinates":[22.3,-16.13332999999999],"type":"Point"}
+}

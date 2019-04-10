@@ -1,0 +1,67 @@
+{
+  "id": 1309733113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16805,-16.59317,26.16805,-16.59317",
+    "geom:latitude":-16.59317,
+    "geom:longitude":26.16805,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siankwembo",
+    "gn:country_code":"ZM",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898230,
+    "gn:latitude":-16.59317,
+    "gn:longitude":26.16805,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Siankwembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898230
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"110d4b241eb34dba0ed68f54a45feb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782481,
+            "locality_id":1309733113,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1309733113,
+    "wof:lastmodified":1537034438,
+    "wof:name":"Siankwembo",
+    "wof:parent_id":1108782481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16805,
+    -16.59317,
+    26.16805,
+    -16.59317
+],
+  "geometry": {"coordinates":[26.16805,-16.59317],"type":"Point"}
+}

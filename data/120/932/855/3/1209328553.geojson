@@ -1,0 +1,61 @@
+{
+  "id": 1209328553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88432,-16.17032,24.88432,-16.17032",
+    "geom:latitude":-16.17032,
+    "geom:longitude":24.88432,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mwanwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902916,
+    "gn:latitude":-16.17032,
+    "gn:longitude":24.88432,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mwanwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902916
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d14e98e4c526e0a5f07178abf8d9159d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209328553
+        }
+    ],
+    "wof:id":1209328553,
+    "wof:lastmodified":1536290449,
+    "wof:name":"Mwanwa",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88432,
+    -16.17032,
+    24.88432,
+    -16.17032
+],
+  "geometry": {"coordinates":[24.88432,-16.17032],"type":"Point"}
+}

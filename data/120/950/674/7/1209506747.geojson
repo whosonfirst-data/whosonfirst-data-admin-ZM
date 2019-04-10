@@ -1,0 +1,61 @@
+{
+  "id": 1209506747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91667,-16.13333,26.91667,-16.13333",
+    "geom:latitude":-16.13333,
+    "geom:longitude":26.91667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chikambwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919953,
+    "gn:latitude":-16.13333,
+    "gn:longitude":26.91667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chikambwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919953
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84cbb1c79467a24d32ba7962ed5bd4d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209506747
+        }
+    ],
+    "wof:id":1209506747,
+    "wof:lastmodified":1536285011,
+    "wof:name":"Chikambwa",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91667,
+    -16.133329999999994,
+    26.91667,
+    -16.133329999999994
+],
+  "geometry": {"coordinates":[26.91667,-16.13332999999999],"type":"Point"}
+}

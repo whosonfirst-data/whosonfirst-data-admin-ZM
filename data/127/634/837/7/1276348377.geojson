@@ -1,0 +1,67 @@
+{
+  "id": 1276348377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38703,-13.01499,30.38703,-13.01499",
+    "geom:latitude":-13.01499,
+    "geom:longitude":30.38703,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sekayo",
+    "gn:country_code":"ZM",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898982,
+    "gn:latitude":-13.01499,
+    "gn:longitude":30.38703,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sekayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898982
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0fcc3a8e92af400641090d6d077ef4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1276348377,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276348377,
+    "wof:lastmodified":1536758408,
+    "wof:name":"Sekayo",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38703,
+    -13.01499,
+    30.38703,
+    -13.01499
+],
+  "geometry": {"coordinates":[30.38703,-13.01499],"type":"Point"}
+}

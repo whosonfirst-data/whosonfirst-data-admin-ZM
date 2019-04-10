@@ -1,0 +1,67 @@
+{
+  "id": 1276451747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.35148,-13.92669,28.35148,-13.92669",
+    "geom:latitude":-13.92669,
+    "geom:longitude":28.35148,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mulanshi",
+    "gn:country_code":"ZM",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904857,
+    "gn:latitude":-13.92669,
+    "gn:longitude":28.35148,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mulanshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904857
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2f52c8501590f26baec59cabf2127be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782355,
+            "locality_id":1276451747,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276451747,
+    "wof:lastmodified":1536617737,
+    "wof:name":"Mulanshi",
+    "wof:parent_id":1108782355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.35148,
+    -13.92669,
+    28.35148,
+    -13.92669
+],
+  "geometry": {"coordinates":[28.35148,-13.92669],"type":"Point"}
+}

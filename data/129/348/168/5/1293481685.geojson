@@ -1,0 +1,67 @@
+{
+  "id": 1293481685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,-16.2,27.76667,-16.2",
+    "geom:latitude":-16.2,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chombwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917724,
+    "gn:latitude":-16.2,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chombwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917724
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ab35f09b1895f98cab08ea11cde78865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782487,
+            "locality_id":1293481685,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1293481685,
+    "wof:lastmodified":1536795702,
+    "wof:name":"Chombwa",
+    "wof:parent_id":1108782487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    -16.2,
+    27.76667,
+    -16.2
+],
+  "geometry": {"coordinates":[27.76667,-16.2],"type":"Point"}
+}

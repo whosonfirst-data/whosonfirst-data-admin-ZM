@@ -1,0 +1,67 @@
+{
+  "id": 1226363677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13333,-16.45,28.13333,-16.45",
+    "geom:latitude":-16.45,
+    "geom:longitude":28.13333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sinanyanga",
+    "gn:country_code":"ZM",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897459,
+    "gn:latitude":-16.45,
+    "gn:longitude":28.13333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sinanyanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897459
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"01a54165e8597a8348c88d625d93ace4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782475,
+            "locality_id":1226363677,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1226363677,
+    "wof:lastmodified":1536764092,
+    "wof:name":"Sinanyanga",
+    "wof:parent_id":1108782475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13333,
+    -16.45,
+    28.13333,
+    -16.45
+],
+  "geometry": {"coordinates":[28.13333,-16.45],"type":"Point"}
+}

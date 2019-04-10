@@ -1,0 +1,71 @@
+{
+  "id": 1243457497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.96906,-14.81077,27.96906,-14.81077",
+    "geom:latitude":-14.81077,
+    "geom:longitude":27.96906,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mukamulimba",
+    "gn:country_code":"ZM",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905266,
+    "gn:latitude":-14.81077,
+    "gn:longitude":27.96906,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mukamulimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukamulimbo",
+        "Mukamulimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905266
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"24df1041409021ae4ed454a151f0a3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1243457497,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1243457497,
+    "wof:lastmodified":1537716504,
+    "wof:name":"Mukamulimba",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.96906,
+    -14.81077,
+    27.96906,
+    -14.81077
+],
+  "geometry": {"coordinates":[27.96906,-14.81077],"type":"Point"}
+}

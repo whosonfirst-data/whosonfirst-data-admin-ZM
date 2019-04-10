@@ -1,0 +1,67 @@
+{
+  "id": 1360307693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23333,-13.31667,23.23333,-13.31667",
+    "geom:latitude":-13.31667,
+    "geom:longitude":23.23333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mashau",
+    "gn:country_code":"ZM",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907510,
+    "gn:latitude":-13.31667,
+    "gn:longitude":23.23333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mashau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907510
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b5cc4822991a20a3f5dd7ff0aa99af2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1360307693,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1360307693,
+    "wof:lastmodified":1536622512,
+    "wof:name":"Mashau",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23333,
+    -13.31667,
+    23.23333,
+    -13.31667
+],
+  "geometry": {"coordinates":[23.23333,-13.31667],"type":"Point"}
+}

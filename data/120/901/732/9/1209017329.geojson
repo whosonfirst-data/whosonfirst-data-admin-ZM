@@ -1,0 +1,65 @@
+{
+  "id": 1209017329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.55,-13.85,29.55,-13.85",
+    "geom:latitude":-13.85,
+    "geom:longitude":29.55,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kapande",
+    "gn:country_code":"ZM",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913243,
+    "gn:latitude":-13.85,
+    "gn:longitude":29.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kapande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapanda",
+        "Kapande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913243
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1afbe5f70e71e3709822fab53883a834",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209017329
+        }
+    ],
+    "wof:id":1209017329,
+    "wof:lastmodified":1537716533,
+    "wof:name":"Kapande",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.55,
+    -13.85,
+    29.55,
+    -13.85
+],
+  "geometry": {"coordinates":[29.55,-13.85],"type":"Point"}
+}

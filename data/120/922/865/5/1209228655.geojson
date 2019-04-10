@@ -1,0 +1,61 @@
+{
+  "id": 1209228655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96667,-14.83333,24.96667,-14.83333",
+    "geom:latitude":-14.83333,
+    "geom:longitude":24.96667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sihoka",
+    "gn:country_code":"ZM",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898052,
+    "gn:latitude":-14.83333,
+    "gn:longitude":24.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sihoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898052
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a2965c715505365eed192756a6611b7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209228655
+        }
+    ],
+    "wof:id":1209228655,
+    "wof:lastmodified":1536293711,
+    "wof:name":"Sihoka",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96667,
+    -14.833329999999998,
+    24.96667,
+    -14.833329999999998
+],
+  "geometry": {"coordinates":[24.96667,-14.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310397107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.58333,-15.68333,27.58333,-15.68333",
+    "geom:latitude":-15.68333,
+    "geom:longitude":27.58333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Banojabo",
+    "gn:country_code":"ZM",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921448,
+    "gn:latitude":-15.68333,
+    "gn:longitude":27.58333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Banojabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921448
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3400511ef077d58e54c5efd3490ef1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782487,
+            "locality_id":1310397107,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1310397107,
+    "wof:lastmodified":1537070340,
+    "wof:name":"Banojabo",
+    "wof:parent_id":1108782487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58333,
+    -15.68333,
+    27.58333,
+    -15.68333
+],
+  "geometry": {"coordinates":[27.58333,-15.68333],"type":"Point"}
+}

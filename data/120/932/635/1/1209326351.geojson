@@ -1,0 +1,65 @@
+{
+  "id": 1209326351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63333,-14.08333,32.63333,-14.08333",
+    "geom:latitude":-14.08333,
+    "geom:longitude":32.63333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ngololu",
+    "gn:country_code":"ZM",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901129,
+    "gn:latitude":-14.08333,
+    "gn:longitude":32.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngololu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngololo",
+        "Ngololu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901129
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d43dd8199e4e8e98c646c271495e2bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209326351
+        }
+    ],
+    "wof:id":1209326351,
+    "wof:lastmodified":1537716486,
+    "wof:name":"Ngololu",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63333,
+    -14.08333,
+    32.63333,
+    -14.08333
+],
+  "geometry": {"coordinates":[32.63333,-14.08333],"type":"Point"}
+}

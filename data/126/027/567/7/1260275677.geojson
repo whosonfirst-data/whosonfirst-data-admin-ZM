@@ -1,0 +1,71 @@
+{
+  "id": 1260275677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07284,-13.38358,23.07284,-13.38358",
+    "geom:latitude":-13.38358,
+    "geom:longitude":23.07284,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mukandakunda",
+    "gn:country_code":"ZM",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905252,
+    "gn:latitude":-13.38358,
+    "gn:longitude":23.07284,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mukandakunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukandakundu",
+        "Mukandakunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905252
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d25a4f7214c794af6feb4d0d883741b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1260275677,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1260275677,
+    "wof:lastmodified":1537716503,
+    "wof:name":"Mukandakunda",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07284,
+    -13.38358,
+    23.07284,
+    -13.38358
+],
+  "geometry": {"coordinates":[23.07284,-13.38358],"type":"Point"}
+}

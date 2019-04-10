@@ -1,0 +1,67 @@
+{
+  "id": 1277161203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5,-10.5,33.5,-10.5",
+    "geom:latitude":-10.5,
+    "geom:longitude":33.5,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chowa",
+    "gn:country_code":"ZM",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917657,
+    "gn:latitude":-10.5,
+    "gn:longitude":33.5,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917657
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5faef2b10022995f07e3479549e2be05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1277161203,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1277161203,
+    "wof:lastmodified":1536654594,
+    "wof:name":"Chowa",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5,
+    -10.5,
+    33.5,
+    -10.5
+],
+  "geometry": {"coordinates":[33.5,-10.5],"type":"Point"}
+}

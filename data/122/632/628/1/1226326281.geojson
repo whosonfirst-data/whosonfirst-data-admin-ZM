@@ -1,0 +1,67 @@
+{
+  "id": 1226326281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38333,-11.38333,32.38333,-11.38333",
+    "geom:latitude":-11.38333,
+    "geom:longitude":32.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mwila",
+    "gn:country_code":"ZM",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902668,
+    "gn:latitude":-11.38333,
+    "gn:longitude":32.38333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mwila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902668
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a8579f440e1a440fed79c3450ff8aec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1226326281,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1226326281,
+    "wof:lastmodified":1536816783,
+    "wof:name":"Mwila",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38333,
+    -11.38333,
+    32.38333,
+    -11.38333
+],
+  "geometry": {"coordinates":[32.38333,-11.38333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226449885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90981,-14.54941,30.90981,-14.54941",
+    "geom:latitude":-14.54941,
+    "geom:longitude":30.90981,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mawanda",
+    "gn:country_code":"ZM",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907204,
+    "gn:latitude":-14.54941,
+    "gn:longitude":30.90981,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mawanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabanda",
+        "Mawanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907204
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"831c22b3e24a1bbeddc9cee5d33c4cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782395,
+            "locality_id":1226449885,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1226449885,
+    "wof:lastmodified":1537716512,
+    "wof:name":"Mawanda",
+    "wof:parent_id":1108782395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90981,
+    -14.54941,
+    30.90981,
+    -14.54941
+],
+  "geometry": {"coordinates":[30.90981,-14.54941],"type":"Point"}
+}

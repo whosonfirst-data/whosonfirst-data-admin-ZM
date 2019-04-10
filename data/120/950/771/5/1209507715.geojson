@@ -1,0 +1,61 @@
+{
+  "id": 1209507715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25,-11.61667,25.25,-11.61667",
+    "geom:latitude":-11.61667,
+    "geom:longitude":25.25,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kanyemeshya",
+    "gn:country_code":"ZM",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913384,
+    "gn:latitude":-11.61667,
+    "gn:longitude":25.25,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kanyemeshya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913384
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1d85e0672010fc5d85e016a30ba18cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209507715
+        }
+    ],
+    "wof:id":1209507715,
+    "wof:lastmodified":1536284981,
+    "wof:name":"Kanyemeshya",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25,
+    -11.61667,
+    25.25,
+    -11.61667
+],
+  "geometry": {"coordinates":[25.25,-11.61667],"type":"Point"}
+}

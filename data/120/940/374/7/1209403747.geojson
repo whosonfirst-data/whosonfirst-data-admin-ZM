@@ -1,0 +1,65 @@
+{
+  "id": 1209403747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18333,-11.15,32.18333,-11.15",
+    "geom:latitude":-11.15,
+    "geom:longitude":32.18333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chikope",
+    "gn:country_code":"ZM",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919808,
+    "gn:latitude":-11.15,
+    "gn:longitude":32.18333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chikope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chikopiya",
+        "Chikope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919808
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"34116883f03ce5f5774720db65735e55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209403747
+        }
+    ],
+    "wof:id":1209403747,
+    "wof:lastmodified":1537716562,
+    "wof:name":"Chikope",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18333,
+    -11.15,
+    32.18333,
+    -11.15
+],
+  "geometry": {"coordinates":[32.18333,-11.15],"type":"Point"}
+}

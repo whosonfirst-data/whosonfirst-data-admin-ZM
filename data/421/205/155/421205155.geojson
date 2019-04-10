@@ -1,0 +1,117 @@
+{
+  "id": 421205155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.46179,-17.2614,27.46179,-17.2614",
+    "geom:latitude":-17.2614,
+    "geom:longitude":27.46179,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:dut_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:eng_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:eng_x_variant":[
+        "Sinasongwe"
+    ],
+    "name:ger_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:ita_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0421\u0438\u043d\u0430\u0437\u043e\u043d\u0433\u0432\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:por_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:ron_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:rum_x_preferred":[
+        "Sinazongwe"
+    ],
+    "name:spa_x_preferred":[
+        "Sinazongwe"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":897456,
+    "qs:gn_pop":11528,
+    "qs:name":"Sinazongwe",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":257136,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1575370,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":440,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897456,
+        "gp:id":1575370,
+        "qs:id":257136,
+        "wd:id":"Q996098"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459010214,
+    "wof:geomhash":"9348797ff555b14ea25f45c803710abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782493,
+            "locality_id":421205155,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":421205155,
+    "wof:lastmodified":1527716219,
+    "wof:name":"Sinazongwe",
+    "wof:parent_id":1108782493,
+    "wof:placetype":"locality",
+    "wof:population":11528,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46179,
+    -17.2614,
+    27.46179,
+    -17.2614
+],
+  "geometry": {"coordinates":[27.46179,-17.2614],"type":"Point"}
+}

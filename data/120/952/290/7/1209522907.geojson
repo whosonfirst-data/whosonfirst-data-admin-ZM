@@ -1,0 +1,61 @@
+{
+  "id": 1209522907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96667,-13.96667,22.96667,-13.96667",
+    "geom:latitude":-13.96667,
+    "geom:longitude":22.96667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Samuneko",
+    "gn:country_code":"ZM",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899212,
+    "gn:latitude":-13.96667,
+    "gn:longitude":22.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Samuneko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899212
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d746a4a0ff6ad4455c87c6057539cc8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209522907
+        }
+    ],
+    "wof:id":1209522907,
+    "wof:lastmodified":1536284523,
+    "wof:name":"Samuneko",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96667,
+    -13.96667,
+    22.96667,
+    -13.96667
+],
+  "geometry": {"coordinates":[22.96667,-13.96667],"type":"Point"}
+}

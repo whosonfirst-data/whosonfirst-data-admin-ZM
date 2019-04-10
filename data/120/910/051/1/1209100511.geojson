@@ -1,0 +1,61 @@
+{
+  "id": 1209100511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73333,-16.78333,27.73333,-16.78333",
+    "geom:latitude":-16.78333,
+    "geom:longitude":27.73333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siamakwane",
+    "gn:country_code":"ZM",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898353,
+    "gn:latitude":-16.78333,
+    "gn:longitude":27.73333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Siamakwane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898353
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"27f230812116e600155972e1848fefcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209100511
+        }
+    ],
+    "wof:id":1209100511,
+    "wof:lastmodified":1536297748,
+    "wof:name":"Siamakwane",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73333,
+    -16.78333,
+    27.73333,
+    -16.78333
+],
+  "geometry": {"coordinates":[27.73333,-16.78333],"type":"Point"}
+}

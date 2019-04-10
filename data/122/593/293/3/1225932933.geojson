@@ -1,0 +1,67 @@
+{
+  "id": 1225932933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.68333,-12.05,32.68333,-12.05",
+    "geom:latitude":-12.05,
+    "geom:longitude":32.68333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kasera",
+    "gn:country_code":"ZM",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912575,
+    "gn:latitude":-12.05,
+    "gn:longitude":32.68333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kasera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912575
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"90b1894867d6017557c051bc528703eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1225932933,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1225932933,
+    "wof:lastmodified":1536887491,
+    "wof:name":"Kasera",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.68333,
+    -12.05,
+    32.68333,
+    -12.05
+],
+  "geometry": {"coordinates":[32.68333,-12.05],"type":"Point"}
+}

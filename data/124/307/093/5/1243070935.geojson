@@ -1,0 +1,71 @@
+{
+  "id": 1243070935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4351,-13.17394,30.4351,-13.17394",
+    "geom:latitude":-13.17394,
+    "geom:longitude":30.4351,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mwapi Mutamuna",
+    "gn:country_code":"ZM",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902890,
+    "gn:latitude":-13.17394,
+    "gn:longitude":30.4351,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mwapi Mutamuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwapi Mulamuna",
+        "Mwapi Mutamuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902890
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9c6160096445a0f804e02228db59fbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1243070935,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1243070935,
+    "wof:lastmodified":1537716491,
+    "wof:name":"Mwapi Mutamuna",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4351,
+    -13.17394,
+    30.4351,
+    -13.17394
+],
+  "geometry": {"coordinates":[30.4351,-13.17394],"type":"Point"}
+}

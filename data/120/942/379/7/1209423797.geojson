@@ -1,0 +1,61 @@
+{
+  "id": 1209423797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83066,-13.15909,30.83066,-13.15909",
+    "geom:latitude":-13.15909,
+    "geom:longitude":30.83066,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yotam Wasomboka",
+    "gn:country_code":"ZM",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":895980,
+    "gn:latitude":-13.15909,
+    "gn:longitude":30.83066,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Yotam Wasomboka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":895980
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ecd2a9299928afa1391b47875b817eb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209423797
+        }
+    ],
+    "wof:id":1209423797,
+    "wof:lastmodified":1536287444,
+    "wof:name":"Yotam Wasomboka",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83066,
+    -13.15909,
+    30.83066,
+    -13.15909
+],
+  "geometry": {"coordinates":[30.83066,-13.15909],"type":"Point"}
+}

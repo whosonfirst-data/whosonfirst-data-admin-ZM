@@ -1,0 +1,71 @@
+{
+  "id": 1276456211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9,-12.73333,29.9,-12.73333",
+    "geom:latitude":-12.73333,
+    "geom:longitude":29.9,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makoshya",
+    "gn:country_code":"ZM",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908340,
+    "gn:latitude":-12.73333,
+    "gn:longitude":29.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Makoshya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makoshia",
+        "Makoshya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908340
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7f96e0a7db5af938cd4b0d316b428367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1276456211,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276456211,
+    "wof:lastmodified":1537716519,
+    "wof:name":"Makoshya",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9,
+    -12.73333,
+    29.9,
+    -12.73333
+],
+  "geometry": {"coordinates":[29.9,-12.73333],"type":"Point"}
+}

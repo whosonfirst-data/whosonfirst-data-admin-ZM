@@ -1,0 +1,61 @@
+{
+  "id": 1209637697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68333,-13.3,27.68333,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":27.68333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Musakashi",
+    "gn:country_code":"ZM",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910076,
+    "gn:latitude":-13.3,
+    "gn:longitude":27.68333,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Musakashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910076
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d547dd1087448265bc010347c85e8348",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209637697
+        }
+    ],
+    "wof:id":1209637697,
+    "wof:lastmodified":1536280988,
+    "wof:name":"Musakashi",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68333,
+    -13.3,
+    27.68333,
+    -13.3
+],
+  "geometry": {"coordinates":[27.68333,-13.3],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209232399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6,-15.56667,22.6,-15.56667",
+    "geom:latitude":-15.56667,
+    "geom:longitude":22.6,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kasongo",
+    "gn:country_code":"ZM",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912341,
+    "gn:latitude":-15.56667,
+    "gn:longitude":22.6,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kasongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912341
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"216906f753254fd0702b6e6a79f11c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209232399
+        }
+    ],
+    "wof:id":1209232399,
+    "wof:lastmodified":1536293596,
+    "wof:name":"Kasongo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6,
+    -15.566670000000002,
+    22.6,
+    -15.566670000000002
+],
+  "geometry": {"coordinates":[22.6,-15.56667],"type":"Point"}
+}

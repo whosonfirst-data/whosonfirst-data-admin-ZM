@@ -1,0 +1,67 @@
+{
+  "id": 1259478871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.94112,-13.16791,23.94112,-13.16791",
+    "geom:latitude":-13.16791,
+    "geom:longitude":23.94112,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ntoka",
+    "gn:country_code":"ZM",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900434,
+    "gn:latitude":-13.16791,
+    "gn:longitude":23.94112,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ntoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900434
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"014241bf1646e938506571c3899e6545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782443,
+            "locality_id":1259478871,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1259478871,
+    "wof:lastmodified":1536864118,
+    "wof:name":"Ntoka",
+    "wof:parent_id":1108782443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94112,
+    -13.16791,
+    23.94112,
+    -13.16791
+],
+  "geometry": {"coordinates":[23.94112,-13.16791],"type":"Point"}
+}

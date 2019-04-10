@@ -1,0 +1,67 @@
+{
+  "id": 1293120953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.18082,-13.00959,28.18082,-13.00959",
+    "geom:latitude":-13.00959,
+    "geom:longitude":28.18082,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sempala",
+    "gn:country_code":"ZM",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898950,
+    "gn:latitude":-13.00959,
+    "gn:longitude":28.18082,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Sempala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898950
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2a3be6131b37ac7e99af3147d28bb36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782375,
+            "locality_id":1293120953,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1293120953,
+    "wof:lastmodified":1536817717,
+    "wof:name":"Sempala",
+    "wof:parent_id":1108782375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18082,
+    -13.00959,
+    28.18082,
+    -13.00959
+],
+  "geometry": {"coordinates":[28.18082,-13.00959],"type":"Point"}
+}

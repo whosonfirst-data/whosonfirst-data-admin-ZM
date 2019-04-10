@@ -1,0 +1,71 @@
+{
+  "id": 1293602867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8708,-15.68403,22.8708,-15.68403",
+    "geom:latitude":-15.68403,
+    "geom:longitude":22.8708,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shekela",
+    "gn:country_code":"ZM",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898717,
+    "gn:latitude":-15.68403,
+    "gn:longitude":22.8708,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shekela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekela",
+        "Shekela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898717
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ba98db2f77bdccec16a7345dc297257e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782505,
+            "locality_id":1293602867,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1293602867,
+    "wof:lastmodified":1537716474,
+    "wof:name":"Shekela",
+    "wof:parent_id":1108782505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8708,
+    -15.68403,
+    22.8708,
+    -15.68403
+],
+  "geometry": {"coordinates":[22.8708,-15.68403],"type":"Point"}
+}

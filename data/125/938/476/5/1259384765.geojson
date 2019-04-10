@@ -1,0 +1,67 @@
+{
+  "id": 1259384765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41667,-13.46667,32.41667,-13.46667",
+    "geom:latitude":-13.46667,
+    "geom:longitude":32.41667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mkuwaila",
+    "gn:country_code":"ZM",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906212,
+    "gn:latitude":-13.46667,
+    "gn:longitude":32.41667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mkuwaila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906212
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"436a7a6ff82bb7e3b80d6425b7cf24c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1259384765,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1259384765,
+    "wof:lastmodified":1536999666,
+    "wof:name":"Mkuwaila",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41667,
+    -13.46667,
+    32.41667,
+    -13.46667
+],
+  "geometry": {"coordinates":[32.41667,-13.46667],"type":"Point"}
+}

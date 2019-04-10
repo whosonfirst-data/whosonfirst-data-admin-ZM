@@ -1,0 +1,67 @@
+{
+  "id": 1242883121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65947,-13.00784,30.65947,-13.00784",
+    "geom:latitude":-13.00784,
+    "geom:longitude":30.65947,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mipando Chita",
+    "gn:country_code":"ZM",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906462,
+    "gn:latitude":-13.00784,
+    "gn:longitude":30.65947,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mipando Chita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906462
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"814e4d51a7aeb1c286d742e2d499523b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1242883121,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1242883121,
+    "wof:lastmodified":1536621470,
+    "wof:name":"Mipando Chita",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65947,
+    -13.00784,
+    30.65947,
+    -13.00784
+],
+  "geometry": {"coordinates":[30.65947,-13.00784],"type":"Point"}
+}

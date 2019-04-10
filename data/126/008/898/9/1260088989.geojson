@@ -1,0 +1,67 @@
+{
+  "id": 1260088989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56955,-12.8158,30.56955,-12.8158",
+    "geom:latitude":-12.8158,
+    "geom:longitude":30.56955,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Esau Kabambanshipwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917346,
+    "gn:latitude":-12.8158,
+    "gn:longitude":30.56955,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Esau Kabambanshipwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917346
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8baf1da0ad7824318f9e7672d25a63b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1260088989,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1260088989,
+    "wof:lastmodified":1536979353,
+    "wof:name":"Esau Kabambanshipwa",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56955,
+    -12.8158,
+    30.56955,
+    -12.8158
+],
+  "geometry": {"coordinates":[30.56955,-12.8158],"type":"Point"}
+}

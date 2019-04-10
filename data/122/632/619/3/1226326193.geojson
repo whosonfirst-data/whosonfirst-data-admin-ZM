@@ -1,0 +1,67 @@
+{
+  "id": 1226326193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7807,-11.22597,32.7807,-11.22597",
+    "geom:latitude":-11.22597,
+    "geom:longitude":32.7807,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shikalinga",
+    "gn:country_code":"ZM",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898673,
+    "gn:latitude":-11.22597,
+    "gn:longitude":32.7807,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shikalinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898673
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0536f283e71a2e6fb792fd6eed73d3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1226326193,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1226326193,
+    "wof:lastmodified":1536816912,
+    "wof:name":"Shikalinga",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7807,
+    -11.22597,
+    32.7807,
+    -11.22597
+],
+  "geometry": {"coordinates":[32.7807,-11.22597],"type":"Point"}
+}

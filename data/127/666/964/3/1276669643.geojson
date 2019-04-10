@@ -1,0 +1,67 @@
+{
+  "id": 1276669643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.39937,-13.47036,32.39937,-13.47036",
+    "geom:latitude":-13.47036,
+    "geom:longitude":32.39937,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamote",
+    "gn:country_code":"ZM",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914316,
+    "gn:latitude":-13.47036,
+    "gn:longitude":32.39937,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kamote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914316
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3d54301ff9b865fa6784aa6b1bd7ce78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1276669643,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276669643,
+    "wof:lastmodified":1536824168,
+    "wof:name":"Kamote",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.39937,
+    -13.47036,
+    32.39937,
+    -13.47036
+],
+  "geometry": {"coordinates":[32.39937,-13.47036],"type":"Point"}
+}

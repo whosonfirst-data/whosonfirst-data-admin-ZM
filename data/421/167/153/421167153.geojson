@@ -1,0 +1,99 @@
+{
+  "id": 421167153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.698,-10.38446,28.698,-10.38446",
+    "geom:latitude":-10.38446,
+    "geom:longitude":28.698,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "District de Mwense"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Mwense"
+    ],
+    "name:lit_x_preferred":[
+        "Mvens\u0117s apskritis"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0432\u0435\u043dc\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Mwense"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06cc\u0646\u0633 \u0636\u0644\u0639"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":902721,
+    "qs:gn_pop":4378,
+    "qs:name":"Mwense",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Luapula",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":129908,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1572364,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902721,
+        "gp:id":1572364,
+        "qs:id":129908,
+        "wd:id":"Q3031594"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459008721,
+    "wof:geomhash":"48ce94c0d726725d92eaf47889e161cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782409,
+            "locality_id":421167153,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":421167153,
+    "wof:lastmodified":1527716158,
+    "wof:name":"Mwense",
+    "wof:parent_id":1108782409,
+    "wof:placetype":"locality",
+    "wof:population":4378,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.698,
+    -10.38446,
+    28.698,
+    -10.38446
+],
+  "geometry": {"coordinates":[28.698,-10.38446],"type":"Point"}
+}

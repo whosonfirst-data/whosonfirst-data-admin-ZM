@@ -1,0 +1,67 @@
+{
+  "id": 1242585023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81667,-14.3,31.81667,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":31.81667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chindilo",
+    "gn:country_code":"ZM",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919066,
+    "gn:latitude":-14.3,
+    "gn:longitude":31.81667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chindilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919066
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"26ab68a45005600a7ae2fedf9ba5799d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1242585023,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1242585023,
+    "wof:lastmodified":1537050738,
+    "wof:name":"Chindilo",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81667,
+    -14.3,
+    31.81667,
+    -14.3
+],
+  "geometry": {"coordinates":[31.81667,-14.3],"type":"Point"}
+}

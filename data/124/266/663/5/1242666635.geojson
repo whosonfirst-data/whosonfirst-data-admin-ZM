@@ -1,0 +1,67 @@
+{
+  "id": 1242666635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26667,-10.1,33.26667,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":33.26667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sam",
+    "gn:country_code":"ZM",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899384,
+    "gn:latitude":-10.1,
+    "gn:longitude":33.26667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899384
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8c305abf68b13bc62b84fa6bd508f3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1242666635,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1242666635,
+    "wof:lastmodified":1536936335,
+    "wof:name":"Sam",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26667,
+    -10.1,
+    33.26667,
+    -10.1
+],
+  "geometry": {"coordinates":[33.26667,-10.1],"type":"Point"}
+}

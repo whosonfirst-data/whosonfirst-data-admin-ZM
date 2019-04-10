@@ -1,0 +1,67 @@
+{
+  "id": 1344070065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.15386,-14.32502,29.15386,-14.32502",
+    "geom:latitude":-14.32502,
+    "geom:longitude":29.15386,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Litempo",
+    "gn:country_code":"ZM",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910183,
+    "gn:latitude":-14.32502,
+    "gn:longitude":29.15386,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Litempo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910183
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d34b898329a5b3ce08e70e9eb5de0c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782357,
+            "locality_id":1344070065,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1344070065,
+    "wof:lastmodified":1536860262,
+    "wof:name":"Litempo",
+    "wof:parent_id":1108782357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15386,
+    -14.32502,
+    29.15386,
+    -14.32502
+],
+  "geometry": {"coordinates":[29.15386,-14.32502],"type":"Point"}
+}

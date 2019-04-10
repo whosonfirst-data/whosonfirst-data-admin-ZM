@@ -1,0 +1,61 @@
+{
+  "id": 1209110141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96667,-14.91667,23.96667,-14.91667",
+    "geom:latitude":-14.91667,
+    "geom:longitude":23.96667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kanala",
+    "gn:country_code":"ZM",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914034,
+    "gn:latitude":-14.91667,
+    "gn:longitude":23.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kanala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914034
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"45390257494dad2c438017f8b6f1ffda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209110141
+        }
+    ],
+    "wof:id":1209110141,
+    "wof:lastmodified":1536297434,
+    "wof:name":"Kanala",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96667,
+    -14.916670000000002,
+    23.96667,
+    -14.916670000000002
+],
+  "geometry": {"coordinates":[23.96667,-14.91667],"type":"Point"}
+}

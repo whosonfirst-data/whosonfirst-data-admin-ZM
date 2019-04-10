@@ -1,0 +1,67 @@
+{
+  "id": 1344041269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05,-10.18333,33.05,-10.18333",
+    "geom:latitude":-10.18333,
+    "geom:longitude":33.05,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mwasenga",
+    "gn:country_code":"ZM",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902872,
+    "gn:latitude":-10.18333,
+    "gn:longitude":33.05,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mwasenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902872
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ff5a0511ba8513e1e6185a69bc32efa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1344041269,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1344041269,
+    "wof:lastmodified":1536903494,
+    "wof:name":"Mwasenga",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05,
+    -10.18333,
+    33.05,
+    -10.18333
+],
+  "geometry": {"coordinates":[33.05,-10.18333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243257715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86667,-9.45,32.86667,-9.45",
+    "geom:latitude":-9.45,
+    "geom:longitude":32.86667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kambwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176946,
+    "gn:latitude":-9.45,
+    "gn:longitude":32.86667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaambwe",
+        "Kambwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176946
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9154b104543c257452cc8f3b49cf6967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782435,
+            "locality_id":1243257715,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1243257715,
+    "wof:lastmodified":1537716456,
+    "wof:name":"Kambwe",
+    "wof:parent_id":1108782435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86667,
+    -9.45,
+    32.86667,
+    -9.45
+],
+  "geometry": {"coordinates":[32.86667,-9.45],"type":"Point"}
+}

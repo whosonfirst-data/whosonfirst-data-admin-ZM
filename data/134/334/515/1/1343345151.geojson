@@ -1,0 +1,67 @@
+{
+  "id": 1343345151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35,-9.3,32.35,-9.3",
+    "geom:latitude":-9.3,
+    "geom:longitude":32.35,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chozi",
+    "gn:country_code":"ZM",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177353,
+    "gn:latitude":-9.3,
+    "gn:longitude":32.35,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Chozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177353
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"54e739b40be2e0ae38a2dc129684c72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782435,
+            "locality_id":1343345151,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1343345151,
+    "wof:lastmodified":1536913140,
+    "wof:name":"Chozi",
+    "wof:parent_id":1108782435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35,
+    -9.3,
+    32.35,
+    -9.3
+],
+  "geometry": {"coordinates":[32.35,-9.3],"type":"Point"}
+}

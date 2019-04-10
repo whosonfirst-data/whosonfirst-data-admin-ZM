@@ -1,0 +1,61 @@
+{
+  "id": 1209619369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61667,-15.4,22.61667,-15.4",
+    "geom:latitude":-15.4,
+    "geom:longitude":22.61667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Simenda",
+    "gn:country_code":"ZM",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897606,
+    "gn:latitude":-15.4,
+    "gn:longitude":22.61667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Simenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897606
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"27af587747761849e1d4c1cad3d3d059",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209619369
+        }
+    ],
+    "wof:id":1209619369,
+    "wof:lastmodified":1536281574,
+    "wof:name":"Simenda",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.616670000000006,
+    -15.4,
+    22.616670000000006,
+    -15.4
+],
+  "geometry": {"coordinates":[22.61667000000001,-15.4],"type":"Point"}
+}

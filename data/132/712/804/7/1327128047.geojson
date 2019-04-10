@@ -1,0 +1,67 @@
+{
+  "id": 1327128047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16667,-10.21667,33.16667,-10.21667",
+    "geom:latitude":-10.21667,
+    "geom:longitude":33.16667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Swayembe",
+    "gn:country_code":"ZM",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896852,
+    "gn:latitude":-10.21667,
+    "gn:longitude":33.16667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Swayembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896852
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"910d4f98c480eed35a23e381affb64a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1327128047,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1327128047,
+    "wof:lastmodified":1536620310,
+    "wof:name":"Swayembe",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16667,
+    -10.21667,
+    33.16667,
+    -10.21667
+],
+  "geometry": {"coordinates":[33.16667,-10.21667],"type":"Point"}
+}

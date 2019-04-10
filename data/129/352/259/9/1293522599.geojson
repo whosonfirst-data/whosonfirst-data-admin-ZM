@@ -1,0 +1,71 @@
+{
+  "id": 1293522599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97649,-10.59657,28.97649,-10.59657",
+    "geom:latitude":-10.59657,
+    "geom:longitude":28.97649,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mutipula",
+    "gn:country_code":"ZM",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903570,
+    "gn:latitude":-10.59657,
+    "gn:longitude":28.97649,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mutipula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulipula",
+        "Mutipula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903570
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a1768669aaa4fbaf9435d2b3c8638154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782409,
+            "locality_id":1293522599,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1293522599,
+    "wof:lastmodified":1537716496,
+    "wof:name":"Mutipula",
+    "wof:parent_id":1108782409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97649,
+    -10.59657,
+    28.97649,
+    -10.59657
+],
+  "geometry": {"coordinates":[28.97649,-10.59657],"type":"Point"}
+}

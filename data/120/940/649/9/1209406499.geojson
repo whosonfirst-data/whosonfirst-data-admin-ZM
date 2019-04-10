@@ -1,0 +1,65 @@
+{
+  "id": 1209406499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83542,-16.2577,26.83542,-16.2577",
+    "geom:latitude":-16.2577,
+    "geom:longitude":26.83542,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Simaubi",
+    "gn:country_code":"ZM",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897652,
+    "gn:latitude":-16.2577,
+    "gn:longitude":26.83542,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Simaubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simaobi",
+        "Simaubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897652
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5427db53fadfa659b82ad84be4c14af2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209406499
+        }
+    ],
+    "wof:id":1209406499,
+    "wof:lastmodified":1537716465,
+    "wof:name":"Simaubi",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83542000000001,
+    -16.2577,
+    26.83542000000001,
+    -16.2577
+],
+  "geometry": {"coordinates":[26.83542000000001,-16.2577],"type":"Point"}
+}

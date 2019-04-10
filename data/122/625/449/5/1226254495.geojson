@@ -1,0 +1,67 @@
+{
+  "id": 1226254495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90535,-14.52663,30.90535,-14.52663",
+    "geom:latitude":-14.52663,
+    "geom:longitude":30.90535,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Menso",
+    "gn:country_code":"ZM",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906765,
+    "gn:latitude":-14.52663,
+    "gn:longitude":30.90535,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Menso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906765
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f3a2f70d366adef69b0ee991dfecd77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782395,
+            "locality_id":1226254495,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1226254495,
+    "wof:lastmodified":1536921617,
+    "wof:name":"Menso",
+    "wof:parent_id":1108782395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90535,
+    -14.52663,
+    30.90535,
+    -14.52663
+],
+  "geometry": {"coordinates":[30.90535,-14.52663],"type":"Point"}
+}

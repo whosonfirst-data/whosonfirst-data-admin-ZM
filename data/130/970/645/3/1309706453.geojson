@@ -1,0 +1,67 @@
+{
+  "id": 1309706453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86698,-10.62247,32.86698,-10.62247",
+    "geom:latitude":-10.62247,
+    "geom:longitude":32.86698,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chipangu",
+    "gn:country_code":"ZM",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918728,
+    "gn:latitude":-10.62247,
+    "gn:longitude":32.86698,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chipangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918728
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"31006a88ab6fb700f854f5f8143520f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1309706453,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1309706453,
+    "wof:lastmodified":1537071307,
+    "wof:name":"Chipangu",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86698,
+    -10.62247,
+    32.86698,
+    -10.62247
+],
+  "geometry": {"coordinates":[32.86698,-10.62247],"type":"Point"}
+}

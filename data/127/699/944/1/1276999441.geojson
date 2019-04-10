@@ -1,0 +1,67 @@
+{
+  "id": 1276999441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48333,-14.71667,22.48333,-14.71667",
+    "geom:latitude":-14.71667,
+    "geom:longitude":22.48333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mungandi",
+    "gn:country_code":"ZM",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904309,
+    "gn:latitude":-14.71667,
+    "gn:longitude":22.48333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mungandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904309
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d7b790e20eb1286ad43ff603144ae728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1276999441,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1276999441,
+    "wof:lastmodified":1536880110,
+    "wof:name":"Mungandi",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48333,
+    -14.71667,
+    22.48333,
+    -14.71667
+],
+  "geometry": {"coordinates":[22.48333,-14.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310592935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17678,-17.12691,26.17678,-17.12691",
+    "geom:latitude":-17.12691,
+    "geom:longitude":26.17678,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mufana",
+    "gn:country_code":"ZM",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905422,
+    "gn:latitude":-17.12691,
+    "gn:longitude":26.17678,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Mufana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905422
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a8baf2a99fc2e075dd1b280874482c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782481,
+            "locality_id":1310592935,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1310592935,
+    "wof:lastmodified":1536791233,
+    "wof:name":"Mufana",
+    "wof:parent_id":1108782481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17678,
+    -17.12691,
+    26.17678,
+    -17.12691
+],
+  "geometry": {"coordinates":[26.17678,-17.12691],"type":"Point"}
+}

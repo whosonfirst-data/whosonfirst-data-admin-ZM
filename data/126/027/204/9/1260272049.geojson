@@ -1,0 +1,72 @@
+{
+  "id": 1260272049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94523,-9.72895,32.94523,-9.72895",
+    "geom:latitude":-9.72895,
+    "geom:longitude":32.94523,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chimfwembe",
+    "gn:country_code":"ZM",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177616,
+    "gn:latitude":-9.72895,
+    "gn:longitude":32.94523,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chimfwembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimfwemba",
+        "Chifembe",
+        "Chimfwembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177616
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c2b484354494e76f7d08e9e53da64492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1260272049,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1260272049,
+    "wof:lastmodified":1537716458,
+    "wof:name":"Chimfwembe",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94523,
+    -9.72895,
+    32.94523,
+    -9.72895
+],
+  "geometry": {"coordinates":[32.94523,-9.72895],"type":"Point"}
+}

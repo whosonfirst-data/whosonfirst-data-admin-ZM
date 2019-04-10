@@ -1,0 +1,67 @@
+{
+  "id": 1309919745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16667,-14.85,25.16667,-14.85",
+    "geom:latitude":-14.85,
+    "geom:longitude":25.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mbwainga",
+    "gn:country_code":"ZM",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906850,
+    "gn:latitude":-14.85,
+    "gn:longitude":25.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mbwainga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906850
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"970f98cbfeff4b9bbbb810e4d64cb94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":1309919745,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1309919745,
+    "wof:lastmodified":1536767170,
+    "wof:name":"Mbwainga",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16667,
+    -14.85,
+    25.16667,
+    -14.85
+],
+  "geometry": {"coordinates":[25.16667,-14.85],"type":"Point"}
+}

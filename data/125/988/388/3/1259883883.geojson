@@ -1,0 +1,67 @@
+{
+  "id": 1259883883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13333,-16.9,25.13333,-16.9",
+    "geom:latitude":-16.9,
+    "geom:longitude":25.13333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sitoya",
+    "gn:country_code":"ZM",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897183,
+    "gn:latitude":-16.9,
+    "gn:longitude":25.13333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sitoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897183
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"46001c929ccafca42dea2812d38074dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1259883883,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1259883883,
+    "wof:lastmodified":1536779047,
+    "wof:name":"Sitoya",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13333,
+    -16.9,
+    25.13333,
+    -16.9
+],
+  "geometry": {"coordinates":[25.13333,-16.9],"type":"Point"}
+}

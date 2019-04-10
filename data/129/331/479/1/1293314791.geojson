@@ -1,0 +1,71 @@
+{
+  "id": 1293314791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18052,-11.1909,24.18052,-11.1909",
+    "geom:latitude":-11.1909,
+    "geom:longitude":24.18052,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakatwalu",
+    "gn:country_code":"ZM",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899475,
+    "gn:latitude":-11.1909,
+    "gn:longitude":24.18052,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sakatwalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakatwala",
+        "Sakatwalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899475
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9e011422ed9388bf11506e4599133a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782439,
+            "locality_id":1293314791,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1293314791,
+    "wof:lastmodified":1537716478,
+    "wof:name":"Sakatwalu",
+    "wof:parent_id":1108782439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18052,
+    -11.1909,
+    24.18052,
+    -11.1909
+],
+  "geometry": {"coordinates":[24.18052,-11.1909],"type":"Point"}
+}

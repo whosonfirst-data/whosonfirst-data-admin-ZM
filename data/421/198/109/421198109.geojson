@@ -1,0 +1,84 @@
+{
+  "id": 421198109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.33333,-15.45,28.33333,-15.45",
+    "geom:latitude":-15.45,
+    "geom:longitude":28.33333,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Chilenje"
+    ],
+    "name:eng_x_preferred":[
+        "Chilenje"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":919568,
+    "qs:gn_pop":0,
+    "qs:name":"Chilenje",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Lusaka",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1041694,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1564388,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":311,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919568,
+        "gp:id":1564388,
+        "qs:id":1041694,
+        "wd:id":"Q16890309"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009936,
+    "wof:geomhash":"7313de838405c201c1273ce8ddb7d23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782421,
+            "locality_id":421198109,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":421198109,
+    "wof:lastmodified":1527716354,
+    "wof:name":"Chilenje",
+    "wof:parent_id":1108782421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.33333,
+    -15.45,
+    28.33333,
+    -15.45
+],
+  "geometry": {"coordinates":[28.33333,-15.45],"type":"Point"}
+}

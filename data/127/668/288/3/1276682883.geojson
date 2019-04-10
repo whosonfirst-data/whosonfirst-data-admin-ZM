@@ -1,0 +1,71 @@
+{
+  "id": 1276682883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8,-11.13333,28.8,-11.13333",
+    "geom:latitude":-11.13333,
+    "geom:longitude":28.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mulubula",
+    "gn:country_code":"ZM",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904574,
+    "gn:latitude":-11.13333,
+    "gn:longitude":28.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mulubula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muluwula",
+        "Mulubula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904574
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9d7730dafe255fa889c7fed50f97ad9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782403,
+            "locality_id":1276682883,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1276682883,
+    "wof:lastmodified":1537716500,
+    "wof:name":"Mulubula",
+    "wof:parent_id":1108782403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8,
+    -11.13333,
+    28.8,
+    -11.13333
+],
+  "geometry": {"coordinates":[28.8,-11.13333],"type":"Point"}
+}

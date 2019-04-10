@@ -1,0 +1,67 @@
+{
+  "id": 1276347025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2,-12.16667,33.2,-12.16667",
+    "geom:latitude":-12.16667,
+    "geom:longitude":33.2,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Katandala",
+    "gn:country_code":"ZM",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912180,
+    "gn:latitude":-12.16667,
+    "gn:longitude":33.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katandala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912180
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f7c5e4c72b4d2af60eb57cd2cc5f00c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1276347025,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276347025,
+    "wof:lastmodified":1536760290,
+    "wof:name":"Katandala",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2,
+    -12.16667,
+    33.2,
+    -12.16667
+],
+  "geometry": {"coordinates":[33.2,-12.16667],"type":"Point"}
+}

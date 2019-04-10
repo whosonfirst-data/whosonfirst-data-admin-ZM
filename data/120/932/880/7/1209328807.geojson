@@ -1,0 +1,61 @@
+{
+  "id": 1209328807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15,-15.56667,23.15,-15.56667",
+    "geom:latitude":-15.56667,
+    "geom:longitude":23.15,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sinjem Elo",
+    "gn:country_code":"ZM",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897376,
+    "gn:latitude":-15.56667,
+    "gn:longitude":23.15,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sinjem Elo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897376
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bb56ddf8efbb7d73f69fd6deddfb205f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209328807
+        }
+    ],
+    "wof:id":1209328807,
+    "wof:lastmodified":1536290440,
+    "wof:name":"Sinjem Elo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15,
+    -15.566670000000002,
+    23.15,
+    -15.566670000000002
+],
+  "geometry": {"coordinates":[23.15,-15.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276119883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86855,-14.05321,32.86855,-14.05321",
+    "geom:latitude":-14.05321,
+    "geom:longitude":32.86855,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalikongwe",
+    "gn:country_code":"ZM",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915239,
+    "gn:latitude":-14.05321,
+    "gn:longitude":32.86855,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kalikongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915239
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"52c92eba9bf7b65f6a7757fc2e27a24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782385,
+            "locality_id":1276119883,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276119883,
+    "wof:lastmodified":1537061852,
+    "wof:name":"Kalikongwe",
+    "wof:parent_id":1108782385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86855,
+    -14.05321,
+    32.86855,
+    -14.05321
+],
+  "geometry": {"coordinates":[32.86855,-14.05321],"type":"Point"}
+}

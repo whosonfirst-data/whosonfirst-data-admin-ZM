@@ -1,0 +1,67 @@
+{
+  "id": 1242599041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,-17.76667,25.5,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":25.5,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chilimbana",
+    "gn:country_code":"ZM",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919515,
+    "gn:latitude":-17.76667,
+    "gn:longitude":25.5,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chilimbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919515
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d901aba1a18cacd5afc07c07c61d0828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782483,
+            "locality_id":1242599041,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1242599041,
+    "wof:lastmodified":1537031464,
+    "wof:name":"Chilimbana",
+    "wof:parent_id":1108782483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    -17.76667,
+    25.5,
+    -17.76667
+],
+  "geometry": {"coordinates":[25.5,-17.76667],"type":"Point"}
+}

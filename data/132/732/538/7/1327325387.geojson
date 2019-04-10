@@ -1,0 +1,67 @@
+{
+  "id": 1327325387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85,-15.7,25.85,-15.7",
+    "geom:latitude":-15.7,
+    "geom:longitude":25.85,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Katinti",
+    "gn:country_code":"ZM",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912015,
+    "gn:latitude":-15.7,
+    "gn:longitude":25.85,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katinti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912015
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"cb92e61bc47a98251c7a8c4fe97ebf2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782479,
+            "locality_id":1327325387,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1327325387,
+    "wof:lastmodified":1536834368,
+    "wof:name":"Katinti",
+    "wof:parent_id":1108782479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85,
+    -15.7,
+    25.85,
+    -15.7
+],
+  "geometry": {"coordinates":[25.85,-15.7],"type":"Point"}
+}

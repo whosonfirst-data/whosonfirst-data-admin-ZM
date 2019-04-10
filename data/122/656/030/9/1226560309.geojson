@@ -1,0 +1,67 @@
+{
+  "id": 1226560309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38333,-10.35,33.38333,-10.35",
+    "geom:latitude":-10.35,
+    "geom:longitude":33.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Manasseh",
+    "gn:country_code":"ZM",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907923,
+    "gn:latitude":-10.35,
+    "gn:longitude":33.38333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Manasseh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907923
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ffb11bef245a722ac3f536ab8c99eeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1226560309,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1226560309,
+    "wof:lastmodified":1536976560,
+    "wof:name":"Manasseh",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38333,
+    -10.35,
+    33.38333,
+    -10.35
+],
+  "geometry": {"coordinates":[33.38333,-10.35],"type":"Point"}
+}

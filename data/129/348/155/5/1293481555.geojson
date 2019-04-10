@@ -1,0 +1,67 @@
+{
+  "id": 1293481555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56961,-16.23512,28.56961,-16.23512",
+    "geom:latitude":-16.23512,
+    "geom:longitude":28.56961,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siamwinga",
+    "gn:country_code":"ZM",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898269,
+    "gn:latitude":-16.23512,
+    "gn:longitude":28.56961,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Siamwinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        890427539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898269
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"174879b3c288a7384bb4aae68096e11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":890427539,
+            "locality_id":1293481555,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1293481555,
+    "wof:lastmodified":1536795878,
+    "wof:name":"Siamwinga",
+    "wof:parent_id":890427539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56961,
+    -16.23512,
+    28.56961,
+    -16.23512
+],
+  "geometry": {"coordinates":[28.56961,-16.23512],"type":"Point"}
+}

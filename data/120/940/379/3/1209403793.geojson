@@ -1,0 +1,65 @@
+{
+  "id": 1209403793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.36667,-9.2,32.36667,-9.2",
+    "geom:latitude":-9.2,
+    "geom:longitude":32.36667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chilopo",
+    "gn:country_code":"ZM",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177649,
+    "gn:latitude":-9.2,
+    "gn:longitude":32.36667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chilopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiropo",
+        "Chilopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177649
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e11a5f7f111d8cbb5feb8417ca18c1bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209403793
+        }
+    ],
+    "wof:id":1209403793,
+    "wof:lastmodified":1537716458,
+    "wof:name":"Chilopo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.36667,
+    -9.2,
+    32.36667,
+    -9.2
+],
+  "geometry": {"coordinates":[32.36667,-9.2],"type":"Point"}
+}

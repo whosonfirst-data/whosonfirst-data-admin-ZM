@@ -1,0 +1,67 @@
+{
+  "id": 1293214873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18813,-16.64777,23.18813,-16.64777",
+    "geom:latitude":-16.64777,
+    "geom:longitude":23.18813,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mwanamano",
+    "gn:country_code":"ZM",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903094,
+    "gn:latitude":-16.64777,
+    "gn:longitude":23.18813,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Mwanamano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903094
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e151f3a1d6a6925869ae077cd6f343e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782509,
+            "locality_id":1293214873,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1293214873,
+    "wof:lastmodified":1536682904,
+    "wof:name":"Mwanamano",
+    "wof:parent_id":1108782509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18813,
+    -16.64777,
+    23.18813,
+    -16.64777
+],
+  "geometry": {"coordinates":[23.18813,-16.64777],"type":"Point"}
+}

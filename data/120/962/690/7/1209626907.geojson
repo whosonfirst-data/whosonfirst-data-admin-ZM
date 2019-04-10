@@ -1,0 +1,61 @@
+{
+  "id": 1209626907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86667,-13.11667,31.86667,-13.11667",
+    "geom:latitude":-13.11667,
+    "geom:longitude":31.86667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Salima",
+    "gn:country_code":"ZM",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899409,
+    "gn:latitude":-13.11667,
+    "gn:longitude":31.86667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Salima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899409
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"74455de09d26c8a2fc0b304c33cab0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209626907
+        }
+    ],
+    "wof:id":1209626907,
+    "wof:lastmodified":1536281326,
+    "wof:name":"Salima",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.866670000000006,
+    -13.11667,
+    31.866670000000006,
+    -13.11667
+],
+  "geometry": {"coordinates":[31.86667000000001,-13.11667],"type":"Point"}
+}

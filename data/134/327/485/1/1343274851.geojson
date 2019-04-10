@@ -1,0 +1,67 @@
+{
+  "id": 1343274851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22276,-13.4085,30.22276,-13.4085",
+    "geom:latitude":-13.4085,
+    "geom:longitude":30.22276,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Changwe Lisamona",
+    "gn:country_code":"ZM",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920672,
+    "gn:latitude":-13.4085,
+    "gn:longitude":30.22276,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Changwe Lisamona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920672
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6ff85fe4748e1d2c9c37c888c188b166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1343274851,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1343274851,
+    "wof:lastmodified":1537013366,
+    "wof:name":"Changwe Lisamona",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22276,
+    -13.4085,
+    30.22276,
+    -13.4085
+],
+  "geometry": {"coordinates":[30.22276,-13.4085],"type":"Point"}
+}

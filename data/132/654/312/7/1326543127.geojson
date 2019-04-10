@@ -1,0 +1,67 @@
+{
+  "id": 1326543127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51977,-14.6843,27.51977,-14.6843",
+    "geom:latitude":-14.6843,
+    "geom:longitude":27.51977,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kangabala",
+    "gn:country_code":"ZM",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913904,
+    "gn:latitude":-14.6843,
+    "gn:longitude":27.51977,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kangabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913904
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"36e45343a6abe2a3cb34fbc70e11cc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1326543127,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1326543127,
+    "wof:lastmodified":1536967947,
+    "wof:name":"Kangabala",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51977,
+    -14.6843,
+    27.51977,
+    -14.6843
+],
+  "geometry": {"coordinates":[27.51977,-14.6843],"type":"Point"}
+}

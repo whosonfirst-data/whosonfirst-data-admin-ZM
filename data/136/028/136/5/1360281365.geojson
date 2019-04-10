@@ -1,0 +1,67 @@
+{
+  "id": 1360281365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74257,-12.78509,30.74257,-12.78509",
+    "geom:latitude":-12.78509,
+    "geom:longitude":30.74257,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Benson Katemene",
+    "gn:country_code":"ZM",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921388,
+    "gn:latitude":-12.78509,
+    "gn:longitude":30.74257,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Benson Katemene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921388
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d2085b78c108e160048aa01bf0d59736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1360281365,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1360281365,
+    "wof:lastmodified":1536662520,
+    "wof:name":"Benson Katemene",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74257,
+    -12.78509,
+    30.74257,
+    -12.78509
+],
+  "geometry": {"coordinates":[30.74257,-12.78509],"type":"Point"}
+}

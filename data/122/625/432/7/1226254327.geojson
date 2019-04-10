@@ -1,0 +1,67 @@
+{
+  "id": 1226254327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82693,-14.03392,32.82693,-14.03392",
+    "geom:latitude":-14.03392,
+    "geom:longitude":32.82693,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mangani",
+    "gn:country_code":"ZM",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907857,
+    "gn:latitude":-14.03392,
+    "gn:longitude":32.82693,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mangani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907857
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7292ae8f802bd51a26c287de7218d060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782385,
+            "locality_id":1226254327,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1226254327,
+    "wof:lastmodified":1536921865,
+    "wof:name":"Mangani",
+    "wof:parent_id":1108782385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82693,
+    -14.03392,
+    32.82693,
+    -14.03392
+],
+  "geometry": {"coordinates":[32.82693,-14.03392],"type":"Point"}
+}

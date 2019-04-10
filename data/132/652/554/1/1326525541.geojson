@@ -1,0 +1,67 @@
+{
+  "id": 1326525541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16667,-10.1,32.16667,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":32.16667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kalisha",
+    "gn:country_code":"ZM",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915151,
+    "gn:latitude":-10.1,
+    "gn:longitude":32.16667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kalisha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915151
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1df3e7b8dba5040530328398123ccb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":1326525541,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1326525541,
+    "wof:lastmodified":1536992922,
+    "wof:name":"Kalisha",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16667,
+    -10.1,
+    32.16667,
+    -10.1
+],
+  "geometry": {"coordinates":[32.16667,-10.1],"type":"Point"}
+}

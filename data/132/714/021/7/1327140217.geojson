@@ -1,0 +1,71 @@
+{
+  "id": 1327140217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.75119,-11.55007,28.75119,-11.55007",
+    "geom:latitude":-11.55007,
+    "geom:longitude":28.75119,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kundamfumu",
+    "gn:country_code":"ZM",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910918,
+    "gn:latitude":-11.55007,
+    "gn:longitude":28.75119,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kundamfumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kundamfuma",
+        "Kundamfumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910918
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"affc7225722e54aebebe3129142e9077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782403,
+            "locality_id":1327140217,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1327140217,
+    "wof:lastmodified":1537716526,
+    "wof:name":"Kundamfumu",
+    "wof:parent_id":1108782403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.75119,
+    -11.55007,
+    28.75119,
+    -11.55007
+],
+  "geometry": {"coordinates":[28.75119,-11.55007],"type":"Point"}
+}

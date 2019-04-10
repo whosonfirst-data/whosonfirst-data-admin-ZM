@@ -1,0 +1,67 @@
+{
+  "id": 1326614015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1,-11.28333,33.1,-11.28333",
+    "geom:latitude":-11.28333,
+    "geom:longitude":33.1,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kasambo",
+    "gn:country_code":"ZM",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912741,
+    "gn:latitude":-11.28333,
+    "gn:longitude":33.1,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kasambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912741
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2345242aa542a7297708a9f2e96accf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1326614015,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1326614015,
+    "wof:lastmodified":1536864820,
+    "wof:name":"Kasambo",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1,
+    -11.28333,
+    33.1,
+    -11.28333
+],
+  "geometry": {"coordinates":[33.1,-11.28333],"type":"Point"}
+}

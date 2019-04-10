@@ -1,0 +1,67 @@
+{
+  "id": 1242662081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.84012,-15.2247,28.84012,-15.2247",
+    "geom:latitude":-15.2247,
+    "geom:longitude":28.84012,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chiota",
+    "gn:country_code":"ZM",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918770,
+    "gn:latitude":-15.2247,
+    "gn:longitude":28.84012,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chiota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918770
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b7375e8424cf1f01efe7795b606b2210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1242662081,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1242662081,
+    "wof:lastmodified":1536942708,
+    "wof:name":"Chiota",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84012,
+    -15.2247,
+    28.84012,
+    -15.2247
+],
+  "geometry": {"coordinates":[28.84012,-15.2247],"type":"Point"}
+}

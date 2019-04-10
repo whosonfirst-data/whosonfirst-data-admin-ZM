@@ -1,0 +1,67 @@
+{
+  "id": 1327031733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.362,-14.17549,31.362,-14.17549",
+    "geom:latitude":-14.17549,
+    "geom:longitude":31.362,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Matulena",
+    "gn:country_code":"ZM",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907265,
+    "gn:latitude":-14.17549,
+    "gn:longitude":31.362,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Matulena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907265
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"23540087b7ccfe074e7ea57862f00b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1327031733,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1327031733,
+    "wof:lastmodified":1536761648,
+    "wof:name":"Matulena",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.362,
+    -14.17549,
+    31.362,
+    -14.17549
+],
+  "geometry": {"coordinates":[31.362,-14.17549],"type":"Point"}
+}

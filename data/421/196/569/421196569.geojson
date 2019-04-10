@@ -1,0 +1,109 @@
+{
+  "id": 421196569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13758,-15.09691,23.13758,-15.09691",
+    "geom:latitude":-15.09691,
+    "geom:longitude":23.13758,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043c\u0443\u043b\u0443\u043d\u0433\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Limulunga"
+    ],
+    "name:dut_x_preferred":[
+        "Limulunga"
+    ],
+    "name:eng_x_preferred":[
+        "Limulunga"
+    ],
+    "name:ger_x_preferred":[
+        "Limulunga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e0\u30eb\u30f3\u30ac"
+    ],
+    "name:ron_x_preferred":[
+        "Limulunga"
+    ],
+    "name:rum_x_preferred":[
+        "Limulunga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043c\u0443\u043b\u0443\u043d\u0433\u0430"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":910361,
+    "qs:gn_pop":7461,
+    "qs:name":"Limulunga",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":781360,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1568549,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910361,
+        "gp:id":1568549,
+        "qs:id":781360,
+        "wd:id":"Q624670",
+        "wk:page":"Limulunga"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009886,
+    "wof:geomhash":"5b544dd5cec57f48c5706d33f3428f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":421196569,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":421196569,
+    "wof:lastmodified":1527716359,
+    "wof:name":"Limulunga",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:population":7461,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13758,
+    -15.09691,
+    23.13758,
+    -15.09691
+],
+  "geometry": {"coordinates":[23.13758,-15.09691],"type":"Point"}
+}

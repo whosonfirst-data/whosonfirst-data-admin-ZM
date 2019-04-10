@@ -1,0 +1,67 @@
+{
+  "id": 1327445749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1,-15.55,23.1,-15.55",
+    "geom:latitude":-15.55,
+    "geom:longitude":23.1,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luanda",
+    "gn:country_code":"ZM",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909909,
+    "gn:latitude":-15.55,
+    "gn:longitude":23.1,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Luanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909909
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"53008f0e9bc5aa92e525d2a1543cf015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782505,
+            "locality_id":1327445749,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1327445749,
+    "wof:lastmodified":1536661455,
+    "wof:name":"Luanda",
+    "wof:parent_id":1108782505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1,
+    -15.55,
+    23.1,
+    -15.55
+],
+  "geometry": {"coordinates":[23.1,-15.55],"type":"Point"}
+}

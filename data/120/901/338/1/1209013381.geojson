@@ -1,0 +1,61 @@
+{
+  "id": 1209013381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45108,-12.75396,30.45108,-12.75396",
+    "geom:latitude":-12.75396,
+    "geom:longitude":30.45108,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Brown Konkola",
+    "gn:country_code":"ZM",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921300,
+    "gn:latitude":-12.75396,
+    "gn:longitude":30.45108,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Brown Konkola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921300
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d05f2fb8755d4b092f9dccd6c5eafa0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209013381
+        }
+    ],
+    "wof:id":1209013381,
+    "wof:lastmodified":1536300373,
+    "wof:name":"Brown Konkola",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45108,
+    -12.75396,
+    30.45108,
+    -12.75396
+],
+  "geometry": {"coordinates":[30.45108,-12.75396],"type":"Point"}
+}

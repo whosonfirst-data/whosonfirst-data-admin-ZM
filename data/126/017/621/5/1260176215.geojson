@@ -1,0 +1,67 @@
+{
+  "id": 1260176215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78259,-16.40068,26.78259,-16.40068",
+    "geom:latitude":-16.40068,
+    "geom:longitude":26.78259,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Macha",
+    "gn:country_code":"ZM",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908655,
+    "gn:latitude":-16.40068,
+    "gn:longitude":26.78259,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Macha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908655
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"69537f8fb6b3c1d0e9fca9bcf063a002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782473,
+            "locality_id":1260176215,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1260176215,
+    "wof:lastmodified":1536856799,
+    "wof:name":"Macha",
+    "wof:parent_id":1108782473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78259000000001,
+    -16.40068,
+    26.78259000000001,
+    -16.40068
+],
+  "geometry": {"coordinates":[26.78259000000001,-16.40068],"type":"Point"}
+}

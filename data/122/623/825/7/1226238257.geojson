@@ -1,0 +1,67 @@
+{
+  "id": 1226238257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7265,-15.44225,28.7265,-15.44225",
+    "geom:latitude":-15.44225,
+    "geom:longitude":28.7265,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Shishengula",
+    "gn:country_code":"ZM",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898514,
+    "gn:latitude":-15.44225,
+    "gn:longitude":28.7265,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Shishengula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898514
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"cd49a90ebb6bf5e3b4aaa022fbc1fae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1226238257,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1226238257,
+    "wof:lastmodified":1536944899,
+    "wof:name":"Shishengula",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7265,
+    -15.44225,
+    28.7265,
+    -15.44225
+],
+  "geometry": {"coordinates":[28.7265,-15.44225],"type":"Point"}
+}

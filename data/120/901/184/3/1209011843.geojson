@@ -1,0 +1,61 @@
+{
+  "id": 1209011843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8,-14.26667,31.8,-14.26667",
+    "geom:latitude":-14.26667,
+    "geom:longitude":31.8,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Katemo",
+    "gn:country_code":"ZM",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912100,
+    "gn:latitude":-14.26667,
+    "gn:longitude":31.8,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912100
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"68357742bb8b49613a0eda1eb27fd79e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209011843
+        }
+    ],
+    "wof:id":1209011843,
+    "wof:lastmodified":1536300420,
+    "wof:name":"Katemo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8,
+    -14.26667,
+    31.8,
+    -14.26667
+],
+  "geometry": {"coordinates":[31.8,-14.26667],"type":"Point"}
+}

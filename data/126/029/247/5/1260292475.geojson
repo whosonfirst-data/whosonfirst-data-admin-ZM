@@ -1,0 +1,71 @@
+{
+  "id": 1260292475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40935,-14.63103,31.40935,-14.63103",
+    "geom:latitude":-14.63103,
+    "geom:longitude":31.40935,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mwanjawantu",
+    "gn:country_code":"ZM",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902937,
+    "gn:latitude":-14.63103,
+    "gn:longitude":31.40935,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mwanjawantu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwanjawanthu",
+        "Mwanjawantu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902937
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ec9747942e6146dd68d9783e0f0cce09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1260292475,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1260292475,
+    "wof:lastmodified":1537716492,
+    "wof:name":"Mwanjawantu",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40935,
+    -14.63103,
+    31.40935,
+    -14.63103
+],
+  "geometry": {"coordinates":[31.40935,-14.63103],"type":"Point"}
+}

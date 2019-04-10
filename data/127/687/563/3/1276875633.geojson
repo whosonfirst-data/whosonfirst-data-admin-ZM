@@ -1,0 +1,67 @@
+{
+  "id": 1276875633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88058,-13.21331,30.88058,-13.21331",
+    "geom:latitude":-13.21331,
+    "geom:longitude":30.88058,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Axon Chintu",
+    "gn:country_code":"ZM",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921516,
+    "gn:latitude":-13.21331,
+    "gn:longitude":30.88058,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Axon Chintu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921516
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1ca17e8c68ae2ef6cafcb7bf77118683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1276875633,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276875633,
+    "wof:lastmodified":1537044942,
+    "wof:name":"Axon Chintu",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88058,
+    -13.21331,
+    30.88058,
+    -13.21331
+],
+  "geometry": {"coordinates":[30.88058,-13.21331],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209226109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.60775,-13.29397,32.60775,-13.29397",
+    "geom:latitude":-13.29397,
+    "geom:longitude":32.60775,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chiwayo",
+    "gn:country_code":"ZM",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917904,
+    "gn:latitude":-13.29397,
+    "gn:longitude":32.60775,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chiwayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917904
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"31d1eb75ef5c5a667da847dc53955044",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209226109
+        }
+    ],
+    "wof:id":1209226109,
+    "wof:lastmodified":1536293795,
+    "wof:name":"Chiwayo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.60775,
+    -13.293970000000002,
+    32.60775,
+    -13.293970000000002
+],
+  "geometry": {"coordinates":[32.60775,-13.29397],"type":"Point"}
+}

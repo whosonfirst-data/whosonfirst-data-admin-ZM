@@ -1,0 +1,67 @@
+{
+  "id": 1242991859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.91667,-15.2,29.91667,-15.2",
+    "geom:latitude":-15.2,
+    "geom:longitude":29.91667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kavimba Mukuta",
+    "gn:country_code":"ZM",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":911654,
+    "gn:latitude":-15.2,
+    "gn:longitude":29.91667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kavimba Mukuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":911654
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c3df90a175d5ce26b6261e8903a7c6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1242991859,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1242991859,
+    "wof:lastmodified":1536963819,
+    "wof:name":"Kavimba Mukuta",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91667,
+    -15.2,
+    29.91667,
+    -15.2
+],
+  "geometry": {"coordinates":[29.91667,-15.2],"type":"Point"}
+}

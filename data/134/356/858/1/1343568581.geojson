@@ -1,0 +1,67 @@
+{
+  "id": 1343568581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73333,-14.6,30.73333,-14.6",
+    "geom:latitude":-14.6,
+    "geom:longitude":30.73333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malalo",
+    "gn:country_code":"ZM",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908228,
+    "gn:latitude":-14.6,
+    "gn:longitude":30.73333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Malalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908228
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"876a6873c07febf29a31c806d2bfb69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782395,
+            "locality_id":1343568581,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1343568581,
+    "wof:lastmodified":1537084503,
+    "wof:name":"Malalo",
+    "wof:parent_id":1108782395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73333,
+    -14.6,
+    30.73333,
+    -14.6
+],
+  "geometry": {"coordinates":[30.73333,-14.6],"type":"Point"}
+}

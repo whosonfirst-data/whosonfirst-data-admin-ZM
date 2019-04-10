@@ -1,0 +1,67 @@
+{
+  "id": 1309724823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74756,-12.90608,30.74756,-12.90608",
+    "geom:latitude":-12.90608,
+    "geom:longitude":30.74756,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chanda Katoba",
+    "gn:country_code":"ZM",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920732,
+    "gn:latitude":-12.90608,
+    "gn:longitude":30.74756,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chanda Katoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920732
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"55f9b3721b243da2c0cd4051ff6e0f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1309724823,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1309724823,
+    "wof:lastmodified":1537045853,
+    "wof:name":"Chanda Katoba",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74756,
+    -12.90608,
+    30.74756,
+    -12.90608
+],
+  "geometry": {"coordinates":[30.74756,-12.90608],"type":"Point"}
+}

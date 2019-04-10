@@ -1,0 +1,67 @@
+{
+  "id": 1310413529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23333,-13.03333,32.23333,-13.03333",
+    "geom:latitude":-13.03333,
+    "geom:longitude":32.23333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sitambali",
+    "gn:country_code":"ZM",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897250,
+    "gn:latitude":-13.03333,
+    "gn:longitude":32.23333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sitambali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897250
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0eb7cde0df8761dcb8d323322a4805e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1310413529,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1310413529,
+    "wof:lastmodified":1537047621,
+    "wof:name":"Sitambali",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23333,
+    -13.03333,
+    32.23333,
+    -13.03333
+],
+  "geometry": {"coordinates":[32.23333,-13.03333],"type":"Point"}
+}

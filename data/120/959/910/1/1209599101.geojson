@@ -1,0 +1,65 @@
+{
+  "id": 1209599101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,-11.91667,30.68333,-11.91667",
+    "geom:latitude":-11.91667,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Malamwila",
+    "gn:country_code":"ZM",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908197,
+    "gn:latitude":-11.91667,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Malamwila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malamamwita",
+        "Malamwila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908197
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6a853a024a0a850b915e6dff7848e526",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209599101
+        }
+    ],
+    "wof:id":1209599101,
+    "wof:lastmodified":1537716518,
+    "wof:name":"Malamwila",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    -11.91667,
+    30.68333,
+    -11.91667
+],
+  "geometry": {"coordinates":[30.68333,-11.91667],"type":"Point"}
+}

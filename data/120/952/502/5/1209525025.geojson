@@ -1,0 +1,61 @@
+{
+  "id": 1209525025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8,-14.16667,24.8,-14.16667",
+    "geom:latitude":-14.16667,
+    "geom:longitude":24.8,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Katanya",
+    "gn:country_code":"ZM",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912157,
+    "gn:latitude":-14.16667,
+    "gn:longitude":24.8,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Katanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912157
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f649ee7fe702176b6e8a652fb9df0b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209525025
+        }
+    ],
+    "wof:id":1209525025,
+    "wof:lastmodified":1536284458,
+    "wof:name":"Katanya",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8,
+    -14.166670000000002,
+    24.8,
+    -14.166670000000002
+],
+  "geometry": {"coordinates":[24.8,-14.16667],"type":"Point"}
+}

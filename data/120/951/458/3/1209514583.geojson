@@ -1,0 +1,61 @@
+{
+  "id": 1209514583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52506,-8.82699,31.52506,-8.82699",
+    "geom:latitude":-8.82699,
+    "geom:longitude":31.52506,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kawimbe",
+    "gn:country_code":"ZM",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176543,
+    "gn:latitude":-8.82699,
+    "gn:longitude":31.52506,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kawimbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176543
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"92168f92af9a2edebbd5fe46a9aa779b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209514583
+        }
+    ],
+    "wof:id":1209514583,
+    "wof:lastmodified":1536284774,
+    "wof:name":"Kawimbe",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52506,
+    -8.826989999999997,
+    31.52506,
+    -8.826989999999997
+],
+  "geometry": {"coordinates":[31.52506,-8.82699],"type":"Point"}
+}

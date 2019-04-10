@@ -1,0 +1,67 @@
+{
+  "id": 1360107073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03333,-14.53333,25.03333,-14.53333",
+    "geom:latitude":-14.53333,
+    "geom:longitude":25.03333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mulundano",
+    "gn:country_code":"ZM",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904538,
+    "gn:latitude":-14.53333,
+    "gn:longitude":25.03333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mulundano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904538
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9ac6ee08e7501970f08bb71679024d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782447,
+            "locality_id":1360107073,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1360107073,
+    "wof:lastmodified":1536914390,
+    "wof:name":"Mulundano",
+    "wof:parent_id":1108782447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03333,
+    -14.53333,
+    25.03333,
+    -14.53333
+],
+  "geometry": {"coordinates":[25.03333,-14.53333],"type":"Point"}
+}

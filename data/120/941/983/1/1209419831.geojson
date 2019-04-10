@@ -1,0 +1,61 @@
+{
+  "id": 1209419831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5,-8.9,31.5,-8.9",
+    "geom:latitude":-8.9,
+    "geom:longitude":31.5,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chipalo",
+    "gn:country_code":"ZM",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177571,
+    "gn:latitude":-8.9,
+    "gn:longitude":31.5,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chipalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177571
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a1a3c65172cd432809a1a0d4be7b3c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209419831
+        }
+    ],
+    "wof:id":1209419831,
+    "wof:lastmodified":1536287568,
+    "wof:name":"Chipalo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5,
+    -8.9,
+    31.5,
+    -8.9
+],
+  "geometry": {"coordinates":[31.5,-8.9],"type":"Point"}
+}

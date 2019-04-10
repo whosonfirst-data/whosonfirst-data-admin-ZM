@@ -1,0 +1,67 @@
+{
+  "id": 1242661331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75,-9.7,32.75,-9.7",
+    "geom:latitude":-9.7,
+    "geom:longitude":32.75,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sichole",
+    "gn:country_code":"ZM",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175215,
+    "gn:latitude":-9.7,
+    "gn:longitude":32.75,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sichole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175215
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"57ef52f5e7c607ac5d12a7abb1826a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1242661331,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1242661331,
+    "wof:lastmodified":1536943753,
+    "wof:name":"Sichole",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75,
+    -9.7,
+    32.75,
+    -9.7
+],
+  "geometry": {"coordinates":[32.75,-9.7],"type":"Point"}
+}

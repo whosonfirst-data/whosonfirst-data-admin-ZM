@@ -1,0 +1,68 @@
+{
+  "id": 1243193711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.84311,-16.03577,28.84311,-16.03577",
+    "geom:latitude":-16.03577,
+    "geom:longitude":28.84311,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chirundu",
+    "gn:country_code":"ZM",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918488,
+    "gn:latitude":-16.03577,
+    "gn:longitude":28.84311,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chirundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        890427539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918488,
+        "wk:page":"Chirundu%2C_Zambia"
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9fd30102198ca508b7529a4adf193593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":890427539,
+            "locality_id":1243193711,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1243193711,
+    "wof:lastmodified":1537576390,
+    "wof:name":"Chirundu",
+    "wof:parent_id":890427539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84311,
+    -16.03577,
+    28.84311,
+    -16.03577
+],
+  "geometry": {"coordinates":[28.84311,-16.03577],"type":"Point"}
+}

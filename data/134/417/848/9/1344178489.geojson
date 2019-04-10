@@ -1,0 +1,71 @@
+{
+  "id": 1344178489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.28316,-16.32001,28.28316,-16.32001",
+    "geom:latitude":-16.32001,
+    "geom:longitude":28.28316,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siankwala",
+    "gn:country_code":"ZM",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898231,
+    "gn:latitude":-16.32001,
+    "gn:longitude":28.28316,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Siankwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siakwala",
+        "Siankwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        890427539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898231
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c687c4789b2fb3eb6a9ac3065e19a6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":890427539,
+            "locality_id":1344178489,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1344178489,
+    "wof:lastmodified":1537716468,
+    "wof:name":"Siankwala",
+    "wof:parent_id":890427539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.28316,
+    -16.32001,
+    28.28316,
+    -16.32001
+],
+  "geometry": {"coordinates":[28.28316,-16.32001],"type":"Point"}
+}

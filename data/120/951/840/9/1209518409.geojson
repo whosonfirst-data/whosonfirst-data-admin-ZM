@@ -1,0 +1,61 @@
+{
+  "id": 1209518409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.12366,-13.48221,30.12366,-13.48221",
+    "geom:latitude":-13.48221,
+    "geom:longitude":30.12366,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabalika",
+    "gn:country_code":"ZM",
+    "gn:dem":1418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908715,
+    "gn:latitude":-13.48221,
+    "gn:longitude":30.12366,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mabalika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908715
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"09d92dfb9b0e8cb05e298aeeae6fbdd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209518409
+        }
+    ],
+    "wof:id":1209518409,
+    "wof:lastmodified":1536284657,
+    "wof:name":"Mabalika",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12366,
+    -13.48221,
+    30.12366,
+    -13.48221
+],
+  "geometry": {"coordinates":[30.12366,-13.48221],"type":"Point"}
+}

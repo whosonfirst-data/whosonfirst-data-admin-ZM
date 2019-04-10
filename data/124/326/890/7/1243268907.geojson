@@ -1,0 +1,67 @@
+{
+  "id": 1243268907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98333,-10.11667,31.98333,-10.11667",
+    "geom:latitude":-10.11667,
+    "geom:longitude":31.98333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndasa",
+    "gn:country_code":"ZM",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901399,
+    "gn:latitude":-10.11667,
+    "gn:longitude":31.98333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ndasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901399
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"55e6b7459ca2fed8c87711e661cf1126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782471,
+            "locality_id":1243268907,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1243268907,
+    "wof:lastmodified":1537058847,
+    "wof:name":"Ndasa",
+    "wof:parent_id":1108782471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98333,
+    -10.11667,
+    31.98333,
+    -10.11667
+],
+  "geometry": {"coordinates":[31.98333,-10.11667],"type":"Point"}
+}

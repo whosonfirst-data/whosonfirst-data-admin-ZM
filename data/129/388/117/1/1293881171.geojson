@@ -1,0 +1,67 @@
+{
+  "id": 1293881171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18929,-13.84637,23.18929,-13.84637",
+    "geom:latitude":-13.84637,
+    "geom:longitude":23.18929,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muhanga",
+    "gn:country_code":"ZM",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905330,
+    "gn:latitude":-13.84637,
+    "gn:longitude":23.18929,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Muhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905330
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5d4562037b658a2ead47c95dcce7421b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1293881171,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1293881171,
+    "wof:lastmodified":1536717068,
+    "wof:name":"Muhanga",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18929,
+    -13.84637,
+    23.18929,
+    -13.84637
+],
+  "geometry": {"coordinates":[23.18929,-13.84637],"type":"Point"}
+}

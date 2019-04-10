@@ -1,0 +1,71 @@
+{
+  "id": 1310001081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91921,-11.16576,31.91921,-11.16576",
+    "geom:latitude":-11.16576,
+    "geom:longitude":31.91921,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Malipilo",
+    "gn:country_code":"ZM",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908086,
+    "gn:latitude":-11.16576,
+    "gn:longitude":31.91921,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Malipilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matipilo",
+        "Malipilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908086
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c5aeed38817892c0e1be752d94c2c136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":1310001081,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1310001081,
+    "wof:lastmodified":1537716517,
+    "wof:name":"Malipilo",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91921,
+    -11.16576,
+    31.91921,
+    -11.16576
+],
+  "geometry": {"coordinates":[31.91921,-11.16576],"type":"Point"}
+}

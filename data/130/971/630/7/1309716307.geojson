@@ -1,0 +1,67 @@
+{
+  "id": 1309716307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95604,-14.57558,24.95604,-14.57558",
+    "geom:latitude":-14.57558,
+    "geom:longitude":24.95604,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kachoncho",
+    "gn:country_code":"ZM",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915960,
+    "gn:latitude":-14.57558,
+    "gn:longitude":24.95604,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kachoncho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915960
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d2caa9e66c89dedaba8df5dd02278470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":1309716307,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1309716307,
+    "wof:lastmodified":1537057569,
+    "wof:name":"Kachoncho",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95604,
+    -14.57558,
+    24.95604,
+    -14.57558
+],
+  "geometry": {"coordinates":[24.95604,-14.57558],"type":"Point"}
+}

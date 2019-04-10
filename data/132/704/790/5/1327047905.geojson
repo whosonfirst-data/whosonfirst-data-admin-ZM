@@ -1,0 +1,67 @@
+{
+  "id": 1327047905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35,-15.4,23.35,-15.4",
+    "geom:latitude":-15.4,
+    "geom:longitude":23.35,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mulozi",
+    "gn:country_code":"ZM",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904579,
+    "gn:latitude":-15.4,
+    "gn:longitude":23.35,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mulozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904579
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f1e6afcc2933df455c9ed0bb0ca8255c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1327047905,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1327047905,
+    "wof:lastmodified":1536737997,
+    "wof:name":"Mulozi",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35,
+    -15.4,
+    23.35,
+    -15.4
+],
+  "geometry": {"coordinates":[23.35,-15.4],"type":"Point"}
+}

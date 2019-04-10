@@ -1,0 +1,67 @@
+{
+  "id": 1209814637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17286,-10.89644,31.17286,-10.89644",
+    "geom:latitude":-10.89644,
+    "geom:longitude":31.17286,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malama",
+    "gn:country_code":"ZM",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908225,
+    "gn:latitude":-10.89644,
+    "gn:longitude":31.17286,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Malama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908225
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8cd855ad02d06a38ebe6141e8707c0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":1209814637,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1209814637,
+    "wof:lastmodified":1536384874,
+    "wof:name":"Malama",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17286,
+    -10.89644,
+    31.17286,
+    -10.89644
+],
+  "geometry": {"coordinates":[31.17286,-10.89644],"type":"Point"}
+}

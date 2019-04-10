@@ -1,0 +1,67 @@
+{
+  "id": 1292989975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65,-10.26667,32.65,-10.26667",
+    "geom:latitude":-10.26667,
+    "geom:longitude":32.65,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nansala",
+    "gn:country_code":"ZM",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901620,
+    "gn:latitude":-10.26667,
+    "gn:longitude":32.65,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nansala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901620
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c6991b2ae28aaf895eb4bb997fe5f1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1292989975,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1292989975,
+    "wof:lastmodified":1537006543,
+    "wof:name":"Nansala",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65,
+    -10.26667,
+    32.65,
+    -10.26667
+],
+  "geometry": {"coordinates":[32.65,-10.26667],"type":"Point"}
+}

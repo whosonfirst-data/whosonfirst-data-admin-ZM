@@ -1,0 +1,67 @@
+{
+  "id": 1243566137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1782,-14.05201,32.1782,-14.05201",
+    "geom:latitude":-14.05201,
+    "geom:longitude":32.1782,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamtibulila",
+    "gn:country_code":"ZM",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914182,
+    "gn:latitude":-14.05201,
+    "gn:longitude":32.1782,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kamtibulila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914182
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0bf6d209e753fe2ef7ca91d322cb0f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1243566137,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1243566137,
+    "wof:lastmodified":1536631478,
+    "wof:name":"Kamtibulila",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1782,
+    -14.05201,
+    32.1782,
+    -14.05201
+],
+  "geometry": {"coordinates":[32.1782,-14.05201],"type":"Point"}
+}

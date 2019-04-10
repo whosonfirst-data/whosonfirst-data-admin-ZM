@@ -1,0 +1,67 @@
+{
+  "id": 1242586551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53913,-12.9205,30.53913,-12.9205",
+    "geom:latitude":-12.9205,
+    "geom:longitude":30.53913,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wilson Malata",
+    "gn:country_code":"ZM",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896112,
+    "gn:latitude":-12.9205,
+    "gn:longitude":30.53913,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Wilson Malata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896112
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"662834a1d3bf7d014bc968ce3cfd0232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1242586551,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1242586551,
+    "wof:lastmodified":1537048579,
+    "wof:name":"Wilson Malata",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53913,
+    -12.9205,
+    30.53913,
+    -12.9205
+],
+  "geometry": {"coordinates":[30.53913,-12.9205],"type":"Point"}
+}

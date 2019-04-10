@@ -1,0 +1,61 @@
+{
+  "id": 1209118971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59388,-13.23913,30.59388,-13.23913",
+    "geom:latitude":-13.23913,
+    "geom:longitude":30.59388,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baskolo",
+    "gn:country_code":"ZM",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921434,
+    "gn:latitude":-13.23913,
+    "gn:longitude":30.59388,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Baskolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921434
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"14d82ab5ece84e4fd8cee28611a63d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209118971
+        }
+    ],
+    "wof:id":1209118971,
+    "wof:lastmodified":1536297164,
+    "wof:name":"Baskolo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59388,
+    -13.23913,
+    30.59388,
+    -13.23913
+],
+  "geometry": {"coordinates":[30.59388,-13.23913],"type":"Point"}
+}

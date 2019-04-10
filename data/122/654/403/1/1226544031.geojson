@@ -1,0 +1,67 @@
+{
+  "id": 1226544031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89817,-14.85952,24.89817,-14.85952",
+    "geom:latitude":-14.85952,
+    "geom:longitude":24.89817,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Liolola",
+    "gn:country_code":"ZM",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910300,
+    "gn:latitude":-14.85952,
+    "gn:longitude":24.89817,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Liolola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910300
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4f1790ac672b2ebee888e5572baf8d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":1226544031,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1226544031,
+    "wof:lastmodified":1536999735,
+    "wof:name":"Liolola",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89817,
+    -14.85952,
+    24.89817,
+    -14.85952
+],
+  "geometry": {"coordinates":[24.89817,-14.85952],"type":"Point"}
+}

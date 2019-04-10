@@ -1,0 +1,67 @@
+{
+  "id": 1344258919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25968,-14.40278,30.25968,-14.40278",
+    "geom:latitude":-14.40278,
+    "geom:longitude":30.25968,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mayawa",
+    "gn:country_code":"ZM",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907162,
+    "gn:latitude":-14.40278,
+    "gn:longitude":30.25968,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mayawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907162
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1a4b90dc07bc28c1181e9240a71ffbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782395,
+            "locality_id":1344258919,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1344258919,
+    "wof:lastmodified":1537083214,
+    "wof:name":"Mayawa",
+    "wof:parent_id":1108782395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25968,
+    -14.40278,
+    30.25968,
+    -14.40278
+],
+  "geometry": {"coordinates":[30.25968,-14.40278],"type":"Point"}
+}

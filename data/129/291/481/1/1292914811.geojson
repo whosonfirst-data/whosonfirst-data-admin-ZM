@@ -1,0 +1,67 @@
+{
+  "id": 1292914811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91811,-14.12118,31.91811,-14.12118",
+    "geom:latitude":-14.12118,
+    "geom:longitude":31.91811,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Keni",
+    "gn:country_code":"ZM",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":911251,
+    "gn:latitude":-14.12118,
+    "gn:longitude":31.91811,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Keni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":911251
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4a11c82f9abec43f80a2d73c403ef3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782389,
+            "locality_id":1292914811,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1292914811,
+    "wof:lastmodified":1536616226,
+    "wof:name":"Keni",
+    "wof:parent_id":1108782389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91811,
+    -14.12118,
+    31.91811,
+    -14.12118
+],
+  "geometry": {"coordinates":[31.91811,-14.12118],"type":"Point"}
+}

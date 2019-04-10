@@ -1,0 +1,67 @@
+{
+  "id": 1193262139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71667,-10.26667,32.71667,-10.26667",
+    "geom:latitude":-10.26667,
+    "geom:longitude":32.71667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Musa",
+    "gn:country_code":"ZM",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904044,
+    "gn:latitude":-10.26667,
+    "gn:longitude":32.71667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Musa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904044
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"52d42eec04275e669601daa259eca88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1193262139,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1193262139,
+    "wof:lastmodified":1536379721,
+    "wof:name":"Musa",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71667,
+    -10.26667,
+    32.71667,
+    -10.26667
+],
+  "geometry": {"coordinates":[32.71667,-10.26667],"type":"Point"}
+}

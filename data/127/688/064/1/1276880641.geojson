@@ -1,0 +1,67 @@
+{
+  "id": 1276880641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82332,-13.21944,31.82332,-13.21944",
+    "geom:latitude":-13.21944,
+    "geom:longitude":31.82332,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalomba",
+    "gn:country_code":"ZM",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915102,
+    "gn:latitude":-13.21944,
+    "gn:longitude":31.82332,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kalomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915102
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8a4ed8511034cb88d2f8bbf4d733008c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1276880641,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276880641,
+    "wof:lastmodified":1537038390,
+    "wof:name":"Kalomba",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82332,
+    -13.21944,
+    31.82332,
+    -13.21944
+],
+  "geometry": {"coordinates":[31.82332,-13.21944],"type":"Point"}
+}

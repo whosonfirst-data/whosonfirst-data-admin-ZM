@@ -1,0 +1,71 @@
+{
+  "id": 1259968659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25,-10.36667,33.25,-10.36667",
+    "geom:latitude":-10.36667,
+    "geom:longitude":33.25,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chantamaka",
+    "gn:country_code":"ZM",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920601,
+    "gn:latitude":-10.36667,
+    "gn:longitude":33.25,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chantamaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chatamaka",
+        "Chantamaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920601
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f8082e14e913f877d4d1599288564d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1259968659,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1259968659,
+    "wof:lastmodified":1537716566,
+    "wof:name":"Chantamaka",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25,
+    -10.36667,
+    33.25,
+    -10.36667
+],
+  "geometry": {"coordinates":[33.25,-10.36667],"type":"Point"}
+}

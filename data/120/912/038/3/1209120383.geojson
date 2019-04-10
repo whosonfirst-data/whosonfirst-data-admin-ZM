@@ -1,0 +1,61 @@
+{
+  "id": 1209120383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23333,-15.61667,23.23333,-15.61667",
+    "geom:latitude":-15.61667,
+    "geom:longitude":23.23333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nyamamwandi",
+    "gn:country_code":"ZM",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900297,
+    "gn:latitude":-15.61667,
+    "gn:longitude":23.23333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nyamamwandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900297
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d2df3d2394549cc5229628f2f9cf65e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209120383
+        }
+    ],
+    "wof:id":1209120383,
+    "wof:lastmodified":1536297119,
+    "wof:name":"Nyamamwandi",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23333,
+    -15.61667,
+    23.23333,
+    -15.61667
+],
+  "geometry": {"coordinates":[23.23333,-15.61667],"type":"Point"}
+}

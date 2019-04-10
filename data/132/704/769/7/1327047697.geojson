@@ -1,0 +1,67 @@
+{
+  "id": 1327047697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10297,-14.7236,25.10297,-14.7236",
+    "geom:latitude":-14.7236,
+    "geom:longitude":25.10297,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shimbundu",
+    "gn:country_code":"ZM",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898600,
+    "gn:latitude":-14.7236,
+    "gn:longitude":25.10297,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Shimbundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898600
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"de25b5e9fc42cdbb226edb72c5250ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":1327047697,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1327047697,
+    "wof:lastmodified":1536738302,
+    "wof:name":"Shimbundu",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10297000000001,
+    -14.7236,
+    25.10297000000001,
+    -14.7236
+],
+  "geometry": {"coordinates":[25.10297000000001,-14.7236],"type":"Point"}
+}

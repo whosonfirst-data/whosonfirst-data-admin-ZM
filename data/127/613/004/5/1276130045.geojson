@@ -1,0 +1,67 @@
+{
+  "id": 1276130045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.11007,-13.4216,32.11007,-13.4216",
+    "geom:latitude":-13.4216,
+    "geom:longitude":32.11007,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Luka",
+    "gn:country_code":"ZM",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909594,
+    "gn:latitude":-13.4216,
+    "gn:longitude":32.11007,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Luka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909594
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b4ab7246725ab6b9cc20e822b6aedd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1276130045,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276130045,
+    "wof:lastmodified":1537048899,
+    "wof:name":"Luka",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.11007,
+    -13.4216,
+    32.11007,
+    -13.4216
+],
+  "geometry": {"coordinates":[32.11007,-13.4216],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343463517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76516,-8.88455,30.76516,-8.88455",
+    "geom:latitude":-8.88455,
+    "geom:longitude":30.76516,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chifungo",
+    "gn:country_code":"ZM",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177737,
+    "gn:latitude":-8.88455,
+    "gn:longitude":30.76516,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chifungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chifunge",
+        "Chifungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177737
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"565f1350b0d77738b80f996e0238f676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1343463517,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1343463517,
+    "wof:lastmodified":1537716458,
+    "wof:name":"Chifungo",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76516,
+    -8.88455,
+    30.76516,
+    -8.88455
+],
+  "geometry": {"coordinates":[30.76516,-8.88455],"type":"Point"}
+}

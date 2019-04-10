@@ -1,0 +1,65 @@
+{
+  "id": 1209622793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.43767,-14.21528,32.43767,-14.21528",
+    "geom:latitude":-14.21528,
+    "geom:longitude":32.43767,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tafelonsoni",
+    "gn:country_code":"ZM",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896832,
+    "gn:latitude":-14.21528,
+    "gn:longitude":32.43767,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tafelonsoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafelansoni",
+        "Tafelonsoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896832
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9265c820c17296466f2b427ba8fdc1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209622793
+        }
+    ],
+    "wof:id":1209622793,
+    "wof:lastmodified":1537716462,
+    "wof:name":"Tafelonsoni",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.43767,
+    -14.21528,
+    32.43767,
+    -14.21528
+],
+  "geometry": {"coordinates":[32.43767,-14.21528],"type":"Point"}
+}

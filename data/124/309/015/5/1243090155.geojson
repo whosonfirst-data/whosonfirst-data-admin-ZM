@@ -1,0 +1,71 @@
+{
+  "id": 1243090155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2,-8.66667,31.2,-8.66667",
+    "geom:latitude":-8.66667,
+    "geom:longitude":31.2,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zombe",
+    "gn:country_code":"ZM",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175017,
+    "gn:latitude":-8.66667,
+    "gn:longitude":31.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emily Zombe",
+        "Zombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175017
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"789876319ad14c1fb5ed9faca16e235d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1243090155,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1243090155,
+    "wof:lastmodified":1537716448,
+    "wof:name":"Zombe",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2,
+    -8.66667,
+    31.2,
+    -8.66667
+],
+  "geometry": {"coordinates":[31.2,-8.66667],"type":"Point"}
+}

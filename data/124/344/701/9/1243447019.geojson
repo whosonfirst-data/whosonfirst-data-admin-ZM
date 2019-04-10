@@ -1,0 +1,72 @@
+{
+  "id": 1243447019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62694,-11.86274,24.62694,-11.86274",
+    "geom:latitude":-11.86274,
+    "geom:longitude":24.62694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chuka",
+    "gn:country_code":"ZM",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917635,
+    "gn:latitude":-11.86274,
+    "gn:longitude":24.62694,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuha",
+        "Choka",
+        "Chuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917635
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0b56923a1eeb4104b3d89008ac00e7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782449,
+            "locality_id":1243447019,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1243447019,
+    "wof:lastmodified":1537716549,
+    "wof:name":"Chuka",
+    "wof:parent_id":1108782449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62694,
+    -11.86274,
+    24.62694,
+    -11.86274
+],
+  "geometry": {"coordinates":[24.62694,-11.86274],"type":"Point"}
+}

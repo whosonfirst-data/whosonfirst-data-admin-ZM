@@ -1,0 +1,67 @@
+{
+  "id": 1276648987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,-13.11667,22.73333,-13.11667",
+    "geom:latitude":-13.11667,
+    "geom:longitude":22.73333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lilema",
+    "gn:country_code":"ZM",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910426,
+    "gn:latitude":-13.11667,
+    "gn:longitude":22.73333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Lilema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910426
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"99153023078b2acb805f7fcf699c8365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782437,
+            "locality_id":1276648987,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1276648987,
+    "wof:lastmodified":1536851768,
+    "wof:name":"Lilema",
+    "wof:parent_id":1108782437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    -13.11667,
+    22.73333,
+    -13.11667
+],
+  "geometry": {"coordinates":[22.73333,-13.11667],"type":"Point"}
+}

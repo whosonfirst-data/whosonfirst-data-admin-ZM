@@ -1,0 +1,67 @@
+{
+  "id": 1193120989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91379,-11.32731,31.91379,-11.32731",
+    "geom:latitude":-11.32731,
+    "geom:longitude":31.91379,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chilamo",
+    "gn:country_code":"ZM",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919641,
+    "gn:latitude":-11.32731,
+    "gn:longitude":31.91379,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chilamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919641
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"95cdc372b7a576fb3a7751456284e297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":1193120989,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1193120989,
+    "wof:lastmodified":1536364309,
+    "wof:name":"Chilamo",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91379,
+    -11.32731,
+    31.91379,
+    -11.32731
+],
+  "geometry": {"coordinates":[31.91379,-11.32731],"type":"Point"}
+}

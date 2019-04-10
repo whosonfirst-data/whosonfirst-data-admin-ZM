@@ -1,0 +1,67 @@
+{
+  "id": 1343967671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94373,-16.68972,24.94373,-16.68972",
+    "geom:latitude":-16.68972,
+    "geom:longitude":24.94373,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lukomeno",
+    "gn:country_code":"ZM",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909520,
+    "gn:latitude":-16.68972,
+    "gn:longitude":24.94373,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Lukomeno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909520
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0215a88f1915c0ab27f08f797c161a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1343967671,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1343967671,
+    "wof:lastmodified":1537008774,
+    "wof:name":"Lukomeno",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94373,
+    -16.68972,
+    24.94373,
+    -16.68972
+],
+  "geometry": {"coordinates":[24.94373,-16.68972],"type":"Point"}
+}

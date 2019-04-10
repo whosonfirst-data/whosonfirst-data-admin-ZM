@@ -1,0 +1,67 @@
+{
+  "id": 1242778147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.89921,-8.47058,28.89921,-8.47058",
+    "geom:latitude":-8.47058,
+    "geom:longitude":28.89921,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pweto",
+    "gn:country_code":"ZM",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175287,
+    "gn:latitude":-8.47058,
+    "gn:longitude":28.89921,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Pweto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175287
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b7cc26292bc0be9e248c5ba9bbc7a074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1242778147,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242778147,
+    "wof:lastmodified":1536775436,
+    "wof:name":"Pweto",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89921,
+    -8.47058,
+    28.89921,
+    -8.47058
+],
+  "geometry": {"coordinates":[28.89921,-8.47058],"type":"Point"}
+}

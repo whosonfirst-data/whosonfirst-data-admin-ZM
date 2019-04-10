@@ -1,0 +1,67 @@
+{
+  "id": 1327441135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61667,-14.3,23.61667,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":23.61667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mukumena",
+    "gn:country_code":"ZM",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905036,
+    "gn:latitude":-14.3,
+    "gn:longitude":23.61667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mukumena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905036
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1d253d98f70419d0ea5c74a42c0a99fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782501,
+            "locality_id":1327441135,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1327441135,
+    "wof:lastmodified":1536668134,
+    "wof:name":"Mukumena",
+    "wof:parent_id":1108782501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61667000000001,
+    -14.3,
+    23.61667000000001,
+    -14.3
+],
+  "geometry": {"coordinates":[23.61667000000001,-14.3],"type":"Point"}
+}

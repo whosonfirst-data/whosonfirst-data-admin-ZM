@@ -1,0 +1,67 @@
+{
+  "id": 1276323571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8475,-15.18806,28.8475,-15.18806",
+    "geom:latitude":-15.18806,
+    "geom:longitude":28.8475,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Manyama",
+    "gn:country_code":"ZM",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907726,
+    "gn:latitude":-15.18806,
+    "gn:longitude":28.8475,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Manyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907726
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b5233a71afd3ffdc11cff04dbd12e804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1276323571,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1276323571,
+    "wof:lastmodified":1536792148,
+    "wof:name":"Manyama",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8475,
+    -15.18806,
+    28.8475,
+    -15.18806
+],
+  "geometry": {"coordinates":[28.8475,-15.18806],"type":"Point"}
+}

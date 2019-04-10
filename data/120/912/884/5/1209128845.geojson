@@ -1,0 +1,61 @@
+{
+  "id": 1209128845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95,-10.05,29.95,-10.05",
+    "geom:latitude":-10.05,
+    "geom:longitude":29.95,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sunkutu",
+    "gn:country_code":"ZM",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896900,
+    "gn:latitude":-10.05,
+    "gn:longitude":29.95,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sunkutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896900
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"acb2f6856e5af8dd1e483dd0149fd348",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209128845
+        }
+    ],
+    "wof:id":1209128845,
+    "wof:lastmodified":1536296870,
+    "wof:name":"Sunkutu",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95,
+    -10.05,
+    29.95,
+    -10.05
+],
+  "geometry": {"coordinates":[29.95,-10.05],"type":"Point"}
+}

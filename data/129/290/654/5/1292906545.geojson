@@ -1,0 +1,71 @@
+{
+  "id": 1292906545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76458,-13.10138,30.76458,-13.10138",
+    "geom:latitude":-13.10138,
+    "geom:longitude":30.76458,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jeki",
+    "gn:country_code":"ZM",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916573,
+    "gn:latitude":-13.10138,
+    "gn:longitude":30.76458,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jeki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jeke Chimukupule",
+        "Jeki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916573
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4df9e81eca7ada2a3d3585d0f7cb4745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1292906545,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1292906545,
+    "wof:lastmodified":1537716545,
+    "wof:name":"Jeki",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76458,
+    -13.10138,
+    30.76458,
+    -13.10138
+],
+  "geometry": {"coordinates":[30.76458,-13.10138],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327325255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93588,-17.33222,25.93588,-17.33222",
+    "geom:latitude":-17.33222,
+    "geom:longitude":25.93588,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malimba",
+    "gn:country_code":"ZM",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908100,
+    "gn:latitude":-17.33222,
+    "gn:longitude":25.93588,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Malimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908100
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"43686a37b3927225f2be88ac08a7a066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782483,
+            "locality_id":1327325255,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1327325255,
+    "wof:lastmodified":1536834555,
+    "wof:name":"Malimba",
+    "wof:parent_id":1108782483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93588,
+    -17.33222,
+    25.93588,
+    -17.33222
+],
+  "geometry": {"coordinates":[25.93588,-17.33222],"type":"Point"}
+}

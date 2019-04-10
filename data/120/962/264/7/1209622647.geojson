@@ -1,0 +1,65 @@
+{
+  "id": 1209622647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.64181,-13.4229,32.64181,-13.4229",
+    "geom:latitude":-13.4229,
+    "geom:longitude":32.64181,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nkuntwa",
+    "gn:country_code":"ZM",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900650,
+    "gn:latitude":-13.4229,
+    "gn:longitude":32.64181,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nkuntwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkhunthwa",
+        "Nkuntwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900650
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"79ddd41f283a64e4cf5da062ff4fbf76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209622647
+        }
+    ],
+    "wof:id":1209622647,
+    "wof:lastmodified":1537716484,
+    "wof:name":"Nkuntwa",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.64181,
+    -13.4229,
+    32.64181,
+    -13.4229
+],
+  "geometry": {"coordinates":[32.64181,-13.4229],"type":"Point"}
+}

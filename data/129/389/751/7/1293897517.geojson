@@ -1,0 +1,67 @@
+{
+  "id": 1293897517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23333,-14.68333,23.23333,-14.68333",
+    "geom:latitude":-14.68333,
+    "geom:longitude":23.23333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Silopelo",
+    "gn:country_code":"ZM",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897807,
+    "gn:latitude":-14.68333,
+    "gn:longitude":23.23333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Silopelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897807
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"210fd14d309c7749fbd6ee30af19846b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782501,
+            "locality_id":1293897517,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1293897517,
+    "wof:lastmodified":1536693261,
+    "wof:name":"Silopelo",
+    "wof:parent_id":1108782501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23333,
+    -14.68333,
+    23.23333,
+    -14.68333
+],
+  "geometry": {"coordinates":[23.23333,-14.68333],"type":"Point"}
+}

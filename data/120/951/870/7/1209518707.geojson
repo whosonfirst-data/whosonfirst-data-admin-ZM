@@ -1,0 +1,61 @@
+{
+  "id": 1209518707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31777,-12.73421,30.31777,-12.73421",
+    "geom:latitude":-12.73421,
+    "geom:longitude":30.31777,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Peni Lumwanshya",
+    "gn:country_code":"ZM",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899843,
+    "gn:latitude":-12.73421,
+    "gn:longitude":30.31777,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Peni Lumwanshya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899843
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7e981c51c945bea2d41aca4b4127cc76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209518707
+        }
+    ],
+    "wof:id":1209518707,
+    "wof:lastmodified":1536284649,
+    "wof:name":"Peni Lumwanshya",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31777,
+    -12.73421,
+    30.31777,
+    -12.73421
+],
+  "geometry": {"coordinates":[30.31777,-12.73421],"type":"Point"}
+}

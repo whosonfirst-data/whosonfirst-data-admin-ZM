@@ -1,0 +1,67 @@
+{
+  "id": 1277067381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71936,-13.21737,28.71936,-13.21737",
+    "geom:latitude":-13.21737,
+    "geom:longitude":28.71936,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkonde",
+    "gn:country_code":"ZM",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900732,
+    "gn:latitude":-13.21737,
+    "gn:longitude":28.71936,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nkonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900732
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2749fe732c0745a678169d34ae858745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782377,
+            "locality_id":1277067381,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1277067381,
+    "wof:lastmodified":1536790103,
+    "wof:name":"Nkonde",
+    "wof:parent_id":1108782377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71936,
+    -13.21737,
+    28.71936,
+    -13.21737
+],
+  "geometry": {"coordinates":[28.71936,-13.21737],"type":"Point"}
+}

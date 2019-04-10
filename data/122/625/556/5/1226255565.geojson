@@ -1,0 +1,67 @@
+{
+  "id": 1226255565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34485,-12.79869,30.34485,-12.79869",
+    "geom:latitude":-12.79869,
+    "geom:longitude":30.34485,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sam Nkutu",
+    "gn:country_code":"ZM",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899257,
+    "gn:latitude":-12.79869,
+    "gn:longitude":30.34485,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sam Nkutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899257
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"940b26caf029a5adf670aca2f70ad4e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1226255565,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1226255565,
+    "wof:lastmodified":1536920039,
+    "wof:name":"Sam Nkutu",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34485,
+    -12.79869,
+    30.34485,
+    -12.79869
+],
+  "geometry": {"coordinates":[30.34485,-12.79869],"type":"Point"}
+}

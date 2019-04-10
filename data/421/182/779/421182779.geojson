@@ -1,0 +1,84 @@
+{
+  "id": 421182779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05367,-12.63247,28.05367,-12.63247",
+    "geom:latitude":-12.63247,
+    "geom:longitude":28.05367,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Chambezi"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":920820,
+    "qs:gn_pop":11073,
+    "qs:name":"Chambishi",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Copperbelt",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":945102,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1563853,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920820,
+        "gp:id":1563853,
+        "qs:id":945102,
+        "wd:id":"Q5069688"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009347,
+    "wof:geomhash":"80b5b9e5154199ed7e15559c1fb41544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782367,
+            "locality_id":421182779,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":421182779,
+    "wof:lastmodified":1527726449,
+    "wof:name":"Chambishi",
+    "wof:parent_id":1108782367,
+    "wof:placetype":"locality",
+    "wof:population":11073,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05367,
+    -12.63247,
+    28.05367,
+    -12.63247
+],
+  "geometry": {"coordinates":[28.05367,-12.63247],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209517243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75903,-13.9405,31.75903,-13.9405",
+    "geom:latitude":-13.9405,
+    "geom:longitude":31.75903,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mumba",
+    "gn:country_code":"ZM",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904468,
+    "gn:latitude":-13.9405,
+    "gn:longitude":31.75903,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904468
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b8f1613b1db4cc2d913680831f7d31fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209517243
+        }
+    ],
+    "wof:id":1209517243,
+    "wof:lastmodified":1536284693,
+    "wof:name":"Mumba",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75903,
+    -13.9405,
+    31.75903,
+    -13.9405
+],
+  "geometry": {"coordinates":[31.75903,-13.9405],"type":"Point"}
+}

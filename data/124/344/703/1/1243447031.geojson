@@ -1,0 +1,71 @@
+{
+  "id": 1243447031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04213,-11.6693,24.04213,-11.6693",
+    "geom:latitude":-11.6693,
+    "geom:longitude":24.04213,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mukunku",
+    "gn:country_code":"ZM",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904997,
+    "gn:latitude":-11.6693,
+    "gn:longitude":24.04213,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mukunku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makengu",
+        "Mukunku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904997
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7435e51855386ca1a5687920d0f3273a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782449,
+            "locality_id":1243447031,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1243447031,
+    "wof:lastmodified":1537716502,
+    "wof:name":"Mukunku",
+    "wof:parent_id":1108782449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04213,
+    -11.6693,
+    24.04213,
+    -11.6693
+],
+  "geometry": {"coordinates":[24.04213,-11.6693],"type":"Point"}
+}

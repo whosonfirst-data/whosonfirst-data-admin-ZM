@@ -1,0 +1,67 @@
+{
+  "id": 1209899977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06667,-12.73333,32.06667,-12.73333",
+    "geom:latitude":-12.73333,
+    "geom:longitude":32.06667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mwangalala",
+    "gn:country_code":"ZM",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902970,
+    "gn:latitude":-12.73333,
+    "gn:longitude":32.06667,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mwangalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902970
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c1ebe1811e6bb3784299f565aa87c3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1209899977,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1209899977,
+    "wof:lastmodified":1536386879,
+    "wof:name":"Mwangalala",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06667,
+    -12.73333,
+    32.06667,
+    -12.73333
+],
+  "geometry": {"coordinates":[32.06667,-12.73333],"type":"Point"}
+}

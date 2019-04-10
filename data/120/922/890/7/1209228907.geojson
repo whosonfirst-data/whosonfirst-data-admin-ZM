@@ -1,0 +1,61 @@
+{
+  "id": 1209228907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85,-15.35,22.85,-15.35",
+    "geom:latitude":-15.35,
+    "geom:longitude":22.85,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Itwi",
+    "gn:country_code":"ZM",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916635,
+    "gn:latitude":-15.35,
+    "gn:longitude":22.85,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Itwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916635
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"25a08e44429c3c9b74f494b76e2893cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209228907
+        }
+    ],
+    "wof:id":1209228907,
+    "wof:lastmodified":1536293702,
+    "wof:name":"Itwi",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85,
+    -15.35,
+    22.85,
+    -15.35
+],
+  "geometry": {"coordinates":[22.85,-15.35],"type":"Point"}
+}

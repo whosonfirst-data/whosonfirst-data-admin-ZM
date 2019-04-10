@@ -1,0 +1,67 @@
+{
+  "id": 1276639549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83556,-11.77221,30.83556,-11.77221",
+    "geom:latitude":-11.77221,
+    "geom:longitude":30.83556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kopa",
+    "gn:country_code":"ZM",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":911033,
+    "gn:latitude":-11.77221,
+    "gn:longitude":30.83556,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kopa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":911033
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3509d663806604e249b0ae558556dd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1276639549,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1276639549,
+    "wof:lastmodified":1536864311,
+    "wof:name":"Kopa",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83556,
+    -11.77221,
+    30.83556,
+    -11.77221
+],
+  "geometry": {"coordinates":[30.83556,-11.77221],"type":"Point"}
+}

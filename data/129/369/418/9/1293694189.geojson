@@ -1,0 +1,67 @@
+{
+  "id": 1293694189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37951,-14.41814,31.37951,-14.41814",
+    "geom:latitude":-14.41814,
+    "geom:longitude":31.37951,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalengama",
+    "gn:country_code":"ZM",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915296,
+    "gn:latitude":-14.41814,
+    "gn:longitude":31.37951,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kalengama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915296
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9daeaf75542fa3a1bd442418f970fd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1293694189,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1293694189,
+    "wof:lastmodified":1536985473,
+    "wof:name":"Kalengama",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37951,
+    -14.41814,
+    31.37951,
+    -14.41814
+],
+  "geometry": {"coordinates":[31.37951,-14.41814],"type":"Point"}
+}

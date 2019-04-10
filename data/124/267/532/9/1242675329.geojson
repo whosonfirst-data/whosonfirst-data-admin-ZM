@@ -1,0 +1,67 @@
+{
+  "id": 1242675329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78333,-13.83333,25.78333,-13.83333",
+    "geom:latitude":-13.83333,
+    "geom:longitude":25.78333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bwacha",
+    "gn:country_code":"ZM",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921155,
+    "gn:latitude":-13.83333,
+    "gn:longitude":25.78333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Bwacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921155
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9aada688d8324f199c2a89114d8e7846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782445,
+            "locality_id":1242675329,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1242675329,
+    "wof:lastmodified":1536923741,
+    "wof:name":"Bwacha",
+    "wof:parent_id":1108782445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78333,
+    -13.83333,
+    25.78333,
+    -13.83333
+],
+  "geometry": {"coordinates":[25.78333,-13.83333],"type":"Point"}
+}

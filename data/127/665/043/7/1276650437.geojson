@@ -1,0 +1,67 @@
+{
+  "id": 1276650437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93333,-9.51667,32.93333,-9.51667",
+    "geom:latitude":-9.51667,
+    "geom:longitude":32.93333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kasuma",
+    "gn:country_code":"ZM",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176652,
+    "gn:latitude":-9.51667,
+    "gn:longitude":32.93333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kasuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176652
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"678683aa0d2e51b9673750ba9137d034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782435,
+            "locality_id":1276650437,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1276650437,
+    "wof:lastmodified":1536849834,
+    "wof:name":"Kasuma",
+    "wof:parent_id":1108782435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93333,
+    -9.51667,
+    32.93333,
+    -9.51667
+],
+  "geometry": {"coordinates":[32.93333,-9.51667],"type":"Point"}
+}

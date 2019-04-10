@@ -1,0 +1,67 @@
+{
+  "id": 1242983505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21667,-14.85,26.21667,-14.85",
+    "geom:latitude":-14.85,
+    "geom:longitude":26.21667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mushima",
+    "gn:country_code":"ZM",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903890,
+    "gn:latitude":-14.85,
+    "gn:longitude":26.21667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mushima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903890
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0ffb4f96c765a5cdc3dede2731aaea73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782359,
+            "locality_id":1242983505,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1242983505,
+    "wof:lastmodified":1536975400,
+    "wof:name":"Mushima",
+    "wof:parent_id":1108782359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21667,
+    -14.85,
+    26.21667,
+    -14.85
+],
+  "geometry": {"coordinates":[26.21667,-14.85],"type":"Point"}
+}

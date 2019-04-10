@@ -1,0 +1,72 @@
+{
+  "id": 1292912269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15,-14.38333,28.15,-14.38333",
+    "geom:latitude":-14.38333,
+    "geom:longitude":28.15,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mwanayalabi",
+    "gn:country_code":"ZM",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903018,
+    "gn:latitude":-14.38333,
+    "gn:longitude":28.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mwanayalabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mw\u2019lialabi",
+        "Mwalyalabi",
+        "Mwanayalabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903018
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8fca7c2ff9b545aafbfa36b5777546d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782355,
+            "locality_id":1292912269,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1292912269,
+    "wof:lastmodified":1537716492,
+    "wof:name":"Mwanayalabi",
+    "wof:parent_id":1108782355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15,
+    -14.38333,
+    28.15,
+    -14.38333
+],
+  "geometry": {"coordinates":[28.15,-14.38333],"type":"Point"}
+}

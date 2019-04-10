@@ -1,0 +1,61 @@
+{
+  "id": 1209298339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63333,-11.55,32.63333,-11.55",
+    "geom:latitude":-11.55,
+    "geom:longitude":32.63333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mulinda",
+    "gn:country_code":"ZM",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904686,
+    "gn:latitude":-11.55,
+    "gn:longitude":32.63333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mulinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904686
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dd0d5bd52cda49016b43bc64a829404a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209298339
+        }
+    ],
+    "wof:id":1209298339,
+    "wof:lastmodified":1536291445,
+    "wof:name":"Mulinda",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63333,
+    -11.55,
+    32.63333,
+    -11.55
+],
+  "geometry": {"coordinates":[32.63333,-11.55],"type":"Point"}
+}

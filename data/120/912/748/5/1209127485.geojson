@@ -1,0 +1,65 @@
+{
+  "id": 1209127485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05,-16.03333,26.05,-16.03333",
+    "geom:latitude":-16.03333,
+    "geom:longitude":26.05,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shabalu",
+    "gn:country_code":"ZM",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898882,
+    "gn:latitude":-16.03333,
+    "gn:longitude":26.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shabalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shabaalu",
+        "Shabalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898882
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f54ddb70117238f6102dac4de7a26a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209127485
+        }
+    ],
+    "wof:id":1209127485,
+    "wof:lastmodified":1537716475,
+    "wof:name":"Shabalu",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05,
+    -16.03333,
+    26.05,
+    -16.03333
+],
+  "geometry": {"coordinates":[26.05,-16.03333],"type":"Point"}
+}

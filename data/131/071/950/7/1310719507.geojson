@@ -1,0 +1,71 @@
+{
+  "id": 1310719507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94599,-15.16957,22.94599,-15.16957",
+    "geom:latitude":-15.16957,
+    "geom:longitude":22.94599,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nanikelako",
+    "gn:country_code":"ZM",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901647,
+    "gn:latitude":-15.16957,
+    "gn:longitude":22.94599,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nanikelako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lewanika\u2019s Grave",
+        "Nanikelako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901647
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"83198962352e018002e573c102855375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1310719507,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1310719507,
+    "wof:lastmodified":1537716487,
+    "wof:name":"Nanikelako",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94599,
+    -15.16957,
+    22.94599,
+    -15.16957
+],
+  "geometry": {"coordinates":[22.94599,-15.16957],"type":"Point"}
+}

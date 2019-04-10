@@ -1,0 +1,68 @@
+{
+  "id": 1360190723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66,-10.52468,28.66,-10.52468",
+    "geom:latitude":-10.52468,
+    "geom:longitude":28.66,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mambilima Falls",
+    "gn:country_code":"ZM",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907968,
+    "gn:latitude":-10.52468,
+    "gn:longitude":28.66,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mambilima Falls",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907968,
+        "wk:page":"Mambilima_Falls"
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"64605356484ca5af8af4196c1b321448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782409,
+            "locality_id":1360190723,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1360190723,
+    "wof:lastmodified":1537576385,
+    "wof:name":"Mambilima Falls",
+    "wof:parent_id":1108782409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66,
+    -10.52468,
+    28.66,
+    -10.52468
+],
+  "geometry": {"coordinates":[28.66,-10.52468],"type":"Point"}
+}

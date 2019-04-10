@@ -1,0 +1,67 @@
+{
+  "id": 1310318337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3483,-12.80443,30.3483,-12.80443",
+    "geom:latitude":-12.80443,
+    "geom:longitude":30.3483,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mwandu",
+    "gn:country_code":"ZM",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902989,
+    "gn:latitude":-12.80443,
+    "gn:longitude":30.3483,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mwandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902989
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"57c4a0dd9255b97537720e26faf4c9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1310318337,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1310318337,
+    "wof:lastmodified":1536689439,
+    "wof:name":"Mwandu",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3483,
+    -12.80443,
+    30.3483,
+    -12.80443
+],
+  "geometry": {"coordinates":[30.3483,-12.80443],"type":"Point"}
+}

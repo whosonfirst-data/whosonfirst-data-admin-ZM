@@ -1,0 +1,71 @@
+{
+  "id": 1260382867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97154,-15.88959,26.97154,-15.88959",
+    "geom:latitude":-15.88959,
+    "geom:longitude":26.97154,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shikolopa",
+    "gn:country_code":"ZM",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898649,
+    "gn:latitude":-15.88959,
+    "gn:longitude":26.97154,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shikolopa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shikalopa",
+        "Shikolopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898649
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"854877fa9629d807706a2b480c30c1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782491,
+            "locality_id":1260382867,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1260382867,
+    "wof:lastmodified":1537716473,
+    "wof:name":"Shikolopa",
+    "wof:parent_id":1108782491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97154,
+    -15.88959,
+    26.97154,
+    -15.88959
+],
+  "geometry": {"coordinates":[26.97154,-15.88959],"type":"Point"}
+}

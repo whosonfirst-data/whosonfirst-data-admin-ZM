@@ -1,0 +1,67 @@
+{
+  "id": 1276550733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51766,-12.75361,30.51766,-12.75361",
+    "geom:latitude":-12.75361,
+    "geom:longitude":30.51766,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tepu Mopeta",
+    "gn:country_code":"ZM",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896691,
+    "gn:latitude":-12.75361,
+    "gn:longitude":30.51766,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tepu Mopeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896691
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b99e59b74030a80d9eaec5f1a71a336a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1276550733,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276550733,
+    "wof:lastmodified":1536983897,
+    "wof:name":"Tepu Mopeta",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51766,
+    -12.75361,
+    30.51766,
+    -12.75361
+],
+  "geometry": {"coordinates":[30.51766,-12.75361],"type":"Point"}
+}

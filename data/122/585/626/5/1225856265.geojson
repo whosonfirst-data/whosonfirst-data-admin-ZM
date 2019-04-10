@@ -1,0 +1,71 @@
+{
+  "id": 1225856265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82613,-14.27164,31.82613,-14.27164",
+    "geom:latitude":-14.27164,
+    "geom:longitude":31.82613,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalwani",
+    "gn:country_code":"ZM",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914846,
+    "gn:latitude":-14.27164,
+    "gn:longitude":31.82613,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kalwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaloani",
+        "Kalwani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914846
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ea71345f569d1afcdca8af67229c0992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1225856265,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1225856265,
+    "wof:lastmodified":1537716538,
+    "wof:name":"Kalwani",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82613,
+    -14.27164,
+    31.82613,
+    -14.27164
+],
+  "geometry": {"coordinates":[31.82613,-14.27164],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243568613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41667,-16.2,22.41667,-16.2",
+    "geom:latitude":-16.2,
+    "geom:longitude":22.41667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nambula",
+    "gn:country_code":"ZM",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":901944,
+    "gn:latitude":-16.2,
+    "gn:longitude":22.41667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nambula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901944
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ffb9fc5000b0e2cc81c323331fc81a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782509,
+            "locality_id":1243568613,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1243568613,
+    "wof:lastmodified":1536627656,
+    "wof:name":"Nambula",
+    "wof:parent_id":1108782509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41667,
+    -16.2,
+    22.41667,
+    -16.2
+],
+  "geometry": {"coordinates":[22.41667,-16.2],"type":"Point"}
+}

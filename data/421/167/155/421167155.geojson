@@ -1,0 +1,102 @@
+{
+  "id": 421167155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.92712,-10.2621,29.92712,-10.2621",
+    "geom:latitude":-10.2621,
+    "geom:longitude":29.92712,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "District de Luwingu"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Luwingu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30a6\u30a3\u30f3\u30b0"
+    ],
+    "name:lit_x_preferred":[
+        "Luvingu apskritis"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041b\u0443\u0432\u0438\u043d\u0433\u0443"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Luwingu"
+    ],
+    "name:unk_x_variant":[
+        "Luingu"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":908913,
+    "qs:gn_pop":6161,
+    "qs:name":"Luwingu",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":129957,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1569061,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908913,
+        "gp:id":1569061,
+        "qs:id":129957,
+        "wd:id":"Q3031440"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459008721,
+    "wof:geomhash":"2ee185f89f9c0c02b6a810c0f60d25e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782463,
+            "locality_id":421167155,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":421167155,
+    "wof:lastmodified":1527716158,
+    "wof:name":"Luwingu",
+    "wof:parent_id":1108782463,
+    "wof:placetype":"locality",
+    "wof:population":6161,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.92712,
+    -10.2621,
+    29.92712,
+    -10.2621
+],
+  "geometry": {"coordinates":[29.92712,-10.2621],"type":"Point"}
+}

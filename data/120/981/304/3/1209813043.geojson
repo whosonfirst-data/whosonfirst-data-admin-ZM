@@ -1,0 +1,67 @@
+{
+  "id": 1209813043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82212,-13.59167,22.82212,-13.59167",
+    "geom:latitude":-13.59167,
+    "geom:longitude":22.82212,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kangano",
+    "gn:country_code":"ZM",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913878,
+    "gn:latitude":-13.59167,
+    "gn:longitude":22.82212,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kangano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913878
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"64a58edff0b7a9153001d47e9f84aacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1209813043,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1209813043,
+    "wof:lastmodified":1536385566,
+    "wof:name":"Kangano",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82212,
+    -13.59167,
+    22.82212,
+    -13.59167
+],
+  "geometry": {"coordinates":[22.82212,-13.59167],"type":"Point"}
+}

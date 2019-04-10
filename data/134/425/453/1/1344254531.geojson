@@ -1,0 +1,67 @@
+{
+  "id": 1344254531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18159,-11.2031,24.18159,-11.2031",
+    "geom:latitude":-11.2031,
+    "geom:longitude":24.18159,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ipenge",
+    "gn:country_code":"ZM",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916721,
+    "gn:latitude":-11.2031,
+    "gn:longitude":24.18159,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ipenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916721
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"34722a216c5bad041ef95d51a8223298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782439,
+            "locality_id":1344254531,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1344254531,
+    "wof:lastmodified":1537089605,
+    "wof:name":"Ipenge",
+    "wof:parent_id":1108782439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18159,
+    -11.2031,
+    24.18159,
+    -11.2031
+],
+  "geometry": {"coordinates":[24.18159,-11.2031],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421182695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.26667,-15.38333,28.26667,-15.38333",
+    "geom:latitude":-15.38333,
+    "geom:longitude":28.26667,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":917363,
+    "qs:gn_pop":0,
+    "qs:name":"Emmasdale",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Lusaka",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":937852,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1565519,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        1108782421,
+        85681073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917363,
+        "gp:id":1565519,
+        "qs:id":937852
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009339,
+    "wof:geomhash":"e6edf76bc0f35b48a4e7833e02393748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782421,
+            "locality_id":-1,
+            "neighbourhood_id":421182695,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":421182695,
+    "wof:lastmodified":1531858490,
+    "wof:name":"Emmasdale",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.26667,
+    -15.38333,
+    28.26667,
+    -15.38333
+],
+  "geometry": {"coordinates":[28.26667,-15.38333],"type":"Point"}
+}

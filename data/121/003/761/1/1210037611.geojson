@@ -1,0 +1,67 @@
+{
+  "id": 1210037611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.28333,-15.73333,27.28333,-15.73333",
+    "geom:latitude":-15.73333,
+    "geom:longitude":27.28333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nyimba",
+    "gn:country_code":"ZM",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900055,
+    "gn:latitude":-15.73333,
+    "gn:longitude":27.28333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nyimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900055
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"03800f756e9acacc043c3c01db6a2ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782489,
+            "locality_id":1210037611,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1210037611,
+    "wof:lastmodified":1536385789,
+    "wof:name":"Nyimba",
+    "wof:parent_id":1108782489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.28333,
+    -15.73333,
+    27.28333,
+    -15.73333
+],
+  "geometry": {"coordinates":[27.28333,-15.73333],"type":"Point"}
+}

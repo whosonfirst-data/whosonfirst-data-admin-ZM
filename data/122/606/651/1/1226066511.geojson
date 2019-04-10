@@ -1,0 +1,71 @@
+{
+  "id": 1226066511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71667,-16.43333,26.71667,-16.43333",
+    "geom:latitude":-16.43333,
+    "geom:longitude":26.71667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mwanankole",
+    "gn:country_code":"ZM",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903044,
+    "gn:latitude":-16.43333,
+    "gn:longitude":26.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mwanankole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwanagore",
+        "Mwanankole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903044
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"504418427b3533146f2310aa5dd3f56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782473,
+            "locality_id":1226066511,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1226066511,
+    "wof:lastmodified":1537716492,
+    "wof:name":"Mwanankole",
+    "wof:parent_id":1108782473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71667,
+    -16.43333,
+    26.71667,
+    -16.43333
+],
+  "geometry": {"coordinates":[26.71667,-16.43333],"type":"Point"}
+}

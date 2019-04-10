@@ -1,0 +1,67 @@
+{
+  "id": 1293296119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92413,-12.97567,30.92413,-12.97567",
+    "geom:latitude":-12.97567,
+    "geom:longitude":30.92413,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mutama",
+    "gn:country_code":"ZM",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903671,
+    "gn:latitude":-12.97567,
+    "gn:longitude":30.92413,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mutama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903671
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"262dc9da6e507cd07e9d2a0f04960949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1293296119,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1293296119,
+    "wof:lastmodified":1537060216,
+    "wof:name":"Mutama",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92413,
+    -12.97567,
+    30.92413,
+    -12.97567
+],
+  "geometry": {"coordinates":[30.92413,-12.97567],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293889577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71667,-11.65,29.71667,-11.65",
+    "geom:latitude":-11.65,
+    "geom:longitude":29.71667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bwambwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921134,
+    "gn:latitude":-11.65,
+    "gn:longitude":29.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bwambwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bwamba",
+        "Bwambwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921134
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"73baf22791004280d434e8884495bd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782413,
+            "locality_id":1293889577,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1293889577,
+    "wof:lastmodified":1537716567,
+    "wof:name":"Bwambwa",
+    "wof:parent_id":1108782413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71667,
+    -11.65,
+    29.71667,
+    -11.65
+],
+  "geometry": {"coordinates":[29.71667,-11.65],"type":"Point"}
+}

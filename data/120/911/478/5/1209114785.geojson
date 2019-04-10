@@ -1,0 +1,61 @@
+{
+  "id": 1209114785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62651,-13.07235,30.62651,-13.07235",
+    "geom:latitude":-13.07235,
+    "geom:longitude":30.62651,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kanona",
+    "gn:country_code":"ZM",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913642,
+    "gn:latitude":-13.07235,
+    "gn:longitude":30.62651,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kanona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913642
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3f7a67f45f10f1bcebad6f82ba1d5a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209114785
+        }
+    ],
+    "wof:id":1209114785,
+    "wof:lastmodified":1536297290,
+    "wof:name":"Kanona",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62651,
+    -13.07235,
+    30.62651,
+    -13.07235
+],
+  "geometry": {"coordinates":[30.62651,-13.07235],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259989201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13718,-17.45417,23.13718,-17.45417",
+    "geom:latitude":-17.45417,
+    "geom:longitude":23.13718,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shoko",
+    "gn:country_code":"ZM",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898479,
+    "gn:latitude":-17.45417,
+    "gn:longitude":23.13718,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Shoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898479
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3ab586f554b4bf7240051b25e5759d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1259989201,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1259989201,
+    "wof:lastmodified":1536624880,
+    "wof:name":"Shoko",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13718,
+    -17.45417,
+    23.13718,
+    -17.45417
+],
+  "geometry": {"coordinates":[23.13718,-17.45417],"type":"Point"}
+}

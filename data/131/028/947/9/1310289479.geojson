@@ -1,0 +1,67 @@
+{
+  "id": 1310289479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5358,-15.45921,28.5358,-15.45921",
+    "geom:latitude":-15.45921,
+    "geom:longitude":28.5358,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Makapandula",
+    "gn:country_code":"ZM",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908413,
+    "gn:latitude":-15.45921,
+    "gn:longitude":28.5358,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Makapandula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908413
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dcb04be2366e75df49878a7c14936519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1310289479,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1310289479,
+    "wof:lastmodified":1536731369,
+    "wof:name":"Makapandula",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5358,
+    -15.45921,
+    28.5358,
+    -15.45921
+],
+  "geometry": {"coordinates":[28.5358,-15.45921],"type":"Point"}
+}

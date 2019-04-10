@@ -1,0 +1,67 @@
+{
+  "id": 1310615247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.63333,-15.08333,22.63333,-15.08333",
+    "geom:latitude":-15.08333,
+    "geom:longitude":22.63333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mukenu",
+    "gn:country_code":"ZM",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905176,
+    "gn:latitude":-15.08333,
+    "gn:longitude":22.63333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mukenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905176
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"30c45c2781ff3453c8e270d929b5229b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1310615247,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1310615247,
+    "wof:lastmodified":1536758703,
+    "wof:name":"Mukenu",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.63333,
+    -15.08333,
+    22.63333,
+    -15.08333
+],
+  "geometry": {"coordinates":[22.63333,-15.08333],"type":"Point"}
+}

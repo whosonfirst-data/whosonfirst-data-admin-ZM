@@ -1,0 +1,67 @@
+{
+  "id": 1344060993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11667,-14.48333,22.11667,-14.48333",
+    "geom:latitude":-14.48333,
+    "geom:longitude":22.11667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oayo",
+    "gn:country_code":"ZM",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899987,
+    "gn:latitude":-14.48333,
+    "gn:longitude":22.11667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Oayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899987
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a04df9c002732cbd5d7a39919e65c567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1344060993,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1344060993,
+    "wof:lastmodified":1536873777,
+    "wof:name":"Oayo",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11667000000001,
+    -14.48333,
+    22.11667000000001,
+    -14.48333
+],
+  "geometry": {"coordinates":[22.11667000000001,-14.48333],"type":"Point"}
+}

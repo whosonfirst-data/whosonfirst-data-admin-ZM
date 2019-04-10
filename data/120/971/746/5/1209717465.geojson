@@ -1,0 +1,67 @@
+{
+  "id": 1209717465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91569,-14.40155,31.91569,-14.40155",
+    "geom:latitude":-14.40155,
+    "geom:longitude":31.91569,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lupenga",
+    "gn:country_code":"ZM",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909179,
+    "gn:latitude":-14.40155,
+    "gn:longitude":31.91569,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Lupenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909179
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8a338ddecd061e191e611a2e5b1e4f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1209717465,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1209717465,
+    "wof:lastmodified":1536387910,
+    "wof:name":"Lupenga",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91569,
+    -14.40155,
+    31.91569,
+    -14.40155
+],
+  "geometry": {"coordinates":[31.91569,-14.40155],"type":"Point"}
+}

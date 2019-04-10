@@ -1,0 +1,67 @@
+{
+  "id": 1242973865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49543,-12.96629,30.49543,-12.96629",
+    "geom:latitude":-12.96629,
+    "geom:longitude":30.49543,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chisenda Mambwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918372,
+    "gn:latitude":-12.96629,
+    "gn:longitude":30.49543,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chisenda Mambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918372
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c42683c2e492b576bb835b7942962155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1242973865,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1242973865,
+    "wof:lastmodified":1536989017,
+    "wof:name":"Chisenda Mambwe",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49543,
+    -12.96629,
+    30.49543,
+    -12.96629
+],
+  "geometry": {"coordinates":[30.49543,-12.96629],"type":"Point"}
+}

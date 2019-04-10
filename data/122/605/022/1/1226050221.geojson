@@ -1,0 +1,67 @@
+{
+  "id": 1226050221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01667,-14.6,31.01667,-14.6",
+    "geom:latitude":-14.6,
+    "geom:longitude":31.01667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyamwa",
+    "gn:country_code":"ZM",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900174,
+    "gn:latitude":-14.6,
+    "gn:longitude":31.01667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nyamwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900174
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"18b9da436f090461ccb02ceff804eed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1226050221,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1226050221,
+    "wof:lastmodified":1536718997,
+    "wof:name":"Nyamwa",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01667,
+    -14.6,
+    31.01667,
+    -14.6
+],
+  "geometry": {"coordinates":[31.01667,-14.6],"type":"Point"}
+}

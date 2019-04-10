@@ -1,0 +1,67 @@
+{
+  "id": 1259777147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5,-9.98333,32.5,-9.98333",
+    "geom:latitude":-9.98333,
+    "geom:longitude":32.5,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kambakuku",
+    "gn:country_code":"ZM",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176961,
+    "gn:latitude":-9.98333,
+    "gn:longitude":32.5,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kambakuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176961
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2cc2ecb60ec318929cb0c636dc7eda07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1259777147,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1259777147,
+    "wof:lastmodified":1536933064,
+    "wof:name":"Kambakuku",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5,
+    -9.98333,
+    32.5,
+    -9.98333
+],
+  "geometry": {"coordinates":[32.5,-9.98333],"type":"Point"}
+}

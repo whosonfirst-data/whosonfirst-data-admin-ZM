@@ -1,0 +1,61 @@
+{
+  "id": 1209316565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,-14.26667,31.31667,-14.26667",
+    "geom:latitude":-14.26667,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalimandola",
+    "gn:country_code":"ZM",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915206,
+    "gn:latitude":-14.26667,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalimandola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915206
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f26ced405784c8843fff46c8c64c0fcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209316565
+        }
+    ],
+    "wof:id":1209316565,
+    "wof:lastmodified":1536290843,
+    "wof:name":"Kalimandola",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    -14.26667,
+    31.31667,
+    -14.26667
+],
+  "geometry": {"coordinates":[31.31667,-14.26667],"type":"Point"}
+}

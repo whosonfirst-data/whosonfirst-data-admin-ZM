@@ -1,0 +1,67 @@
+{
+  "id": 1259692719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90769,-13.11818,30.90769,-13.11818",
+    "geom:latitude":-13.11818,
+    "geom:longitude":30.90769,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sayoni Msasa",
+    "gn:country_code":"ZM",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899011,
+    "gn:latitude":-13.11818,
+    "gn:longitude":30.90769,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sayoni Msasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899011
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9ab2fb140db95ee8606006aebd8f71c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1259692719,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1259692719,
+    "wof:lastmodified":1537051457,
+    "wof:name":"Sayoni Msasa",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90769,
+    -13.11818,
+    30.90769,
+    -13.11818
+],
+  "geometry": {"coordinates":[30.90769,-13.11818],"type":"Point"}
+}

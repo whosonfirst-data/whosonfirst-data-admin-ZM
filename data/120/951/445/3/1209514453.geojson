@@ -1,0 +1,65 @@
+{
+  "id": 1209514453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13333,-9.18333,32.13333,-9.18333",
+    "geom:latitude":-9.18333,
+    "geom:longitude":32.13333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nakatendo",
+    "gn:country_code":"ZM",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175563,
+    "gn:latitude":-9.18333,
+    "gn:longitude":32.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nakatendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakatondo",
+        "Nakatendo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175563
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e1e69cb75a830301e55dbe572d5d5544",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209514453
+        }
+    ],
+    "wof:id":1209514453,
+    "wof:lastmodified":1537716450,
+    "wof:name":"Nakatendo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13333,
+    -9.18333,
+    32.13333,
+    -9.18333
+],
+  "geometry": {"coordinates":[32.13333,-9.18333],"type":"Point"}
+}

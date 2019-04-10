@@ -1,0 +1,67 @@
+{
+  "id": 1226439977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2,-13.85,23.2,-13.85",
+    "geom:latitude":-13.85,
+    "geom:longitude":23.2,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mungongola",
+    "gn:country_code":"ZM",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904278,
+    "gn:latitude":-13.85,
+    "gn:longitude":23.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mungongola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904278
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"33b16c25710b694d5652f3d75d640a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1226439977,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1226439977,
+    "wof:lastmodified":1536653773,
+    "wof:name":"Mungongola",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2,
+    -13.85,
+    23.2,
+    -13.85
+],
+  "geometry": {"coordinates":[23.2,-13.85],"type":"Point"}
+}

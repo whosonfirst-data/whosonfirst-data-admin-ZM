@@ -1,0 +1,71 @@
+{
+  "id": 1260190015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91715,-13.26846,31.91715,-13.26846",
+    "geom:latitude":-13.26846,
+    "geom:longitude":31.91715,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Panku",
+    "gn:country_code":"ZM",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899903,
+    "gn:latitude":-13.26846,
+    "gn:longitude":31.91715,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Panku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pankwe",
+        "Panku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899903
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"65eff60eae0838c84baf0fdb1bd0f1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1260190015,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1260190015,
+    "wof:lastmodified":1537716480,
+    "wof:name":"Panku",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91715,
+    -13.26846,
+    31.91715,
+    -13.26846
+],
+  "geometry": {"coordinates":[31.91715,-13.26846],"type":"Point"}
+}

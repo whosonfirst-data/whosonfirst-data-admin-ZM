@@ -1,0 +1,67 @@
+{
+  "id": 1343658571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73077,-15.10841,29.73077,-15.10841",
+    "geom:latitude":-15.10841,
+    "geom:longitude":29.73077,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mpanshya",
+    "gn:country_code":"ZM",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905909,
+    "gn:latitude":-15.10841,
+    "gn:longitude":29.73077,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mpanshya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905909
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"524ad9d1e6535e5824db3f5904d9c247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1343658571,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1343658571,
+    "wof:lastmodified":1536957775,
+    "wof:name":"Mpanshya",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73077,
+    -15.10841,
+    29.73077,
+    -15.10841
+],
+  "geometry": {"coordinates":[29.73077,-15.10841],"type":"Point"}
+}

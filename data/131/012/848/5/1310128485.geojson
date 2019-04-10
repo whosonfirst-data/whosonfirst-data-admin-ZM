@@ -1,0 +1,67 @@
+{
+  "id": 1310128485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,-9.7,30.76667,-9.7",
+    "geom:latitude":-9.7,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kaputu",
+    "gn:country_code":"ZM",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176755,
+    "gn:latitude":-9.7,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kaputu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176755
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6b0b19463c6863ec2cf017a3b338159e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782467,
+            "locality_id":1310128485,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1310128485,
+    "wof:lastmodified":1536963235,
+    "wof:name":"Kaputu",
+    "wof:parent_id":1108782467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    -9.7,
+    30.76667,
+    -9.7
+],
+  "geometry": {"coordinates":[30.76667,-9.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226543093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5679,-12.98586,30.5679,-12.98586",
+    "geom:latitude":-12.98586,
+    "geom:longitude":30.5679,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Samson Ngosa",
+    "gn:country_code":"ZM",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899245,
+    "gn:latitude":-12.98586,
+    "gn:longitude":30.5679,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Samson Ngosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899245
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"941c9e75db0fffc6d857e3de32741192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1226543093,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1226543093,
+    "wof:lastmodified":1537001081,
+    "wof:name":"Samson Ngosa",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5679,
+    -12.98586,
+    30.5679,
+    -12.98586
+],
+  "geometry": {"coordinates":[30.5679,-12.98586],"type":"Point"}
+}

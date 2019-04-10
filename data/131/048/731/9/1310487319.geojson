@@ -1,0 +1,67 @@
+{
+  "id": 1310487319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91667,-13.11667,27.91667,-13.11667",
+    "geom:latitude":-13.11667,
+    "geom:longitude":27.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lumpuma",
+    "gn:country_code":"ZM",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909319,
+    "gn:latitude":-13.11667,
+    "gn:longitude":27.91667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Lumpuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909319
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5a48a31fc89385295565eb0d35215d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782375,
+            "locality_id":1310487319,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1310487319,
+    "wof:lastmodified":1536943694,
+    "wof:name":"Lumpuma",
+    "wof:parent_id":1108782375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91667,
+    -13.11667,
+    27.91667,
+    -13.11667
+],
+  "geometry": {"coordinates":[27.91667,-13.11667],"type":"Point"}
+}

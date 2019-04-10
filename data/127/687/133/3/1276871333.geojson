@@ -1,0 +1,71 @@
+{
+  "id": 1276871333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02137,-9.83616,32.02137,-9.83616",
+    "geom:latitude":-9.83616,
+    "geom:longitude":32.02137,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sompe",
+    "gn:country_code":"ZM",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175158,
+    "gn:latitude":-9.83616,
+    "gn:longitude":32.02137,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sompe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakompe",
+        "Sompe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175158
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"593a935915d40e4f274ea921f70d1240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782471,
+            "locality_id":1276871333,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1276871333,
+    "wof:lastmodified":1537716448,
+    "wof:name":"Sompe",
+    "wof:parent_id":1108782471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02137,
+    -9.83616,
+    32.02137,
+    -9.83616
+],
+  "geometry": {"coordinates":[32.02137,-9.83616],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243356109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0688,-12.39334,25.0688,-12.39334",
+    "geom:latitude":-12.39334,
+    "geom:longitude":25.0688,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chovwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917665,
+    "gn:latitude":-12.39334,
+    "gn:longitude":25.0688,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chovwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917665
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84dcd5be31f59e79e2d6dfc9599f0a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782451,
+            "locality_id":1243356109,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1243356109,
+    "wof:lastmodified":1536936584,
+    "wof:name":"Chovwe",
+    "wof:parent_id":1108782451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0688,
+    -12.39334,
+    25.0688,
+    -12.39334
+],
+  "geometry": {"coordinates":[25.0688,-12.39334],"type":"Point"}
+}

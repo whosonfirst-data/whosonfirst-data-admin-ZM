@@ -1,0 +1,67 @@
+{
+  "id": 1226563377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86253,-17.21795,25.86253,-17.21795",
+    "geom:latitude":-17.21795,
+    "geom:longitude":25.86253,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siamuntu",
+    "gn:country_code":"ZM",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898287,
+    "gn:latitude":-17.21795,
+    "gn:longitude":25.86253,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Siamuntu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898287
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1495d1e75f5b9b2ddb4c924790264038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782483,
+            "locality_id":1226563377,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1226563377,
+    "wof:lastmodified":1536972326,
+    "wof:name":"Siamuntu",
+    "wof:parent_id":1108782483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86253,
+    -17.21795,
+    25.86253,
+    -17.21795
+],
+  "geometry": {"coordinates":[25.86253,-17.21795],"type":"Point"}
+}

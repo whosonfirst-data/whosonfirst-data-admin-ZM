@@ -1,0 +1,121 @@
+{
+  "id": 421167163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1521,-11.21304,33.1521,-11.21304",
+    "geom:latitude":-11.21304,
+    "geom:longitude":33.1521,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u043c\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Chama"
+    ],
+    "name:dut_x_preferred":[
+        "Chama"
+    ],
+    "name:eng_x_preferred":[
+        "Chama"
+    ],
+    "name:fre_x_preferred":[
+        "Chama"
+    ],
+    "name:ger_x_preferred":[
+        "Chama"
+    ],
+    "name:ita_x_preferred":[
+        "Chama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30de"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0427\u0430\u043c\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Chama"
+    ],
+    "name:por_x_preferred":[
+        "Chama"
+    ],
+    "name:ron_x_preferred":[
+        "Chama"
+    ],
+    "name:rum_x_preferred":[
+        "Chama"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":920901,
+    "qs:gn_pop":4061,
+    "qs:name":"Chama",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":130021,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1563829,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920901,
+        "gp:id":1563829,
+        "qs:id":130021,
+        "wd:id":"Q1060403",
+        "wk:page":"Chama, Zambia"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459008721,
+    "wof:geomhash":"412513bdd764c5b62ae8cb2ac6fce2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":421167163,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":421167163,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Chama",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:population":4061,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1521,
+    -11.21304,
+    33.1521,
+    -11.21304
+],
+  "geometry": {"coordinates":[33.1521,-11.21304],"type":"Point"}
+}

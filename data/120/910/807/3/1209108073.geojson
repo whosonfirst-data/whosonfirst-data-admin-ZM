@@ -1,0 +1,61 @@
+{
+  "id": 1209108073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05,-14.3,32.05,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":32.05,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chimpaka",
+    "gn:country_code":"ZM",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919205,
+    "gn:latitude":-14.3,
+    "gn:longitude":32.05,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chimpaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919205
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"083c19605e9e0692ea65373af405df26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209108073
+        }
+    ],
+    "wof:id":1209108073,
+    "wof:lastmodified":1536297500,
+    "wof:name":"Chimpaka",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05,
+    -14.3,
+    32.05,
+    -14.3
+],
+  "geometry": {"coordinates":[32.05,-14.3],"type":"Point"}
+}

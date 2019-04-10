@@ -1,0 +1,67 @@
+{
+  "id": 1293022173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.54924,-17.42452,25.54924,-17.42452",
+    "geom:latitude":-17.42452,
+    "geom:longitude":25.54924,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Belemu",
+    "gn:country_code":"ZM",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921409,
+    "gn:latitude":-17.42452,
+    "gn:longitude":25.54924,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Belemu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921409
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a2824be18baedbf7ec6e68b3b8061859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782483,
+            "locality_id":1293022173,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1293022173,
+    "wof:lastmodified":1536960846,
+    "wof:name":"Belemu",
+    "wof:parent_id":1108782483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54924,
+    -17.42452,
+    25.54924,
+    -17.42452
+],
+  "geometry": {"coordinates":[25.54924,-17.42452],"type":"Point"}
+}

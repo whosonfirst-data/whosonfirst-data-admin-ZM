@@ -1,0 +1,67 @@
+{
+  "id": 1293886763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57875,-12.75482,30.57875,-12.75482",
+    "geom:latitude":-12.75482,
+    "geom:longitude":30.57875,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yawela",
+    "gn:country_code":"ZM",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896031,
+    "gn:latitude":-12.75482,
+    "gn:longitude":30.57875,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Yawela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896031
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"88f84e20f89c6ff90227e1c99610bc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1293886763,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1293886763,
+    "wof:lastmodified":1536708917,
+    "wof:name":"Yawela",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57875,
+    -12.75482,
+    30.57875,
+    -12.75482
+],
+  "geometry": {"coordinates":[30.57875,-12.75482],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226543901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2,-13.75,22.2,-13.75",
+    "geom:latitude":-13.75,
+    "geom:longitude":22.2,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Makwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908274,
+    "gn:latitude":-13.75,
+    "gn:longitude":22.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Makwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908274
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2eaaca003d48d89a2ba1ad9e19ce9f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1226543901,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1226543901,
+    "wof:lastmodified":1536999915,
+    "wof:name":"Makwa",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2,
+    -13.75,
+    22.2,
+    -13.75
+],
+  "geometry": {"coordinates":[22.2,-13.75],"type":"Point"}
+}

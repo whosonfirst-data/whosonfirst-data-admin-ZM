@@ -1,0 +1,85 @@
+{
+  "id": 421195137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73364,-11.20124,31.73364,-11.20124",
+    "geom:latitude":-11.20124,
+    "geom:longitude":31.73364,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Shiwa Ngandu"
+    ],
+    "name:eng_x_preferred":[
+        "Shiwa Ngandu"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":898494,
+    "qs:gn_pop":0,
+    "qs:name":"Shiwa Ngandu",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"Northern",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1221205,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1574617,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1013,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898494,
+        "gp:id":1574617,
+        "qs:id":1221205,
+        "wd:id":"Q7499441",
+        "wk:page":"Shiwa Ngandu"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459009833,
+    "wof:geomhash":"e800e1e0e40ff531a45b20faa4548b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782427,
+            "locality_id":421195137,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":421195137,
+    "wof:lastmodified":1527716123,
+    "wof:name":"Shiwa Ngandu",
+    "wof:parent_id":1108782427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73364,
+    -11.20124,
+    31.73364,
+    -11.20124
+],
+  "geometry": {"coordinates":[31.73364,-11.20124],"type":"Point"}
+}

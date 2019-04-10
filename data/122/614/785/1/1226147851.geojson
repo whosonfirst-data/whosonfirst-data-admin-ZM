@@ -1,0 +1,67 @@
+{
+  "id": 1226147851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62782,-8.67818,30.62782,-8.67818",
+    "geom:latitude":-8.67818,
+    "geom:longitude":30.62782,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lukwesa",
+    "gn:country_code":"ZM",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176373,
+    "gn:latitude":-8.67818,
+    "gn:longitude":30.62782,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Lukwesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176373
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"48d608f7b23f7409a13687aae73e0c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1226147851,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1226147851,
+    "wof:lastmodified":1537071560,
+    "wof:name":"Lukwesa",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62782,
+    -8.67818,
+    30.62782,
+    -8.67818
+],
+  "geometry": {"coordinates":[30.62782,-8.67818],"type":"Point"}
+}

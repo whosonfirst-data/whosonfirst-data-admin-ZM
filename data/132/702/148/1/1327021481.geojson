@@ -1,0 +1,71 @@
+{
+  "id": 1327021481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2793,-16.33787,28.2793,-16.33787",
+    "geom:latitude":-16.33787,
+    "geom:longitude":28.2793,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siachitema",
+    "gn:country_code":"ZM",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898415,
+    "gn:latitude":-16.33787,
+    "gn:longitude":28.2793,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Siachitema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siatchiteme",
+        "Siachitema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        890427539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898415
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ee2e1e9cd3b09b98c2e789861ab9e3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":890427539,
+            "locality_id":1327021481,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1327021481,
+    "wof:lastmodified":1537716470,
+    "wof:name":"Siachitema",
+    "wof:parent_id":890427539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2793,
+    -16.33787,
+    28.2793,
+    -16.33787
+],
+  "geometry": {"coordinates":[28.2793,-16.33787],"type":"Point"}
+}

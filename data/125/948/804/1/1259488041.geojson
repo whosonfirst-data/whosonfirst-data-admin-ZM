@@ -1,0 +1,67 @@
+{
+  "id": 1259488041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16667,-10.16667,31.16667,-10.16667",
+    "geom:latitude":-10.16667,
+    "geom:longitude":31.16667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Makwita",
+    "gn:country_code":"ZM",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908254,
+    "gn:latitude":-10.16667,
+    "gn:longitude":31.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Makwita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908254
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2ea68d2a82a7cef134ab7214c36cbb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782461,
+            "locality_id":1259488041,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1259488041,
+    "wof:lastmodified":1536851118,
+    "wof:name":"Makwita",
+    "wof:parent_id":1108782461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16667,
+    -10.16667,
+    31.16667,
+    -10.16667
+],
+  "geometry": {"coordinates":[31.16667,-10.16667],"type":"Point"}
+}

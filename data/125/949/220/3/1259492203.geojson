@@ -1,0 +1,67 @@
+{
+  "id": 1259492203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34577,-12.72075,30.34577,-12.72075",
+    "geom:latitude":-12.72075,
+    "geom:longitude":30.34577,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Andala Sonchalwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921560,
+    "gn:latitude":-12.72075,
+    "gn:longitude":30.34577,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Andala Sonchalwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921560
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3a700476cae6d0310682a4127f368b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1259492203,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1259492203,
+    "wof:lastmodified":1536845101,
+    "wof:name":"Andala Sonchalwe",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34577,
+    -12.72075,
+    30.34577,
+    -12.72075
+],
+  "geometry": {"coordinates":[30.34577,-12.72075],"type":"Point"}
+}

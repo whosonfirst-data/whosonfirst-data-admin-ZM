@@ -1,0 +1,71 @@
+{
+  "id": 1292901013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08333,-13.26667,24.08333,-13.26667",
+    "geom:latitude":-13.26667,
+    "geom:longitude":24.08333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chipandakano",
+    "gn:country_code":"ZM",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918742,
+    "gn:latitude":-13.26667,
+    "gn:longitude":24.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chipandakano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sipandakama",
+        "Chipandakano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918742
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4ccd3ad8e4243cb5c3b742fb8e6f6b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782443,
+            "locality_id":1292901013,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1292901013,
+    "wof:lastmodified":1537716554,
+    "wof:name":"Chipandakano",
+    "wof:parent_id":1108782443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08333,
+    -13.26667,
+    24.08333,
+    -13.26667
+],
+  "geometry": {"coordinates":[24.08333,-13.26667],"type":"Point"}
+}

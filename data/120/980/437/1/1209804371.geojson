@@ -1,0 +1,71 @@
+{
+  "id": 1209804371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41947,-10.25454,33.41947,-10.25454",
+    "geom:latitude":-10.25454,
+    "geom:longitude":33.41947,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mwini Lunga",
+    "gn:country_code":"ZM",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902621,
+    "gn:latitude":-10.25454,
+    "gn:longitude":33.41947,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mwini Lunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwine Lunga",
+        "Mwini Lunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902621
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"801fdf9595def7971101535ad98850f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1209804371,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1209804371,
+    "wof:lastmodified":1537716490,
+    "wof:name":"Mwini Lunga",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41947,
+    -10.25454,
+    33.41947,
+    -10.25454
+],
+  "geometry": {"coordinates":[33.41947,-10.25454],"type":"Point"}
+}

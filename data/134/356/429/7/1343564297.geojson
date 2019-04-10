@@ -1,0 +1,71 @@
+{
+  "id": 1343564297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,-14.9,27.76667,-14.9",
+    "geom:latitude":-14.9,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shiyala",
+    "gn:country_code":"ZM",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898487,
+    "gn:latitude":-14.9,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shiyala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shiala",
+        "Shiyala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898487
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"51bf5a1f6821812b5a96cfa742e375da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1343564297,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1343564297,
+    "wof:lastmodified":1537716471,
+    "wof:name":"Shiyala",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    -14.9,
+    27.76667,
+    -14.9
+],
+  "geometry": {"coordinates":[27.76667,-14.9],"type":"Point"}
+}

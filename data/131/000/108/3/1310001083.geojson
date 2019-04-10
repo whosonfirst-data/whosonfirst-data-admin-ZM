@@ -1,0 +1,67 @@
+{
+  "id": 1310001083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87258,-10.5939,32.87258,-10.5939",
+    "geom:latitude":-10.5939,
+    "geom:longitude":32.87258,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mwanje",
+    "gn:country_code":"ZM",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902935,
+    "gn:latitude":-10.5939,
+    "gn:longitude":32.87258,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mwanje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902935
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"4d98171b6cf070c97514fea565f3dee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1310001083,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1310001083,
+    "wof:lastmodified":1536649431,
+    "wof:name":"Mwanje",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87258,
+    -10.5939,
+    32.87258,
+    -10.5939
+],
+  "geometry": {"coordinates":[32.87258,-10.5939],"type":"Point"}
+}

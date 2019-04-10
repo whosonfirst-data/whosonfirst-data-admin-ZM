@@ -1,0 +1,68 @@
+{
+  "id": 1193029771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17622,-16.77713,25.17622,-16.77713",
+    "geom:latitude":-16.77713,
+    "geom:longitude":25.17622,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mulobezi",
+    "gn:country_code":"ZM",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904652,
+    "gn:latitude":-16.77713,
+    "gn:longitude":25.17622,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mulobezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904652,
+        "wk:page":"Mulobezi"
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f97c9b470195c3a04c7c866772b3a193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1193029771,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1193029771,
+    "wof:lastmodified":1537576382,
+    "wof:name":"Mulobezi",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17622,
+    -16.77713,
+    25.17622,
+    -16.77713
+],
+  "geometry": {"coordinates":[25.17622,-16.77713],"type":"Point"}
+}

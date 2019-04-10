@@ -1,0 +1,67 @@
+{
+  "id": 1327440503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46021,-12.72651,30.46021,-12.72651",
+    "geom:latitude":-12.72651,
+    "geom:longitude":30.46021,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chiwele",
+    "gn:country_code":"ZM",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917893,
+    "gn:latitude":-12.72651,
+    "gn:longitude":30.46021,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chiwele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917893
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0ab3fbc9c89bc4c39b6e6572e61ab0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1327440503,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1327440503,
+    "wof:lastmodified":1536669028,
+    "wof:name":"Chiwele",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46021,
+    -12.72651,
+    30.46021,
+    -12.72651
+],
+  "geometry": {"coordinates":[30.46021,-12.72651],"type":"Point"}
+}

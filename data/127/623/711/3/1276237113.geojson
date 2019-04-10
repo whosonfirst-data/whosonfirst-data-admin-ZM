@@ -1,0 +1,67 @@
+{
+  "id": 1276237113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5119,-12.81602,30.5119,-12.81602",
+    "geom:latitude":-12.81602,
+    "geom:longitude":30.5119,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tebulu Mwape",
+    "gn:country_code":"ZM",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896749,
+    "gn:latitude":-12.81602,
+    "gn:longitude":30.5119,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tebulu Mwape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896749
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9483d62beeeb32c50ef9383413cf76f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1276237113,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1276237113,
+    "wof:lastmodified":1536907786,
+    "wof:name":"Tebulu Mwape",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5119,
+    -12.81602,
+    30.5119,
+    -12.81602
+],
+  "geometry": {"coordinates":[30.5119,-12.81602],"type":"Point"}
+}

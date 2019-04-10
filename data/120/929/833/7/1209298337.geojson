@@ -1,0 +1,61 @@
+{
+  "id": 1209298337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03333,-10.06667,33.03333,-10.06667",
+    "geom:latitude":-10.06667,
+    "geom:longitude":33.03333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kanyambwe",
+    "gn:country_code":"ZM",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913441,
+    "gn:latitude":-10.06667,
+    "gn:longitude":33.03333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kanyambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913441
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"23c4166d762cd123d6ce77e61048fdd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209298337
+        }
+    ],
+    "wof:id":1209298337,
+    "wof:lastmodified":1536291445,
+    "wof:name":"Kanyambwe",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03333,
+    -10.06667,
+    33.03333,
+    -10.06667
+],
+  "geometry": {"coordinates":[33.03333,-10.06667],"type":"Point"}
+}

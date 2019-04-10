@@ -1,0 +1,67 @@
+{
+  "id": 1259394131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87964,-13.45225,32.87964,-13.45225",
+    "geom:latitude":-13.45225,
+    "geom:longitude":32.87964,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chagambo",
+    "gn:country_code":"ZM",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921000,
+    "gn:latitude":-13.45225,
+    "gn:longitude":32.87964,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chagambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chagamba",
+        "Chagambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921000
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ca8c5711cddc4633bbd38c73fe0a134c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259394131,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259394131,
+    "wof:lastmodified":1537716567,
+    "wof:name":"Chagambo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87964,
+    -13.45225,
+    32.87964,
+    -13.45225
+],
+  "geometry": {"coordinates":[32.87964,-13.45225],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209235615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.29794,-16.39168,28.29794,-16.39168",
+    "geom:latitude":-16.39168,
+    "geom:longitude":28.29794,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sianyolo",
+    "gn:country_code":"ZM",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898213,
+    "gn:latitude":-16.39168,
+    "gn:longitude":28.29794,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sianyolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syanyolo",
+        "Sianyola",
+        "Sianyole",
+        "Sianyolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898213
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b62a8e3f7b2ef2f324782b9e9370a3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209235615
+        }
+    ],
+    "wof:id":1209235615,
+    "wof:lastmodified":1537716467,
+    "wof:name":"Sianyolo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.29794,
+    -16.39167999999999,
+    28.29794,
+    -16.39167999999999
+],
+  "geometry": {"coordinates":[28.29794,-16.39167999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277077537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9447,-14.89142,27.9447,-14.89142",
+    "geom:latitude":-14.89142,
+    "geom:longitude":27.9447,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mpengaula",
+    "gn:country_code":"ZM",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905872,
+    "gn:latitude":-14.89142,
+    "gn:longitude":27.9447,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mpengaula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905872
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"16f32ef8e12aac9febfa58cb125ef281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1277077537,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1277077537,
+    "wof:lastmodified":1536775707,
+    "wof:name":"Mpengaula",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9447,
+    -14.89142,
+    27.9447,
+    -14.89142
+],
+  "geometry": {"coordinates":[27.9447,-14.89142],"type":"Point"}
+}

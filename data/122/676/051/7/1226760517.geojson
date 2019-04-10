@@ -1,0 +1,67 @@
+{
+  "id": 1226760517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46335,-12.82764,30.46335,-12.82764",
+    "geom:latitude":-12.82764,
+    "geom:longitude":30.46335,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Martin Nandu",
+    "gn:country_code":"ZM",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907601,
+    "gn:latitude":-12.82764,
+    "gn:longitude":30.46335,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Martin Nandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907601
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b5963468ab0e8853250de04e837e5d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1226760517,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1226760517,
+    "wof:lastmodified":1536694430,
+    "wof:name":"Martin Nandu",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46335,
+    -12.82764,
+    30.46335,
+    -12.82764
+],
+  "geometry": {"coordinates":[30.46335,-12.82764],"type":"Point"}
+}

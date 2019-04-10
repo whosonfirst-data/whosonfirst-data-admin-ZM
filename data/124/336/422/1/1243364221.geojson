@@ -1,0 +1,67 @@
+{
+  "id": 1243364221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18104,-10.47939,29.18104,-10.47939",
+    "geom:latitude":-10.47939,
+    "geom:longitude":29.18104,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mwenda",
+    "gn:country_code":"ZM",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902781,
+    "gn:latitude":-10.47939,
+    "gn:longitude":29.18104,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mwenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902781
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"634f378899ebea589d6596b3c1bfb656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782409,
+            "locality_id":1243364221,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1243364221,
+    "wof:lastmodified":1536924850,
+    "wof:name":"Mwenda",
+    "wof:parent_id":1108782409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18104000000001,
+    -10.47939,
+    29.18104000000001,
+    -10.47939
+],
+  "geometry": {"coordinates":[29.18104000000001,-10.47939],"type":"Point"}
+}

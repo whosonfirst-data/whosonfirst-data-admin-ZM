@@ -1,0 +1,67 @@
+{
+  "id": 1310612637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41667,-13.35,32.41667,-13.35",
+    "geom:latitude":-13.35,
+    "geom:longitude":32.41667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mafuta",
+    "gn:country_code":"ZM",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908571,
+    "gn:latitude":-13.35,
+    "gn:longitude":32.41667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mafuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908571
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9c12cb7ebf714ca95ab4dabdb6a7ec63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1310612637,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1310612637,
+    "wof:lastmodified":1536762629,
+    "wof:name":"Mafuta",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41667,
+    -13.35,
+    32.41667,
+    -13.35
+],
+  "geometry": {"coordinates":[32.41667,-13.35],"type":"Point"}
+}

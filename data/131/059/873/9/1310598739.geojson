@@ -1,0 +1,67 @@
+{
+  "id": 1310598739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04537,-13.49825,23.04537,-13.49825",
+    "geom:latitude":-13.49825,
+    "geom:longitude":23.04537,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamwamwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914095,
+    "gn:latitude":-13.49825,
+    "gn:longitude":23.04537,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kamwamwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914095
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"99d88a69bb364cac496376bff4e6b80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1310598739,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1310598739,
+    "wof:lastmodified":1536782964,
+    "wof:name":"Kamwamwa",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04537,
+    -13.49825,
+    23.04537,
+    -13.49825
+],
+  "geometry": {"coordinates":[23.04537,-13.49825],"type":"Point"}
+}

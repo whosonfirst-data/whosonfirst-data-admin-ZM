@@ -1,0 +1,67 @@
+{
+  "id": 1310017385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.60837,-14.18254,32.60837,-14.18254",
+    "geom:latitude":-14.18254,
+    "geom:longitude":32.60837,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chapuka",
+    "gn:country_code":"ZM",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920535,
+    "gn:latitude":-14.18254,
+    "gn:longitude":32.60837,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chapuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920535
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"05c25dc0a88255568219aaeea85d59d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782385,
+            "locality_id":1310017385,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1310017385,
+    "wof:lastmodified":1536624152,
+    "wof:name":"Chapuka",
+    "wof:parent_id":1108782385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.60837,
+    -14.18254,
+    32.60837,
+    -14.18254
+],
+  "geometry": {"coordinates":[32.60837,-14.18254],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310584825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75,-10.06667,32.75,-10.06667",
+    "geom:latitude":-10.06667,
+    "geom:longitude":32.75,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Joseph",
+    "gn:country_code":"ZM",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916483,
+    "gn:latitude":-10.06667,
+    "gn:longitude":32.75,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Joseph",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916483
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3165bd145edc3d66aecc29c3065c7bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1310584825,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1310584825,
+    "wof:lastmodified":1536802530,
+    "wof:name":"Joseph",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75,
+    -10.06667,
+    32.75,
+    -10.06667
+],
+  "geometry": {"coordinates":[32.75,-10.06667],"type":"Point"}
+}

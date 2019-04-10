@@ -1,0 +1,67 @@
+{
+  "id": 1309919803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2,-17.5,23.2,-17.5",
+    "geom:latitude":-17.5,
+    "geom:longitude":23.2,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mulota",
+    "gn:country_code":"ZM",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904585,
+    "gn:latitude":-17.5,
+    "gn:longitude":23.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mulota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904585
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b697d2860b77b1f42c16156b01fe9b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1309919803,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1309919803,
+    "wof:lastmodified":1536767083,
+    "wof:name":"Mulota",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2,
+    -17.5,
+    23.2,
+    -17.5
+],
+  "geometry": {"coordinates":[23.2,-17.5],"type":"Point"}
+}

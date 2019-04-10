@@ -1,0 +1,82 @@
+{
+  "id": 1242582353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.897,-8.36422,29.897,-8.36422",
+    "geom:latitude":-8.36422,
+    "geom:longitude":29.897,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lunangwa",
+    "gn:country_code":"ZM",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176362,
+    "gn:latitude":-8.36422,
+    "gn:longitude":29.897,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lunangwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manangwa",
+        "Muchenja",
+        "Lunangwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176362
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"573b4279080f934c704f148453858ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":1242582353,
+            "region_id":85681055
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1242582353,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242582353,
+    "wof:lastmodified":1537716454,
+    "wof:name":"Lunangwa",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.897,
+    -8.36422,
+    29.897,
+    -8.36422
+],
+  "geometry": {"coordinates":[29.897,-8.36422],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293592475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68554,-12.90717,30.68554,-12.90717",
+    "geom:latitude":-12.90717,
+    "geom:longitude":30.68554,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nunda",
+    "gn:country_code":"ZM",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900393,
+    "gn:latitude":-12.90717,
+    "gn:longitude":30.68554,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900393
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84bad153fa27f90956e509869fa0a567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1293592475,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1293592475,
+    "wof:lastmodified":1536634428,
+    "wof:name":"Nunda",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68554,
+    -12.90717,
+    30.68554,
+    -12.90717
+],
+  "geometry": {"coordinates":[30.68554,-12.90717],"type":"Point"}
+}

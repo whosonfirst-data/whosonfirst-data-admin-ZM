@@ -1,0 +1,61 @@
+{
+  "id": 1209611181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08333,-15.48333,28.08333,-15.48333",
+    "geom:latitude":-15.48333,
+    "geom:longitude":28.08333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lisuka",
+    "gn:country_code":"ZM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910204,
+    "gn:latitude":-15.48333,
+    "gn:longitude":28.08333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Lisuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910204
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7000c854af2bd38c5ae36d08a7eb3444",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209611181
+        }
+    ],
+    "wof:id":1209611181,
+    "wof:lastmodified":1536281841,
+    "wof:name":"Lisuka",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08333,
+    -15.48333,
+    28.08333,
+    -15.48333
+],
+  "geometry": {"coordinates":[28.08333,-15.48333],"type":"Point"}
+}

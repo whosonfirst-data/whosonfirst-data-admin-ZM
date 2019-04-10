@@ -1,0 +1,67 @@
+{
+  "id": 1310496195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.94065,-15.41668,28.94065,-15.41668",
+    "geom:latitude":-15.41668,
+    "geom:longitude":28.94065,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mulelewa",
+    "gn:country_code":"ZM",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904815,
+    "gn:latitude":-15.41668,
+    "gn:longitude":28.94065,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mulelewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904815
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7f3143ca0d6018c7e8d64c799ca04411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1310496195,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1310496195,
+    "wof:lastmodified":1536931088,
+    "wof:name":"Mulelewa",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94065,
+    -15.41668,
+    28.94065,
+    -15.41668
+],
+  "geometry": {"coordinates":[28.94065,-15.41668],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343572717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32257,-13.80969,31.32257,-13.80969",
+    "geom:latitude":-13.80969,
+    "geom:longitude":31.32257,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Makale",
+    "gn:country_code":"ZM",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908461,
+    "gn:latitude":-13.80969,
+    "gn:longitude":31.32257,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Makale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makali",
+        "Makale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908461
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8d2eeef8458e8e14c43895bdf2583ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1343572717,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1343572717,
+    "wof:lastmodified":1537716519,
+    "wof:name":"Makale",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32257,
+    -13.80969,
+    31.32257,
+    -13.80969
+],
+  "geometry": {"coordinates":[31.32257,-13.80969],"type":"Point"}
+}

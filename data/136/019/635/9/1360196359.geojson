@@ -1,0 +1,71 @@
+{
+  "id": 1360196359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28467,-13.77693,32.28467,-13.77693",
+    "geom:latitude":-13.77693,
+    "geom:longitude":32.28467,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chongololo",
+    "gn:country_code":"ZM",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917696,
+    "gn:latitude":-13.77693,
+    "gn:longitude":32.28467,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chongololo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chongo",
+        "Chongololo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917696
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"17ff336294bebca0de77e004f3ecd233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1360196359,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1360196359,
+    "wof:lastmodified":1537716549,
+    "wof:name":"Chongololo",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28467,
+    -13.77693,
+    32.28467,
+    -13.77693
+],
+  "geometry": {"coordinates":[32.28467,-13.77693],"type":"Point"}
+}

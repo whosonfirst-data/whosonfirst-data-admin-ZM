@@ -1,0 +1,67 @@
+{
+  "id": 1276551595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96667,-14.48333,23.96667,-14.48333",
+    "geom:latitude":-14.48333,
+    "geom:longitude":23.96667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lingwabo",
+    "gn:country_code":"ZM",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910328,
+    "gn:latitude":-14.48333,
+    "gn:longitude":23.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Lingwabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910328
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3d6d4165b94fac57beda2aacc17f3a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":1276551595,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1276551595,
+    "wof:lastmodified":1536982810,
+    "wof:name":"Lingwabo",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96667,
+    -14.48333,
+    23.96667,
+    -14.48333
+],
+  "geometry": {"coordinates":[23.96667,-14.48333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209408171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.32624,-13.10414,28.32624,-13.10414",
+    "geom:latitude":-13.10414,
+    "geom:longitude":28.32624,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mpatamatu",
+    "gn:country_code":"ZM",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905886,
+    "gn:latitude":-13.10414,
+    "gn:longitude":28.32624,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mpatamatu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905886
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"be25616d40d1cc79782126494d4d61ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209408171
+        }
+    ],
+    "wof:id":1209408171,
+    "wof:lastmodified":1536287927,
+    "wof:name":"Mpatamatu",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.32624,
+    -13.10414,
+    28.32624,
+    -13.10414
+],
+  "geometry": {"coordinates":[28.32624,-13.10414],"type":"Point"}
+}

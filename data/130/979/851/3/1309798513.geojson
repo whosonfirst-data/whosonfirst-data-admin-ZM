@@ -1,0 +1,67 @@
+{
+  "id": 1309798513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05347,-11.64562,24.05347,-11.64562",
+    "geom:latitude":-11.64562,
+    "geom:longitude":24.05347,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Matonchi",
+    "gn:country_code":"ZM",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907293,
+    "gn:latitude":-11.64562,
+    "gn:longitude":24.05347,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Matonchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907293
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7d177d909ae42eb266bf01baf38b016c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782449,
+            "locality_id":1309798513,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1309798513,
+    "wof:lastmodified":1536942163,
+    "wof:name":"Matonchi",
+    "wof:parent_id":1108782449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05347,
+    -11.64562,
+    24.05347,
+    -11.64562
+],
+  "geometry": {"coordinates":[24.05347,-11.64562],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209506821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.16667,-16.03333,27.16667,-16.03333",
+    "geom:latitude":-16.03333,
+    "geom:longitude":27.16667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Munta",
+    "gn:country_code":"ZM",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904188,
+    "gn:latitude":-16.03333,
+    "gn:longitude":27.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Munta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904188
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7120278a6e467dfed9c9f48738bb8cb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209506821
+        }
+    ],
+    "wof:id":1209506821,
+    "wof:lastmodified":1536285009,
+    "wof:name":"Munta",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16667,
+    -16.03333,
+    27.16667,
+    -16.03333
+],
+  "geometry": {"coordinates":[27.16667,-16.03333],"type":"Point"}
+}

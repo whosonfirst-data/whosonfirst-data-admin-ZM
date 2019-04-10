@@ -1,0 +1,72 @@
+{
+  "id": 1276962865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91444,-10.29703,32.91444,-10.29703",
+    "geom:latitude":-10.29703,
+    "geom:longitude":32.91444,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mulambi",
+    "gn:country_code":"ZM",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904888,
+    "gn:latitude":-10.29703,
+    "gn:longitude":32.91444,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mulambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulambu",
+        "Mulamba",
+        "Mulambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904888
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c2988f75571be9f4a6f45e8dc0985969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1276962865,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1276962865,
+    "wof:lastmodified":1537716501,
+    "wof:name":"Mulambi",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91444,
+    -10.29703,
+    32.91444,
+    -10.29703
+],
+  "geometry": {"coordinates":[32.91444,-10.29703],"type":"Point"}
+}

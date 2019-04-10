@@ -1,0 +1,67 @@
+{
+  "id": 1360075879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18333,-10.8,29.18333,-10.8",
+    "geom:latitude":-10.8,
+    "geom:longitude":29.18333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chibaye",
+    "gn:country_code":"ZM",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920309,
+    "gn:latitude":-10.8,
+    "gn:longitude":29.18333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chibaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920309
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"254ee8c675e76165d22d718593322245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782409,
+            "locality_id":1360075879,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1360075879,
+    "wof:lastmodified":1536958986,
+    "wof:name":"Chibaye",
+    "wof:parent_id":1108782409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18333,
+    -10.8,
+    29.18333,
+    -10.8
+],
+  "geometry": {"coordinates":[29.18333,-10.8],"type":"Point"}
+}

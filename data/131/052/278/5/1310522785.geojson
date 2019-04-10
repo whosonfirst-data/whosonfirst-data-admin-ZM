@@ -1,0 +1,76 @@
+{
+  "id": 1310522785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13537,-17.434,27.13537,-17.434",
+    "geom:latitude":-17.434,
+    "geom:longitude":27.13537,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gamela",
+    "gn:country_code":"ZM",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917077,
+    "gn:latitude":-17.434,
+    "gn:longitude":27.13537,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gamela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gamela"
+    ],
+    "name:eng_x_variant":[
+        "Gamera"
+    ],
+    "name:und_x_variant":[
+        "Gamera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917077
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"eb20f3e78dbab328c64f0e2f86fc765e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782493,
+            "locality_id":1310522785,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1310522785,
+    "wof:lastmodified":1537716547,
+    "wof:name":"Gamela",
+    "wof:parent_id":1108782493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13537,
+    -17.434,
+    27.13537,
+    -17.434
+],
+  "geometry": {"coordinates":[27.13537,-17.434],"type":"Point"}
+}

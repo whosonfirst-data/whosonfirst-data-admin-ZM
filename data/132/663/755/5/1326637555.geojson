@@ -1,0 +1,71 @@
+{
+  "id": 1326637555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03333,-12.51667,33.03333,-12.51667",
+    "geom:latitude":-12.51667,
+    "geom:longitude":33.03333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Umezi",
+    "gn:country_code":"ZM",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896426,
+    "gn:latitude":-12.51667,
+    "gn:longitude":33.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Umezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lumezi",
+        "Umezi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896426
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d0a46cb0aa92cef95b74b1ea40444b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1326637555,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1326637555,
+    "wof:lastmodified":1537716461,
+    "wof:name":"Umezi",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03333,
+    -12.51667,
+    33.03333,
+    -12.51667
+],
+  "geometry": {"coordinates":[33.03333,-12.51667],"type":"Point"}
+}

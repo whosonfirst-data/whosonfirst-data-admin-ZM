@@ -1,0 +1,67 @@
+{
+  "id": 1225853651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40949,-12.92587,30.40949,-12.92587",
+    "geom:latitude":-12.92587,
+    "geom:longitude":30.40949,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Esau Mofia",
+    "gn:country_code":"ZM",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917345,
+    "gn:latitude":-12.92587,
+    "gn:longitude":30.40949,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Esau Mofia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917345
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bd0e18238f3e4ff61c0c3d56168f8e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1225853651,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1225853651,
+    "wof:lastmodified":1537001438,
+    "wof:name":"Esau Mofia",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40949,
+    -12.92587,
+    30.40949,
+    -12.92587
+],
+  "geometry": {"coordinates":[30.40949,-12.92587],"type":"Point"}
+}

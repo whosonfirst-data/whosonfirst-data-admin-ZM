@@ -1,0 +1,67 @@
+{
+  "id": 1242881719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6214,-13.49362,32.6214,-13.49362",
+    "geom:latitude":-13.49362,
+    "geom:longitude":32.6214,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mphaisha",
+    "gn:country_code":"ZM",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905853,
+    "gn:latitude":-13.49362,
+    "gn:longitude":32.6214,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mphaisha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905853
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bac2a098b9d064cac82a6b064448b453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1242881719,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1242881719,
+    "wof:lastmodified":1536623590,
+    "wof:name":"Mphaisha",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6214,
+    -13.49362,
+    32.6214,
+    -13.49362
+],
+  "geometry": {"coordinates":[32.6214,-13.49362],"type":"Point"}
+}

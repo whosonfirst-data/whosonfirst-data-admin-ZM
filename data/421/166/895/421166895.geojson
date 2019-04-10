@@ -1,0 +1,93 @@
+{
+  "id": 421166895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8,-13.68333,24.8,-13.68333",
+    "geom:latitude":-13.68333,
+    "geom:longitude":24.8,
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0443\u0444\u0443\u043c\u0431\u0432\u0435"
+    ],
+    "name:por_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:ron_x_preferred":[
+        "Mufumbwe"
+    ],
+    "qs:gn_country":"ZM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":905382,
+    "qs:gn_pop":6155,
+    "qs:name":"Mufumbwe",
+    "qs:name_adm0":"Zambia",
+    "qs:name_adm1":"North-Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":275823,
+    "qs:woe_adm0":23425003,
+    "qs:woe_id":1570720,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905382,
+        "gp:id":1570720,
+        "qs:id":275823,
+        "wd:id":"Q996108"
+    },
+    "wof:country":"ZM",
+    "wof:created":1459008706,
+    "wof:geomhash":"2da80177a0bb75d9e6046864028f1851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782447,
+            "locality_id":421166895,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":421166895,
+    "wof:lastmodified":1527716103,
+    "wof:name":"Mufumbwe",
+    "wof:parent_id":1108782447,
+    "wof:placetype":"locality",
+    "wof:population":6155,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8,
+    -13.68333,
+    24.8,
+    -13.68333
+],
+  "geometry": {"coordinates":[24.8,-13.68333],"type":"Point"}
+}

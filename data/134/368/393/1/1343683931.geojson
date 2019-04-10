@@ -1,0 +1,71 @@
+{
+  "id": 1343683931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.81667,-13.31667,25.81667,-13.31667",
+    "geom:latitude":-13.31667,
+    "geom:longitude":25.81667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kapimpa",
+    "gn:country_code":"ZM",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913054,
+    "gn:latitude":-13.31667,
+    "gn:longitude":25.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kapimpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapimga",
+        "Kapimpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913054
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2cf14a6484860bd303ad77099089fe6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782445,
+            "locality_id":1343683931,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1343683931,
+    "wof:lastmodified":1537716532,
+    "wof:name":"Kapimpa",
+    "wof:parent_id":1108782445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.81667,
+    -13.31667,
+    25.81667,
+    -13.31667
+],
+  "geometry": {"coordinates":[25.81667,-13.31667],"type":"Point"}
+}

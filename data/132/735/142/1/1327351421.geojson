@@ -1,0 +1,67 @@
+{
+  "id": 1327351421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06376,-16.39744,25.06376,-16.39744",
+    "geom:latitude":-16.39744,
+    "geom:longitude":25.06376,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kamboyi",
+    "gn:country_code":"ZM",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914532,
+    "gn:latitude":-16.39744,
+    "gn:longitude":25.06376,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kamboyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914532
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b29db49e8731b19aa0f87486112e7766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782507,
+            "locality_id":1327351421,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1327351421,
+    "wof:lastmodified":1536797896,
+    "wof:name":"Kamboyi",
+    "wof:parent_id":1108782507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06376,
+    -16.39744,
+    25.06376,
+    -16.39744
+],
+  "geometry": {"coordinates":[25.06376,-16.39744],"type":"Point"}
+}

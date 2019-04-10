@@ -1,0 +1,72 @@
+{
+  "id": 1260088861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73333,-12.86667,30.73333,-12.86667",
+    "geom:latitude":-12.86667,
+    "geom:longitude":30.73333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chibuye Saidi",
+    "gn:country_code":"ZM",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920156,
+    "gn:latitude":-12.86667,
+    "gn:longitude":30.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chibuye Saidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saidi",
+        "Chiuysaidi",
+        "Chibuye Saidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920156
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3e857f4dab4068b2a86604d449e3069b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1260088861,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1260088861,
+    "wof:lastmodified":1537716564,
+    "wof:name":"Chibuye Saidi",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73333,
+    -12.86667,
+    30.73333,
+    -12.86667
+],
+  "geometry": {"coordinates":[30.73333,-12.86667],"type":"Point"}
+}

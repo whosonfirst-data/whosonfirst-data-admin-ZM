@@ -1,0 +1,72 @@
+{
+  "id": 1293384407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.96667,-15.93333,28.96667,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":28.96667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kabwatu",
+    "gn:cc2":"ZM",
+    "gn:country_code":"ZM",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916102,
+    "gn:latitude":-15.93333,
+    "gn:longitude":28.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kabwatu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabwato",
+        "Kabwatu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916102
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"93494b0db10fdc2404b3fb83145454f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782417,
+            "locality_id":1293384407,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1293384407,
+    "wof:lastmodified":1537716543,
+    "wof:name":"Kabwatu",
+    "wof:parent_id":1108782417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.96667,
+    -15.93333,
+    28.96667,
+    -15.93333
+],
+  "geometry": {"coordinates":[28.96667,-15.93333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209127515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25,-16.9,27.25,-16.9",
+    "geom:latitude":-16.9,
+    "geom:longitude":27.25,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Simulambela",
+    "gn:country_code":"ZM",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897560,
+    "gn:latitude":-16.9,
+    "gn:longitude":27.25,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Simulambela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897560
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dbab29ed36c71495ef1424f0b570f9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209127515
+        }
+    ],
+    "wof:id":1209127515,
+    "wof:lastmodified":1536296911,
+    "wof:name":"Simulambela",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25,
+    -16.9,
+    27.25,
+    -16.9
+],
+  "geometry": {"coordinates":[27.25,-16.9],"type":"Point"}
+}

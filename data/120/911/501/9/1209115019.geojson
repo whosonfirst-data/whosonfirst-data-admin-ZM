@@ -1,0 +1,61 @@
+{
+  "id": 1209115019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2,-14.33333,28.2,-14.33333",
+    "geom:latitude":-14.33333,
+    "geom:longitude":28.2,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kowongo",
+    "gn:country_code":"ZM",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":911010,
+    "gn:latitude":-14.33333,
+    "gn:longitude":28.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kowongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":911010
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"f5ad2491aa08b4481e0ff082497229c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209115019
+        }
+    ],
+    "wof:id":1209115019,
+    "wof:lastmodified":1536297282,
+    "wof:name":"Kowongo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2,
+    -14.333329999999998,
+    28.2,
+    -14.333329999999998
+],
+  "geometry": {"coordinates":[28.2,-14.33333],"type":"Point"}
+}

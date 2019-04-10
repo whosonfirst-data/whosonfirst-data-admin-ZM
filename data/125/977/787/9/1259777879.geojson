@@ -1,0 +1,67 @@
+{
+  "id": 1259777879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21667,-15.13333,30.21667,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":30.21667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Membe",
+    "gn:country_code":"ZM",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906784,
+    "gn:latitude":-15.13333,
+    "gn:longitude":30.21667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Membe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906784
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7a0381bff19f860774f111a2aae9e906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782419,
+            "locality_id":1259777879,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1259777879,
+    "wof:lastmodified":1536931995,
+    "wof:name":"Membe",
+    "wof:parent_id":1108782419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21667,
+    -15.13333,
+    30.21667,
+    -15.13333
+],
+  "geometry": {"coordinates":[30.21667,-15.13333],"type":"Point"}
+}

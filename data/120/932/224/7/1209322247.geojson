@@ -1,0 +1,61 @@
+{
+  "id": 1209322247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65,-14.01667,32.65,-14.01667",
+    "geom:latitude":-14.01667,
+    "geom:longitude":32.65,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nkhani",
+    "gn:country_code":"ZM",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900769,
+    "gn:latitude":-14.01667,
+    "gn:longitude":32.65,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nkhani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900769
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c73465b39ea2dc0fb6fb5db8210faba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209322247
+        }
+    ],
+    "wof:id":1209322247,
+    "wof:lastmodified":1536290652,
+    "wof:name":"Nkhani",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65,
+    -14.01667,
+    32.65,
+    -14.01667
+],
+  "geometry": {"coordinates":[32.65,-14.01667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209429055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38333,-17.4,24.38333,-17.4",
+    "geom:latitude":-17.4,
+    "geom:longitude":24.38333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Silinda",
+    "gn:country_code":"ZM",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897843,
+    "gn:latitude":-17.4,
+    "gn:longitude":24.38333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Silinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897843
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0c8c2f3fdc11ad781ff33c6e101b48d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209429055
+        }
+    ],
+    "wof:id":1209429055,
+    "wof:lastmodified":1536287290,
+    "wof:name":"Silinda",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38333,
+    -17.4,
+    24.38333,
+    -17.4
+],
+  "geometry": {"coordinates":[24.38333,-17.4],"type":"Point"}
+}

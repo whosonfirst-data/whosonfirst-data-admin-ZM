@@ -1,0 +1,82 @@
+{
+  "id": 1276154961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56667,-8.25,30.56667,-8.25",
+    "geom:latitude":-8.25,
+    "geom:longitude":30.56667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kapumfi",
+    "gn:country_code":"ZM",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176762,
+    "gn:latitude":-8.25,
+    "gn:longitude":30.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kapumfi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapunfi",
+        "Kaputa",
+        "Kapumfi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176762
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7ba3b6c50678f420a95bff15ca77bde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":1276154961,
+            "region_id":85681055
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1276154961,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276154961,
+    "wof:lastmodified":1537716455,
+    "wof:name":"Kapumfi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56667,
+    -8.25,
+    30.56667,
+    -8.25
+],
+  "geometry": {"coordinates":[30.56667,-8.25],"type":"Point"}
+}

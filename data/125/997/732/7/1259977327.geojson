@@ -1,0 +1,67 @@
+{
+  "id": 1259977327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30919,-14.05487,26.30919,-14.05487",
+    "geom:latitude":-14.05487,
+    "geom:longitude":26.30919,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kapafu",
+    "gn:country_code":"ZM",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913293,
+    "gn:latitude":-14.05487,
+    "gn:longitude":26.30919,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kapafu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913293
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6465891993be8683fc46eda185fb9001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782445,
+            "locality_id":1259977327,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1259977327,
+    "wof:lastmodified":1536643358,
+    "wof:name":"Kapafu",
+    "wof:parent_id":1108782445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30919,
+    -14.05487,
+    26.30919,
+    -14.05487
+],
+  "geometry": {"coordinates":[26.30919,-14.05487],"type":"Point"}
+}

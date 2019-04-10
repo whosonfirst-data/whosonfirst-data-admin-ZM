@@ -1,0 +1,61 @@
+{
+  "id": 1209219343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67208,-8.94918,31.67208,-8.94918",
+    "geom:latitude":-8.94918,
+    "geom:longitude":31.67208,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aron",
+    "gn:country_code":"ZM",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177880,
+    "gn:latitude":-8.94918,
+    "gn:longitude":31.67208,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Aron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177880
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6893d53eda5e26f9220c58a1ae6f4c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209219343
+        }
+    ],
+    "wof:id":1209219343,
+    "wof:lastmodified":1536294018,
+    "wof:name":"Aron",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67208,
+    -8.94918,
+    31.67208,
+    -8.94918
+],
+  "geometry": {"coordinates":[31.67208,-8.94918],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293007911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11667,-12.01667,33.11667,-12.01667",
+    "geom:latitude":-12.01667,
+    "geom:longitude":33.11667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chidiamero",
+    "gn:country_code":"ZM",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":920102,
+    "gn:latitude":-12.01667,
+    "gn:longitude":33.11667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chidiamero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":920102
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"50212ba9b945769ea2da8b37af10b8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1293007911,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1293007911,
+    "wof:lastmodified":1536980649,
+    "wof:name":"Chidiamero",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11667,
+    -12.01667,
+    33.11667,
+    -12.01667
+],
+  "geometry": {"coordinates":[33.11667,-12.01667],"type":"Point"}
+}

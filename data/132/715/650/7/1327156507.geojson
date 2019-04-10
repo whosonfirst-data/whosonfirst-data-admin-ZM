@@ -1,0 +1,67 @@
+{
+  "id": 1327156507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15,-13.48333,23.15,-13.48333",
+    "geom:latitude":-13.48333,
+    "geom:longitude":23.15,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kalengozola",
+    "gn:country_code":"ZM",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915288,
+    "gn:latitude":-13.48333,
+    "gn:longitude":23.15,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kalengozola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915288
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e1a4c4d09a99718e459f8bfd915d6eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1327156507,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1327156507,
+    "wof:lastmodified":1537076111,
+    "wof:name":"Kalengozola",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15,
+    -13.48333,
+    23.15,
+    -13.48333
+],
+  "geometry": {"coordinates":[23.15,-13.48333],"type":"Point"}
+}

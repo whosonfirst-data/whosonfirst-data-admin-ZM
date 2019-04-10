@@ -1,0 +1,61 @@
+{
+  "id": 1209426329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,-14.38333,31.31667,-14.38333",
+    "geom:latitude":-14.38333,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sunguni",
+    "gn:country_code":"ZM",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896903,
+    "gn:latitude":-14.38333,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sunguni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896903
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"796ee0d3e702ad0fce1e35a3e2a02cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209426329
+        }
+    ],
+    "wof:id":1209426329,
+    "wof:lastmodified":1536287371,
+    "wof:name":"Sunguni",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    -14.38333,
+    31.31667,
+    -14.38333
+],
+  "geometry": {"coordinates":[31.31667,-14.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243558583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88333,-15.38333,22.88333,-15.38333",
+    "geom:latitude":-15.38333,
+    "geom:longitude":22.88333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Musheba",
+    "gn:country_code":"ZM",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903921,
+    "gn:latitude":-15.38333,
+    "gn:longitude":22.88333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Musheba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903921
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0a4362b6cc2a62528989c820250d5c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1243558583,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1243558583,
+    "wof:lastmodified":1536643171,
+    "wof:name":"Musheba",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88333,
+    -15.38333,
+    22.88333,
+    -15.38333
+],
+  "geometry": {"coordinates":[22.88333,-15.38333],"type":"Point"}
+}

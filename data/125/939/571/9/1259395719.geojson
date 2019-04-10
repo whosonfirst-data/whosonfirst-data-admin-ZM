@@ -1,0 +1,67 @@
+{
+  "id": 1259395719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73897,-12.91161,30.73897,-12.91161",
+    "geom:latitude":-12.91161,
+    "geom:longitude":30.73897,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Thomas Msomaulwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896668,
+    "gn:latitude":-12.91161,
+    "gn:longitude":30.73897,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Thomas Msomaulwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896668
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"fd08699850adf59f3b0bf618390efff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1259395719,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1259395719,
+    "wof:lastmodified":1536983849,
+    "wof:name":"Thomas Msomaulwa",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73897,
+    -12.91161,
+    30.73897,
+    -12.91161
+],
+  "geometry": {"coordinates":[30.73897,-12.91161],"type":"Point"}
+}

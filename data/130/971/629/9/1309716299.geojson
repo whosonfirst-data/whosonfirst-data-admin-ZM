@@ -1,0 +1,67 @@
+{
+  "id": 1309716299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4259,-15.2987,22.4259,-15.2987",
+    "geom:latitude":-15.2987,
+    "geom:longitude":22.4259,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matengu",
+    "gn:country_code":"ZM",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907343,
+    "gn:latitude":-15.2987,
+    "gn:longitude":22.4259,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Matengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907343
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"8be5ec9725ba54ac7c8b3be1e0fb25d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1309716299,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1309716299,
+    "wof:lastmodified":1537057580,
+    "wof:name":"Matengu",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4259,
+    -15.2987,
+    22.4259,
+    -15.2987
+],
+  "geometry": {"coordinates":[22.4259,-15.2987],"type":"Point"}
+}

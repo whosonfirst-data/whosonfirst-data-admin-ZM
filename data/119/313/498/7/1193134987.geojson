@@ -1,0 +1,67 @@
+{
+  "id": 1193134987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18333,-11.23333,24.18333,-11.23333",
+    "geom:latitude":-11.23333,
+    "geom:longitude":24.18333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chikimba",
+    "gn:country_code":"ZM",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919893,
+    "gn:latitude":-11.23333,
+    "gn:longitude":24.18333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chikimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919893
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"abdb3839cf8e511347e4a55a49159011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782439,
+            "locality_id":1193134987,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1193134987,
+    "wof:lastmodified":1536371722,
+    "wof:name":"Chikimba",
+    "wof:parent_id":1108782439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18333,
+    -11.23333,
+    24.18333,
+    -11.23333
+],
+  "geometry": {"coordinates":[24.18333,-11.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276759573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8797,-12.04355,24.8797,-12.04355",
+    "geom:latitude":-12.04355,
+    "geom:longitude":24.8797,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sailunga",
+    "gn:country_code":"ZM",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899561,
+    "gn:latitude":-12.04355,
+    "gn:longitude":24.8797,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sailunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899561
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dceb9c38b141c7e30e4b98de3321a9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782449,
+            "locality_id":1276759573,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1276759573,
+    "wof:lastmodified":1536704991,
+    "wof:name":"Sailunga",
+    "wof:parent_id":1108782449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8797,
+    -12.04355,
+    24.8797,
+    -12.04355
+],
+  "geometry": {"coordinates":[24.8797,-12.04355],"type":"Point"}
+}

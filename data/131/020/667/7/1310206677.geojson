@@ -1,0 +1,67 @@
+{
+  "id": 1310206677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22908,-11.98749,33.22908,-11.98749",
+    "geom:latitude":-11.98749,
+    "geom:longitude":33.22908,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Makalaje",
+    "gn:country_code":"ZM",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908464,
+    "gn:latitude":-11.98749,
+    "gn:longitude":33.22908,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Makalaje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908464
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"85ca8e81dd43b5731531a1326338d300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1310206677,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1310206677,
+    "wof:lastmodified":1536849455,
+    "wof:name":"Makalaje",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22908,
+    -11.98749,
+    33.22908,
+    -11.98749
+],
+  "geometry": {"coordinates":[33.22908,-11.98749],"type":"Point"}
+}

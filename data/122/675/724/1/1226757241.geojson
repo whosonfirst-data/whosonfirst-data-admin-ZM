@@ -1,0 +1,67 @@
+{
+  "id": 1226757241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2,-17.51667,23.2,-17.51667",
+    "geom:latitude":-17.51667,
+    "geom:longitude":23.2,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kulubuza",
+    "gn:country_code":"ZM",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910955,
+    "gn:latitude":-17.51667,
+    "gn:longitude":23.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kulubuza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910955
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e3c7eb7c7edbb22da2efd129d96ba579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1226757241,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1226757241,
+    "wof:lastmodified":1536699181,
+    "wof:name":"Kulubuza",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2,
+    -17.51667,
+    23.2,
+    -17.51667
+],
+  "geometry": {"coordinates":[23.2,-17.51667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360299193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8,-14.01667,22.8,-14.01667",
+    "geom:latitude":-14.01667,
+    "geom:longitude":22.8,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mbandoke",
+    "gn:country_code":"ZM",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":907037,
+    "gn:latitude":-14.01667,
+    "gn:longitude":22.8,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mbandoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":907037
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"eb90175ccd6f202daf14256899db7508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782501,
+            "locality_id":1360299193,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1360299193,
+    "wof:lastmodified":1536635412,
+    "wof:name":"Mbandoke",
+    "wof:parent_id":1108782501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8,
+    -14.01667,
+    22.8,
+    -14.01667
+],
+  "geometry": {"coordinates":[22.8,-14.01667],"type":"Point"}
+}

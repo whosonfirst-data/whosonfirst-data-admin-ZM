@@ -1,0 +1,67 @@
+{
+  "id": 1243056871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46134,-12.60509,31.46134,-12.60509",
+    "geom:latitude":-12.60509,
+    "geom:longitude":31.46134,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mukulubwe",
+    "gn:country_code":"ZM",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905058,
+    "gn:latitude":-12.60509,
+    "gn:longitude":31.46134,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mukulubwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905058
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"96ff5017cbacc4d4ca376e9817ac4696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1243056871,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1243056871,
+    "wof:lastmodified":1536869018,
+    "wof:name":"Mukulubwe",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46134,
+    -12.60509,
+    31.46134,
+    -12.60509
+],
+  "geometry": {"coordinates":[31.46134,-12.60509],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277060281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67613,-11.79939,31.67613,-11.79939",
+    "geom:latitude":-11.79939,
+    "geom:longitude":31.67613,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kalulu",
+    "gn:country_code":"ZM",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914969,
+    "gn:latitude":-11.79939,
+    "gn:longitude":31.67613,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kalulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914969
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"614bf49e4d69bea96c128a680fc6c41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782433,
+            "locality_id":1277060281,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1277060281,
+    "wof:lastmodified":1536799236,
+    "wof:name":"Kalulu",
+    "wof:parent_id":1108782433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67613,
+    -11.79939,
+    31.67613,
+    -11.79939
+],
+  "geometry": {"coordinates":[31.67613,-11.79939],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309733969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78333,-13.06667,22.78333,-13.06667",
+    "geom:latitude":-13.06667,
+    "geom:longitude":22.78333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kahuma",
+    "gn:country_code":"ZM",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915732,
+    "gn:latitude":-13.06667,
+    "gn:longitude":22.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kahuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahuma",
+        "Kahuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915732
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"132d8f08d2544af72a416c67df2d4538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782437,
+            "locality_id":1309733969,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1309733969,
+    "wof:lastmodified":1537716542,
+    "wof:name":"Kahuma",
+    "wof:parent_id":1108782437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78333,
+    -13.06667,
+    22.78333,
+    -13.06667
+],
+  "geometry": {"coordinates":[22.78333,-13.06667],"type":"Point"}
+}

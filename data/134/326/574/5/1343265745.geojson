@@ -1,0 +1,67 @@
+{
+  "id": 1343265745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48333,-15.31667,23.48333,-15.31667",
+    "geom:latitude":-15.31667,
+    "geom:longitude":23.48333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aongola",
+    "gn:country_code":"ZM",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921541,
+    "gn:latitude":-15.31667,
+    "gn:longitude":23.48333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Aongola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921541
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"28a2f013fdd14f0634e1b42f2b90e6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1343265745,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1343265745,
+    "wof:lastmodified":1537026061,
+    "wof:name":"Aongola",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48333,
+    -15.31667,
+    23.48333,
+    -15.31667
+],
+  "geometry": {"coordinates":[23.48333,-15.31667],"type":"Point"}
+}

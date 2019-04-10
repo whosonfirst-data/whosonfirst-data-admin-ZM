@@ -1,0 +1,67 @@
+{
+  "id": 1309719433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37656,-14.14589,31.37656,-14.14589",
+    "geom:latitude":-14.14589,
+    "geom:longitude":31.37656,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sopo",
+    "gn:country_code":"ZM",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896989,
+    "gn:latitude":-14.14589,
+    "gn:longitude":31.37656,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896989
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9c9846f925edef5d8c7ca85de43fdfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1309719433,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1309719433,
+    "wof:lastmodified":1537053257,
+    "wof:name":"Sopo",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37656,
+    -14.14589,
+    31.37656,
+    -14.14589
+],
+  "geometry": {"coordinates":[31.37656,-14.14589],"type":"Point"}
+}

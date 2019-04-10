@@ -1,0 +1,72 @@
+{
+  "id": 1293202507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36471,-14.21842,31.36471,-14.21842",
+    "geom:latitude":-14.21842,
+    "geom:longitude":31.36471,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kanduku",
+    "gn:country_code":"ZM",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":913935,
+    "gn:latitude":-14.21842,
+    "gn:longitude":31.36471,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kanduku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaduku",
+        "Kaduka",
+        "Kanduku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":913935
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84befce66208893a6a0206e8441a3281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1293202507,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1293202507,
+    "wof:lastmodified":1537716535,
+    "wof:name":"Kanduku",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36471,
+    -14.21842,
+    31.36471,
+    -14.21842
+],
+  "geometry": {"coordinates":[31.36471,-14.21842],"type":"Point"}
+}

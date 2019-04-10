@@ -1,0 +1,61 @@
+{
+  "id": 1209408153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65,-13.25,22.65,-13.25",
+    "geom:latitude":-13.25,
+    "geom:longitude":22.65,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chilingo",
+    "gn:country_code":"ZM",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919502,
+    "gn:latitude":-13.25,
+    "gn:longitude":22.65,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chilingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919502
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"56b25718497b90a4ad43ffee5c7dc71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209408153
+        }
+    ],
+    "wof:id":1209408153,
+    "wof:lastmodified":1536287927,
+    "wof:name":"Chilingo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65,
+    -13.25,
+    22.65,
+    -13.25
+],
+  "geometry": {"coordinates":[22.65,-13.25],"type":"Point"}
+}

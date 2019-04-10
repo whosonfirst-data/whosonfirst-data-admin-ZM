@@ -1,0 +1,61 @@
+{
+  "id": 1209510327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38333,-10.31667,33.38333,-10.31667",
+    "geom:latitude":-10.31667,
+    "geom:longitude":33.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Moses Chiwone",
+    "gn:country_code":"ZM",
+    "gn:dem":1666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906008,
+    "gn:latitude":-10.31667,
+    "gn:longitude":33.38333,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Moses Chiwone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906008
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"212a0b1cf50e17c8effe7c47ae272e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209510327
+        }
+    ],
+    "wof:id":1209510327,
+    "wof:lastmodified":1536284902,
+    "wof:name":"Moses Chiwone",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38333,
+    -10.31667,
+    33.38333,
+    -10.31667
+],
+  "geometry": {"coordinates":[33.38333,-10.31667],"type":"Point"}
+}

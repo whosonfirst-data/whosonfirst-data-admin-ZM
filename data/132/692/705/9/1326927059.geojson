@@ -1,0 +1,67 @@
+{
+  "id": 1326927059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.03333,-16.85,27.03333,-16.85",
+    "geom:latitude":-16.85,
+    "geom:longitude":27.03333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Namashova",
+    "gn:country_code":"ZM",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902043,
+    "gn:latitude":-16.85,
+    "gn:longitude":27.03333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Namashova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902043
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d25925708b2fa83f9119d00c050048d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782473,
+            "locality_id":1326927059,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1326927059,
+    "wof:lastmodified":1536912682,
+    "wof:name":"Namashova",
+    "wof:parent_id":1108782473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.03333,
+    -16.85,
+    27.03333,
+    -16.85
+],
+  "geometry": {"coordinates":[27.03333,-16.85],"type":"Point"}
+}

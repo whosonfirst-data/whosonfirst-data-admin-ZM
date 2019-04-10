@@ -1,0 +1,71 @@
+{
+  "id": 1259476937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27714,-11.67779,33.27714,-11.67779",
+    "geom:latitude":-11.67779,
+    "geom:longitude":33.27714,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mzungunika",
+    "gn:country_code":"ZM",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902500,
+    "gn:latitude":-11.67779,
+    "gn:longitude":33.27714,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mzungunika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Msungunika",
+        "Mzungunika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902500
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0f4db1843fc3cd186337c47ae506d26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1259476937,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1259476937,
+    "wof:lastmodified":1537716489,
+    "wof:name":"Mzungunika",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27714,
+    -11.67779,
+    33.27714,
+    -11.67779
+],
+  "geometry": {"coordinates":[33.27714,-11.67779],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209899917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89786,-11.1716,32.89786,-11.1716",
+    "geom:latitude":-11.1716,
+    "geom:longitude":32.89786,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Katangalika",
+    "gn:country_code":"ZM",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912166,
+    "gn:latitude":-11.1716,
+    "gn:longitude":32.89786,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Katangalika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912166
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"719d3e402e06c048470bc16037244007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1209899917,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1209899917,
+    "wof:lastmodified":1536386904,
+    "wof:name":"Katangalika",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89785999999999,
+    -11.1716,
+    32.89785999999999,
+    -11.1716
+],
+  "geometry": {"coordinates":[32.89785999999999,-11.1716],"type":"Point"}
+}

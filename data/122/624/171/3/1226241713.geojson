@@ -1,0 +1,71 @@
+{
+  "id": 1226241713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46351,-8.9953,29.46351,-8.9953",
+    "geom:latitude":-8.9953,
+    "geom:longitude":29.46351,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mukupa Katandula",
+    "gn:country_code":"ZM",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175887,
+    "gn:latitude":-8.9953,
+    "gn:longitude":29.46351,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mukupa Katandula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukupa Katundula",
+        "Mukupa Katandula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175887
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0c5d3133e6eea4d5373698234256c3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":1226241713,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1226241713,
+    "wof:lastmodified":1537716452,
+    "wof:name":"Mukupa Katandula",
+    "wof:parent_id":1108782457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46351,
+    -8.9953,
+    29.46351,
+    -8.9953
+],
+  "geometry": {"coordinates":[29.46351,-8.9953],"type":"Point"}
+}

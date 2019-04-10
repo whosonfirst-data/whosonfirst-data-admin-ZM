@@ -1,0 +1,67 @@
+{
+  "id": 1309826243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21223,-13.63965,28.21223,-13.63965",
+    "geom:latitude":-13.63965,
+    "geom:longitude":28.21223,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mutwale",
+    "gn:country_code":"ZM",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903468,
+    "gn:latitude":-13.63965,
+    "gn:longitude":28.21223,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Mutwale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903468
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b1b10efdbb0eb65bb022879046a71527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782379,
+            "locality_id":1309826243,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1309826243,
+    "wof:lastmodified":1536901759,
+    "wof:name":"Mutwale",
+    "wof:parent_id":1108782379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21223,
+    -13.63965,
+    28.21223,
+    -13.63965
+],
+  "geometry": {"coordinates":[28.21223,-13.63965],"type":"Point"}
+}

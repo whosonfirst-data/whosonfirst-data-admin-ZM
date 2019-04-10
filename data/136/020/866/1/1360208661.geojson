@@ -1,0 +1,71 @@
+{
+  "id": 1360208661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.44981,-11.61704,29.44981,-11.61704",
+    "geom:latitude":-11.61704,
+    "geom:longitude":29.44981,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mungulube",
+    "gn:country_code":"ZM",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904258,
+    "gn:latitude":-11.61704,
+    "gn:longitude":29.44981,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mungulube",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munguruwe",
+        "Mungulube"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681047,
+        1108782407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904258
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b3d2c314da88d426d9453ef4a1b92a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782407,
+            "locality_id":1360208661,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1360208661,
+    "wof:lastmodified":1537716499,
+    "wof:name":"Mungulube",
+    "wof:parent_id":1108782407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.44981,
+    -11.61704,
+    29.44981,
+    -11.61704
+],
+  "geometry": {"coordinates":[29.44981,-11.61704],"type":"Point"}
+}

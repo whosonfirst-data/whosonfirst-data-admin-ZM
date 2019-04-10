@@ -1,0 +1,72 @@
+{
+  "id": 1225848415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71667,-14.3,28.71667,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":28.71667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalunga",
+    "gn:country_code":"ZM",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914903,
+    "gn:latitude":-14.3,
+    "gn:longitude":28.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kalunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelunka",
+        "Kanunka",
+        "Kalunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914903
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"842b6702c7b6b689306682f1fd2fdf2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782357,
+            "locality_id":1225848415,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1225848415,
+    "wof:lastmodified":1537716539,
+    "wof:name":"Kalunga",
+    "wof:parent_id":1108782357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71667,
+    -14.3,
+    28.71667,
+    -14.3
+],
+  "geometry": {"coordinates":[28.71667,-14.3],"type":"Point"}
+}

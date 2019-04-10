@@ -1,0 +1,67 @@
+{
+  "id": 1327126985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21667,-13.91667,23.21667,-13.91667",
+    "geom:latitude":-13.91667,
+    "geom:longitude":23.21667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nyapasa",
+    "gn:country_code":"ZM",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900117,
+    "gn:latitude":-13.91667,
+    "gn:longitude":23.21667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nyapasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900117
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"48a4b31b89a9b63dab19a2a02500a03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1327126985,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1327126985,
+    "wof:lastmodified":1536621878,
+    "wof:name":"Nyapasa",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21667,
+    -13.91667,
+    23.21667,
+    -13.91667
+],
+  "geometry": {"coordinates":[23.21667,-13.91667],"type":"Point"}
+}

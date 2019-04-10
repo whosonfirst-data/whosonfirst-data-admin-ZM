@@ -1,0 +1,67 @@
+{
+  "id": 1243276779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.65681,-14.97401,27.65681,-14.97401",
+    "geom:latitude":-14.97401,
+    "geom:longitude":27.65681,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mitenda",
+    "gn:country_code":"ZM",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906350,
+    "gn:latitude":-14.97401,
+    "gn:longitude":27.65681,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mitenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906350
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3bc45e6b473a1156a11e825aed593ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782349,
+            "locality_id":1243276779,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1243276779,
+    "wof:lastmodified":1537048041,
+    "wof:name":"Mitenda",
+    "wof:parent_id":1108782349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65681,
+    -14.97401,
+    27.65681,
+    -14.97401
+],
+  "geometry": {"coordinates":[27.65681,-14.97401],"type":"Point"}
+}

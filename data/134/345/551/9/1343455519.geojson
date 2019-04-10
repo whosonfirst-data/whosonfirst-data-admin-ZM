@@ -1,0 +1,67 @@
+{
+  "id": 1343455519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09846,-15.89432,26.09846,-15.89432",
+    "geom:latitude":-15.89432,
+    "geom:longitude":26.09846,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Musungwa",
+    "gn:country_code":"ZM",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903725,
+    "gn:latitude":-15.89432,
+    "gn:longitude":26.09846,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Musungwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903725
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84106fa0069701bc51cfa1c2e5eafb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782479,
+            "locality_id":1343455519,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1343455519,
+    "wof:lastmodified":1536753345,
+    "wof:name":"Musungwa",
+    "wof:parent_id":1108782479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09846,
+    -15.89432,
+    26.09846,
+    -15.89432
+],
+  "geometry": {"coordinates":[26.09846,-15.89432],"type":"Point"}
+}

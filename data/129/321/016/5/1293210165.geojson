@@ -1,0 +1,67 @@
+{
+  "id": 1293210165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4,-14.95,22.4,-14.95",
+    "geom:latitude":-14.95,
+    "geom:longitude":22.4,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Njeyengo",
+    "gn:country_code":"ZM",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900878,
+    "gn:latitude":-14.95,
+    "gn:longitude":22.4,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Njeyengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900878
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"ec38c8e656a16ffc3a3371252ecad316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782497,
+            "locality_id":1293210165,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1293210165,
+    "wof:lastmodified":1536689869,
+    "wof:name":"Njeyengo",
+    "wof:parent_id":1108782497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4,
+    -14.95,
+    22.4,
+    -14.95
+],
+  "geometry": {"coordinates":[22.4,-14.95],"type":"Point"}
+}

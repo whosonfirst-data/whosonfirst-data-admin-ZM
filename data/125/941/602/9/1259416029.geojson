@@ -1,0 +1,77 @@
+{
+  "id": 1259416029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36584,-8.43051,29.36584,-8.43051",
+    "geom:latitude":-8.43051,
+    "geom:longitude":29.36584,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chipanta",
+    "gn:country_code":"ZM",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177562,
+    "gn:latitude":-8.43051,
+    "gn:longitude":29.36584,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Chipanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333,
+        85632559,
+        85681047,
+        1108782399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177562
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6b267503319af638043ebe4afa77c65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1259416029,
+            "region_id":85670015
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782399,
+            "locality_id":1259416029,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":1259416029,
+    "wof:lastmodified":1536955817,
+    "wof:name":"Chipanta",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36584,
+    -8.43051,
+    29.36584,
+    -8.43051
+],
+  "geometry": {"coordinates":[29.36584,-8.43051],"type":"Point"}
+}

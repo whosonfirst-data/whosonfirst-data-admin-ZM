@@ -1,0 +1,78 @@
+{
+  "id": 1125907827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36942,-10.1732,31.36942,-10.1732",
+    "geom:latitude":-10.1732,
+    "geom:longitude":31.36942,
+    "gn:gn_country":"ZM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6821,
+    "gn:population":6821,
+    "iso:country":"ZM",
+    "lbl:latitude":-10.1732,
+    "lbl:longitude":31.36942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ZM",
+    "qs_pg:gn_country":"ZM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":904241,
+    "qs_pg:gn_pop":6821,
+    "qs_pg:name":"Mungwi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":56761,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904241,
+        "qs_pg:id":56761
+    },
+    "wof:country":"ZM",
+    "wof:created":1497296045,
+    "wof:geomhash":"0080e6a4ca9455847439c41debb8dc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782471,
+            "locality_id":1125907827,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1125907827,
+    "wof:lastmodified":1509399871,
+    "wof:name":"Mungwi",
+    "wof:parent_id":1108782471,
+    "wof:placetype":"locality",
+    "wof:population":6821,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36942,
+    -10.1732,
+    31.36942,
+    -10.1732
+],
+  "geometry": {"coordinates":[31.36942,-10.1732],"type":"Point"}
+}

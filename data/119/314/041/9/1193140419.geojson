@@ -1,0 +1,67 @@
+{
+  "id": 1193140419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6424,-12.88239,30.6424,-12.88239",
+    "geom:latitude":-12.88239,
+    "geom:longitude":30.6424,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lamek Ndapatwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910773,
+    "gn:latitude":-12.88239,
+    "gn:longitude":30.6424,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Lamek Ndapatwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910773
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a6191c83545eea7ef37c77a9681a6b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1193140419,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1193140419,
+    "wof:lastmodified":1536366381,
+    "wof:name":"Lamek Ndapatwa",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6424,
+    -12.88239,
+    30.6424,
+    -12.88239
+],
+  "geometry": {"coordinates":[30.6424,-12.88239],"type":"Point"}
+}

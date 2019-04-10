@@ -1,0 +1,63 @@
+{
+  "id": 1327037533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3,-12.56667,33.3,-12.56667",
+    "geom:latitude":-12.56667,
+    "geom:longitude":33.3,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kadange",
+    "gn:country_code":"ZM",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915941,
+    "gn:latitude":-12.56667,
+    "gn:longitude":33.3,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kadange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915941
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"454a01fa95575e7852fb7f086e48014a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327037533,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327037533,
+    "wof:lastmodified":1536752923,
+    "wof:name":"Kadange",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3,
+    -12.56667,
+    33.3,
+    -12.56667
+],
+  "geometry": {"coordinates":[33.3,-12.56667],"type":"Point"}
+}

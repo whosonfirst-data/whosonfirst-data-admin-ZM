@@ -1,0 +1,67 @@
+{
+  "id": 1326822591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79502,-11.42671,24.79502,-11.42671",
+    "geom:latitude":-11.42671,
+    "geom:longitude":24.79502,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samuwana",
+    "gn:country_code":"ZM",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899189,
+    "gn:latitude":-11.42671,
+    "gn:longitude":24.79502,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Samuwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899189
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e8614c25ea526c1543fad273d99aba41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782449,
+            "locality_id":1326822591,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1326822591,
+    "wof:lastmodified":1537060071,
+    "wof:name":"Samuwana",
+    "wof:parent_id":1108782449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79502,
+    -11.42671,
+    24.79502,
+    -11.42671
+],
+  "geometry": {"coordinates":[24.79502,-11.42671],"type":"Point"}
+}

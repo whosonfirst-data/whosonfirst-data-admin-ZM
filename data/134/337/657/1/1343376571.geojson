@@ -1,0 +1,67 @@
+{
+  "id": 1343376571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15,-15.13333,23.15,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":23.15,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mabumbu",
+    "gn:country_code":"ZM",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908670,
+    "gn:latitude":-15.13333,
+    "gn:longitude":23.15,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mabumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908670
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"11664874c257a1b76738a6d04c05280a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782503,
+            "locality_id":1343376571,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1343376571,
+    "wof:lastmodified":1536865945,
+    "wof:name":"Mabumbu",
+    "wof:parent_id":1108782503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15,
+    -15.13333,
+    23.15,
+    -15.13333
+],
+  "geometry": {"coordinates":[23.15,-15.13333],"type":"Point"}
+}

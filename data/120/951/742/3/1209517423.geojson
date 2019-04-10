@@ -1,0 +1,61 @@
+{
+  "id": 1209517423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9,-13.63333,31.9,-13.63333",
+    "geom:latitude":-13.63333,
+    "geom:longitude":31.9,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Msumbi Mbawe",
+    "gn:country_code":"ZM",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905665,
+    "gn:latitude":-13.63333,
+    "gn:longitude":31.9,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Msumbi Mbawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905665
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"48e63602248f540ddc0b9824fe19b977",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209517423
+        }
+    ],
+    "wof:id":1209517423,
+    "wof:lastmodified":1536284688,
+    "wof:name":"Msumbi Mbawe",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9,
+    -13.63333,
+    31.9,
+    -13.63333
+],
+  "geometry": {"coordinates":[31.9,-13.63333],"type":"Point"}
+}

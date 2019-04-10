@@ -1,0 +1,67 @@
+{
+  "id": 1293223267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,-9.08333,31.1,-9.08333",
+    "geom:latitude":-9.08333,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mulutula Machina",
+    "gn:country_code":"ZM",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175840,
+    "gn:latitude":-9.08333,
+    "gn:longitude":31.1,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mulutula Machina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175840
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"58ebbc0686f537ca0d71f356dfc21364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782469,
+            "locality_id":1293223267,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1293223267,
+    "wof:lastmodified":1536670934,
+    "wof:name":"Mulutula Machina",
+    "wof:parent_id":1108782469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    -9.08333,
+    31.1,
+    -9.08333
+],
+  "geometry": {"coordinates":[31.1,-9.08333],"type":"Point"}
+}

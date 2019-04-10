@@ -1,0 +1,67 @@
+{
+  "id": 1259579877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.51506,-15.08122,29.51506,-15.08122",
+    "geom:latitude":-15.08122,
+    "geom:longitude":29.51506,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nguluka",
+    "gn:country_code":"ZM",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901012,
+    "gn:latitude":-15.08122,
+    "gn:longitude":29.51506,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Nguluka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901012
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1857103fc0f23ccb52896dc9431c6373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1259579877,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1259579877,
+    "wof:lastmodified":1536720423,
+    "wof:name":"Nguluka",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.51506,
+    -15.08122,
+    29.51506,
+    -15.08122
+],
+  "geometry": {"coordinates":[29.51506,-15.08122],"type":"Point"}
+}

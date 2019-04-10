@@ -1,0 +1,61 @@
+{
+  "id": 1209424819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9,-15.43333,28.9,-15.43333",
+    "geom:latitude":-15.43333,
+    "geom:longitude":28.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lumwayo",
+    "gn:country_code":"ZM",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909311,
+    "gn:latitude":-15.43333,
+    "gn:longitude":28.9,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Lumwayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909311
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7c45dbb8be02c0e7007e20c7665da3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209424819
+        }
+    ],
+    "wof:id":1209424819,
+    "wof:lastmodified":1536287414,
+    "wof:name":"Lumwayo",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9,
+    -15.433329999999998,
+    28.9,
+    -15.433329999999998
+],
+  "geometry": {"coordinates":[28.9,-15.43333],"type":"Point"}
+}

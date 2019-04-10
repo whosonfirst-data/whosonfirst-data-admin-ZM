@@ -1,0 +1,67 @@
+{
+  "id": 1292905209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31667,-13.08333,32.31667,-13.08333",
+    "geom:latitude":-13.08333,
+    "geom:longitude":32.31667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Unida",
+    "gn:country_code":"ZM",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896414,
+    "gn:latitude":-13.08333,
+    "gn:longitude":32.31667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Unida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896414
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"574b219a8770de853b77057a7bf3dbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782393,
+            "locality_id":1292905209,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1292905209,
+    "wof:lastmodified":1536630803,
+    "wof:name":"Unida",
+    "wof:parent_id":1108782393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31667,
+    -13.08333,
+    32.31667,
+    -13.08333
+],
+  "geometry": {"coordinates":[32.31667,-13.08333],"type":"Point"}
+}

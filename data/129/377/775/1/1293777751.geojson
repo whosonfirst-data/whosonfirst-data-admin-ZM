@@ -1,0 +1,71 @@
+{
+  "id": 1293777751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.78101,-11.52494,32.78101,-11.52494",
+    "geom:latitude":-11.52494,
+    "geom:longitude":32.78101,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sambangombe",
+    "gn:country_code":"ZM",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899315,
+    "gn:latitude":-11.52494,
+    "gn:longitude":32.78101,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Sambangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambanyombe",
+        "Sambangombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899315
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e459cacabdc539a14ff31a0e6e6f7699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1293777751,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1293777751,
+    "wof:lastmodified":1537716477,
+    "wof:name":"Sambangombe",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.78100999999999,
+    -11.52494,
+    32.78100999999999,
+    -11.52494
+],
+  "geometry": {"coordinates":[32.78100999999999,-11.52494],"type":"Point"}
+}

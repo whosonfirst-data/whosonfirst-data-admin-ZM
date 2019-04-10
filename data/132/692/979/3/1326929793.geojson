@@ -1,0 +1,71 @@
+{
+  "id": 1326929793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18333,-8.45,30.18333,-8.45",
+    "geom:latitude":-8.45,
+    "geom:longitude":30.18333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Molwa",
+    "gn:country_code":"ZM",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":176006,
+    "gn:latitude":-8.45,
+    "gn:longitude":30.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Molwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamolwa",
+        "Molwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":176006
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"40b2aaa615120e07f104d871e6cf12d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":1326929793,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1326929793,
+    "wof:lastmodified":1537716452,
+    "wof:name":"Molwa",
+    "wof:parent_id":1108782457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18333,
+    -8.45,
+    30.18333,
+    -8.45
+],
+  "geometry": {"coordinates":[30.18333,-8.45],"type":"Point"}
+}

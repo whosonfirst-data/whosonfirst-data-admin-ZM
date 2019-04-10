@@ -1,0 +1,67 @@
+{
+  "id": 1243261481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33333,-12.03333,25.33333,-12.03333",
+    "geom:latitude":-12.03333,
+    "geom:longitude":25.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sambweshi",
+    "gn:country_code":"ZM",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899282,
+    "gn:latitude":-12.03333,
+    "gn:longitude":25.33333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sambweshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899282
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a6994cec4309ba78f493ed182d8cd2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782451,
+            "locality_id":1243261481,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1243261481,
+    "wof:lastmodified":1537069187,
+    "wof:name":"Sambweshi",
+    "wof:parent_id":1108782451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33333,
+    -12.03333,
+    25.33333,
+    -12.03333
+],
+  "geometry": {"coordinates":[25.33333,-12.03333],"type":"Point"}
+}

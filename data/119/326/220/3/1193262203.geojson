@@ -1,0 +1,71 @@
+{
+  "id": 1193262203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46248,-10.68623,33.46248,-10.68623",
+    "geom:latitude":-10.68623,
+    "geom:longitude":33.46248,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Myowa",
+    "gn:country_code":"ZM",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902529,
+    "gn:latitude":-10.68623,
+    "gn:longitude":33.46248,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Myowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myoa",
+        "Myowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902529
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"233e9607929515f524bf297462f9b476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1193262203,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1193262203,
+    "wof:lastmodified":1537716489,
+    "wof:name":"Myowa",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46248,
+    -10.68623,
+    33.46248,
+    -10.68623
+],
+  "geometry": {"coordinates":[33.46248,-10.68623],"type":"Point"}
+}

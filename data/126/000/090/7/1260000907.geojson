@@ -1,0 +1,67 @@
+{
+  "id": 1260000907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86748,-17.39122,25.86748,-17.39122",
+    "geom:latitude":-17.39122,
+    "geom:longitude":25.86748,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siatubi",
+    "gn:country_code":"ZM",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898192,
+    "gn:latitude":-17.39122,
+    "gn:longitude":25.86748,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Siatubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898192
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"97de25feaf93326a449833e8dc4ded3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782483,
+            "locality_id":1260000907,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1260000907,
+    "wof:lastmodified":1536607267,
+    "wof:name":"Siatubi",
+    "wof:parent_id":1108782483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86748,
+    -17.39122,
+    25.86748,
+    -17.39122
+],
+  "geometry": {"coordinates":[25.86748,-17.39122],"type":"Point"}
+}

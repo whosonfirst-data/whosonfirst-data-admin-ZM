@@ -1,0 +1,67 @@
+{
+  "id": 1310709235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96667,-14.41667,31.96667,-14.41667",
+    "geom:latitude":-14.41667,
+    "geom:longitude":31.96667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamvumvuli",
+    "gn:country_code":"ZM",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914104,
+    "gn:latitude":-14.41667,
+    "gn:longitude":31.96667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kamvumvuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914104
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b0c87c6c04dc65cdce693d66dbb5706f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1310709235,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310709235,
+    "wof:lastmodified":1536620848,
+    "wof:name":"Kamvumvuli",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96667,
+    -14.41667,
+    31.96667,
+    -14.41667
+],
+  "geometry": {"coordinates":[31.96667,-14.41667],"type":"Point"}
+}

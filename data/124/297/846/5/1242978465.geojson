@@ -1,0 +1,67 @@
+{
+  "id": 1242978465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06667,-14.51667,31.06667,-14.51667",
+    "geom:latitude":-14.51667,
+    "geom:longitude":31.06667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chizongwe",
+    "gn:country_code":"ZM",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917786,
+    "gn:latitude":-14.51667,
+    "gn:longitude":31.06667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chizongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917786
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"fa8da06a8bd665864f8d798a6be5bc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1242978465,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1242978465,
+    "wof:lastmodified":1536982459,
+    "wof:name":"Chizongwe",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06667,
+    -14.51667,
+    31.06667,
+    -14.51667
+],
+  "geometry": {"coordinates":[31.06667,-14.51667],"type":"Point"}
+}

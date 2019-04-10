@@ -1,0 +1,67 @@
+{
+  "id": 1343550179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05,-10.15,33.05,-10.15",
+    "geom:latitude":-10.15,
+    "geom:longitude":33.05,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jameseon",
+    "gn:country_code":"ZM",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916596,
+    "gn:latitude":-10.15,
+    "gn:longitude":33.05,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Jameseon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916596
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0f4eb12f7e28c5a54aa2eaa88846aee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1343550179,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1343550179,
+    "wof:lastmodified":1536614415,
+    "wof:name":"Jameseon",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05,
+    -10.15,
+    33.05,
+    -10.15
+],
+  "geometry": {"coordinates":[33.05,-10.15],"type":"Point"}
+}

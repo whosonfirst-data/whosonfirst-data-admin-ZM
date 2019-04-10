@@ -1,0 +1,71 @@
+{
+  "id": 1344068349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92123,-12.69048,32.92123,-12.69048",
+    "geom:latitude":-12.69048,
+    "geom:longitude":32.92123,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mwimba",
+    "gn:country_code":"ZM",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902651,
+    "gn:latitude":-12.69048,
+    "gn:longitude":32.92123,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mwimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwimbo",
+        "Mwimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902651
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"bb7fa00235be1969fa8b0fd87fd64ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1344068349,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1344068349,
+    "wof:lastmodified":1537716490,
+    "wof:name":"Mwimba",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92123,
+    -12.69048,
+    32.92123,
+    -12.69048
+],
+  "geometry": {"coordinates":[32.92123,-12.69048],"type":"Point"}
+}

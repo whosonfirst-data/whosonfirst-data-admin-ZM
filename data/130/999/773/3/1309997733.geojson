@@ -1,0 +1,67 @@
+{
+  "id": 1309997733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.06667,-15.9,28.06667,-15.9",
+    "geom:latitude":-15.9,
+    "geom:longitude":28.06667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shamatuli",
+    "gn:country_code":"ZM",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":898809,
+    "gn:latitude":-15.9,
+    "gn:longitude":28.06667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Shamatuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":898809
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"33648efe17435bb51aa7e8b433d0c637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782487,
+            "locality_id":1309997733,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1309997733,
+    "wof:lastmodified":1536654535,
+    "wof:name":"Shamatuli",
+    "wof:parent_id":1108782487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.06667,
+    -15.9,
+    28.06667,
+    -15.9
+],
+  "geometry": {"coordinates":[28.06667,-15.9],"type":"Point"}
+}

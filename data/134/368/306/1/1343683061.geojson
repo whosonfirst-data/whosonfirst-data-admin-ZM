@@ -1,0 +1,73 @@
+{
+  "id": 1343683061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.20085,-17.36701,27.20085,-17.36701",
+    "geom:latitude":-17.36701,
+    "geom:longitude":27.20085,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kanjonja",
+    "gn:country_code":"ZM",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":915680,
+    "gn:latitude":-17.36701,
+    "gn:longitude":27.20085,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kanjonja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kanjonja"
+    ],
+    "name:eng_x_variant":[
+        "Kajonja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915680
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6ca79c2a5c6078a77e4cea78a32e884f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782493,
+            "locality_id":1343683061,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1343683061,
+    "wof:lastmodified":1537716542,
+    "wof:name":"Kanjonja",
+    "wof:parent_id":1108782493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20085,
+    -17.36701,
+    27.20085,
+    -17.36701
+],
+  "geometry": {"coordinates":[27.20085,-17.36701],"type":"Point"}
+}

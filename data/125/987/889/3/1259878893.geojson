@@ -1,0 +1,67 @@
+{
+  "id": 1259878893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.15487,-9.51189,30.15487,-9.51189",
+    "geom:latitude":-9.51189,
+    "geom:longitude":30.15487,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Changwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177811,
+    "gn:latitude":-9.51189,
+    "gn:longitude":30.15487,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Changwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177811
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3d5a573a8b19759d1749b015ad052907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782467,
+            "locality_id":1259878893,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1259878893,
+    "wof:lastmodified":1536786305,
+    "wof:name":"Changwa",
+    "wof:parent_id":1108782467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.15487000000001,
+    -9.51189,
+    30.15487000000001,
+    -9.51189
+],
+  "geometry": {"coordinates":[30.15487000000001,-9.51189],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259804803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76211,-17.78302,26.76211,-17.78302",
+    "geom:latitude":-17.78302,
+    "geom:longitude":26.76211,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pokuma",
+    "gn:country_code":"ZM",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899776,
+    "gn:latitude":-17.78302,
+    "gn:longitude":26.76211,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Pokuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899776
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d687fc1b36b74ee5bff55b602b36775b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782493,
+            "locality_id":1259804803,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1259804803,
+    "wof:lastmodified":1536892251,
+    "wof:name":"Pokuma",
+    "wof:parent_id":1108782493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76211,
+    -17.78302,
+    26.76211,
+    -17.78302
+],
+  "geometry": {"coordinates":[26.76211,-17.78302],"type":"Point"}
+}

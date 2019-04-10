@@ -1,0 +1,67 @@
+{
+  "id": 1243477175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00062,-10.16841,31.00062,-10.16841",
+    "geom:latitude":-10.16841,
+    "geom:longitude":31.00062,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mibanga",
+    "gn:country_code":"ZM",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":906701,
+    "gn:latitude":-10.16841,
+    "gn:longitude":31.00062,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":906701
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"486c181c45949334b6b08290d0b39a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782461,
+            "locality_id":1243477175,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1243477175,
+    "wof:lastmodified":1536761466,
+    "wof:name":"Mibanga",
+    "wof:parent_id":1108782461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00062,
+    -10.16841,
+    31.00062,
+    -10.16841
+],
+  "geometry": {"coordinates":[31.00062,-10.16841],"type":"Point"}
+}

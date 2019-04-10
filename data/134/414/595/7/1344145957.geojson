@@ -1,0 +1,71 @@
+{
+  "id": 1344145957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63862,-10.03475,32.63862,-10.03475",
+    "geom:latitude":-10.03475,
+    "geom:longitude":32.63862,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Muswema",
+    "gn:country_code":"ZM",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":903709,
+    "gn:latitude":-10.03475,
+    "gn:longitude":32.63862,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Muswema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muswemas",
+        "Muswema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":903709
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9f2e5547bf6451bd794e8a7848dac317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1344145957,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1344145957,
+    "wof:lastmodified":1537716496,
+    "wof:name":"Muswema",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63862,
+    -10.03475,
+    32.63862,
+    -10.03475
+],
+  "geometry": {"coordinates":[32.63862,-10.03475],"type":"Point"}
+}

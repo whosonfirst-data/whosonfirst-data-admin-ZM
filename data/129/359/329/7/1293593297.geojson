@@ -1,0 +1,67 @@
+{
+  "id": 1293593297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16667,-16.56667,23.16667,-16.56667",
+    "geom:latitude":-16.56667,
+    "geom:longitude":23.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nyungano",
+    "gn:country_code":"ZM",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900015,
+    "gn:latitude":-16.56667,
+    "gn:longitude":23.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nyungano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900015
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5e7b7387eef849f1c22237f63bb1ce39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782509,
+            "locality_id":1293593297,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1293593297,
+    "wof:lastmodified":1536633145,
+    "wof:name":"Nyungano",
+    "wof:parent_id":1108782509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16667,
+    -16.56667,
+    23.16667,
+    -16.56667
+],
+  "geometry": {"coordinates":[23.16667,-16.56667],"type":"Point"}
+}

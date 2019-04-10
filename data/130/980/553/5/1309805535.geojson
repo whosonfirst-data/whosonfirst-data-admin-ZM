@@ -1,0 +1,67 @@
+{
+  "id": 1309805535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47128,-14.27501,31.47128,-14.27501",
+    "geom:latitude":-14.27501,
+    "geom:longitude":31.47128,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mafumba",
+    "gn:country_code":"ZM",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908581,
+    "gn:latitude":-14.27501,
+    "gn:longitude":31.47128,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mafumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908581
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"5eb1a66b7f4a106a2a3e08ec5cc4d40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782397,
+            "locality_id":1309805535,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1309805535,
+    "wof:lastmodified":1536932150,
+    "wof:name":"Mafumba",
+    "wof:parent_id":1108782397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47128,
+    -14.27501,
+    31.47128,
+    -14.27501
+],
+  "geometry": {"coordinates":[31.47128,-14.27501],"type":"Point"}
+}

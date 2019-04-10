@@ -1,0 +1,67 @@
+{
+  "id": 1326744443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17001,-13.94173,24.17001,-13.94173",
+    "geom:latitude":-13.94173,
+    "geom:longitude":24.17001,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Katota",
+    "gn:country_code":"ZM",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":911916,
+    "gn:latitude":-13.94173,
+    "gn:longitude":24.17001,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Katota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":911916
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e2e896dcd90efb20affbf66948659e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782501,
+            "locality_id":1326744443,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1326744443,
+    "wof:lastmodified":1536678030,
+    "wof:name":"Katota",
+    "wof:parent_id":1108782501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17001,
+    -13.94173,
+    24.17001,
+    -13.94173
+],
+  "geometry": {"coordinates":[24.17001,-13.94173],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209437177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12364,-10.96655,24.12364,-10.96655",
+    "geom:latitude":-10.96655,
+    "geom:longitude":24.12364,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Salujinga",
+    "gn:country_code":"ZM",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899396,
+    "gn:latitude":-10.96655,
+    "gn:longitude":24.12364,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Salujinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899396
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"cb610e4c401b0b81e8392b38885dadd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209437177
+        }
+    ],
+    "wof:id":1209437177,
+    "wof:lastmodified":1536287068,
+    "wof:name":"Salujinga",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12364,
+    -10.96655,
+    24.12364,
+    -10.96655
+],
+  "geometry": {"coordinates":[24.12364,-10.96655],"type":"Point"}
+}

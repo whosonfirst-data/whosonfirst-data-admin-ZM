@@ -1,0 +1,72 @@
+{
+  "id": 1225858047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48333,-15.16667,26.48333,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":26.48333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kampengele",
+    "gn:country_code":"ZM",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914250,
+    "gn:latitude":-15.16667,
+    "gn:longitude":26.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kampengele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampengelo",
+        "Kampengela",
+        "Kampengele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914250
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d4315b8ca41260ca73a61b864de58a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782359,
+            "locality_id":1225858047,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1225858047,
+    "wof:lastmodified":1537716536,
+    "wof:name":"Kampengele",
+    "wof:parent_id":1108782359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48333,
+    -15.16667,
+    26.48333,
+    -15.16667
+],
+  "geometry": {"coordinates":[26.48333,-15.16667],"type":"Point"}
+}

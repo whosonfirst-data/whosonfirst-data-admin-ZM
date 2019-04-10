@@ -1,0 +1,71 @@
+{
+  "id": 1326542903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62663,-13.09617,30.62663,-13.09617",
+    "geom:latitude":-13.09617,
+    "geom:longitude":30.62663,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lubeya Mutale",
+    "gn:country_code":"ZM",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":909781,
+    "gn:latitude":-13.09617,
+    "gn:longitude":30.62663,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lubeya Mutale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mutale",
+        "Lubeya Mutale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":909781
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"13a2220da5c4583bdf73037286f8f83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1326542903,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1326542903,
+    "wof:lastmodified":1537716523,
+    "wof:name":"Lubeya Mutale",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62663,
+    -13.09617,
+    30.62663,
+    -13.09617
+],
+  "geometry": {"coordinates":[30.62663,-13.09617],"type":"Point"}
+}

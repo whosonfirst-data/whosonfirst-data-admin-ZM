@@ -1,0 +1,61 @@
+{
+  "id": 1209120123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64607,-16.36434,22.64607,-16.36434",
+    "geom:latitude":-16.36434,
+    "geom:longitude":22.64607,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tukamone",
+    "gn:country_code":"ZM",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896570,
+    "gn:latitude":-16.36434,
+    "gn:longitude":22.64607,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tukamone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896570
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2f82b8a423da5cb4598ca491b174a472",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209120123
+        }
+    ],
+    "wof:id":1209120123,
+    "wof:lastmodified":1536297127,
+    "wof:name":"Tukamone",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64607,
+    -16.36434,
+    22.64607,
+    -16.36434
+],
+  "geometry": {"coordinates":[22.64607,-16.36434],"type":"Point"}
+}

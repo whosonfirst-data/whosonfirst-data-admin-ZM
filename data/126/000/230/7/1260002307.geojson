@@ -1,0 +1,71 @@
+{
+  "id": 1260002307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66667,-8.46667,29.66667,-8.46667",
+    "geom:latitude":-8.46667,
+    "geom:longitude":29.66667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shadrack",
+    "gn:country_code":"ZM",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175234,
+    "gn:latitude":-8.46667,
+    "gn:longitude":29.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shadrack",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shadra",
+        "Shadrack"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175234
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"66b3f5643715e517e3071bd8fc62baa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":1260002307,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":1260002307,
+    "wof:lastmodified":1537716449,
+    "wof:name":"Shadrack",
+    "wof:parent_id":1108782457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66667,
+    -8.46667,
+    29.66667,
+    -8.46667
+],
+  "geometry": {"coordinates":[29.66667,-8.46667],"type":"Point"}
+}

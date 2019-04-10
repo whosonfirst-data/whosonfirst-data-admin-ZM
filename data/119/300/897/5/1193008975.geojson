@@ -1,0 +1,67 @@
+{
+  "id": 1193008975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65989,-13.27813,28.65989,-13.27813",
+    "geom:latitude":-13.27813,
+    "geom:longitude":28.65989,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pukota",
+    "gn:country_code":"ZM",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899731,
+    "gn:latitude":-13.27813,
+    "gn:longitude":28.65989,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Pukota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899731
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"164943308066231c4f64af538bd1862d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782377,
+            "locality_id":1193008975,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1193008975,
+    "wof:lastmodified":1536363947,
+    "wof:name":"Pukota",
+    "wof:parent_id":1108782377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65989,
+    -13.27813,
+    28.65989,
+    -13.27813
+],
+  "geometry": {"coordinates":[28.65989,-13.27813],"type":"Point"}
+}

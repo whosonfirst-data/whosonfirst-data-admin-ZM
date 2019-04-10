@@ -1,0 +1,71 @@
+{
+  "id": 1343850583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7,-11.55,24.7,-11.55",
+    "geom:latitude":-11.55,
+    "geom:longitude":24.7,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sachenge",
+    "gn:country_code":"ZM",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899604,
+    "gn:latitude":-11.55,
+    "gn:longitude":24.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sachenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sachenga",
+        "Sachenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899604
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a77ef39ce0c4c957806216e827af91cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782449,
+            "locality_id":1343850583,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1343850583,
+    "wof:lastmodified":1537716478,
+    "wof:name":"Sachenge",
+    "wof:parent_id":1108782449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7,
+    -11.55,
+    24.7,
+    -11.55
+],
+  "geometry": {"coordinates":[24.7,-11.55],"type":"Point"}
+}

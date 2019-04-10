@@ -1,0 +1,67 @@
+{
+  "id": 1276450193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1,-12.06667,33.1,-12.06667",
+    "geom:latitude":-12.06667,
+    "geom:longitude":33.1,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malomo",
+    "gn:country_code":"ZM",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908051,
+    "gn:latitude":-12.06667,
+    "gn:longitude":33.1,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Malomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908051
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3d16ebdc3da176d2b9d44b906cbc230a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1276450193,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1276450193,
+    "wof:lastmodified":1536619902,
+    "wof:name":"Malomo",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1,
+    -12.06667,
+    33.1,
+    -12.06667
+],
+  "geometry": {"coordinates":[33.1,-12.06667],"type":"Point"}
+}

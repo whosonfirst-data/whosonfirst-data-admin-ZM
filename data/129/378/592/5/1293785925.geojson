@@ -1,0 +1,67 @@
+{
+  "id": 1293785925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18333,-14.8,30.18333,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":30.18333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mululowera",
+    "gn:country_code":"ZM",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904567,
+    "gn:latitude":-14.8,
+    "gn:longitude":30.18333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mululowera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904567
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d1c0c211ed30169e175523a79ac5823a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1293785925,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1293785925,
+    "wof:lastmodified":1536852770,
+    "wof:name":"Mululowera",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18333,
+    -14.8,
+    30.18333,
+    -14.8
+],
+  "geometry": {"coordinates":[30.18333,-14.8],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209428755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73333,-14.55,23.73333,-14.55",
+    "geom:latitude":-14.55,
+    "geom:longitude":23.73333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndonda",
+    "gn:country_code":"ZM",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":901328,
+    "gn:latitude":-14.55,
+    "gn:longitude":23.73333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ndonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":901328
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b2f9c94f48a89cddaf4b0af94606c288",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209428755
+        }
+    ],
+    "wof:id":1209428755,
+    "wof:lastmodified":1536287299,
+    "wof:name":"Ndonda",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73333,
+    -14.55,
+    23.73333,
+    -14.55
+],
+  "geometry": {"coordinates":[23.73333,-14.55],"type":"Point"}
+}

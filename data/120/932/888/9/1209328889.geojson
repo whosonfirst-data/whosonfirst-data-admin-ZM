@@ -1,0 +1,61 @@
+{
+  "id": 1209328889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75,-15.16667,22.75,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":22.75,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sanyemba",
+    "gn:country_code":"ZM",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":899072,
+    "gn:latitude":-15.16667,
+    "gn:longitude":22.75,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sanyemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":899072
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"676bbeee23ce927d280a524d12328d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209328889
+        }
+    ],
+    "wof:id":1209328889,
+    "wof:lastmodified":1536290438,
+    "wof:name":"Sanyemba",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75,
+    -15.166670000000002,
+    22.75,
+    -15.166670000000002
+],
+  "geometry": {"coordinates":[22.75,-15.16667],"type":"Point"}
+}

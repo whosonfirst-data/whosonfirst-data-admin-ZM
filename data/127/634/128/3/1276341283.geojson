@@ -1,0 +1,71 @@
+{
+  "id": 1276341283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.39636,-15.38824,28.39636,-15.38824",
+    "geom:latitude":-15.38824,
+    "geom:longitude":28.39636,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kapwepwe",
+    "gn:country_code":"ZM",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912855,
+    "gn:latitude":-15.38824,
+    "gn:longitude":28.39636,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kapwepwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapapwe",
+        "Kapwepwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912855
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"cb56ef7fa7de4924618f4e5edea0f0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782421,
+            "locality_id":1276341283,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1276341283,
+    "wof:lastmodified":1537716532,
+    "wof:name":"Kapwepwe",
+    "wof:parent_id":1108782421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.39636,
+    -15.38824,
+    28.39636,
+    -15.38824
+],
+  "geometry": {"coordinates":[28.39636,-15.38824],"type":"Point"}
+}

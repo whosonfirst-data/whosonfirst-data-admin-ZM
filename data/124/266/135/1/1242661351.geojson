@@ -1,0 +1,67 @@
+{
+  "id": 1242661351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25,-10.11667,33.25,-10.11667",
+    "geom:latitude":-10.11667,
+    "geom:longitude":33.25,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Solomon",
+    "gn:country_code":"ZM",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897049,
+    "gn:latitude":-10.11667,
+    "gn:longitude":33.25,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Solomon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897049
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"9d64c5270875df8009bd1b6e5b94d055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782431,
+            "locality_id":1242661351,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1242661351,
+    "wof:lastmodified":1536943726,
+    "wof:name":"Solomon",
+    "wof:parent_id":1108782431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25,
+    -10.11667,
+    33.25,
+    -10.11667
+],
+  "geometry": {"coordinates":[33.25,-10.11667],"type":"Point"}
+}

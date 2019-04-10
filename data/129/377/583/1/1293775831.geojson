@@ -1,0 +1,70 @@
+{
+  "id": 1293775831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.28333,-16.95,27.28333,-16.95",
+    "geom:latitude":-16.95,
+    "geom:longitude":27.28333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nachibanga",
+    "gn:country_code":"ZM",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":902449,
+    "gn:latitude":-16.95,
+    "gn:longitude":27.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nachibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nachibanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":902449
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0b484066287fe4604622c559135b8c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782473,
+            "locality_id":1293775831,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1293775831,
+    "wof:lastmodified":1537716489,
+    "wof:name":"Nachibanga",
+    "wof:parent_id":1108782473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.28333,
+    -16.95,
+    27.28333,
+    -16.95
+],
+  "geometry": {"coordinates":[27.28333,-16.95],"type":"Point"}
+}

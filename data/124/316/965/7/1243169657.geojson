@@ -1,0 +1,67 @@
+{
+  "id": 1243169657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83333,-12.61667,24.83333,-12.61667",
+    "geom:latitude":-12.61667,
+    "geom:longitude":24.83333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mukambi",
+    "gn:country_code":"ZM",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":905270,
+    "gn:latitude":-12.61667,
+    "gn:longitude":24.83333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Mukambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":905270
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b49db1597ef7de1b399fa96ebd948f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782449,
+            "locality_id":1243169657,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1243169657,
+    "wof:lastmodified":1536707954,
+    "wof:name":"Mukambi",
+    "wof:parent_id":1108782449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83333,
+    -12.61667,
+    24.83333,
+    -12.61667
+],
+  "geometry": {"coordinates":[24.83333,-12.61667],"type":"Point"}
+}

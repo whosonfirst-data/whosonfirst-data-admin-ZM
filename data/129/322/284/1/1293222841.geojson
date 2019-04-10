@@ -1,0 +1,67 @@
+{
+  "id": 1293222841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65,-13.75,22.65,-13.75",
+    "geom:latitude":-13.75,
+    "geom:longitude":22.65,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chiseta",
+    "gn:country_code":"ZM",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918354,
+    "gn:latitude":-13.75,
+    "gn:longitude":22.65,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chiseta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918354
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"881251ce14a7652461c72470e7d8b6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1293222841,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1293222841,
+    "wof:lastmodified":1536671534,
+    "wof:name":"Chiseta",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65,
+    -13.75,
+    22.65,
+    -13.75
+],
+  "geometry": {"coordinates":[22.65,-13.75],"type":"Point"}
+}

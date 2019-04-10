@@ -1,0 +1,67 @@
+{
+  "id": 1310395153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71667,-15.08333,29.71667,-15.08333",
+    "geom:latitude":-15.08333,
+    "geom:longitude":29.71667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kapubi Phillip",
+    "gn:country_code":"ZM",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":912942,
+    "gn:latitude":-15.08333,
+    "gn:longitude":29.71667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Kapubi Phillip",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":912942
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"33c13de0a1ec0b7e30405c13cd4a69d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":1310395153,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":1310395153,
+    "wof:lastmodified":1537073082,
+    "wof:name":"Kapubi Phillip",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71667,
+    -15.08333,
+    29.71667,
+    -15.08333
+],
+  "geometry": {"coordinates":[29.71667,-15.08333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343670697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4586,-12.75079,30.4586,-12.75079",
+    "geom:latitude":-12.75079,
+    "geom:longitude":30.4586,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kabula Chisopola",
+    "gn:country_code":"ZM",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":916196,
+    "gn:latitude":-12.75079,
+    "gn:longitude":30.4586,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kabula Chisopola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabula Chisonpola",
+        "Kabula Chisopola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":916196
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7250c979bd2984429e60b441347b533f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1343670697,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1343670697,
+    "wof:lastmodified":1537716543,
+    "wof:name":"Kabula Chisopola",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4586,
+    -12.75079,
+    30.4586,
+    -12.75079
+],
+  "geometry": {"coordinates":[30.4586,-12.75079],"type":"Point"}
+}

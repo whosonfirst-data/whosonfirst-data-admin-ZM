@@ -1,0 +1,67 @@
+{
+  "id": 1242575161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,-13.1,25.71667,-13.1",
+    "geom:latitude":-13.1,
+    "geom:longitude":25.71667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muluwa",
+    "gn:country_code":"ZM",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904496,
+    "gn:latitude":-13.1,
+    "gn:longitude":25.71667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Muluwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904496
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"d66cd35b3b4fb91f1fd2654136771644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782445,
+            "locality_id":1242575161,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1242575161,
+    "wof:lastmodified":1537064349,
+    "wof:name":"Muluwa",
+    "wof:parent_id":1108782445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    -13.1,
+    25.71667,
+    -13.1
+],
+  "geometry": {"coordinates":[25.71667,-13.1],"type":"Point"}
+}

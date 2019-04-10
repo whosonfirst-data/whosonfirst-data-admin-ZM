@@ -1,0 +1,72 @@
+{
+  "id": 1259596325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40196,-13.45789,30.40196,-13.45789",
+    "geom:latitude":-13.45789,
+    "geom:longitude":30.40196,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamena Tayali",
+    "gn:country_code":"ZM",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":914474,
+    "gn:latitude":-13.45789,
+    "gn:longitude":30.40196,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kamena Tayali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milisoni Kamena",
+        "Kamena",
+        "Kamena Tayali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":914474
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"84bbc2e36b3a4d7d5c27f791d2c718fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1259596325,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1259596325,
+    "wof:lastmodified":1537716537,
+    "wof:name":"Kamena Tayali",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40196,
+    -13.45789,
+    30.40196,
+    -13.45789
+],
+  "geometry": {"coordinates":[30.40196,-13.45789],"type":"Point"}
+}

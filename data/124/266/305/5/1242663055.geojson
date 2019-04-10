@@ -1,0 +1,67 @@
+{
+  "id": 1242663055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.76667,-12.95,28.76667,-12.95",
+    "geom:latitude":-12.95,
+    "geom:longitude":28.76667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkumbula",
+    "gn:country_code":"ZM",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":900665,
+    "gn:latitude":-12.95,
+    "gn:longitude":28.76667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Nkumbula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":900665
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"28d415e3ad9f794a96186f4ad679e32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782377,
+            "locality_id":1242663055,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1242663055,
+    "wof:lastmodified":1536941376,
+    "wof:name":"Nkumbula",
+    "wof:parent_id":1108782377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.76667,
+    -12.95,
+    28.76667,
+    -12.95
+],
+  "geometry": {"coordinates":[28.76667,-12.95],"type":"Point"}
+}

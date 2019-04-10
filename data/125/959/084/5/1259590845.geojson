@@ -1,0 +1,67 @@
+{
+  "id": 1259590845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7,-13.31667,32.7,-13.31667",
+    "geom:latitude":-13.31667,
+    "geom:longitude":32.7,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dima",
+    "gn:country_code":"ZM",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917467,
+    "gn:latitude":-13.31667,
+    "gn:longitude":32.7,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Dima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917467
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"24596d6e73266c09cfe10a1e6a52a9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782391,
+            "locality_id":1259590845,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1259590845,
+    "wof:lastmodified":1536704419,
+    "wof:name":"Dima",
+    "wof:parent_id":1108782391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7,
+    -13.31667,
+    32.7,
+    -13.31667
+],
+  "geometry": {"coordinates":[32.7,-13.31667],"type":"Point"}
+}

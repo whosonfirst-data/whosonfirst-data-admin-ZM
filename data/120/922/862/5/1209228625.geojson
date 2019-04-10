@@ -1,0 +1,61 @@
+{
+  "id": 1209228625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03333,-14.71667,24.03333,-14.71667",
+    "geom:latitude":-14.71667,
+    "geom:longitude":24.03333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Liaka",
+    "gn:country_code":"ZM",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910694,
+    "gn:latitude":-14.71667,
+    "gn:longitude":24.03333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Liaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910694
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"0d8bd0ffaf46e7e560a037d2567f0a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209228625
+        }
+    ],
+    "wof:id":1209228625,
+    "wof:lastmodified":1536293712,
+    "wof:name":"Liaka",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03333,
+    -14.71667,
+    24.03333,
+    -14.71667
+],
+  "geometry": {"coordinates":[24.03333,-14.71667],"type":"Point"}
+}

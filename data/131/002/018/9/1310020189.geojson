@@ -1,0 +1,67 @@
+{
+  "id": 1310020189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16667,-15.16667,24.16667,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":24.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chimbwende",
+    "gn:country_code":"ZM",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":919281,
+    "gn:latitude":-15.16667,
+    "gn:longitude":24.16667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Chimbwende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681083,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":919281
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7af2b3a7f165aa3d099ffb08885361b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":1310020189,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":1310020189,
+    "wof:lastmodified":1536619946,
+    "wof:name":"Chimbwende",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16667,
+    -15.16667,
+    24.16667,
+    -15.16667
+],
+  "geometry": {"coordinates":[24.16667,-15.16667],"type":"Point"}
+}

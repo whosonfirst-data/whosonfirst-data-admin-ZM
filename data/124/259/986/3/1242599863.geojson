@@ -1,0 +1,71 @@
+{
+  "id": 1242599863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1453,-13.52428,23.1453,-13.52428",
+    "geom:latitude":-13.52428,
+    "geom:longitude":23.1453,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dishipa",
+    "gn:country_code":"ZM",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":917453,
+    "gn:latitude":-13.52428,
+    "gn:longitude":23.1453,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dishipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lishipa",
+        "Dishipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681075,
+        1108782453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":917453
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c80eea019233418c8d21bd0eddfee651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782453,
+            "locality_id":1242599863,
+            "region_id":85681075
+        }
+    ],
+    "wof:id":1242599863,
+    "wof:lastmodified":1537716548,
+    "wof:name":"Dishipa",
+    "wof:parent_id":1108782453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1453,
+    -13.52428,
+    23.1453,
+    -13.52428
+],
+  "geometry": {"coordinates":[23.1453,-13.52428],"type":"Point"}
+}

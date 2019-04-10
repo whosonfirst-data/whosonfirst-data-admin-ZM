@@ -1,0 +1,67 @@
+{
+  "id": 1259590821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85372,-14.10975,32.85372,-14.10975",
+    "geom:latitude":-14.10975,
+    "geom:longitude":32.85372,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mulemba",
+    "gn:country_code":"ZM",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":904810,
+    "gn:latitude":-14.10975,
+    "gn:longitude":32.85372,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mulemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":904810
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"07dd534e4e332dd7a5f3f2f34eb2e95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782385,
+            "locality_id":1259590821,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1259590821,
+    "wof:lastmodified":1536704455,
+    "wof:name":"Mulemba",
+    "wof:parent_id":1108782385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85372,
+    -14.10975,
+    32.85372,
+    -14.10975
+],
+  "geometry": {"coordinates":[32.85372,-14.10975],"type":"Point"}
+}

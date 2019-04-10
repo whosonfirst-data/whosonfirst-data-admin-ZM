@@ -1,0 +1,71 @@
+{
+  "id": 1343380983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13333,-12.35,27.13333,-12.35",
+    "geom:latitude":-12.35,
+    "geom:longitude":27.13333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Malanye",
+    "gn:country_code":"ZM",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":908184,
+    "gn:latitude":-12.35,
+    "gn:longitude":27.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Malanye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mutanye",
+        "Malanye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681063,
+        1108782375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":908184
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"e3bc51c8c5d8ec50d46cc79ff7f7dcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782375,
+            "locality_id":1343380983,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":1343380983,
+    "wof:lastmodified":1537716518,
+    "wof:name":"Malanye",
+    "wof:parent_id":1108782375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13333,
+    -12.35,
+    27.13333,
+    -12.35
+],
+  "geometry": {"coordinates":[27.13333,-12.35],"type":"Point"}
+}

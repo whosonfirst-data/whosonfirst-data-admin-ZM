@@ -1,0 +1,61 @@
+{
+  "id": 1209332279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13333,-15.88333,23.13333,-15.88333",
+    "geom:latitude":-15.88333,
+    "geom:longitude":23.13333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sindele",
+    "gn:country_code":"ZM",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":897437,
+    "gn:latitude":-15.88333,
+    "gn:longitude":23.13333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sindele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":897437
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"1aabd869e8b38eaebf80d07c1ec73431",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209332279
+        }
+    ],
+    "wof:id":1209332279,
+    "wof:lastmodified":1536290335,
+    "wof:name":"Sindele",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13333,
+    -15.88333,
+    23.13333,
+    -15.88333
+],
+  "geometry": {"coordinates":[23.13333,-15.88333],"type":"Point"}
+}

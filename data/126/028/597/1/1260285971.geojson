@@ -1,0 +1,67 @@
+{
+  "id": 1260285971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38979,-14.11849,32.38979,-14.11849",
+    "geom:latitude":-14.11849,
+    "geom:longitude":32.38979,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chipili",
+    "gn:country_code":"ZM",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":918639,
+    "gn:latitude":-14.11849,
+    "gn:longitude":32.38979,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chipili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681065,
+        1108782385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":918639
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c6e1f582985f01f1410944fa0140036c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782385,
+            "locality_id":1260285971,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":1260285971,
+    "wof:lastmodified":1536708925,
+    "wof:name":"Chipili",
+    "wof:parent_id":1108782385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38979,
+    -14.11849,
+    32.38979,
+    -14.11849
+],
+  "geometry": {"coordinates":[32.38979,-14.11849],"type":"Point"}
+}

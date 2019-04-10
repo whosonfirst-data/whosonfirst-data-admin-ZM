@@ -1,0 +1,67 @@
+{
+  "id": 1242781205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89565,-13.05697,30.89565,-13.05697",
+    "geom:latitude":-13.05697,
+    "geom:longitude":30.89565,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lamak Miya",
+    "gn:country_code":"ZM",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":910787,
+    "gn:latitude":-13.05697,
+    "gn:longitude":30.89565,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Lamak Miya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681059,
+        1108782361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":910787
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"630a138cc60c33b85516e07d857a3aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782361,
+            "locality_id":1242781205,
+            "region_id":85681059
+        }
+    ],
+    "wof:id":1242781205,
+    "wof:lastmodified":1536770881,
+    "wof:name":"Lamak Miya",
+    "wof:parent_id":1108782361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89565,
+    -13.05697,
+    30.89565,
+    -13.05697
+],
+  "geometry": {"coordinates":[30.89565,-13.05697],"type":"Point"}
+}

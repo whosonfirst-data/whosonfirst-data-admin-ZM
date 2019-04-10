@@ -1,0 +1,77 @@
+{
+  "id": 1276985375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03333,-8.35,30.03333,-8.35",
+    "geom:latitude":-8.35,
+    "geom:longitude":30.03333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Samba",
+    "gn:country_code":"ZM",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":175271,
+    "gn:latitude":-8.35,
+    "gn:longitude":30.03333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681055,
+        1108782457,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":175271
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dac5d6a06e0aaff07429fa22d693a1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782457,
+            "locality_id":1276985375,
+            "region_id":85681055
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1276985375,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276985375,
+    "wof:lastmodified":1536899763,
+    "wof:name":"Samba",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03333,
+    -8.35,
+    30.03333,
+    -8.35
+],
+  "geometry": {"coordinates":[30.03333,-8.35],"type":"Point"}
+}

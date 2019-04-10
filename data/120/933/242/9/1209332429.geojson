@@ -1,0 +1,61 @@
+{
+  "id": 1209332429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93333,-14.58333,22.93333,-14.58333",
+    "geom:latitude":-14.58333,
+    "geom:longitude":22.93333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tepa",
+    "gn:country_code":"ZM",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":896694,
+    "gn:latitude":-14.58333,
+    "gn:longitude":22.93333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Tepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":896694
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c78949ee2a0d18d2bd97ef4d14430607",
+    "wof:hierarchy":[
+        {
+            "country_id":85632559,
+            "locality_id":1209332429
+        }
+    ],
+    "wof:id":1209332429,
+    "wof:lastmodified":1536290331,
+    "wof:name":"Tepa",
+    "wof:parent_id":85632559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93333,
+    -14.583329999999998,
+    22.93333,
+    -14.583329999999998
+],
+  "geometry": {"coordinates":[22.93333,-14.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344151547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.49783,-15.66079,26.49783,-15.66079",
+    "geom:latitude":-15.66079,
+    "geom:longitude":26.49783,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Banga",
+    "gn:country_code":"ZM",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921461,
+    "gn:latitude":-15.66079,
+    "gn:longitude":26.49783,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lusaka",
+    "iso:country":"ZM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681079,
+        1108782479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921461
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3b0906b664a8f400c162310d7458273d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782479,
+            "locality_id":1344151547,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":1344151547,
+    "wof:lastmodified":1536743909,
+    "wof:name":"Banga",
+    "wof:parent_id":1108782479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49783,
+    -15.66079,
+    26.49783,
+    -15.66079
+],
+  "geometry": {"coordinates":[26.49783,-15.66079],"type":"Point"}
+}
