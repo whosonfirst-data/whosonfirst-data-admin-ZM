@@ -10,6 +10,12 @@
     "geom:latitude":-12.084132,
     "geom:longitude":31.310665,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mpika District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.140031,
     "lbl:longitude":31.194533,
     "meso:adm1_en":"Muchinga",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782433,
-    "wof:lastmodified":1536615774,
+    "wof:lastmodified":1553718770,
     "wof:name":"Mpika",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

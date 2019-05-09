@@ -10,6 +10,12 @@
     "geom:latitude":-14.999151,
     "geom:longitude":26.635179,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mumbwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.882256,
     "lbl:longitude":26.765571,
     "meso:adm1_en":"Central",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782359,
-    "wof:lastmodified":1536615771,
+    "wof:lastmodified":1553718767,
     "wof:name":"Mumbwa",
     "wof:parent_id":85681059,
     "wof:placetype":"county",

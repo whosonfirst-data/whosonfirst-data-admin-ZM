@@ -10,6 +10,12 @@
     "geom:latitude":-11.200386,
     "geom:longitude":32.804567,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Chama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.178809,
     "lbl:longitude":32.815617,
     "meso:adm1_en":"Muchinga",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782425,
-    "wof:lastmodified":1536615774,
+    "wof:lastmodified":1553718770,
     "wof:name":"Chama",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

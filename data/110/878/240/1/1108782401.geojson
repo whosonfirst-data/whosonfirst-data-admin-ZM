@@ -10,6 +10,12 @@
     "geom:latitude":-9.830535,
     "geom:longitude":29.292651,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Kawambwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.776531,
     "lbl:longitude":29.248193,
     "meso:adm1_en":"Luapula",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782401,
-    "wof:lastmodified":1536615773,
+    "wof:lastmodified":1553718769,
     "wof:name":"Kawambwa",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

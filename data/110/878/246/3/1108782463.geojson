@@ -10,6 +10,12 @@
     "geom:latitude":-10.582909,
     "geom:longitude":29.960138,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Luwingu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.475474,
     "lbl:longitude":29.877632,
     "meso:adm1_en":"Northern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782463,
-    "wof:lastmodified":1536615776,
+    "wof:lastmodified":1553718771,
     "wof:name":"Luwingu",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-16.568863,
     "geom:longitude":22.862963,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Shangombo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.531549,
     "lbl:longitude":22.875837,
     "meso:adm1_en":"Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782509,
-    "wof:lastmodified":1536615778,
+    "wof:lastmodified":1553718773,
     "wof:name":"Shangombo",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

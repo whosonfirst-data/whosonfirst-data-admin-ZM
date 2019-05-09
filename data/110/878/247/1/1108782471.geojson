@@ -10,6 +10,12 @@
     "geom:latitude":-9.888985,
     "geom:longitude":31.736157,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mungwi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.913945,
     "lbl:longitude":31.685438,
     "meso:adm1_en":"Northern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782471,
-    "wof:lastmodified":1536615776,
+    "wof:lastmodified":1553718771,
     "wof:name":"Mungwi",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

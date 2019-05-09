@@ -10,6 +10,12 @@
     "geom:latitude":-12.826013,
     "geom:longitude":32.682029,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Lundazi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.616241,
     "lbl:longitude":32.562541,
     "meso:adm1_en":"Eastern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782391,
-    "wof:lastmodified":1536615773,
+    "wof:lastmodified":1553718769,
     "wof:name":"Lundazi",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

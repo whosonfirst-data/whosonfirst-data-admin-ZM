@@ -10,6 +10,12 @@
     "geom:latitude":-10.455406,
     "geom:longitude":28.995377,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mwense District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.384406,
     "lbl:longitude":29.002817,
     "meso:adm1_en":"Luapula",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782409,
-    "wof:lastmodified":1536615773,
+    "wof:lastmodified":1553718768,
     "wof:name":"Mwense",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

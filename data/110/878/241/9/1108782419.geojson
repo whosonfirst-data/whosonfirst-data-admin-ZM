@@ -10,6 +10,12 @@
     "geom:latitude":-15.436732,
     "geom:longitude":30.005771,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Luangwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.406607,
     "lbl:longitude":30.104439,
     "meso:adm1_en":"Lusaka",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782419,
-    "wof:lastmodified":1536615774,
+    "wof:lastmodified":1553718770,
     "wof:name":"Luangwa",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

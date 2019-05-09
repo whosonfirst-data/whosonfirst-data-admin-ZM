@@ -10,6 +10,12 @@
     "geom:latitude":-8.72618,
     "geom:longitude":29.132984,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Chiengi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.727512,
     "lbl:longitude":29.12652,
     "meso:adm1_en":"Luapula",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782399,
-    "wof:lastmodified":1536615773,
+    "wof:lastmodified":1553718768,
     "wof:name":"Chiengi",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-9.68403,
     "geom:longitude":30.214228,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mporokoso District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.692658,
     "lbl:longitude":30.228103,
     "meso:adm1_en":"Northern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782467,
-    "wof:lastmodified":1536615776,
+    "wof:lastmodified":1553718772,
     "wof:name":"Mporokoso",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

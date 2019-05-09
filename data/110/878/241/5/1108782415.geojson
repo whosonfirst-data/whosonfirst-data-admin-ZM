@@ -10,6 +10,12 @@
     "geom:latitude":-15.196965,
     "geom:longitude":29.341575,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Chongwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.270904,
     "lbl:longitude":29.276848,
     "meso:adm1_en":"Lusaka",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782415,
-    "wof:lastmodified":1536615773,
+    "wof:lastmodified":1553718769,
     "wof:name":"Chongwe",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

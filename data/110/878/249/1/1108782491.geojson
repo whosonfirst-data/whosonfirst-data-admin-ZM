@@ -10,6 +10,12 @@
     "geom:latitude":-15.942845,
     "geom:longitude":26.772825,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Namwala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.94281,
     "lbl:longitude":26.772833,
     "meso:adm1_en":"Southern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782491,
-    "wof:lastmodified":1536615777,
+    "wof:lastmodified":1553718772,
     "wof:name":"Namwala",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

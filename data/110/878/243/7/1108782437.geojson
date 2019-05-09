@@ -10,6 +10,12 @@
     "geom:latitude":-13.225973,
     "geom:longitude":22.388042,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Chavuma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.245473,
     "lbl:longitude":22.234083,
     "meso:adm1_en":"North Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782437,
-    "wof:lastmodified":1536615774,
+    "wof:lastmodified":1553718769,
     "wof:name":"Chavuma",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

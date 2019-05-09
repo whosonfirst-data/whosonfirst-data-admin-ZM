@@ -10,6 +10,12 @@
     "geom:latitude":-12.420847,
     "geom:longitude":26.195155,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Solwezi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.438864,
     "lbl:longitude":26.217107,
     "meso:adm1_en":"North Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782451,
-    "wof:lastmodified":1536615775,
+    "wof:lastmodified":1553718773,
     "wof:name":"Solwezi",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

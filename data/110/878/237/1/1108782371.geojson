@@ -10,6 +10,12 @@
     "geom:latitude":-12.781907,
     "geom:longitude":28.276637,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Kitwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.81311,
     "lbl:longitude":28.219507,
     "meso:adm1_en":"Copperbelt",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782371,
-    "wof:lastmodified":1536615772,
+    "wof:lastmodified":1553718767,
     "wof:name":"Kitwe",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

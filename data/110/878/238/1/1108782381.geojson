@@ -10,6 +10,12 @@
     "geom:latitude":-12.539009,
     "geom:longitude":28.257693,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mufulira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.535006,
     "lbl:longitude":28.241663,
     "meso:adm1_en":"Copperbelt",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782381,
-    "wof:lastmodified":1536615772,
+    "wof:lastmodified":1553718768,
     "wof:name":"Mufulira",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

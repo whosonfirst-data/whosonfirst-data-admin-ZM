@@ -10,6 +10,12 @@
     "geom:latitude":-14.251131,
     "geom:longitude":23.371121,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Lukulu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.496156,
     "lbl:longitude":23.241041,
     "meso:adm1_en":"Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782501,
-    "wof:lastmodified":1536615778,
+    "wof:lastmodified":1553718773,
     "wof:name":"Lukulu",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

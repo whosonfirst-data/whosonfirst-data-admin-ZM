@@ -10,6 +10,12 @@
     "geom:latitude":-15.230326,
     "geom:longitude":23.495411,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mongu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.113092,
     "lbl:longitude":23.485504,
     "meso:adm1_en":"Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782503,
-    "wof:lastmodified":1536615778,
+    "wof:lastmodified":1553718773,
     "wof:name":"Mongu",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

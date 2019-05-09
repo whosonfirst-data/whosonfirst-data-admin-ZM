@@ -10,6 +10,12 @@
     "geom:latitude":-11.476526,
     "geom:longitude":29.809416,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Samfya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.66029,
     "lbl:longitude":29.755416,
     "meso:adm1_en":"Luapula",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782413,
-    "wof:lastmodified":1536615773,
+    "wof:lastmodified":1553718769,
     "wof:name":"Samfya",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

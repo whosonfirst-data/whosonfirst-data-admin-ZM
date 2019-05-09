@@ -10,6 +10,12 @@
     "geom:latitude":-15.945889,
     "geom:longitude":23.574351,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Senanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.114845,
     "lbl:longitude":23.55872,
     "meso:adm1_en":"Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782505,
-    "wof:lastmodified":1536615778,
+    "wof:lastmodified":1553718773,
     "wof:name":"Senanga",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

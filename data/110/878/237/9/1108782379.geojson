@@ -10,6 +10,12 @@
     "geom:latitude":-13.580255,
     "geom:longitude":27.742782,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mpongwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.600378,
     "lbl:longitude":28.120554,
     "meso:adm1_en":"Copperbelt",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782379,
-    "wof:lastmodified":1536615772,
+    "wof:lastmodified":1553718768,
     "wof:name":"Mpongwe",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

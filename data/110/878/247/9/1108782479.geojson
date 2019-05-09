@@ -10,6 +10,12 @@
     "geom:latitude":-15.762002,
     "geom:longitude":26.028305,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Itezhi tezhi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.772679,
     "lbl:longitude":25.927461,
     "meso:adm1_en":"Southern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782479,
-    "wof:lastmodified":1536615777,
+    "wof:lastmodified":1553718772,
     "wof:name":"Itezhi tezhi",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

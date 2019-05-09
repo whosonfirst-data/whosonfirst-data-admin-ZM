@@ -10,6 +10,12 @@
     "geom:latitude":-15.448999,
     "geom:longitude":28.319412,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Lusaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.435851,
     "lbl:longitude":28.297637,
     "meso:adm1_en":"Lusaka",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782421,
-    "wof:lastmodified":1536615774,
+    "wof:lastmodified":1553718769,
     "wof:name":"Lusaka",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

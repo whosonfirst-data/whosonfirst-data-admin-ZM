@@ -10,6 +10,12 @@
     "geom:latitude":-13.265003,
     "geom:longitude":24.151666,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Kabompo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.425128,
     "lbl:longitude":24.139899,
     "meso:adm1_en":"North Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782443,
-    "wof:lastmodified":1536615775,
+    "wof:lastmodified":1553718770,
     "wof:name":"Kabompo",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-13.136742,
     "geom:longitude":30.454717,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Serenje District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.285901,
     "lbl:longitude":30.387884,
     "meso:adm1_en":"Central",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782361,
-    "wof:lastmodified":1536615771,
+    "wof:lastmodified":1553718767,
     "wof:name":"Serenje",
     "wof:parent_id":85681059,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-9.464871,
     "geom:longitude":32.558887,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Nakonde District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.495234,
     "lbl:longitude":32.552384,
     "meso:adm1_en":"Muchinga",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782435,
-    "wof:lastmodified":1536615774,
+    "wof:lastmodified":1553718770,
     "wof:name":"Nakonde",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

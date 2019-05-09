@@ -10,6 +10,12 @@
     "geom:latitude":-17.101517,
     "geom:longitude":25.629242,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Kazungula District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.082696,
     "lbl:longitude":25.639907,
     "meso:adm1_en":"Southern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782483,
-    "wof:lastmodified":1536615777,
+    "wof:lastmodified":1553718774,
     "wof:name":"Kazungula",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

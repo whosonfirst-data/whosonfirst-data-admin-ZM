@@ -10,6 +10,12 @@
     "geom:latitude":-13.688464,
     "geom:longitude":26.222516,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Kasempa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.68308,
     "lbl:longitude":26.236399,
     "meso:adm1_en":"North Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782445,
-    "wof:lastmodified":1536615775,
+    "wof:lastmodified":1553718770,
     "wof:name":"Kasempa",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

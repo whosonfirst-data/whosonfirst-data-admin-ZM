@@ -10,6 +10,12 @@
     "geom:latitude":-15.041004,
     "geom:longitude":22.409078,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Kalabo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.046862,
     "lbl:longitude":22.418738,
     "meso:adm1_en":"Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782497,
-    "wof:lastmodified":1536615777,
+    "wof:lastmodified":1553718773,
     "wof:name":"Kalabo",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

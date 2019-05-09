@@ -10,6 +10,12 @@
     "geom:latitude":-11.939978,
     "geom:longitude":29.181385,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Milenge District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.97624,
     "lbl:longitude":29.18138,
     "meso:adm1_en":"Luapula",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782407,
-    "wof:lastmodified":1536615773,
+    "wof:lastmodified":1553718769,
     "wof:name":"Milenge",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

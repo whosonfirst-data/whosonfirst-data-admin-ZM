@@ -10,6 +10,12 @@
     "geom:latitude":-17.772884,
     "geom:longitude":25.863208,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Livingstone District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.79492,
     "lbl:longitude":25.866399,
     "meso:adm1_en":"Southern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782485,
-    "wof:lastmodified":1536615777,
+    "wof:lastmodified":1553718772,
     "wof:name":"Livingstone",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-9.193323,
     "geom:longitude":31.616845,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Mbala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.219235,
     "lbl:longitude":31.62634,
     "meso:adm1_en":"Northern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782465,
-    "wof:lastmodified":1536615776,
+    "wof:lastmodified":1553718772,
     "wof:name":"Mbala",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

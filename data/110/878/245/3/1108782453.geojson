@@ -10,6 +10,12 @@
     "geom:latitude":-13.570206,
     "geom:longitude":23.040374,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Zambezi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.593849,
     "lbl:longitude":23.254551,
     "meso:adm1_en":"North Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782453,
-    "wof:lastmodified":1536615775,
+    "wof:lastmodified":1553718771,
     "wof:name":"Zambezi",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

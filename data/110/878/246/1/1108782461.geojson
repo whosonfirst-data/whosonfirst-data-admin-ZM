@@ -10,6 +10,12 @@
     "geom:latitude":-10.400247,
     "geom:longitude":30.95491,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Kasama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.371468,
     "lbl:longitude":30.997367,
     "meso:adm1_en":"Northern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108782461,
-    "wof:lastmodified":1536615776,
+    "wof:lastmodified":1553718771,
     "wof:name":"Kasama",
     "wof:parent_id":85681055,
     "wof:placetype":"county",
