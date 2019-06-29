@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Mufulira"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u5bcc\u5229\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Mufulira"
     ],
     "name:deu_x_preferred":[
-        "Mufulira"
-    ],
-    "name:dut_x_preferred":[
         "Mufulira"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +42,6 @@
         "Mufulira"
     ],
     "name:fra_x_preferred":[
-        "Mufulira"
-    ],
-    "name:fre_x_preferred":[
-        "Mufulira"
-    ],
-    "name:ger_x_preferred":[
         "Mufulira"
     ],
     "name:heb_x_preferred":[
@@ -93,9 +81,6 @@
         "Mufulira"
     ],
     "name:ron_x_preferred":[
-        "Mufulira"
-    ],
-    "name:rum_x_preferred":[
         "Mufulira"
     ],
     "name:rus_x_preferred":[
@@ -270,7 +255,7 @@
         }
     ],
     "wof:id":421168763,
-    "wof:lastmodified":1527716089,
+    "wof:lastmodified":1561840379,
     "wof:name":"Mufulira",
     "wof:parent_id":1108782381,
     "wof:placetype":"locality",

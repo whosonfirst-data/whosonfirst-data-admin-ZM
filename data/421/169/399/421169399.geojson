@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Monze"
     ],
-    "name:dut_x_preferred":[
-        "Monze"
-    ],
     "name:eng_x_preferred":[
         "Monze"
     ],
     "name:fra_x_preferred":[
-        "Monze"
-    ],
-    "name:fre_x_preferred":[
-        "Monze"
-    ],
-    "name:ger_x_preferred":[
         "Monze"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +34,9 @@
     "name:mrj_x_preferred":[
         "\u041c\u043e\u043d\u0437\u0435"
     ],
+    "name:nld_x_preferred":[
+        "Monze"
+    ],
     "name:pol_x_preferred":[
         "Monze"
     ],
@@ -50,9 +44,6 @@
         "Monze"
     ],
     "name:ron_x_preferred":[
-        "Monze"
-    ],
-    "name:rum_x_preferred":[
         "Monze"
     ],
     "name:rus_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":421169399,
-    "wof:lastmodified":1527716164,
+    "wof:lastmodified":1561840380,
     "wof:name":"Monze",
     "wof:parent_id":1108782489,
     "wof:placetype":"locality",

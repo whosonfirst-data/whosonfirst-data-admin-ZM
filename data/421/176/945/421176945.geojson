@@ -17,19 +17,10 @@
     "name:deu_x_preferred":[
         "Lukulu"
     ],
-    "name:dut_x_preferred":[
-        "Lukulu"
-    ],
     "name:eng_x_preferred":[
         "Lukulu"
     ],
     "name:fra_x_preferred":[
-        "Lukulu"
-    ],
-    "name:fre_x_preferred":[
-        "Lukulu"
-    ],
-    "name:ger_x_preferred":[
         "Lukulu"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +32,9 @@
     "name:mrj_x_preferred":[
         "\u041b\u0443\u043a\u0443\u043b\u0443"
     ],
+    "name:nld_x_preferred":[
+        "Lukulu"
+    ],
     "name:pol_x_preferred":[
         "Lukulu"
     ],
@@ -48,9 +42,6 @@
         "Lukulu"
     ],
     "name:ron_x_preferred":[
-        "Lukulu"
-    ],
-    "name:rum_x_preferred":[
         "Lukulu"
     ],
     "ne:ADM0CAP":0.0,
@@ -193,7 +184,7 @@
         }
     ],
     "wof:id":421176945,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561840381,
     "wof:name":"Lukulu",
     "wof:parent_id":1108782501,
     "wof:placetype":"locality",

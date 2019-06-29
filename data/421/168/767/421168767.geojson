@@ -23,13 +23,7 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0441\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u85a9"
-    ],
     "name:deu_x_preferred":[
-        "Mansa"
-    ],
-    "name:dut_x_preferred":[
         "Mansa"
     ],
     "name:eng_x_preferred":[
@@ -41,13 +35,7 @@
     "name:fra_x_preferred":[
         "Mansa"
     ],
-    "name:fre_x_preferred":[
-        "Mansa"
-    ],
     "name:frr_x_preferred":[
-        "Mansa"
-    ],
-    "name:ger_x_preferred":[
         "Mansa"
     ],
     "name:hrv_x_preferred":[
@@ -81,9 +69,6 @@
         "Mansa"
     ],
     "name:ron_x_preferred":[
-        "Mansa"
-    ],
-    "name:rum_x_preferred":[
         "Mansa"
     ],
     "name:rus_x_preferred":[
@@ -249,7 +234,7 @@
         }
     ],
     "wof:id":421168767,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561840379,
     "wof:name":"Mansa",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

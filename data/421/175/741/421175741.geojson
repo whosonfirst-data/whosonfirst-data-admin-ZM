@@ -23,13 +23,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043f\u0438\u0440\u0438 \u041c\u043f\u043e\u0448\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u76ae\u91cc\u59c6\u6ce2\u5e0c"
-    ],
     "name:deu_x_preferred":[
-        "Kapiri Mposhi"
-    ],
-    "name:dut_x_preferred":[
         "Kapiri Mposhi"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Kapiri Mposhi"
     ],
     "name:fra_x_preferred":[
-        "Kapiri Mposhi"
-    ],
-    "name:fre_x_preferred":[
-        "Kapiri Mposhi"
-    ],
-    "name:ger_x_preferred":[
         "Kapiri Mposhi"
     ],
     "name:ita_x_preferred":[
@@ -81,9 +69,6 @@
         "Kapiri Mposhi"
     ],
     "name:ron_x_preferred":[
-        "Kapiri Mposhi"
-    ],
-    "name:rum_x_preferred":[
         "Kapiri Mposhi"
     ],
     "name:rus_x_preferred":[
@@ -238,7 +223,7 @@
         }
     ],
     "wof:id":421175741,
-    "wof:lastmodified":1527716340,
+    "wof:lastmodified":1561840380,
     "wof:name":"Kapiri Mposhi",
     "wof:parent_id":1108782355,
     "wof:placetype":"locality",

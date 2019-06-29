@@ -20,16 +20,10 @@
     "name:deu_x_preferred":[
         "Kalabo"
     ],
-    "name:dut_x_preferred":[
-        "Kalabo"
-    ],
     "name:eng_x_preferred":[
         "Kalabo"
     ],
-    "name:fre_x_preferred":[
-        "Kalabo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kalabo"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +35,9 @@
     "name:mrj_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0431\u043e"
     ],
+    "name:nld_x_preferred":[
+        "Kalabo"
+    ],
     "name:pol_x_preferred":[
         "Kalabo"
     ],
@@ -48,9 +45,6 @@
         "Kalabo"
     ],
     "name:ron_x_preferred":[
-        "Kalabo"
-    ],
-    "name:rum_x_preferred":[
         "Kalabo"
     ],
     "name:rus_x_preferred":[
@@ -196,7 +190,7 @@
         }
     ],
     "wof:id":421199121,
-    "wof:lastmodified":1527716414,
+    "wof:lastmodified":1561840380,
     "wof:name":"Kalabo",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

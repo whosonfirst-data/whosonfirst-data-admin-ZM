@@ -26,10 +26,7 @@
     "name:cat_x_preferred":[
         "Chingola"
     ],
-    "name:chi_x_preferred":[
-        "\u6b3d\u6208\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chingola"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +38,7 @@
     "name:fin_x_preferred":[
         "Chingola"
     ],
-    "name:fre_x_preferred":[
-        "Chingola"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chingola"
     ],
     "name:hrv_x_preferred":[
@@ -65,6 +59,9 @@
     "name:mrj_x_preferred":[
         "\u0427\u0438\u043d\u0433\u043e\u043b\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Chingola"
+    ],
     "name:nob_x_preferred":[
         "Chingola"
     ],
@@ -74,7 +71,7 @@
     "name:por_x_preferred":[
         "Chingola"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chingola"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Chingola"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u6208\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":1141906943,
-    "wof:lastmodified":1514505189,
+    "wof:lastmodified":1561840392,
     "wof:name":"Chingola",
     "wof:parent_id":1108782365,
     "wof:placetype":"locality",

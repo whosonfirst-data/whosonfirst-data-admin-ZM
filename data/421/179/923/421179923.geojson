@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Mbala"
     ],
-    "name:dut_x_preferred":[
-        "Mbala"
-    ],
     "name:eng_x_preferred":[
         "Mbala"
     ],
@@ -39,12 +36,6 @@
         "Mbala"
     ],
     "name:fra_x_preferred":[
-        "Mbala"
-    ],
-    "name:fre_x_preferred":[
-        "Mbala"
-    ],
-    "name:ger_x_preferred":[
         "Mbala"
     ],
     "name:ita_x_preferred":[
@@ -59,6 +50,9 @@
     "name:mrj_x_preferred":[
         "\u041c\u0431\u0430\u043b\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Mbala"
+    ],
     "name:pol_x_preferred":[
         "Mbala"
     ],
@@ -66,9 +60,6 @@
         "Mbala"
     ],
     "name:ron_x_preferred":[
-        "Mbala"
-    ],
-    "name:rum_x_preferred":[
         "Mbala"
     ],
     "name:rus_x_preferred":[
@@ -223,7 +214,7 @@
         }
     ],
     "wof:id":421179923,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561840380,
     "wof:name":"Mbala",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",

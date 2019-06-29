@@ -26,13 +26,7 @@
     "name:deu_x_preferred":[
         "Mwinilunga"
     ],
-    "name:dut_x_preferred":[
-        "Mwinilunga"
-    ],
     "name:eng_x_preferred":[
-        "Mwinilunga"
-    ],
-    "name:ger_x_preferred":[
         "Mwinilunga"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +48,6 @@
         "Mwinilunga"
     ],
     "name:ron_x_preferred":[
-        "Mwinilunga"
-    ],
-    "name:rum_x_preferred":[
         "Mwinilunga"
     ],
     "name:spa_x_preferred":[
@@ -205,7 +196,7 @@
         }
     ],
     "wof:id":421170925,
-    "wof:lastmodified":1527716465,
+    "wof:lastmodified":1561840380,
     "wof:name":"Mwinilunga",
     "wof:parent_id":1108782449,
     "wof:placetype":"locality",

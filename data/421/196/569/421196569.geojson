@@ -19,22 +19,16 @@
     "name:deu_x_preferred":[
         "Limulunga"
     ],
-    "name:dut_x_preferred":[
-        "Limulunga"
-    ],
     "name:eng_x_preferred":[
-        "Limulunga"
-    ],
-    "name:ger_x_preferred":[
         "Limulunga"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30e0\u30eb\u30f3\u30ac"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Limulunga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Limulunga"
     ],
     "name:ukr_x_preferred":[
@@ -88,7 +82,7 @@
         }
     ],
     "wof:id":421196569,
-    "wof:lastmodified":1527716359,
+    "wof:lastmodified":1561840380,
     "wof:name":"Limulunga",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Kalulushi"
     ],
-    "name:dut_x_preferred":[
-        "Kalulushi"
-    ],
     "name:eng_x_preferred":[
         "Kalulushi"
     ],
@@ -35,12 +32,6 @@
         "Kalulushi"
     ],
     "name:fra_x_preferred":[
-        "Kalulushi"
-    ],
-    "name:fre_x_preferred":[
-        "Kalulushi"
-    ],
-    "name:ger_x_preferred":[
         "Kalulushi"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +46,9 @@
     "name:mrj_x_preferred":[
         "\u041a\u0430\u043b\u0443\u043b\u0443\u0448\u0438"
     ],
+    "name:nld_x_preferred":[
+        "Kalulushi"
+    ],
     "name:pol_x_preferred":[
         "Kalulushi"
     ],
@@ -62,9 +56,6 @@
         "Kalulushi"
     ],
     "name:ron_x_preferred":[
-        "Kalulushi"
-    ],
-    "name:rum_x_preferred":[
         "Kalulushi"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +118,7 @@
         }
     ],
     "wof:id":421198635,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1561840380,
     "wof:name":"Kalulushi",
     "wof:parent_id":1108782371,
     "wof:placetype":"locality",
