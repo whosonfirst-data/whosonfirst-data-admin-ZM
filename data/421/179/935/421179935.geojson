@@ -29,19 +29,13 @@
     "name:cat_x_preferred":[
         "Kabwe"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5e03\u97e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kabwe"
     ],
     "name:dan_x_preferred":[
         "Kabwe"
     ],
     "name:deu_x_preferred":[
-        "Kabwe"
-    ],
-    "name:dut_x_preferred":[
         "Kabwe"
     ],
     "name:eng_x_preferred":[
@@ -59,13 +53,7 @@
     "name:fra_x_preferred":[
         "Kabwe"
     ],
-    "name:fre_x_preferred":[
-        "Kabwe"
-    ],
     "name:frr_x_preferred":[
-        "Kabwe"
-    ],
-    "name:ger_x_preferred":[
         "Kabwe"
     ],
     "name:heb_x_preferred":[
@@ -108,9 +96,6 @@
         "Kabwe"
     ],
     "name:ron_x_preferred":[
-        "Kabwe"
-    ],
-    "name:rum_x_preferred":[
         "Kabwe"
     ],
     "name:rus_x_preferred":[
@@ -282,7 +267,7 @@
         }
     ],
     "wof:id":421179935,
-    "wof:lastmodified":1527717708,
+    "wof:lastmodified":1561840381,
     "wof:name":"Kabwe",
     "wof:parent_id":1108782353,
     "wof:placetype":"locality",

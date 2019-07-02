@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Choma"
     ],
-    "name:dut_x_preferred":[
-        "Choma"
-    ],
     "name:eng_x_preferred":[
         "Choma"
     ],
     "name:fra_x_preferred":[
-        "Choma"
-    ],
-    "name:fre_x_preferred":[
-        "Choma"
-    ],
-    "name:ger_x_preferred":[
         "Choma"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +41,9 @@
     "name:mrj_x_preferred":[
         "\u0427\u043e\u043c\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Choma"
+    ],
     "name:pol_x_preferred":[
         "Choma"
     ],
@@ -57,9 +51,6 @@
         "Choma"
     ],
     "name:ron_x_preferred":[
-        "Choma"
-    ],
-    "name:rum_x_preferred":[
         "Choma"
     ],
     "name:rus_x_preferred":[
@@ -208,7 +199,7 @@
         }
     ],
     "wof:id":421178367,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561840381,
     "wof:name":"Choma",
     "wof:parent_id":1108782473,
     "wof:placetype":"locality",

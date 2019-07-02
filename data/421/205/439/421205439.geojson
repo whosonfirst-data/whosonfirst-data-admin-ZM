@@ -16,28 +16,16 @@
     "name:afr_x_preferred":[
         "Mpulungu"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u666e\u9686\u53e4"
-    ],
     "name:dan_x_preferred":[
         "Mpulungu"
     ],
     "name:deu_x_preferred":[
         "Mpulungu"
     ],
-    "name:dut_x_preferred":[
-        "Mpulungu"
-    ],
     "name:eng_x_preferred":[
         "Mpulungu"
     ],
     "name:fra_x_preferred":[
-        "Mpulungu"
-    ],
-    "name:fre_x_preferred":[
-        "Mpulungu"
-    ],
-    "name:ger_x_preferred":[
         "Mpulungu"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +37,9 @@
     "name:mrj_x_preferred":[
         "\u041c\u043f\u0443\u043b\u0443\u043d\u0433\u0443"
     ],
+    "name:nld_x_preferred":[
+        "Mpulungu"
+    ],
     "name:pol_x_preferred":[
         "Mpulungu"
     ],
@@ -58,11 +49,11 @@
     "name:ron_x_preferred":[
         "Mpulungu"
     ],
-    "name:rum_x_preferred":[
-        "Mpulungu"
-    ],
     "name:unk_x_variant":[
         "Mpolungu"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u666e\u9686\u53e4"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":421205439,
-    "wof:lastmodified":1527716216,
+    "wof:lastmodified":1561840380,
     "wof:name":"Mpulungu",
     "wof:parent_id":1108782469,
     "wof:placetype":"locality",

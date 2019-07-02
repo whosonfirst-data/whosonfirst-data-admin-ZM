@@ -26,16 +26,10 @@
     "name:cat_x_preferred":[
         "Mongu"
     ],
-    "name:chi_x_preferred":[
-        "\u8292\u53e4"
-    ],
     "name:dan_x_preferred":[
         "Mongu"
     ],
     "name:deu_x_preferred":[
-        "Mongu"
-    ],
-    "name:dut_x_preferred":[
         "Mongu"
     ],
     "name:eng_x_preferred":[
@@ -44,13 +38,7 @@
     "name:fra_x_preferred":[
         "Mongu"
     ],
-    "name:fre_x_preferred":[
-        "Mongu"
-    ],
     "name:frr_x_preferred":[
-        "Mongu"
-    ],
-    "name:ger_x_preferred":[
         "Mongu"
     ],
     "name:hrv_x_preferred":[
@@ -84,9 +72,6 @@
         "Mongu"
     ],
     "name:ron_x_preferred":[
-        "Mongu"
-    ],
-    "name:rum_x_preferred":[
         "Mongu"
     ],
     "name:rus_x_preferred":[
@@ -251,7 +236,7 @@
         }
     ],
     "wof:id":421201997,
-    "wof:lastmodified":1527716432,
+    "wof:lastmodified":1561840380,
     "wof:name":"Mongu",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

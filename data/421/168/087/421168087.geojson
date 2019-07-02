@@ -16,19 +16,10 @@
     "name:bul_x_preferred":[
         "\u041c\u043a\u0443\u0448\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u5e93\u5e0c"
-    ],
     "name:deu_x_preferred":[
         "Mkushi"
     ],
-    "name:dut_x_preferred":[
-        "Mkushi"
-    ],
     "name:eng_x_preferred":[
-        "Mkushi"
-    ],
-    "name:ger_x_preferred":[
         "Mkushi"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +34,9 @@
     "name:mrj_x_preferred":[
         "\u041c\u043a\u0443\u0448\u0438"
     ],
+    "name:nld_x_preferred":[
+        "Mkushi"
+    ],
     "name:pol_x_preferred":[
         "Mkushi"
     ],
@@ -50,9 +44,6 @@
         "Mkushi"
     ],
     "name:ron_x_preferred":[
-        "Mkushi"
-    ],
-    "name:rum_x_preferred":[
         "Mkushi"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":421168087,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1561840379,
     "wof:name":"Mkushi",
     "wof:parent_id":1108782357,
     "wof:placetype":"locality",

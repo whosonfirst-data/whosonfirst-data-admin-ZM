@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.708417,
-    "geom:area_square_m":127489120650.398819,
+    "geom:area_square_m":127489120650.399155,
     "geom:bbox":"21.998055,-17.637868,25.597708013,-13.7556701316",
     "geom:latitude":-15.642313,
     "geom:longitude":23.68568,
@@ -30,9 +30,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u060c \u0632\u0627\u0645\u0628\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Mendebaldea"
-    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f \u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f"
     ],
@@ -42,14 +39,14 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u65b9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Vestprovinsen"
     ],
-    "name:dut_x_preferred":[
-        "Western"
+    "name:deu_x_preferred":[
+        "Westprovinz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Western"
@@ -57,20 +54,14 @@
     "name:est_x_preferred":[
         "L\u00e4\u00e4neprovints"
     ],
+    "name:eus_x_preferred":[
+        "Mendebaldea"
+    ],
     "name:fin_x_preferred":[
         "L\u00e4ntinen l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province Occidentale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Westprovinz"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -90,6 +81,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc11c\ubd80 \uc8fc"
     ],
@@ -102,11 +96,14 @@
     "name:mar_x_preferred":[
         "\u092a\u0936\u094d\u091a\u093f\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Western Province"
-    ],
     "name:mrj_x_preferred":[
         "\u0412\u0430\u0434\u044b\u0432\u0435\u043b \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Western Province"
+    ],
+    "name:nld_x_preferred":[
+        "Western"
     ],
     "name:nob_x_preferred":[
         "Western"
@@ -117,7 +114,7 @@
     "name:por_x_preferred":[
         "Prov\u00edncia Ocidental"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia de Vest"
     ],
     "name:rus_x_preferred":[
@@ -158,6 +155,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ph\u00eda T\u00e2y"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u65b9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZMB",
@@ -283,7 +283,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814834,
+    "wof:lastmodified":1561840354,
     "wof:name":"Western",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

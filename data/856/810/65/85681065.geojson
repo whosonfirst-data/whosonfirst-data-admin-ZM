@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.277014,
-    "geom:area_square_m":51403584777.828621,
+    "geom:area_square_m":51403584777.829201,
     "geom:bbox":"29.9857124407,-14.9960998682,33.5475,-11.574435564",
     "geom:latitude":-13.5762,
     "geom:longitude":31.900751,
@@ -39,14 +39,14 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0442\u043e\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u4e1c\u65b9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Eastern Province"
     ],
-    "name:dut_x_preferred":[
-        "Eastern"
+    "name:deu_x_preferred":[
+        "Ostprovinz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Eastern"
@@ -57,17 +57,8 @@
     "name:fin_x_preferred":[
         "It\u00e4inen maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province orientale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ostprovinz"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac0\u0aaf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -87,6 +78,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\ubd80 \uc8fc"
     ],
@@ -99,11 +93,14 @@
     "name:mar_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Eastern Province"
-    ],
     "name:mrj_x_preferred":[
         "\u0418\u0440\u0432\u0435\u043b \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Eastern Province"
+    ],
+    "name:nld_x_preferred":[
+        "Eastern"
     ],
     "name:nob_x_preferred":[
         "Eastern"
@@ -114,7 +111,7 @@
     "name:por_x_preferred":[
         "Prov\u00edncia Oriental"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia de Est"
     ],
     "name:rus_x_preferred":[
@@ -155,6 +152,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ph\u00eda \u0110\u00f4ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u65b9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZMB",
@@ -279,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814834,
+    "wof:lastmodified":1561840353,
     "wof:name":"Eastern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

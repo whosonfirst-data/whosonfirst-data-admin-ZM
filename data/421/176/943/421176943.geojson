@@ -23,16 +23,10 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0443\u0435\u0437\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u76e7\u97cb\u9f4a"
-    ],
     "name:dan_x_preferred":[
         "Solwezi"
     ],
     "name:deu_x_preferred":[
-        "Solwezi"
-    ],
-    "name:dut_x_preferred":[
         "Solwezi"
     ],
     "name:ell_x_preferred":[
@@ -44,17 +38,8 @@
     "name:fra_x_preferred":[
         "Solwezi"
     ],
-    "name:fre_x_preferred":[
-        "Solwezi"
-    ],
     "name:frr_x_preferred":[
         "Solwezi"
-    ],
-    "name:ger_x_preferred":[
-        "Solwezi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bb\u03bf\u03c5\u03ad\u03b6\u03b9"
     ],
     "name:hrv_x_preferred":[
         "Solwezi"
@@ -90,9 +75,6 @@
         "Solwezi"
     ],
     "name:ron_x_preferred":[
-        "Solwezi"
-    ],
-    "name:rum_x_preferred":[
         "Solwezi"
     ],
     "name:rus_x_preferred":[
@@ -255,7 +237,7 @@
         }
     ],
     "wof:id":421176943,
-    "wof:lastmodified":1527726480,
+    "wof:lastmodified":1561840381,
     "wof:name":"Solwezi",
     "wof:parent_id":1108782451,
     "wof:placetype":"locality",

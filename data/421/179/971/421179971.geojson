@@ -17,22 +17,13 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043c\u0431\u0443\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u5e03\u74e6"
-    ],
     "name:deu_x_preferred":[
-        "Mumbwa"
-    ],
-    "name:dut_x_preferred":[
         "Mumbwa"
     ],
     "name:eng_x_preferred":[
         "Mumbwa"
     ],
-    "name:fre_x_preferred":[
-        "Mumbwa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mumbwa"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +35,9 @@
     "name:mrj_x_preferred":[
         "\u041c\u0443\u043c\u0431\u0432\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Mumbwa"
+    ],
     "name:pol_x_preferred":[
         "Mumbwa"
     ],
@@ -51,9 +45,6 @@
         "Mumbwa"
     ],
     "name:ron_x_preferred":[
-        "Mumbwa"
-    ],
-    "name:rum_x_preferred":[
         "Mumbwa"
     ],
     "name:spa_x_preferred":[
@@ -202,7 +193,7 @@
         }
     ],
     "wof:id":421179971,
-    "wof:lastmodified":1527717707,
+    "wof:lastmodified":1561840381,
     "wof:name":"Mumbwa",
     "wof:parent_id":1108782359,
     "wof:placetype":"locality",

@@ -26,16 +26,10 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043f\u0430\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u5e15\u5854"
-    ],
     "name:dan_x_preferred":[
         "Chipata"
     ],
     "name:deu_x_preferred":[
-        "Chipata"
-    ],
-    "name:dut_x_preferred":[
         "Chipata"
     ],
     "name:ell_x_preferred":[
@@ -50,17 +44,8 @@
     "name:fra_x_preferred":[
         "Chipata"
     ],
-    "name:fre_x_preferred":[
-        "Chipata"
-    ],
     "name:frr_x_preferred":[
         "Chipata"
-    ],
-    "name:ger_x_preferred":[
-        "Chipata"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03c0\u03ac\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0aaa\u0abe\u0aa4\u0abe"
@@ -95,11 +80,11 @@
     "name:mar_x_preferred":[
         "\u091a\u093f\u092a\u093e\u0924\u093e"
     ],
-    "name:may_x_preferred":[
-        "Chipata"
-    ],
     "name:mrj_x_preferred":[
         "\u0427\u0438\u043f\u0430\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Chipata"
     ],
     "name:nld_x_preferred":[
         "Chipata"
@@ -119,16 +104,13 @@
     "name:ron_x_preferred":[
         "Chipata"
     ],
-    "name:rum_x_preferred":[
-        "Chipata"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u043f\u0430\u0442\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0da0\u0dd2\u0db4\u0dcf\u0da7\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chipata"
     ],
     "name:spa_x_preferred":[
@@ -306,7 +288,7 @@
         }
     ],
     "wof:id":421178357,
-    "wof:lastmodified":1527717723,
+    "wof:lastmodified":1561840381,
     "wof:name":"Chipata",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

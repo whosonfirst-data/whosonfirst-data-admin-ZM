@@ -20,16 +20,10 @@
     "name:deu_x_preferred":[
         "Senanga"
     ],
-    "name:dut_x_preferred":[
-        "Senanga"
-    ],
     "name:eng_x_preferred":[
         "Senanga"
     ],
-    "name:fre_x_preferred":[
-        "Senanga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Senanga"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     "name:mrj_x_preferred":[
         "\u0421\u0435\u043d\u0430\u043d\u0433\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Senanga"
+    ],
     "name:nob_x_preferred":[
         "Senanga"
     ],
@@ -54,9 +51,6 @@
         "Senanga"
     ],
     "name:ron_x_preferred":[
-        "Senanga"
-    ],
-    "name:rum_x_preferred":[
         "Senanga"
     ],
     "name:spa_x_preferred":[
@@ -205,7 +199,7 @@
         }
     ],
     "wof:id":421188253,
-    "wof:lastmodified":1527716293,
+    "wof:lastmodified":1561840380,
     "wof:name":"Senanga",
     "wof:parent_id":1108782505,
     "wof:placetype":"locality",

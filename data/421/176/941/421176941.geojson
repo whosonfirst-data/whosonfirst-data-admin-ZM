@@ -26,16 +26,10 @@
     "name:ces_x_preferred":[
         "Zambezi"
     ],
-    "name:chi_x_preferred":[
-        "\u8d0a\u6bd4\u897f"
-    ],
     "name:dan_x_preferred":[
         "Zambezi"
     ],
     "name:deu_x_preferred":[
-        "Zambezi"
-    ],
-    "name:dut_x_preferred":[
         "Zambezi"
     ],
     "name:eng_x_preferred":[
@@ -53,10 +47,7 @@
     "name:fra_x_preferred":[
         "Zamb\u00e8ze"
     ],
-    "name:fre_x_preferred":[
-        "Zambezi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Zambezi"
     ],
     "name:heb_x_preferred":[
@@ -104,9 +95,6 @@
     "name:ron_x_preferred":[
         "Zambezi"
     ],
-    "name:rum_x_preferred":[
-        "Zambezi"
-    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
     ],
@@ -133,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d5e\u6bd4\u897f\u6cb3"
+    ],
+    "name:zho_x_variant":[
+        "\u8d0a\u6bd4\u897f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -274,7 +265,7 @@
         }
     ],
     "wof:id":421176941,
-    "wof:lastmodified":1527726472,
+    "wof:lastmodified":1561840381,
     "wof:name":"Zambezi",
     "wof:parent_id":1108782453,
     "wof:placetype":"locality",

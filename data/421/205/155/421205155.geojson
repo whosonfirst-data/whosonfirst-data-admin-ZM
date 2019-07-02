@@ -16,23 +16,20 @@
     "name:deu_x_preferred":[
         "Sinazongwe"
     ],
-    "name:dut_x_preferred":[
-        "Sinazongwe"
-    ],
     "name:eng_x_preferred":[
         "Sinazongwe"
     ],
     "name:eng_x_variant":[
         "Sinasongwe"
     ],
-    "name:ger_x_preferred":[
-        "Sinazongwe"
-    ],
     "name:ita_x_preferred":[
         "Sinazongwe"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0438\u043d\u0430\u0437\u043e\u043d\u0433\u0432\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Sinazongwe"
     ],
     "name:pol_x_preferred":[
         "Sinazongwe"
@@ -41,9 +38,6 @@
         "Sinazongwe"
     ],
     "name:ron_x_preferred":[
-        "Sinazongwe"
-    ],
-    "name:rum_x_preferred":[
         "Sinazongwe"
     ],
     "name:spa_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421205155,
-    "wof:lastmodified":1527716219,
+    "wof:lastmodified":1561840380,
     "wof:name":"Sinazongwe",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

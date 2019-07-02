@@ -16,16 +16,10 @@
     "name:deu_x_preferred":[
         "Gwembe"
     ],
-    "name:dut_x_preferred":[
-        "Gwembe"
-    ],
     "name:eng_x_preferred":[
         "Gwembe"
     ],
-    "name:fre_x_preferred":[
-        "Gwembe"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gwembe"
     ],
     "name:ita_x_preferred":[
@@ -34,13 +28,13 @@
     "name:mrj_x_preferred":[
         "\u0413\u0432\u0435\u043c\u0431\u0435"
     ],
+    "name:nld_x_preferred":[
+        "Gwembe"
+    ],
     "name:por_x_preferred":[
         "Gwembe"
     ],
     "name:ron_x_preferred":[
-        "Gwembe"
-    ],
-    "name:rum_x_preferred":[
         "Gwembe"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421167161,
-    "wof:lastmodified":1527716153,
+    "wof:lastmodified":1561840379,
     "wof:name":"Gwembe",
     "wof:parent_id":1108782475,
     "wof:placetype":"locality",

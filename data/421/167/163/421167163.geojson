@@ -19,16 +19,10 @@
     "name:deu_x_preferred":[
         "Chama"
     ],
-    "name:dut_x_preferred":[
-        "Chama"
-    ],
     "name:eng_x_preferred":[
         "Chama"
     ],
-    "name:fre_x_preferred":[
-        "Chama"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chama"
     ],
     "name:ita_x_preferred":[
@@ -40,6 +34,9 @@
     "name:mrj_x_preferred":[
         "\u0427\u0430\u043c\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Chama"
+    ],
     "name:pol_x_preferred":[
         "Chama"
     ],
@@ -47,9 +44,6 @@
         "Chama"
     ],
     "name:ron_x_preferred":[
-        "Chama"
-    ],
-    "name:rum_x_preferred":[
         "Chama"
     ],
     "qs:gn_country":"ZM",
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421167163,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561840379,
     "wof:name":"Chama",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

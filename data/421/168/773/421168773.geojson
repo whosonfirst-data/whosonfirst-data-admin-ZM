@@ -23,23 +23,14 @@
     "name:deu_x_preferred":[
         "Kasempa"
     ],
-    "name:dut_x_preferred":[
-        "Kasempa"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03ad\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kasempa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kasempa"
-    ],
-    "name:ger_x_preferred":[
-        "Kasempa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03ad\u03bc\u03c0\u03b1"
     ],
     "name:ita_x_preferred":[
         "Kasempa"
@@ -47,13 +38,13 @@
     "name:mrj_x_preferred":[
         "\u041a\u0430\u0441\u0435\u043c\u043f\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Kasempa"
+    ],
     "name:por_x_preferred":[
         "Kasempa"
     ],
     "name:ron_x_preferred":[
-        "Kasempa"
-    ],
-    "name:rum_x_preferred":[
         "Kasempa"
     ],
     "name:spa_x_preferred":[
@@ -202,7 +193,7 @@
         }
     ],
     "wof:id":421168773,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561840379,
     "wof:name":"Kasempa",
     "wof:parent_id":1108782445,
     "wof:placetype":"locality",

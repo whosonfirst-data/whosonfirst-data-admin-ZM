@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.198027,
-    "geom:area_square_m":87259422686.036667,
+    "geom:area_square_m":87259422686.036469,
     "geom:bbox":"29.7895967642,-13.421057594,33.702222,-9.08995151359",
     "geom:latitude":-11.328933,
     "geom:longitude":31.971223,
@@ -39,14 +39,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u65b9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Northern Province"
     ],
-    "name:dut_x_preferred":[
-        "Northern"
+    "name:deu_x_preferred":[
+        "Nordprovinz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Northern"
@@ -54,17 +54,8 @@
     "name:fin_x_preferred":[
         "Pohjoinen l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province Septentrionale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nordprovinz"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -84,6 +75,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uc8fc"
     ],
@@ -96,11 +90,14 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Northern Province"
-    ],
     "name:mrj_x_preferred":[
         "\u0419\u044b\u0434\u0432\u0435\u043b \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Northern Province"
+    ],
+    "name:nld_x_preferred":[
+        "Northern"
     ],
     "name:nob_x_preferred":[
         "Northern"
@@ -111,7 +108,7 @@
     "name:por_x_preferred":[
         "Prov\u00edncia do Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia de Nord"
     ],
     "name:rus_x_preferred":[
@@ -152,6 +149,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ph\u00eda B\u1eafc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u65b9\u7701"
     ],
     "qs:a0":"Zambia",
     "qs:a0_lc":"ZM",
@@ -218,7 +218,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814835,
+    "wof:lastmodified":1561840352,
     "wof:name":"Muchinga",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

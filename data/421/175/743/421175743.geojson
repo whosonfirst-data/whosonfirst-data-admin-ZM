@@ -20,13 +20,7 @@
     "name:deu_x_preferred":[
         "Kaoma"
     ],
-    "name:dut_x_preferred":[
-        "Kaoma"
-    ],
     "name:eng_x_preferred":[
-        "Kaoma"
-    ],
-    "name:ger_x_preferred":[
         "Kaoma"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +35,9 @@
     "name:mrj_x_preferred":[
         "\u041a\u0430\u043e\u043c\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Kaoma"
+    ],
     "name:pol_x_preferred":[
         "Kaoma"
     ],
@@ -48,9 +45,6 @@
         "Kaoma"
     ],
     "name:ron_x_preferred":[
-        "Kaoma"
-    ],
-    "name:rum_x_preferred":[
         "Kaoma"
     ],
     "name:spa_x_preferred":[
@@ -199,7 +193,7 @@
         }
     ],
     "wof:id":421175743,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561840380,
     "wof:name":"Kaoma",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",

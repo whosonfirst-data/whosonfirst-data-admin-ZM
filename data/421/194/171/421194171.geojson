@@ -16,16 +16,10 @@
     "name:deu_x_preferred":[
         "Namwala"
     ],
-    "name:dut_x_preferred":[
-        "Namwala"
-    ],
     "name:eng_x_preferred":[
         "Namwala"
     ],
-    "name:fre_x_preferred":[
-        "Namwala"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Namwala"
     ],
     "name:ita_x_preferred":[
@@ -37,13 +31,13 @@
     "name:mrj_x_preferred":[
         "\u041d\u0430\u043c\u0432\u0430\u043b\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Namwala"
+    ],
     "name:por_x_preferred":[
         "Namwala"
     ],
     "name:ron_x_preferred":[
-        "Namwala"
-    ],
-    "name:rum_x_preferred":[
         "Namwala"
     ],
     "qs:gn_country":"ZM",
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421194171,
-    "wof:lastmodified":1527716138,
+    "wof:lastmodified":1561840379,
     "wof:name":"Namwala",
     "wof:parent_id":1108782491,
     "wof:placetype":"locality",
