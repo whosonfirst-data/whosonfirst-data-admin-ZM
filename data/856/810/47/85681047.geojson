@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0443\u0430\u043f\u0443\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Luapula Province"
+    ],
     "name:dan_x_preferred":[
         "Luapula"
     ],
@@ -51,6 +54,9 @@
     "name:eng_x_preferred":[
         "Luapula"
     ],
+    "name:eng_x_variant":[
+        "Luapula Province"
+    ],
     "name:est_x_preferred":[
         "Luapula provints"
     ],
@@ -59,6 +65,12 @@
     ],
     "name:fra_x_preferred":[
         "Province de Luapula"
+    ],
+    "name:fra_x_variant":[
+        "Luapula"
+    ],
+    "name:frr_x_preferred":[
+        "Luapula"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acd\u0aaf\u0ac1\u0aaa\u0ac1\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -83,6 +95,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\uc544\ud480\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc544\ud480\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Luapalas province"
@@ -279,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561840354,
+    "wof:lastmodified":1563375615,
     "wof:name":"Luapula",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

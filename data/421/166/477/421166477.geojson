@@ -17,11 +17,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0444\u0443\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ab\u09c1"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0444\u0443\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafue"
     ],
     "name:dan_x_preferred":[
         "Kafue"
@@ -130,6 +136,9 @@
     ],
     "name:vie_x_preferred":[
         "Kafue"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5bcc\u57c3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -271,7 +280,7 @@
         }
     ],
     "wof:id":421166477,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376655,
     "wof:name":"Kafue",
     "wof:parent_id":1108782417,
     "wof:placetype":"locality",

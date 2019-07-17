@@ -40,6 +40,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043e\u0437\u0430\u043f\u0430\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "North-Western Province"
+    ],
     "name:dan_x_preferred":[
         "Northwestern Province"
     ],
@@ -56,6 +59,9 @@
         "N-Western",
         "Northwestern Province"
     ],
+    "name:epo_x_preferred":[
+        "Nordokcidenta Provinco"
+    ],
     "name:est_x_preferred":[
         "Loodeprovints"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:fra_x_preferred":[
         "Province Nord-Occidentale"
+    ],
+    "name:frr_x_preferred":[
+        "North-Western"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -88,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\uc11c\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\uc11c\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013crietumu province"
@@ -157,6 +169,12 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh T\u00e2y B\u1eafc"
+    ],
+    "name:wuu_x_preferred":[
+        "\u897f\u5317\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u5317\u7701"
     ],
     "name:zho_x_preferred":[
         "\u897f\u5317\u7701"
@@ -284,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561840353,
+    "wof:lastmodified":1563375609,
     "wof:name":"North-Western",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

@@ -16,14 +16,29 @@
     "name:deu_x_preferred":[
         "Mufumbwe"
     ],
+    "name:eng_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:ita_x_preferred":[
+        "Mufumbwe"
+    ],
     "name:mrj_x_preferred":[
         "\u041c\u0443\u0444\u0443\u043c\u0431\u0432\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:pol_x_preferred":[
+        "Mufumbwe"
     ],
     "name:por_x_preferred":[
         "Mufumbwe"
     ],
     "name:ron_x_preferred":[
         "Mufumbwe"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5bcc\u59c6\u5e03\u97cb"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":421166895,
-    "wof:lastmodified":1527716103,
+    "wof:lastmodified":1563376655,
     "wof:name":"Mufumbwe",
     "wof:parent_id":1108782447,
     "wof:placetype":"locality",

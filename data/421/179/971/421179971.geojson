@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043c\u0431\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mumbwa"
+    ],
     "name:deu_x_preferred":[
         "Mumbwa"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":421179971,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376674,
     "wof:name":"Mumbwa",
     "wof:parent_id":1108782359,
     "wof:placetype":"locality",

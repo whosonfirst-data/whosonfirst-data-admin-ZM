@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043c\u0443\u043b\u0443\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Limulunga"
+    ],
     "name:deu_x_preferred":[
         "Limulunga"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421196569,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376670,
     "wof:name":"Limulunga",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

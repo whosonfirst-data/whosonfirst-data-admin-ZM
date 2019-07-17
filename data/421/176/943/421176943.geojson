@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0443\u0435\u0437\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Solwezi"
+    ],
     "name:dan_x_preferred":[
         "Solwezi"
     ],
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421176943,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376683,
     "wof:name":"Solwezi",
     "wof:parent_id":1108782451,
     "wof:placetype":"locality",

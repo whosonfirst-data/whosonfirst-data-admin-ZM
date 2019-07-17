@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lundazi"
+    ],
     "name:deu_x_preferred":[
         "Lundazi"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:tum_x_preferred":[
         "Lundazi"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u9054\u6fdf"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":421168769,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376653,
     "wof:name":"Lundazi",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

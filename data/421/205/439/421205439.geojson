@@ -16,6 +16,9 @@
     "name:afr_x_preferred":[
         "Mpulungu"
     ],
+    "name:ceb_x_preferred":[
+        "Mpulungu"
+    ],
     "name:dan_x_preferred":[
         "Mpulungu"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421205439,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376661,
     "wof:name":"Mpulungu",
     "wof:parent_id":1108782469,
     "wof:placetype":"locality",

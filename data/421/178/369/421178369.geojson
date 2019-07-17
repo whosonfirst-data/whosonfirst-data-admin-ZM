@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Chingola"
     ],
+    "name:ceb_x_preferred":[
+        "Chingola"
+    ],
     "name:deu_x_preferred":[
         "Chingola"
     ],
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":421178369,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376679,
     "wof:name":"Chingola",
     "wof:parent_id":1108782363,
     "wof:placetype":"locality",

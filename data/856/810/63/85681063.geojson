@@ -24,20 +24,110 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
+    "name:afr_x_preferred":[
+        "Koperstreek"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0628\u0631\u0628\u064a\u0644\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u043f\u0435\u0440\u0431\u0435\u043b\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09aa\u09be\u09b0\u09ac\u09c7\u09b2\u09be\u099f \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043f\u044a\u0440\u0431\u0435\u043b\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Copperbelt Province"
+    ],
+    "name:ces_x_preferred":[
+        "Copperbelt"
+    ],
+    "name:dan_x_preferred":[
+        "Copperbelt Province"
+    ],
     "name:deu_x_preferred":[
         "Copperbelt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c0\u03c0\u03b5\u03c1\u03bc\u03c0\u03b5\u03bb\u03c4"
     ],
     "name:eng_x_preferred":[
         "Copperbelt"
     ],
+    "name:eng_x_variant":[
+        "Copperbelt Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Kuprozono"
+    ],
     "name:est_x_preferred":[
         "Copperbelti provints"
+    ],
+    "name:est_x_variant":[
+        "Copperbelt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u067e\u0631\u0628\u0644\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Copperbeltin provinssi"
     ],
     "name:fra_x_preferred":[
         "Province de Copperbelt"
     ],
+    "name:fra_x_variant":[
+        "Copperbelt"
+    ],
+    "name:frr_x_preferred":[
+        "Copperbelt"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac9\u0aaa\u0ab0\u0aac\u0ac7\u0ab2\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0949\u092a\u0930\u092c\u0947\u0932\u094d\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Copperbelt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c3\u30d1\u30fc\u30d9\u30eb\u30c8\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbe\u0caa\u0cb0\u0ccd\u0cac\u0cc6\u0cb2\u0ccd\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10de\u10d4\u10e0\u10d1\u10d4\u10da\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ubc84\ubca8\ud2b8"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ud37c\ubca8\ud2b8\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Koperbeltas province"
+    ],
+    "name:ltz_x_preferred":[
+        "Copperbelt"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0949\u092a\u0930\u092c\u0947\u0932\u094d\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u043e\u043f\u043f\u0435\u0440\u0431\u0435\u043b\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Copperbelt Province"
+    ],
+    "name:nld_x_preferred":[
+        "Copperbelt"
+    ],
+    "name:nob_x_preferred":[
+        "Copperbelt"
     ],
     "name:nor_x_preferred":[
         "Copperbelt"
@@ -48,14 +138,47 @@
     "name:por_x_preferred":[
         "Copperbelt"
     ],
+    "name:ron_x_preferred":[
+        "Provincia Copperbelt"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u043f\u0435\u0440\u0431\u0435\u043b\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0db4\u0dbb\u0dca\u0db6\u0dd9\u0dbd\u0dca\u0da7\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
     "name:swe_x_colloquial":[
         "Kopparbaltet"
     ],
     "name:swe_x_preferred":[
         "Kopparb\u00e4ltet"
     ],
+    "name:swe_x_variant":[
+        "Copperbelt"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1b\u0e2d\u0e40\u0e1a\u0e25\u0e17\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Copperbelt B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u043f\u0435\u0440\u0431\u0435\u043b\u0442"
+    ],
     "name:unk_x_variant":[
         "Western Province"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u067e\u0631\u0628\u06cc\u0644\u0679 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Copperbelt"
+    ],
+    "name:zho_x_preferred":[
+        "\u94dc\u5e26\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ZMB",
@@ -180,7 +303,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550614,
+    "wof:lastmodified":1563375612,
     "wof:name":"Copperbelt",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

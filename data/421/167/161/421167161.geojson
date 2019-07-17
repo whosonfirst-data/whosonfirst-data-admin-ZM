@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gwembe"
+    ],
     "name:deu_x_preferred":[
         "Gwembe"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0432\u0435\u043c\u0431\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6eab\u8c9d"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421167161,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376657,
     "wof:name":"Gwembe",
     "wof:parent_id":1108782475,
     "wof:placetype":"locality",

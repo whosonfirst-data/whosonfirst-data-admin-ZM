@@ -14,11 +14,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nyimba District"
+    ],
+    "name:eng_x_preferred":[
+        "Nyimba District"
+    ],
     "name:fra_x_preferred":[
         "District de Nyimba"
     ],
     "name:ita_x_preferred":[
         "Distretto di Nyimba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30f3\u30d0\u5730\u533a"
     ],
     "name:lit_x_preferred":[
         "Njimbos apskritis"
@@ -26,8 +35,14 @@
     "name:mrj_x_preferred":[
         "\u041d\u044c\u0438\u043c\u0431\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Nyimba District"
+    ],
     "name:pol_x_preferred":[
         "Dystrykt Nyimba"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u56e0\u5df4\u7e23"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -168,7 +183,7 @@
         }
     ],
     "wof:id":421182785,
-    "wof:lastmodified":1527726446,
+    "wof:lastmodified":1563376680,
     "wof:name":"Nyimba",
     "wof:parent_id":1108782395,
     "wof:placetype":"locality",

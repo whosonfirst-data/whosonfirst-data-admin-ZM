@@ -32,6 +32,9 @@
     "name:ast_x_preferred":[
         "Lusaka"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u06a9\u0627"
+    ],
     "name:aze_x_preferred":[
         "Lusaka"
     ],
@@ -57,6 +60,9 @@
         "Lusaka"
     ],
     "name:cdo_x_preferred":[
+        "Lusaka"
+    ],
+    "name:ceb_x_preferred":[
         "Lusaka"
     ],
     "name:ces_x_preferred":[
@@ -131,6 +137,9 @@
     "name:hat_x_preferred":[
         "Louzaka"
     ],
+    "name:hau_x_preferred":[
+        "Lusaka"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e1\u05e7\u05d4"
     ],
@@ -143,6 +152,9 @@
     "name:hrv_x_preferred":[
         "Lusaka"
     ],
+    "name:hsb_x_preferred":[
+        "Lusaka"
+    ],
     "name:hun_x_preferred":[
         "Lusaka"
     ],
@@ -153,6 +165,9 @@
         "Lusaka"
     ],
     "name:ile_x_preferred":[
+        "Lusaka"
+    ],
+    "name:ina_x_preferred":[
         "Lusaka"
     ],
     "name:ind_x_preferred":[
@@ -198,6 +213,9 @@
         "Lusaca"
     ],
     "name:lav_x_preferred":[
+        "Lusaka"
+    ],
+    "name:lij_x_preferred":[
         "Lusaka"
     ],
     "name:lit_x_preferred":[
@@ -280,6 +298,12 @@
     ],
     "name:por_x_preferred":[
         "Lusaka"
+    ],
+    "name:por_x_variant":[
+        "Lusaca"
+    ],
+    "name:pus_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u06a9\u0627"
     ],
     "name:que_x_preferred":[
         "Lusaka"
@@ -372,6 +396,9 @@
         "Lusak"
     ],
     "name:vie_x_preferred":[
+        "Lusaka"
+    ],
+    "name:vls_x_preferred":[
         "Lusaka"
     ],
     "name:war_x_preferred":[
@@ -548,7 +575,7 @@
         }
     ],
     "wof:id":421178937,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376678,
     "wof:name":"Lusaka",
     "wof:parent_id":1108782421,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043a\u0443\u0448\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Mkushi"
+    ],
     "name:deu_x_preferred":[
         "Mkushi"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421168087,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376654,
     "wof:name":"Mkushi",
     "wof:parent_id":1108782357,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u0434\u0438\u0437\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chadiza"
+    ],
     "name:deu_x_preferred":[
         "Chadiza"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Chadiza"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u8fea\u624e"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421188251,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376664,
     "wof:name":"Chadiza",
     "wof:parent_id":1108782385,
     "wof:placetype":"locality",

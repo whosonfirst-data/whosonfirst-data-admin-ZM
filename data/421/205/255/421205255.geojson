@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0430\u0443\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Petauke"
+    ],
     "name:deu_x_preferred":[
         "Petauke"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:spa_x_preferred":[
         "Petauke"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u9676\u514b"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421205255,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376662,
     "wof:name":"Petauke",
     "wof:parent_id":1108782397,
     "wof:placetype":"locality",

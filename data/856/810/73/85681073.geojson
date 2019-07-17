@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0443\u0441\u0430\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Lusaka Province"
+    ],
     "name:dan_x_preferred":[
         "Lusaka Province"
     ],
@@ -51,11 +54,17 @@
     "name:eng_x_preferred":[
         "Lusaka"
     ],
+    "name:eng_x_variant":[
+        "Lusaka Province"
+    ],
     "name:fin_x_preferred":[
         "Lusakan l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
         "Province de Lusaka"
+    ],
+    "name:fra_x_variant":[
+        "Lusaka"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0ab8\u0abe\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -80,6 +89,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\uc0ac\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc0ac\uce74\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Lusakas province"
@@ -107,6 +119,9 @@
     ],
     "name:por_x_preferred":[
         "Lusaka"
+    ],
+    "name:por_x_variant":[
+        "Lusaca"
     ],
     "name:ron_x_preferred":[
         "Provincia Lusaka"
@@ -276,7 +291,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561840352,
+    "wof:lastmodified":1563375607,
     "wof:name":"Lusaka",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

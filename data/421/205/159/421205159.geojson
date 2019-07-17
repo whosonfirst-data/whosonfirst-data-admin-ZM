@@ -16,10 +16,16 @@
     "name:afr_x_preferred":[
         "Serenje"
     ],
+    "name:ceb_x_preferred":[
+        "Serenje"
+    ],
     "name:deu_x_preferred":[
         "Serenje"
     ],
     "name:eng_x_preferred":[
+        "Serenje"
+    ],
+    "name:fra_x_preferred":[
         "Serenje"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421205159,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376660,
     "wof:name":"Serenje",
     "wof:parent_id":1108782361,
     "wof:placetype":"locality",

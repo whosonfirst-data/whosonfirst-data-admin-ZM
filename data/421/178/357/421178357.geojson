@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043f\u0430\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chipata"
+    ],
     "name:dan_x_preferred":[
         "Chipata"
     ],
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421178357,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376678,
     "wof:name":"Chipata",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

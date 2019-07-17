@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0444\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Samfya"
+    ],
     "name:deu_x_preferred":[
         "Samfya"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:spa_x_preferred":[
         "Samfya"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u59c6\u83f2\u4e9e"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421176939,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376681,
     "wof:name":"Samfya",
     "wof:parent_id":1108782413,
     "wof:placetype":"locality",
