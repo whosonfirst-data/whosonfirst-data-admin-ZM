@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0441\u0435\u043c\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kasempa"
+    ],
     "name:deu_x_preferred":[
         "Kasempa"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:unk_x_variant":[
         "Kasama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u68ee\u5e15"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":421168773,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376654,
     "wof:name":"Kasempa",
     "wof:parent_id":1108782445,
     "wof:placetype":"locality",

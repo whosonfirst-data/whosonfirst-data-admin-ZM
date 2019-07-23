@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0633\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Mansa"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0441\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mansa"
+    ],
     "name:deu_x_preferred":[
         "Mansa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mansa"
@@ -88,6 +97,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0633\u0627\u060c \u0632\u06cc\u0645\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0646\u0633\u0627"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u85a9"
@@ -234,7 +246,7 @@
         }
     ],
     "wof:id":421168767,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376653,
     "wof:name":"Mansa",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043f\u0438\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mpika"
+    ],
     "name:dan_x_preferred":[
         "Mpika"
     ],
@@ -131,11 +134,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u043f\u0438\u043a\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u043f\u0456\u043a\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u067e\u06cc\u06a9\u0627"
     ],
     "name:vie_x_preferred":[
         "Mpika"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u76ae\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -277,7 +286,7 @@
         }
     ],
     "wof:id":421168765,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376651,
     "wof:name":"Mpika",
     "wof:parent_id":1108782433,
     "wof:placetype":"locality",

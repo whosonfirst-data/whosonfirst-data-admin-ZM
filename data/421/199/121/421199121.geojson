@@ -50,6 +50,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0431\u043e"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u535a"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
     "ne:ADM0_A3":"ZMB",
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":421199121,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376671,
     "wof:name":"Kalabo",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

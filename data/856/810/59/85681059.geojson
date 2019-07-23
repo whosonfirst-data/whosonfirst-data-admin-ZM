@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0633\u0637\u0649\u060c \u0632\u0627\u0645\u0628\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f"
     ],
@@ -41,6 +44,12 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia Central"
+    ],
+    "name:ceb_x_preferred":[
+        "Central Province"
+    ],
+    "name:ces_x_preferred":[
+        "Centr\u00e1ln\u00ed provincie"
     ],
     "name:dan_x_preferred":[
         "Central Province"
@@ -54,6 +63,12 @@
     "name:eng_x_preferred":[
         "Central"
     ],
+    "name:eng_x_variant":[
+        "Central Province"
+    ],
+    "name:epo_x_preferred":[
+        "Centra Provinco"
+    ],
     "name:est_x_preferred":[
         "Keskprovints"
     ],
@@ -65,6 +80,9 @@
     ],
     "name:fra_x_preferred":[
         "Province Centrale"
+    ],
+    "name:frr_x_preferred":[
+        "Central"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -155,6 +173,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0633\u0637\u06cc \u0635\u0648\u0628\u06c1\u060c \u0632\u06cc\u0645\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u0633\u0637\u06cc \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Mi\u1ec1n Trung"
@@ -285,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561840352,
+    "wof:lastmodified":1563375606,
     "wof:name":"Central",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

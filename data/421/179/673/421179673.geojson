@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0443\u0430\u043c\u0431\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kawambwa"
+    ],
     "name:deu_x_preferred":[
         "Kawambwa"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:unk_x_variant":[
         "Kawamowa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u842c\u5e03\u74e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":421179673,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376674,
     "wof:name":"Kawambwa",
     "wof:parent_id":1108782401,
     "wof:placetype":"locality",

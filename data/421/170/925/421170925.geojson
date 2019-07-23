@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0438\u043d\u0438\u043b\u0443\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mwinilunga"
+    ],
     "name:deu_x_preferred":[
         "Mwinilunga"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:unk_x_variant":[
         "Wwinilunga"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u7dad\u5c3c\u502b\u52a0"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":421170925,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376673,
     "wof:name":"Mwinilunga",
     "wof:parent_id":1108782449,
     "wof:placetype":"locality",

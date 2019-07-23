@@ -31,11 +31,17 @@
     "mps:longitude":27.954326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mazabuka District"
+    ],
     "name:deu_x_preferred":[
         "Mazabuka"
     ],
     "name:eng_x_preferred":[
         "Mazabuka"
+    ],
+    "name:eng_x_variant":[
+        "Mazabuka District"
     ],
     "name:fra_x_preferred":[
         "Mazabuka"
@@ -60,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "Mazabuka"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u624e\u5e03\u5361\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1108782487,
-    "wof:lastmodified":1561840373,
+    "wof:lastmodified":1563376363,
     "wof:name":"Mazabuka",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

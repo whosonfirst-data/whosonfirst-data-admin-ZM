@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627\u060c \u0632\u0627\u0645\u0628\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Luangwa"
+    ],
     "name:deu_x_preferred":[
         "Luangwa"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:unk_x_variant":[
         "Feira"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5b89\u6208\u74e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -192,7 +201,7 @@
         }
     ],
     "wof:id":421168771,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376652,
     "wof:name":"Luangwa",
     "wof:parent_id":1091701729,
     "wof:placetype":"locality",

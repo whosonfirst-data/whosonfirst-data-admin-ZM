@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chama"
+    ],
     "name:deu_x_preferred":[
         "Chama"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ron_x_preferred":[
         "Chama"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u5df4"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421167163,
-    "wof:lastmodified":1561840379,
+    "wof:lastmodified":1563376658,
     "wof:name":"Chama",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lukulu"
+    ],
     "name:deu_x_preferred":[
         "Lukulu"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ron_x_preferred":[
         "Lukulu"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5eab\u76e7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":421176945,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376682,
     "wof:name":"Lukulu",
     "wof:parent_id":1108782501,
     "wof:placetype":"locality",

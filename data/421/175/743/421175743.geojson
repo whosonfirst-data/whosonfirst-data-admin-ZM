@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043e\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kaoma"
+    ],
     "name:deu_x_preferred":[
         "Kaoma"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:unk_x_variant":[
         "Nankoya"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u99ac"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":421175743,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376668,
     "wof:name":"Kaoma",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",

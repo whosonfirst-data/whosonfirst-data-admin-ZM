@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0437\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Monze"
+    ],
     "name:deu_x_preferred":[
         "Monze"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0437\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u6fa4"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421169399,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376659,
     "wof:name":"Monze",
     "wof:parent_id":1108782489,
     "wof:placetype":"locality",

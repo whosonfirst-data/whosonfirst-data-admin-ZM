@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0448\u0435\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Sesheke"
+    ],
     "name:deu_x_preferred":[
         "Sesheke"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:unk_x_variant":[
         "Shesheke"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u8b1d\u51f1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -208,7 +214,7 @@
         }
     ],
     "wof:id":421176965,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376681,
     "wof:name":"Sesheke",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

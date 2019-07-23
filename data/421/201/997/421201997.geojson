@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Mongu"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bd\u03b3\u03ba\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Mongu"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:hrv_x_preferred":[
         "Mongu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u0563\u0578\u0582"
     ],
     "name:ita_x_preferred":[
         "Mongu"
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":421201997,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376673,
     "wof:name":"Mongu",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

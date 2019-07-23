@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0430\u0432\u043e\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Siavonga"
+    ],
     "name:deu_x_preferred":[
         "Siavonga"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Chapvonga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u4e9e\u8c50\u52a0"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421185567,
-    "wof:lastmodified":1561840381,
+    "wof:lastmodified":1563376683,
     "wof:name":"Siavonga",
     "wof:parent_id":890427539,
     "wof:placetype":"locality",

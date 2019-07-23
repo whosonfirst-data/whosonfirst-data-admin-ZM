@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Luanshya"
     ],
+    "name:ceb_x_preferred":[
+        "Luanshya"
+    ],
     "name:dan_x_preferred":[
         "Luanshya"
     ],
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":421181197,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376667,
     "wof:name":"Luanshya",
     "wof:parent_id":1108782373,
     "wof:placetype":"locality",

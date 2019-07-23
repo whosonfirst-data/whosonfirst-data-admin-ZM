@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Chambishi F.C."
+    ],
+    "name:fra_x_preferred":[
+        "Chambishi F.C."
+    ],
+    "name:nld_x_preferred":[
+        "Chambishi F.C."
+    ],
+    "name:spa_x_preferred":[
+        "Chambishi F.C."
+    ],
     "name:unk_x_variant":[
         "Chambezi"
     ],
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":421182779,
-    "wof:lastmodified":1527726449,
+    "wof:lastmodified":1563376680,
     "wof:name":"Chambishi",
     "wof:parent_id":1108782367,
     "wof:placetype":"locality",

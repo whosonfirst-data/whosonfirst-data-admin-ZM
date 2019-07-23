@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0627\u0646\u063a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Senanga"
+    ],
     "name:deu_x_preferred":[
         "Senanga"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:unk_x_variant":[
         "Sinanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5357\u52a0"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":421188253,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376665,
     "wof:name":"Senanga",
     "wof:parent_id":1108782505,
     "wof:placetype":"locality",

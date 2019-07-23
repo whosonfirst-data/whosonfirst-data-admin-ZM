@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Mbala"
     ],
+    "name:ceb_x_preferred":[
+        "Mbala"
+    ],
     "name:deu_x_preferred":[
         "Mbala"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:unk_x_variant":[
         "Abercorn"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5df4\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -214,7 +220,7 @@
         }
     ],
     "wof:id":421179923,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1563376674,
     "wof:name":"Mbala",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",
