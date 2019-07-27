@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Milunga"
+    ],
+    "name:por_x_preferred":[
+        "Milunga"
+    ],
+    "name:spa_x_preferred":[
+        "Milunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276537861,
-    "wof:lastmodified":1537001158,
+    "wof:lastmodified":1564202152,
     "wof:name":"Milunga",
     "wof:parent_id":1108782433,
     "wof:placetype":"locality",

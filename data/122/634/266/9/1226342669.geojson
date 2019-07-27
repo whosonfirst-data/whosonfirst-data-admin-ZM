@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ushi"
+    ],
+    "name:swe_x_preferred":[
+        "Ushi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226342669,
-    "wof:lastmodified":1536794183,
+    "wof:lastmodified":1564203259,
     "wof:name":"Ushi",
     "wof:parent_id":1108782407,
     "wof:placetype":"locality",

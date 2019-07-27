@@ -25,6 +25,21 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maluma"
+    ],
+    "name:ita_x_preferred":[
+        "Maluma"
+    ],
+    "name:msa_x_preferred":[
+        "Maluma"
+    ],
+    "name:swe_x_preferred":[
+        "Maluma"
+    ],
+    "name:tur_x_preferred":[
+        "Maluma"
+    ],
     "name:und_x_variant":[
         "Maruma",
         "Maluma"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209937839,
-    "wof:lastmodified":1537716517,
+    "wof:lastmodified":1564202288,
     "wof:name":"Maluma",
     "wof:parent_id":1108782473,
     "wof:placetype":"locality",

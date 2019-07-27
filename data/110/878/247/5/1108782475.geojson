@@ -31,8 +31,29 @@
     "mps:longitude":27.926346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gwembe"
+    ],
+    "name:deu_x_preferred":[
+        "Gwembe"
+    ],
     "name:eng_x_preferred":[
         "Gwembe"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0413\u0432\u0435\u043c\u0431\u0435"
+    ],
+    "name:por_x_preferred":[
+        "Gwembe"
+    ],
+    "name:ron_x_preferred":[
+        "Gwembe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0435\u043c\u0431\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6eab\u8c9d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1108782475,
-    "wof:lastmodified":1553718772,
+    "wof:lastmodified":1564202518,
     "wof:name":"Gwembe",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

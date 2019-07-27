@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kombe"
+    ],
+    "name:deu_x_preferred":[
+        "Kombe"
+    ],
+    "name:swe_x_preferred":[
+        "Kombe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310288855,
-    "wof:lastmodified":1536732218,
+    "wof:lastmodified":1564202624,
     "wof:name":"Kombe",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

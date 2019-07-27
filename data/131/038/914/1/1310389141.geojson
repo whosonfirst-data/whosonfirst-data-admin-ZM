@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Chumbu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310389141,
-    "wof:lastmodified":1537081670,
+    "wof:lastmodified":1564202570,
     "wof:name":"Chumbu",
     "wof:parent_id":1108782431,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lubuli"
+    ],
+    "name:ita_x_preferred":[
+        "Inkhundla Lubuli"
+    ],
+    "name:pol_x_preferred":[
+        "Lubuli"
+    ],
     "name:und_x_variant":[
         "Luwuli",
         "Lubuli"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293884017,
-    "wof:lastmodified":1537716454,
+    "wof:lastmodified":1564201948,
     "wof:name":"Lubuli",
     "wof:parent_id":1108782401,
     "wof:placetype":"locality",

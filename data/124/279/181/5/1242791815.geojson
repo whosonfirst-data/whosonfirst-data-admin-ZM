@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:run_x_preferred":[
+        "Songa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242791815,
-    "wof:lastmodified":1536755056,
+    "wof:lastmodified":1564202971,
     "wof:name":"Songa",
     "wof:parent_id":1108782509,
     "wof:placetype":"locality",

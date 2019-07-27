@@ -25,6 +25,27 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makonde"
+    ],
+    "name:deu_x_preferred":[
+        "Makonde"
+    ],
+    "name:fra_x_preferred":[
+        "Makond\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Makonde"
+    ],
+    "name:por_x_preferred":[
+        "Maconde"
+    ],
+    "name:swa_x_preferred":[
+        "Makonde"
+    ],
+    "name:swe_x_preferred":[
+        "Makonde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276543547,
-    "wof:lastmodified":1536993531,
+    "wof:lastmodified":1564202153,
     "wof:name":"Makonde",
     "wof:parent_id":1108782489,
     "wof:placetype":"locality",

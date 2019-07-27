@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Silenga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293296887,
-    "wof:lastmodified":1537059177,
+    "wof:lastmodified":1564201904,
     "wof:name":"Silenga",
     "wof:parent_id":1108782501,
     "wof:placetype":"locality",

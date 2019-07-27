@@ -31,8 +31,263 @@
     "mps:longitude":23.254551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Zambezirivier"
+    ],
+    "name:als_x_preferred":[
+        "Sambesi"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u0632\u0645\u0628\u064a\u0632\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "R\u00edu Zambeze"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u0645\u0628\u0632\u06cc \u0686\u0627\u06cc\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Zambezi \u00e7ay\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0456"
+    ],
+    "name:bih_x_preferred":[
+        "\u091c\u0947\u092e\u094d\u092c\u0947\u091c\u0940 \u0928\u0926\u0940"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f59\u0f53\u0f0b\u0f54\u0f72\u0f0b\u0f5e\u0f72\u0f0b\u0f42\u0f59\u0f44\u0f0b\u0f54\u0f7c\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Zambezi"
+    ],
+    "name:bre_x_preferred":[
+        "Zambeze"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Zambezi"
+    ],
+    "name:ceb_x_preferred":[
+        "Zambezi River"
+    ],
+    "name:ces_x_preferred":[
+        "Zambezi"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Zambezi"
+    ],
+    "name:dan_x_preferred":[
+        "Zambezi"
+    ],
+    "name:deu_x_preferred":[
+        "Sambesi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bc\u03b2\u03ad\u03b6\u03b7\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Zambezi"
+    ],
+    "name:epo_x_preferred":[
+        "Zambezi"
+    ],
+    "name:est_x_preferred":[
+        "Zambezi"
+    ],
+    "name:eus_x_preferred":[
+        "Zambezi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0645\u0628\u0632\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Sambesi"
+    ],
+    "name:fra_x_preferred":[
+        "Zamb\u00e8ze"
+    ],
+    "name:frr_x_preferred":[
+        "Sambeesi"
+    ],
+    "name:fry_x_preferred":[
+        "Sambezy"
+    ],
+    "name:gle_x_preferred":[
+        "An tSaimb\u00e9is"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00edo Zambeze"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05de\u05d1\u05d6\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0947\u092e\u094d\u092c\u0947\u091c\u0940 \u0928\u0926\u0940"
+    ],
+    "name:hrv_x_preferred":[
+        "Zambezi"
+    ],
+    "name:hun_x_preferred":[
+        "Zamb\u00e9zi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0574\u0562\u0565\u0566\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Zambezi"
+    ],
+    "name:ina_x_preferred":[
+        "Fluvio Zambezi"
+    ],
+    "name:ind_x_preferred":[
+        "Sungai Zambezi"
+    ],
+    "name:isl_x_preferred":[
+        "Sambes\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Zambesi"
+    ],
+    "name:jav_x_preferred":[
+        "Kali Zambezi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30f3\u30d9\u30b8\u5ddd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10db\u10d1\u10d4\u10d6\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:kbp_x_preferred":[
+        "Samb\u025bz\u0269 p\u0254\u0254"
+    ],
+    "name:kir_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438 \u0434\u0430\u0440\u044b\u044f\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc7a0\ubca0\uc9c0\uac15"
+    ],
+    "name:lav_x_preferred":[
+        "Zambezi"
+    ],
+    "name:lin_x_preferred":[
+        "Zambezi"
+    ],
+    "name:lit_x_preferred":[
+        "Zambez\u0117"
+    ],
+    "name:lmo_x_preferred":[
+        "Zambezi"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d02\u0d2c\u0d40\u0d38\u0d3f \u0d28\u0d26\u0d3f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:mon_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438 \u0433\u043e\u043b"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:mya_x_preferred":[
+        "\u1007\u1019\u103a\u1017\u102e\u1007\u102e\u1019\u103c\u1005\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Zambezi"
+    ],
+    "name:nno_x_preferred":[
+        "Zambezi"
+    ],
+    "name:nor_x_preferred":[
+        "Zambezi"
+    ],
+    "name:oci_x_preferred":[
+        "Zamb\u00e8zi"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a3c\u0a70\u0a2c\u0a47\u0a1c\u0a3c\u0a40 \u0a26\u0a30\u0a3f\u0a06"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06d3 \u0632\u06cc\u0645\u0628\u0632\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Zambezi"
+    ],
+    "name:por_x_preferred":[
+        "Rio Zambeze"
+    ],
+    "name:ron_x_preferred":[
+        "Fluviul Zambezi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Zambezi"
+    ],
+    "name:slk_x_preferred":[
+        "Zambezi"
+    ],
+    "name:slv_x_preferred":[
+        "Zambezi"
+    ],
+    "name:sna_x_preferred":[
+        "Rwizi Zambezi"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Zambeze"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Zambezi"
+    ],
+    "name:swe_x_preferred":[
+        "Zambezi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0b9a\u0bbf \u0b86\u0bb1\u0bc1"
+    ],
+    "name:tgl_x_preferred":[
+        "Zambezi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e21\u0e48\u0e19\u0e49\u0e33\u0e41\u0e0b\u0e21\u0e1a\u0e35\u0e0b\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Zambezi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Zambezi"
+    ],
+    "name:vie_x_preferred":[
+        "Zambezi"
+    ],
+    "name:war_x_preferred":[
+        "Zambezi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d5e\u6bd4\u897f\u6cb3"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d5e\u6bd4\u897f\u6cb3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +324,7 @@
         }
     ],
     "wof:id":1108782453,
-    "wof:lastmodified":1553718771,
+    "wof:lastmodified":1564202500,
     "wof:name":"Zambezi",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

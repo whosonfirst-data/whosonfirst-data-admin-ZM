@@ -25,6 +25,69 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u064a\u0627\u0646\u0632\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627\u0646\u0632\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Kayanza"
+    ],
+    "name:deu_x_preferred":[
+        "Kayanza"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b3\u03b9\u03ac\u03bd\u03b6\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627\u0646\u0632\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kayanza"
+    ],
+    "name:frr_x_preferred":[
+        "Kayanza"
+    ],
+    "name:ita_x_preferred":[
+        "Kayanza"
+    ],
+    "name:lit_x_preferred":[
+        "Kajanza"
+    ],
+    "name:nld_x_preferred":[
+        "Kayanza"
+    ],
+    "name:pol_x_preferred":[
+        "Kayanza"
+    ],
+    "name:ron_x_preferred":[
+        "Kayanza"
+    ],
+    "name:run_x_preferred":[
+        "Kayanza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u044f\u043d\u0437\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kayanza"
+    ],
+    "name:swa_x_preferred":[
+        "Kayanza"
+    ],
+    "name:swe_x_preferred":[
+        "Kayanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0439\u0430\u043d\u0437\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627\u0646\u0632\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u63da\u624e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +111,7 @@
         }
     ],
     "wof:id":1242982337,
-    "wof:lastmodified":1536977056,
+    "wof:lastmodified":1564202991,
     "wof:name":"Kayanza",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

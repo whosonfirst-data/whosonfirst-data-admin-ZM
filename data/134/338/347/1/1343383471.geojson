@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343383471,
-    "wof:lastmodified":1536856123,
+    "wof:lastmodified":1564201497,
     "wof:name":"Katala",
     "wof:parent_id":1108782443,
     "wof:placetype":"locality",

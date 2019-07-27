@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngomba"
+    ],
+    "name:swe_x_preferred":[
+        "Ngomba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276122269,
-    "wof:lastmodified":1537058809,
+    "wof:lastmodified":1564202099,
     "wof:name":"Ngomba",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

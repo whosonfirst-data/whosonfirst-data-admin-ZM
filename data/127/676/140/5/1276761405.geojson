@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaba"
+    ],
+    "name:deu_x_preferred":[
+        "Chaba"
+    ],
+    "name:fra_x_preferred":[
+        "Chaba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30d0"
+    ],
     "name:und_x_variant":[
         "Chyawa",
         "Chaba"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276761405,
-    "wof:lastmodified":1537716567,
+    "wof:lastmodified":1564202078,
     "wof:name":"Chaba",
     "wof:parent_id":1108782455,
     "wof:placetype":"locality",

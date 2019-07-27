@@ -25,6 +25,42 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mchenga"
+    ],
+    "name:ceb_x_preferred":[
+        "Mchenga"
+    ],
+    "name:deu_x_preferred":[
+        "Mchenga"
+    ],
+    "name:fra_x_preferred":[
+        "Mchenga"
+    ],
+    "name:ita_x_preferred":[
+        "Mchenga"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0447\u0435\u043d\u0433\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Mchenga"
+    ],
+    "name:pol_x_preferred":[
+        "Mchenga"
+    ],
+    "name:spa_x_preferred":[
+        "Mchenga"
+    ],
+    "name:swe_x_preferred":[
+        "Mchenga"
+    ],
+    "name:ukr_x_preferred":[
+        "Mchenga"
+    ],
+    "name:war_x_preferred":[
+        "Mchenga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1259990975,
-    "wof:lastmodified":1536622273,
+    "wof:lastmodified":1564203086,
     "wof:name":"Mchenga",
     "wof:parent_id":1108782393,
     "wof:placetype":"locality",

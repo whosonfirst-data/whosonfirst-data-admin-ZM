@@ -25,6 +25,33 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0442\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Katete"
+    ],
+    "name:ita_x_preferred":[
+        "Katete"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Katete"
+    ],
+    "name:por_x_preferred":[
+        "Katete"
+    ],
+    "name:ron_x_preferred":[
+        "Katete"
+    ],
+    "name:spa_x_preferred":[
+        "Katete"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6cf0\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310417639,
-    "wof:lastmodified":1537041980,
+    "wof:lastmodified":1564202535,
     "wof:name":"Katete",
     "wof:parent_id":1108782389,
     "wof:placetype":"locality",

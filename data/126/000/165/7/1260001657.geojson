@@ -25,6 +25,21 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Caenby"
+    ],
+    "name:cym_x_preferred":[
+        "Caenby"
+    ],
+    "name:nld_x_preferred":[
+        "Caenby"
+    ],
+    "name:pol_x_preferred":[
+        "Caenby"
+    ],
+    "name:swe_x_preferred":[
+        "Caenby"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260001657,
-    "wof:lastmodified":1536606074,
+    "wof:lastmodified":1564202438,
     "wof:name":"Caenby",
     "wof:parent_id":1108782449,
     "wof:placetype":"locality",

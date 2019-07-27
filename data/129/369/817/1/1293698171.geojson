@@ -25,6 +25,21 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mose"
+    ],
+    "name:fra_x_preferred":[
+        "Mose"
+    ],
+    "name:ita_x_preferred":[
+        "Mose"
+    ],
+    "name:nld_x_preferred":[
+        "Mose"
+    ],
+    "name:swe_x_preferred":[
+        "Mose"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293698171,
-    "wof:lastmodified":1536979943,
+    "wof:lastmodified":1564201847,
     "wof:name":"Mose",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

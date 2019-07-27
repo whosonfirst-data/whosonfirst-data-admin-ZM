@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e01\u0e38\u0e22\u0e30"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343265797,
-    "wof:lastmodified":1537025995,
+    "wof:lastmodified":1564201700,
     "wof:name":"Sakuya",
     "wof:parent_id":1108782505,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u0101ng\u0101la"
+    ],
+    "name:swe_x_preferred":[
+        "P\u0101ng\u0101la"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1292994431,
-    "wof:lastmodified":1537000132,
+    "wof:lastmodified":1564201887,
     "wof:name":"Pangala",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

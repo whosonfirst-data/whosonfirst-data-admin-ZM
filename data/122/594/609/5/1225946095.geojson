@@ -25,6 +25,63 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042e\u0441\u0442\u0438\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Justin"
+    ],
+    "name:deu_x_preferred":[
+        "Justin"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bf\u03c5\u03c3\u03c4\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0648\u0633\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Justin"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u057d\u0569\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Justin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30b9\u30c6\u30a3\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc800\uc2a4\ud2f4"
+    ],
+    "name:nld_x_preferred":[
+        "Justin"
+    ],
+    "name:pol_x_preferred":[
+        "Justyn"
+    ],
+    "name:por_x_preferred":[
+        "Justin"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0441\u0442\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Justin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0443\u0441\u0442\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Justin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0441\u0442\u0438\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u58eb\u4e01"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +105,7 @@
         }
     ],
     "wof:id":1225946095,
-    "wof:lastmodified":1536867619,
+    "wof:lastmodified":1564203202,
     "wof:name":"Justin",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

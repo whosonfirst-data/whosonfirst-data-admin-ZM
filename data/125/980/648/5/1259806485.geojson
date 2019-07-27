@@ -25,8 +25,32 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malambo"
+    ],
+    "name:deu_x_preferred":[
+        "Malambo"
+    ],
+    "name:fra_x_preferred":[
+        "Malambo"
+    ],
+    "name:ita_x_preferred":[
+        "Malambo"
+    ],
+    "name:spa_x_preferred":[
+        "Malambo"
+    ],
+    "name:swa_x_preferred":[
+        "Malambo"
+    ],
+    "name:swe_x_preferred":[
+        "Malambo"
+    ],
     "name:und_x_variant":[
         "Malombo",
+        "Malambo"
+    ],
+    "name:vie_x_preferred":[
         "Malambo"
     ],
     "src:geom":"geonames",
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1259806485,
-    "wof:lastmodified":1537716453,
+    "wof:lastmodified":1564203182,
     "wof:name":"Malambo",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",

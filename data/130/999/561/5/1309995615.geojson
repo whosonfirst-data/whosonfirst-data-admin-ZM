@@ -25,8 +25,38 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Malaika"
+    ],
+    "name:deu_x_preferred":[
+        "Malaika"
+    ],
+    "name:est_x_preferred":[
+        "Malaika"
+    ],
+    "name:fra_x_preferred":[
+        "Mala\u00efka"
+    ],
+    "name:hun_x_preferred":[
+        "Malaika"
+    ],
+    "name:ita_x_preferred":[
+        "Malaika"
+    ],
+    "name:nor_x_preferred":[
+        "Malaika"
+    ],
+    "name:spa_x_preferred":[
+        "Malaika"
+    ],
+    "name:swe_x_preferred":[
+        "Malaika"
+    ],
     "name:und_x_variant":[
         "Malalika",
+        "Malaika"
+    ],
+    "name:vie_x_preferred":[
         "Malaika"
     ],
     "src:geom":"geonames",
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1309995615,
-    "wof:lastmodified":1537716518,
+    "wof:lastmodified":1564202775,
     "wof:name":"Malaika",
     "wof:parent_id":1108782415,
     "wof:placetype":"locality",

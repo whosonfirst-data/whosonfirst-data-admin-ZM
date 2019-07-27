@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chiwawa"
+    ],
+    "name:deu_x_preferred":[
+        "Chiwawa"
+    ],
+    "name:nds_x_preferred":[
+        "Chiwawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343959709,
-    "wof:lastmodified":1537020189,
+    "wof:lastmodified":1564201605,
     "wof:name":"Chiwawa",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

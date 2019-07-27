@@ -31,8 +31,59 @@
     "mps:longitude":28.520762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0444\u0443\u044d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0444\u0443\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafue"
+    ],
+    "name:deu_x_preferred":[
+        "Kafue"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c6\u03bf\u03c5\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Kafue"
+    ],
+    "name:est_x_preferred":[
+        "Kafue"
+    ],
+    "name:fra_x_preferred":[
+        "Kafue"
+    ],
+    "name:ita_x_preferred":[
+        "Kafue"
+    ],
+    "name:lit_x_preferred":[
+        "Kafu\u0117"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u0444\u0443\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Kafue"
+    ],
+    "name:por_x_preferred":[
+        "Kafue"
+    ],
+    "name:ron_x_preferred":[
+        "Kafue"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0444\u0443\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Kafue"
+    ],
+    "name:tur_x_preferred":[
+        "Kafue"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5bcc\u57c3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +120,7 @@
         }
     ],
     "wof:id":1108782417,
-    "wof:lastmodified":1553718770,
+    "wof:lastmodified":1564202514,
     "wof:name":"Kafue",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

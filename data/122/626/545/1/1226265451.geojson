@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Pepo"
+    ],
+    "name:por_x_preferred":[
+        "Pepo"
+    ],
     "name:und_x_variant":[
         "Kupepo",
         "Pepo"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226265451,
-    "wof:lastmodified":1537716479,
+    "wof:lastmodified":1564203234,
     "wof:name":"Pepo",
     "wof:parent_id":1108782461,
     "wof:placetype":"locality",

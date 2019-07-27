@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Pembe"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0435\u043c\u0431\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293208077,
-    "wof:lastmodified":1536693011,
+    "wof:lastmodified":1564201893,
     "wof:name":"Pembe",
     "wof:parent_id":1108782393,
     "wof:placetype":"locality",

@@ -31,8 +31,35 @@
     "mps:longitude":26.772833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Namwala"
+    ],
+    "name:deu_x_preferred":[
+        "Namwala"
+    ],
     "name:eng_x_preferred":[
         "Namwala"
+    ],
+    "name:fra_x_preferred":[
+        "Namwala"
+    ],
+    "name:ita_x_preferred":[
+        "Namwala"
+    ],
+    "name:lit_x_preferred":[
+        "Namvala"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041d\u0430\u043c\u0432\u0430\u043b\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Namwala"
+    ],
+    "name:ron_x_preferred":[
+        "Namwala"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u59c6\u74e6\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +96,7 @@
         }
     ],
     "wof:id":1108782491,
-    "wof:lastmodified":1553718772,
+    "wof:lastmodified":1564202520,
     "wof:name":"Namwala",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

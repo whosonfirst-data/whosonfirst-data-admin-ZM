@@ -25,6 +25,120 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0633\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0633\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u0430\u045e"
+    ],
+    "name:bre_x_preferred":[
+        "Esau"
+    ],
+    "name:cat_x_preferred":[
+        "Esa\u00fa"
+    ],
+    "name:ces_x_preferred":[
+        "Ezau"
+    ],
+    "name:dan_x_preferred":[
+        "Esau"
+    ],
+    "name:deu_x_preferred":[
+        "Esau"
+    ],
+    "name:ell_x_preferred":[
+        "\u0397\u03c3\u03b1\u03cd"
+    ],
+    "name:epo_x_preferred":[
+        "Esav"
+    ],
+    "name:eus_x_preferred":[
+        "Esau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0633\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Esau"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c9sa\u00fc"
+    ],
+    "name:glg_x_preferred":[
+        "Esa\u00fa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e9\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Ezav"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9zsau"
+    ],
+    "name:ind_x_preferred":[
+        "Esau"
+    ],
+    "name:ita_x_preferred":[
+        "Esa\u00f9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b5\u30a6"
+    ],
+    "name:lit_x_preferred":[
+        "Ezavas"
+    ],
+    "name:mlg_x_preferred":[
+        "Esao"
+    ],
+    "name:nld_x_preferred":[
+        "Esau"
+    ],
+    "name:nor_x_preferred":[
+        "Esau"
+    ],
+    "name:pol_x_preferred":[
+        "Ezaw"
+    ],
+    "name:por_x_preferred":[
+        "Esa\u00fa"
+    ],
+    "name:ron_x_preferred":[
+        "Esau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0430\u0432"
+    ],
+    "name:sco_x_preferred":[
+        "Esau"
+    ],
+    "name:spa_x_preferred":[
+        "Esa\u00fa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0441\u0430\u0432"
+    ],
+    "name:swa_x_preferred":[
+        "Esau"
+    ],
+    "name:swe_x_preferred":[
+        "Esau"
+    ],
+    "name:tgl_x_preferred":[
+        "Esau"
+    ],
+    "name:tur_x_preferred":[
+        "Esav"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u0430\u0432"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0633\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -42,7 +156,7 @@
         }
     ],
     "wof:id":1209518769,
-    "wof:lastmodified":1536284647,
+    "wof:lastmodified":1564202300,
     "wof:name":"Esau",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

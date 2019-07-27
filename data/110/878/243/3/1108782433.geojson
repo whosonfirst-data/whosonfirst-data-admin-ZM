@@ -31,8 +31,68 @@
     "mps:longitude":31.194533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Mpika"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043f\u0438\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Mpika"
+    ],
+    "name:deu_x_preferred":[
+        "Mpika"
+    ],
     "name:eng_x_preferred":[
         "Mpika"
+    ],
+    "name:fra_x_preferred":[
+        "Mpika"
+    ],
+    "name:ita_x_preferred":[
+        "Mpika"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30d4\u30ab"
+    ],
+    "name:lit_x_preferred":[
+        "Mpika"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u043f\u0438\u043a\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Mpika"
+    ],
+    "name:nno_x_preferred":[
+        "Mpika"
+    ],
+    "name:nor_x_preferred":[
+        "Mpika"
+    ],
+    "name:pol_x_preferred":[
+        "Mpika"
+    ],
+    "name:por_x_preferred":[
+        "Mpika"
+    ],
+    "name:ron_x_preferred":[
+        "Mpika"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043f\u0438\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mpika"
+    ],
+    "name:swe_x_preferred":[
+        "Mpika"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043f\u0456\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u76ae\u5361"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +129,7 @@
         }
     ],
     "wof:id":1108782433,
-    "wof:lastmodified":1553718770,
+    "wof:lastmodified":1564202505,
     "wof:name":"Mpika",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

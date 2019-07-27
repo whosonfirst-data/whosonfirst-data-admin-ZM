@@ -25,6 +25,168 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0633\u0639"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u0720\u071d\u072b\u0725"
+    ],
+    "name:aze_x_preferred":[
+        "Yelisey"
+    ],
+    "name:bel_x_preferred":[
+        "\u0415\u043b\u0456\u0441\u0435\u0439"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f68\u0f7a\u0f0b\u0f63\u0f72\u0f0b\u0f64\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Ilijas"
+    ],
+    "name:bre_x_preferred":[
+        "Elisha"
+    ],
+    "name:cat_x_preferred":[
+        "Eliseu"
+    ],
+    "name:ces_x_preferred":[
+        "El\u00ed\u0161a"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u044c-\u042f\u0441\u0430\u04c0"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0644\u06cc\u06d5\u0633\u06d5\u0639"
+    ],
+    "name:dan_x_preferred":[
+        "Elisa"
+    ],
+    "name:deu_x_preferred":[
+        "Elischa"
+    ],
+    "name:div_x_preferred":[
+        "\u0787\u07a6\u078d\u07b0\u0794\u07a6\u0790\u07a6\u07a2\u07aa\u078e\u07ac\u078a\u07a7\u0782\u07aa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b9\u03c3\u03b1\u03af\u03bf\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0633\u0639"
+    ],
+    "name:fin_x_preferred":[
+        "Elisa"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c9lis\u00e9e"
+    ],
+    "name:gle_x_preferred":[
+        "Eil\u00edse\u00e1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d9\u05e9\u05e2"
+    ],
+    "name:hun_x_preferred":[
+        "Elizeus pr\u00f3f\u00e9ta"
+    ],
+    "name:ina_x_preferred":[
+        "Elisha"
+    ],
+    "name:ind_x_preferred":[
+        "Elisa"
+    ],
+    "name:ita_x_preferred":[
+        "Eliseo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ea\u30b7\u30e3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10e1\u10d4 \u10ec\u10d8\u10dc\u10d0\u10e1\u10ec\u10d0\u10e0\u10db\u10d4\u10e2\u10e7\u10d5\u10d4\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04d8\u043b-\u0419\u0430\u0441\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ub9ac\uc0ac"
+    ],
+    "name:lat_x_preferred":[
+        "Elisaeus"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0410\u043b\u044c\u044f\u0441\u0430\u0433\u04c0 \u0438\u0434\u0430\u0432\u0441"
+    ],
+    "name:lit_x_preferred":[
+        "Eliziejus"
+    ],
+    "name:mlg_x_preferred":[
+        "Elisa"
+    ],
+    "name:nld_x_preferred":[
+        "Elisa"
+    ],
+    "name:nor_x_preferred":[
+        "Elisja"
+    ],
+    "name:pol_x_preferred":[
+        "Elizeusz"
+    ],
+    "name:por_x_preferred":[
+        "Eliseu"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0644\u064a\u0633\u0639"
+    ],
+    "name:ron_x_preferred":[
+        "Elisei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0438\u0441\u0435\u0439"
+    ],
+    "name:slk_x_preferred":[
+        "Elizeus"
+    ],
+    "name:spa_x_preferred":[
+        "Eliseo"
+    ],
+    "name:sqi_x_preferred":[
+        "Iljesa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u043b\u0438\u0441\u0435\u0458"
+    ],
+    "name:swa_x_preferred":[
+        "Elisha"
+    ],
+    "name:swe_x_preferred":[
+        "Elisha"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bbf\u0b9a\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Eliseo"
+    ],
+    "name:tur_x_preferred":[
+        "Elyesa"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0644\u064a\u06d5\u0633\u06d5 \u0626\u06d5\u0644\u06d5\u064a\u06be\u0649\u0633\u0633\u0627\u0644\u0627\u0645"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043b\u0438\u0441\u0435\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u06cc\u0634\u0639"
+    ],
+    "name:wol_x_preferred":[
+        "Alisa"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05dc\u05d9\u05e9\u05e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee5\u5229\u6c99"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +210,7 @@
         }
     ],
     "wof:id":1309729875,
-    "wof:lastmodified":1537038865,
+    "wof:lastmodified":1564202826,
     "wof:name":"Elisha",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",

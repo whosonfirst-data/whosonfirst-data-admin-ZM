@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Venture"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043d\u0447\u0443\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043d\u0447\u0443\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343843657,
-    "wof:lastmodified":1536691010,
+    "wof:lastmodified":1564201577,
     "wof:name":"Venture",
     "wof:parent_id":1108782373,
     "wof:placetype":"locality",

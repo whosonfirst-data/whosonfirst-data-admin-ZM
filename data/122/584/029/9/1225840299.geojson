@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nyungwe"
+    ],
+    "name:fra_x_preferred":[
+        "Nyungwe"
+    ],
+    "name:swe_x_preferred":[
+        "Nyungwe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1225840299,
-    "wof:lastmodified":1537020647,
+    "wof:lastmodified":1564203403,
     "wof:name":"Nyungwe",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

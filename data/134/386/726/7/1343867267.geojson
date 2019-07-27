@@ -25,6 +25,24 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kacha"
+    ],
+    "name:ita_x_preferred":[
+        "Kacha"
+    ],
+    "name:pol_x_preferred":[
+        "Kacza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0447\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kacha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0447\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343867267,
-    "wof:lastmodified":1536656809,
+    "wof:lastmodified":1564201710,
     "wof:name":"Kacha",
     "wof:parent_id":1108782349,
     "wof:placetype":"locality",

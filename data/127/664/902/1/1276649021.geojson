@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kazamba"
+    ],
     "name:und_x_variant":[
         "Kazemba",
         "Kazamba"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276649021,
-    "wof:lastmodified":1537716528,
+    "wof:lastmodified":1564202129,
     "wof:name":"Kazamba",
     "wof:parent_id":1108782453,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043a\u043e\u043c\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Likoma"
+    ],
+    "name:fra_x_preferred":[
+        "Likoma"
+    ],
+    "name:nds_x_preferred":[
+        "Likoma"
+    ],
+    "name:pol_x_preferred":[
+        "Likoma"
+    ],
+    "name:por_x_preferred":[
+        "Likoma"
+    ],
+    "name:ron_x_preferred":[
+        "Likoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1277091843,
-    "wof:lastmodified":1536754505,
+    "wof:lastmodified":1564201968,
     "wof:name":"Likoma",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

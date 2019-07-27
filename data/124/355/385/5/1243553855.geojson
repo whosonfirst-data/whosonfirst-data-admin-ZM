@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Suse"
+    ],
+    "name:fra_x_preferred":[
+        "Suse"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0941\u091c\u0947"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243553855,
-    "wof:lastmodified":1536650551,
+    "wof:lastmodified":1564202868,
     "wof:name":"Suse",
     "wof:parent_id":1108782467,
     "wof:placetype":"locality",

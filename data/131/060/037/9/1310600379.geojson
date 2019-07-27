@@ -25,6 +25,24 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Choma"
+    ],
+    "name:deu_x_preferred":[
+        "Choma"
+    ],
+    "name:ita_x_preferred":[
+        "Choma"
+    ],
+    "name:pol_x_preferred":[
+        "Choma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Choma"
+    ],
     "name:und_x_variant":[
         "Chomo",
         "Choma"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310600379,
-    "wof:lastmodified":1537716457,
+    "wof:lastmodified":1564202685,
     "wof:name":"Choma",
     "wof:parent_id":1108782457,
     "wof:placetype":"locality",

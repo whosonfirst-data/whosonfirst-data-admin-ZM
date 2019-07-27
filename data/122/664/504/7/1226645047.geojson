@@ -25,9 +25,27 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Se-mu"
+    ],
+    "name:fra_x_preferred":[
+        "Semu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8272\u76ee\u4eba"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c9\ubaa9\uc778"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0432\u0435\u0442\u043d\u043e\u0433\u043b\u0430\u0437\u044b\u0435"
+    ],
     "name:und_x_variant":[
         "Semo",
         "Semu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8272\u76ee\u4eba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226645047,
-    "wof:lastmodified":1537716449,
+    "wof:lastmodified":1564203350,
     "wof:name":"Semu",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mambwe"
+    ],
+    "name:deu_x_preferred":[
+        "Mambwe"
+    ],
+    "name:fra_x_preferred":[
+        "Mambwe"
+    ],
     "name:und_x_variant":[
         "Old Mambwe",
         "Mambwe"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209814619,
-    "wof:lastmodified":1537716453,
+    "wof:lastmodified":1564202352,
     "wof:name":"Mambwe",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",

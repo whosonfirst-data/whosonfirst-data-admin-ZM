@@ -25,8 +25,26 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pandi"
+    ],
+    "name:deu_x_preferred":[
+        "Pandi"
+    ],
+    "name:ita_x_preferred":[
+        "Pandi"
+    ],
+    "name:nld_x_preferred":[
+        "Pandi"
+    ],
+    "name:swe_x_preferred":[
+        "Pandi"
+    ],
     "name:und_x_variant":[
         "Mpande",
+        "Pandi"
+    ],
+    "name:war_x_preferred":[
         "Pandi"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310417571,
-    "wof:lastmodified":1537716480,
+    "wof:lastmodified":1564202539,
     "wof:name":"Pandi",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

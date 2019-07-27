@@ -25,6 +25,30 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bxr_x_preferred":[
+        "\u0421\u044d\u043b\u044d\u043d\u0433\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "Selenge"
+    ],
+    "name:deu_x_preferred":[
+        "Selenge"
+    ],
+    "name:fra_x_preferred":[
+        "Selenge"
+    ],
+    "name:kor_x_preferred":[
+        "\uc140\ub81d\uac8c"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u044d\u043b\u044d\u043d\u0433\u044d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044d\u043b\u044d\u043d\u0433\u044d"
+    ],
+    "name:swe_x_preferred":[
+        "Selenge"
+    ],
     "name:und_x_variant":[
         "Serenji",
         "Selenje",
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1209109357,
-    "wof:lastmodified":1537716476,
+    "wof:lastmodified":1564202343,
     "wof:name":"Selenge",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

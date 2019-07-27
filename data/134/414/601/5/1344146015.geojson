@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lundu"
+    ],
+    "name:nld_x_preferred":[
+        "Lundu"
+    ],
+    "name:swe_x_preferred":[
+        "Lundu"
+    ],
+    "name:vie_x_preferred":[
+        "Lundu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1344146015,
-    "wof:lastmodified":1536752098,
+    "wof:lastmodified":1564201539,
     "wof:name":"Lundu",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

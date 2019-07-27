@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mambilimaf\u00e4lle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1360190723,
-    "wof:lastmodified":1537576385,
+    "wof:lastmodified":1564202758,
     "wof:name":"Mambilima Falls",
     "wof:parent_id":1108782409,
     "wof:placetype":"locality",

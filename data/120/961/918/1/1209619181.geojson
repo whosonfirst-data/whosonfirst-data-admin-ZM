@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kakanda"
+    ],
+    "name:swe_x_preferred":[
+        "Kakanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +40,7 @@
         "gn:id":915668
     },
     "wof:country":"ZM",
-    "wof:geomhash":"81002aa6ec4e9dae088fe1a7acc98a3e",
+    "wof:geomhash":"3abcf9a02408d695fcdbfb5ee684b5cc",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209619181,
-    "wof:lastmodified":1536281580,
+    "wof:lastmodified":1564202267,
     "wof:name":"Kakanda",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
 },
   "bbox": [
     22.93333,
-    -15.083329999999998,
+    -15.08333,
     22.93333,
-    -15.083329999999998
+    -15.08333
 ],
   "geometry": {"coordinates":[22.93333,-15.08333],"type":"Point"}
 }

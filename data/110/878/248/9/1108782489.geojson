@@ -31,8 +31,41 @@
     "mps:longitude":27.38025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0437\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Monze"
+    ],
     "name:eng_x_preferred":[
         "Monze"
+    ],
+    "name:fra_x_preferred":[
+        "Monze"
+    ],
+    "name:ita_x_preferred":[
+        "Monze"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u043e\u043d\u0437\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Monze"
+    ],
+    "name:por_x_preferred":[
+        "Monze"
+    ],
+    "name:ron_x_preferred":[
+        "Monze"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0437\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Monze"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0437\u0435"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +102,7 @@
         }
     ],
     "wof:id":1108782489,
-    "wof:lastmodified":1553718772,
+    "wof:lastmodified":1564202512,
     "wof:name":"Monze",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

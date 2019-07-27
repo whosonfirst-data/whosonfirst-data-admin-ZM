@@ -31,8 +31,50 @@
     "mps:longitude":24.471104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0448\u0435\u043a\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Sesheke"
+    ],
+    "name:deu_x_preferred":[
+        "Sesheke"
+    ],
     "name:eng_x_preferred":[
         "Sesheke"
+    ],
+    "name:est_x_preferred":[
+        "Sesheke"
+    ],
+    "name:fra_x_preferred":[
+        "Sesheke"
+    ],
+    "name:ita_x_preferred":[
+        "Sesheke"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0421\u0435\u0448\u0435\u043a\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Sesheke"
+    ],
+    "name:por_x_preferred":[
+        "Sesheke"
+    ],
+    "name:ron_x_preferred":[
+        "Sesheke"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0448\u0435\u043a\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Sesheke"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0448\u0435\u043a\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u8b1d\u51f1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +111,7 @@
         }
     ],
     "wof:id":1108782507,
-    "wof:lastmodified":1553718773,
+    "wof:lastmodified":1564202508,
     "wof:name":"Sesheke",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

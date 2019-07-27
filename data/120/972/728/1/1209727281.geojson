@@ -25,6 +25,72 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mongu"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u063a\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Mongu"
+    ],
+    "name:dan_x_preferred":[
+        "Mongu"
+    ],
+    "name:deu_x_preferred":[
+        "Mongu"
+    ],
+    "name:fra_x_preferred":[
+        "Mongu"
+    ],
+    "name:frr_x_preferred":[
+        "Mongu"
+    ],
+    "name:hrv_x_preferred":[
+        "Mongu"
+    ],
+    "name:ita_x_preferred":[
+        "Mongu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30b0"
+    ],
+    "name:lit_x_preferred":[
+        "Mongu"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Mongu"
+    ],
+    "name:pol_x_preferred":[
+        "Mongu"
+    ],
+    "name:por_x_preferred":[
+        "Mongu"
+    ],
+    "name:ron_x_preferred":[
+        "Mongu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Mongu"
+    ],
+    "name:tur_x_preferred":[
+        "Mongu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u06af\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +114,7 @@
         }
     ],
     "wof:id":1209727281,
-    "wof:lastmodified":1536382450,
+    "wof:lastmodified":1564202362,
     "wof:name":"Mongu",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

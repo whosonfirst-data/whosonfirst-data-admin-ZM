@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chami"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242988609,
-    "wof:lastmodified":1536968349,
+    "wof:lastmodified":1564202990,
     "wof:name":"Chami",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kapela"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kapela"
+    ],
+    "name:hrv_x_preferred":[
+        "Kapela"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057a\u0565\u056c\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Kapela"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u043b\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Kapela"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kapela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1243091627,
-    "wof:lastmodified":1536819112,
+    "wof:lastmodified":1564202848,
     "wof:name":"Kapela",
     "wof:parent_id":1108782413,
     "wof:placetype":"locality",

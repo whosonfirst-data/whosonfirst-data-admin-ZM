@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Chuka"
+    ],
+    "name:ita_x_preferred":[
+        "Chuka"
+    ],
+    "name:swe_x_preferred":[
+        "Chuka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276210321,
-    "wof:lastmodified":1536944429,
+    "wof:lastmodified":1564202001,
     "wof:name":"Chuka",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

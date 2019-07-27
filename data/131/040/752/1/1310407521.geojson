@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03af\u03bc\u03bf\u03c5"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310407521,
-    "wof:lastmodified":1537055938,
+    "wof:lastmodified":1564202564,
     "wof:name":"Salimu",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

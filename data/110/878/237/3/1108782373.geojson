@@ -31,8 +31,92 @@
     "mps:longitude":28.394172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Luanshya"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u0634\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0448\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Luanshya"
+    ],
+    "name:ceb_x_preferred":[
+        "Luanshya"
+    ],
+    "name:deu_x_preferred":[
+        "Luanshya"
+    ],
     "name:eng_x_preferred":[
         "Luanshya"
+    ],
+    "name:epo_x_preferred":[
+        "Luanshya"
+    ],
+    "name:fin_x_preferred":[
+        "Luanshya"
+    ],
+    "name:fra_x_preferred":[
+        "Luanshya"
+    ],
+    "name:hrv_x_preferred":[
+        "Luanshya"
+    ],
+    "name:ita_x_preferred":[
+        "Luanshya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30a2\u30f3\u30b7\u30e3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc548\uc0e4"
+    ],
+    "name:lit_x_preferred":[
+        "Luan\u0161ija"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0448\u044c\u044f"
+    ],
+    "name:nld_x_preferred":[
+        "Luanshya"
+    ],
+    "name:nno_x_preferred":[
+        "Luanshya"
+    ],
+    "name:pol_x_preferred":[
+        "Luanshya"
+    ],
+    "name:por_x_preferred":[
+        "Luanshya"
+    ],
+    "name:ron_x_preferred":[
+        "Luanshya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0448\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Luanshya"
+    ],
+    "name:swe_x_preferred":[
+        "Luanshya"
+    ],
+    "name:tur_x_preferred":[
+        "Luanshya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0448\u044c\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u0634\u06cc\u0627"
+    ],
+    "name:war_x_preferred":[
+        "Luanshya"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5b89\u590f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +153,7 @@
         }
     ],
     "wof:id":1108782373,
-    "wof:lastmodified":1553718767,
+    "wof:lastmodified":1564202528,
     "wof:name":"Luanshya",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

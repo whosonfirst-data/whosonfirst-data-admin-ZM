@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Mapili"
+    ],
     "name:und_x_variant":[
         "Mapiri",
         "Mapili"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193151319,
-    "wof:lastmodified":1537716515,
+    "wof:lastmodified":1564202397,
     "wof:name":"Mapili",
     "wof:parent_id":1108782445,
     "wof:placetype":"locality",

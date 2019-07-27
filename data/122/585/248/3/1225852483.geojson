@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karenga"
+    ],
+    "name:swe_x_preferred":[
+        "Karenga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225852483,
-    "wof:lastmodified":1537003151,
+    "wof:lastmodified":1564203396,
     "wof:name":"Karenga",
     "wof:parent_id":1108782389,
     "wof:placetype":"locality",

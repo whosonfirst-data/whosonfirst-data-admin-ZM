@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salima"
+    ],
+    "name:deu_x_preferred":[
+        "Salima"
+    ],
+    "name:nld_x_preferred":[
+        "Salima"
+    ],
+    "name:swe_x_preferred":[
+        "Salima"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +46,7 @@
         "gn:id":899409
     },
     "wof:country":"ZM",
-    "wof:geomhash":"74455de09d26c8a2fc0b304c33cab0ca",
+    "wof:geomhash":"c000b758f8e22b5ac4bda6f4d6edf65e",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209626907,
-    "wof:lastmodified":1536281326,
+    "wof:lastmodified":1564202185,
     "wof:name":"Salima",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -52,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.866670000000006,
+    31.86667000000001,
     -13.11667,
-    31.866670000000006,
+    31.86667000000001,
     -13.11667
 ],
   "geometry": {"coordinates":[31.86667000000001,-13.11667],"type":"Point"}

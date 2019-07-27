@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kawana"
+    ],
     "name:und_x_variant":[
         "Kowana",
         "Kawana"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343255147,
-    "wof:lastmodified":1537716528,
+    "wof:lastmodified":1564201603,
     "wof:name":"Kawana",
     "wof:parent_id":1108782445,
     "wof:placetype":"locality",

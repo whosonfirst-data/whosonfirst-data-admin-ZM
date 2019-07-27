@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngandu"
+    ],
+    "name:swe_x_preferred":[
+        "Ngandu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326522653,
-    "wof:lastmodified":1536997125,
+    "wof:lastmodified":1564201429,
     "wof:name":"Ngandu",
     "wof:parent_id":1108782453,
     "wof:placetype":"locality",

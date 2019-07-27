@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Kapara"
+    ],
+    "name:spa_x_preferred":[
+        "Kapara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293008015,
-    "wof:lastmodified":1536980508,
+    "wof:lastmodified":1564201723,
     "wof:name":"Kapara",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

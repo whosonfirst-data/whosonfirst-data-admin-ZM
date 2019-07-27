@@ -25,7 +25,19 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mwera"
+    ],
     "name:eng_x_preferred":[
+        "Mwera"
+    ],
+    "name:fra_x_preferred":[
+        "Mwera"
+    ],
+    "name:swa_x_preferred":[
+        "Mwera"
+    ],
+    "name:swe_x_preferred":[
         "Mwera"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343653481,
-    "wof:lastmodified":1537716490,
+    "wof:lastmodified":1564201505,
     "wof:name":"Mwera",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",
