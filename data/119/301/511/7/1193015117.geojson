@@ -25,9 +25,93 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u0648\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0633\u0648\u0645\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Musoma"
+    ],
+    "name:dan_x_preferred":[
+        "Musoma"
+    ],
+    "name:deu_x_preferred":[
+        "Musoma"
+    ],
+    "name:epo_x_preferred":[
+        "Musoma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u0648\u0645\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Musoma"
+    ],
+    "name:fra_x_preferred":[
+        "Musoma"
+    ],
+    "name:hrv_x_preferred":[
+        "Musoma"
+    ],
+    "name:ita_x_preferred":[
+        "Musoma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30bd\u30de"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc18c\ub9c8"
+    ],
+    "name:lit_x_preferred":[
+        "Musoma"
+    ],
+    "name:mon_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Musoma"
+    ],
+    "name:nor_x_preferred":[
+        "Musoma"
+    ],
+    "name:pol_x_preferred":[
+        "Musoma"
+    ],
+    "name:ron_x_preferred":[
+        "Musoma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Musoma"
+    ],
+    "name:swe_x_preferred":[
+        "Musoma"
+    ],
+    "name:tur_x_preferred":[
+        "Musoma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "Sopma",
         "Musoma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0633\u0648\u0645\u0627"
+    ],
+    "name:yor_x_preferred":[
+        "Musoma"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7d22\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +136,7 @@
         }
     ],
     "wof:id":1193015117,
-    "wof:lastmodified":1537716496,
+    "wof:lastmodified":1564202393,
     "wof:name":"Musoma",
     "wof:parent_id":1108782461,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matala"
+    ],
+    "name:deu_x_preferred":[
+        "Matala"
+    ],
+    "name:fin_x_preferred":[
+        "Matala"
+    ],
+    "name:ita_x_preferred":[
+        "Matala"
+    ],
+    "name:swe_x_preferred":[
+        "Matala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1327342477,
-    "wof:lastmodified":1536810119,
+    "wof:lastmodified":1564201371,
     "wof:name":"Matala",
     "wof:parent_id":1108782359,
     "wof:placetype":"locality",

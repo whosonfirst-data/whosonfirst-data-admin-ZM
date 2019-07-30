@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Damiano"
+    ],
+    "name:ita_x_preferred":[
+        "Damiano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30df\u30a2\u30fc\u30ce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u0438\u0430\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209727077,
-    "wof:lastmodified":1536382663,
+    "wof:lastmodified":1564202355,
     "wof:name":"Damiano",
     "wof:parent_id":1108782397,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062f\u0631\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Andrew"
+    ],
+    "name:eus_x_preferred":[
+        "Andrew"
+    ],
+    "name:mlg_x_preferred":[
+        "Andrew"
+    ],
+    "name:nld_x_preferred":[
+        "Andrew"
+    ],
+    "name:nor_x_preferred":[
+        "Andrew"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5fb7\u9c81"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276140201,
-    "wof:lastmodified":1537035959,
+    "wof:lastmodified":1564202061,
     "wof:name":"Andrew",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

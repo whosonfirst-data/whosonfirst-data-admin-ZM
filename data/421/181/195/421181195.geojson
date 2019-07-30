@@ -40,6 +40,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05d3\u05d4"
     ],
+    "name:hsb_x_preferred":[
+        "Linda"
+    ],
     "name:hun_x_preferred":[
         "Linda"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Linda"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0434\u0430"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421181195,
-    "wof:lastmodified":1527716321,
+    "wof:lastmodified":1564202830,
     "wof:name":"Linda",
     "wof:parent_id":1108782485,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Siwi"
+    ],
+    "name:por_x_preferred":[
+        "Siwi"
+    ],
+    "name:que_x_preferred":[
+        "Siwi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326644075,
-    "wof:lastmodified":1536821816,
+    "wof:lastmodified":1564201432,
     "wof:name":"Siwi",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

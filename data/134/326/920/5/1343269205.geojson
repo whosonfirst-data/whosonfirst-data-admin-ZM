@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mazera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343269205,
-    "wof:lastmodified":1537021281,
+    "wof:lastmodified":1564201700,
     "wof:name":"Mazera",
     "wof:parent_id":1108782389,
     "wof:placetype":"locality",

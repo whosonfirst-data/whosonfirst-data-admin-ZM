@@ -25,6 +25,72 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u099a\u09c1\u09b0\u09c1"
+    ],
+    "name:bih_x_preferred":[
+        "\u091a\u0941\u0930\u0942"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099a\u09c1\u09b0\u09c1"
+    ],
+    "name:cat_x_preferred":[
+        "Churu"
+    ],
+    "name:ceb_x_preferred":[
+        "Ch\u016bru"
+    ],
+    "name:deu_x_preferred":[
+        "Churu"
+    ],
+    "name:fra_x_preferred":[
+        "Churu"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0ac1\u0ab0\u0ac1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0942\u0930\u0942"
+    ],
+    "name:ita_x_preferred":[
+        "Churu"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u0941\u0930\u0942"
+    ],
+    "name:mlg_x_preferred":[
+        "Churu"
+    ],
+    "name:msa_x_preferred":[
+        "Churu"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u0941\u0930\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0941\u0930\u0941"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0440\u0443"
+    ],
+    "name:san_x_preferred":[
+        "\u091a\u0941\u0930\u0942"
+    ],
+    "name:swe_x_preferred":[
+        "Churu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc2\u0bb0\u0bc2"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Churu"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e9\u10e3\u10e0\u10e3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +114,7 @@
         }
     ],
     "wof:id":1226339977,
-    "wof:lastmodified":1536797936,
+    "wof:lastmodified":1564203254,
     "wof:name":"Churu",
     "wof:parent_id":1108782449,
     "wof:placetype":"locality",

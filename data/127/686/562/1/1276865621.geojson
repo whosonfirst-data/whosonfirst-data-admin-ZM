@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u043c\u0430\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Namata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03bc\u03b1\u03c4\u03b1"
+    ],
+    "name:swe_x_preferred":[
+        "Namata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276865621,
-    "wof:lastmodified":1537057721,
+    "wof:lastmodified":1564201980,
     "wof:name":"Namata",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

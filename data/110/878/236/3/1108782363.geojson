@@ -31,8 +31,71 @@
     "mps:longitude":27.855357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0644\u064a\u0644\u0627\u0628\u0648\u0645\u0628\u0648\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u043b\u0438\u043b\u0430\u0431\u043e\u043c\u0431\u0443\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:deu_x_preferred":[
+        "Chililabombwe"
+    ],
     "name:eng_x_preferred":[
         "Chililabombwe"
+    ],
+    "name:fra_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:ita_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30ea\u30e9\u30dc\u30f3\u30d6\u30a6\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uce60\ub9b4\ub77c\ubd04\ube0c\uc6e8"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cililabombv\u0117"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0427\u0438\u043b\u0438\u043b\u0430\u0431\u043e\u043c\u0431\u0432\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:nor_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:pol_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:por_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:ron_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043b\u0438\u043b\u0430\u0431\u043e\u043c\u0431\u0432\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:tur_x_preferred":[
+        "Chililabombwe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043b\u0456\u043b\u0430\u0431\u043e\u043c\u0431\u0432\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u5229\u62c9\u90a6\u5e03\u97cb"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +132,7 @@
         }
     ],
     "wof:id":1108782363,
-    "wof:lastmodified":1553718767,
+    "wof:lastmodified":1564202522,
     "wof:name":"Chililabombwe",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

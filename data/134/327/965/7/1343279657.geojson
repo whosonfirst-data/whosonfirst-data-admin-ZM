@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u092e\u091f\u093f\u092f\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343279657,
-    "wof:lastmodified":1537006473,
+    "wof:lastmodified":1564201674,
     "wof:name":"Matiya",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",

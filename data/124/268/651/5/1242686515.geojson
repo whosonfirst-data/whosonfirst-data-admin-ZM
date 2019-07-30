@@ -25,6 +25,48 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Kabile"
+    ],
+    "name:deu_x_preferred":[
+        "Kabile"
+    ],
+    "name:ita_x_preferred":[
+        "Cabile"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d1\u10d8\u10da\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Kabile"
+    ],
+    "name:pol_x_preferred":[
+        "Kabile"
+    ],
+    "name:por_x_preferred":[
+        "C\u00e1bila"
+    ],
+    "name:ron_x_preferred":[
+        "Kabile"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "C\u00e1bile"
+    ],
+    "name:swe_x_preferred":[
+        "Kabile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1242686515,
-    "wof:lastmodified":1536907090,
+    "wof:lastmodified":1564202896,
     "wof:name":"Kabile",
     "wof:parent_id":1108782359,
     "wof:placetype":"locality",

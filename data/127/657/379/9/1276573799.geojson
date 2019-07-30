@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kalasa"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cb3\u0cb8"
+    ],
+    "name:san_x_preferred":[
+        "\u0915\u0933\u0938"
+    ],
     "name:und_x_variant":[
         "Kavassa",
         "Kalasa"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276573799,
-    "wof:lastmodified":1537716541,
+    "wof:lastmodified":1564202059,
     "wof:name":"Kalasa",
     "wof:parent_id":1108782451,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kazembe"
+    ],
+    "name:ind_x_preferred":[
+        "Kerajaan Kazembe"
+    ],
+    "name:lit_x_preferred":[
+        "Kazemb\u0117"
+    ],
     "name:und_x_variant":[
         "Kasembe",
         "Kazembe"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293134037,
-    "wof:lastmodified":1537716454,
+    "wof:lastmodified":1564201822,
     "wof:name":"Kazembe",
     "wof:parent_id":1108782399,
     "wof:placetype":"locality",

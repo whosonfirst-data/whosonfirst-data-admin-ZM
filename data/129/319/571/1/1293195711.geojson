@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chilanga"
+    ],
+    "name:deu_x_preferred":[
+        "Chilanga"
+    ],
+    "name:ita_x_preferred":[
+        "Chilanga"
+    ],
+    "name:swe_x_preferred":[
+        "Chilanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293195711,
-    "wof:lastmodified":1536711054,
+    "wof:lastmodified":1564201938,
     "wof:name":"Chilanga",
     "wof:parent_id":1108782435,
     "wof:placetype":"locality",

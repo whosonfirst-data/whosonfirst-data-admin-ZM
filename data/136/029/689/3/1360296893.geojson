@@ -25,9 +25,21 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalongo"
+    ],
+    "name:fra_x_preferred":[
+        "Kalongo"
+    ],
+    "name:lug_x_preferred":[
+        "Kalongo"
+    ],
     "name:und_x_variant":[
         "Kaingo",
         "Kalongo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0644\u0648\u0646\u06af\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1360296893,
-    "wof:lastmodified":1537716539,
+    "wof:lastmodified":1564202731,
     "wof:name":"Kalongo",
     "wof:parent_id":1108782397,
     "wof:placetype":"locality",

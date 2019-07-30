@@ -25,6 +25,27 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salonga"
+    ],
+    "name:deu_x_preferred":[
+        "Salonga"
+    ],
+    "name:fra_x_preferred":[
+        "Salonga"
+    ],
+    "name:ita_x_preferred":[
+        "Salonga"
+    ],
+    "name:pol_x_preferred":[
+        "Salonga"
+    ],
+    "name:swe_x_preferred":[
+        "Salonga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u043d\u0433\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +55,7 @@
         "gn:id":899400
     },
     "wof:country":"ZM",
-    "wof:geomhash":"ac1507a1c8930d050c2e6b1b64ce576e",
+    "wof:geomhash":"398ecc9018741c3b18712255a36b3bfe",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209120333,
-    "wof:lastmodified":1536297120,
+    "wof:lastmodified":1564202233,
     "wof:name":"Salonga",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +74,9 @@
 },
   "bbox": [
     23.2,
-    -14.083329999999998,
+    -14.08333,
     23.2,
-    -14.083329999999998
+    -14.08333
 ],
   "geometry": {"coordinates":[23.2,-14.08333],"type":"Point"}
 }

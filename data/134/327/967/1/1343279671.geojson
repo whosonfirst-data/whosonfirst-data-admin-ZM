@@ -25,6 +25,39 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Lilo"
+    ],
+    "name:ceb_x_preferred":[
+        "Lilo"
+    ],
+    "name:deu_x_preferred":[
+        "Lilo"
+    ],
+    "name:est_x_preferred":[
+        "Lilo"
+    ],
+    "name:fra_x_preferred":[
+        "Lilo"
+    ],
+    "name:ita_x_preferred":[
+        "Lilo"
+    ],
+    "name:nld_x_preferred":[
+        "Lilo"
+    ],
+    "name:pol_x_preferred":[
+        "Lilo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lilo"
+    ],
+    "name:swe_x_preferred":[
+        "Lilo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1343279671,
-    "wof:lastmodified":1537006452,
+    "wof:lastmodified":1564201679,
     "wof:name":"Lilo",
     "wof:parent_id":1108782505,
     "wof:placetype":"locality",

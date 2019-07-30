@@ -25,6 +25,174 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0633\u0629"
+    ],
+    "name:arc_x_preferred":[
+        "\u072a\u0713\u072b\u0710"
+    ],
+    "name:arg_x_preferred":[
+        "Sentito"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0434\u0447\u0443\u0432\u0430\u043d\u043d\u0435"
+    ],
+    "name:bos_x_preferred":[
+        "\u010culo"
+    ],
+    "name:bre_x_preferred":[
+        "Skiant"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0442\u0438\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Sentit"
+    ],
+    "name:ces_x_preferred":[
+        "Smysl"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06be\u06c6\u0634\u06d5"
+    ],
+    "name:dan_x_preferred":[
+        "Sans"
+    ],
+    "name:deu_x_preferred":[
+        "Sinn"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03af\u03c3\u03b8\u03b7\u03c3\u03b7"
+    ],
+    "name:epo_x_preferred":[
+        "Senso"
+    ],
+    "name:est_x_preferred":[
+        "Meeled"
+    ],
+    "name:eus_x_preferred":[
+        "Zentzumen"
+    ],
+    "name:fin_x_preferred":[
+        "Aisti"
+    ],
+    "name:fra_x_preferred":[
+        "Sens"
+    ],
+    "name:glg_x_preferred":[
+        "Sentido"
+    ],
+    "name:hat_x_preferred":[
+        "Sans"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0902\u0935\u0947\u0926"
+    ],
+    "name:hrv_x_preferred":[
+        "Osjeti"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9rz\u00e9kel\u00e9s"
+    ],
+    "name:ido_x_preferred":[
+        "Senso"
+    ],
+    "name:ina_x_preferred":[
+        "Senso"
+    ],
+    "name:ind_x_preferred":[
+        "Indra"
+    ],
+    "name:isl_x_preferred":[
+        "Skynf\u00e6ri"
+    ],
+    "name:kab_x_preferred":[
+        "Tinliwin"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0c82\u0ca6\u0ccd\u0cb0\u0cbf\u0caf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u04af\u0439\u0441\u0456\u043a"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0435\u0437\u0438\u043c"
+    ],
+    "name:lat_x_preferred":[
+        "Sensus"
+    ],
+    "name:lit_x_preferred":[
+        "Poj\u016btis"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u093e\u0923\u0940\u0935"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0442\u0438\u043b\u043d\u0438 \u043e\u0440\u0433\u0430\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Deria"
+    ],
+    "name:nld_x_preferred":[
+        "Zintuig"
+    ],
+    "name:oci_x_preferred":[
+        "Sens"
+    ],
+    "name:pol_x_preferred":[
+        "Zmys\u0142"
+    ],
+    "name:que_x_preferred":[
+        "Musyay"
+    ],
+    "name:ron_x_preferred":[
+        "Sim\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0449\u0443\u0449\u0435\u043d\u0438\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Sense"
+    ],
+    "name:slk_x_preferred":[
+        "Telesn\u00fd zmysel"
+    ],
+    "name:sna_x_preferred":[
+        "Hunzwi"
+    ],
+    "name:snd_x_preferred":[
+        "\u062d\u0648\u0627\u0633"
+    ],
+    "name:spa_x_preferred":[
+        "Sentido"
+    ],
+    "name:srp_x_preferred":[
+        "Ljudska \u010dula"
+    ],
+    "name:swe_x_preferred":[
+        "Sinne"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e30\u0e2a\u0e32\u0e17\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Duyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0434\u0447\u0443\u0442\u0442\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1c quan"
+    ],
+    "name:wln_x_preferred":[
+        "C\u00e9nk sinses"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e9\u05e4\u05d9\u05e8\u05d0\u05db\u05e5"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +216,7 @@
         }
     ],
     "wof:id":1259891441,
-    "wof:lastmodified":1536768072,
+    "wof:lastmodified":1564203186,
     "wof:name":"Sense",
     "wof:parent_id":1108782389,
     "wof:placetype":"locality",

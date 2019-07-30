@@ -25,6 +25,84 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u064a\u0646\u062f\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Liendo"
+    ],
+    "name:cat_x_preferred":[
+        "Liendo"
+    ],
+    "name:ceb_x_preferred":[
+        "Liendo"
+    ],
+    "name:epo_x_preferred":[
+        "Liendo"
+    ],
+    "name:eus_x_preferred":[
+        "Liendo"
+    ],
+    "name:fra_x_preferred":[
+        "Liendo"
+    ],
+    "name:glg_x_preferred":[
+        "Liendo"
+    ],
+    "name:hun_x_preferred":[
+        "Liendo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0565\u0576\u0564\u0578"
+    ],
+    "name:ina_x_preferred":[
+        "Liendo"
+    ],
+    "name:ita_x_preferred":[
+        "Liendo"
+    ],
+    "name:msa_x_preferred":[
+        "Liendo"
+    ],
+    "name:nld_x_preferred":[
+        "Liendo"
+    ],
+    "name:oci_x_preferred":[
+        "Liendo"
+    ],
+    "name:pol_x_preferred":[
+        "Liendo"
+    ],
+    "name:por_x_preferred":[
+        "Liendo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044c\u0435\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Liendo"
+    ],
+    "name:sqi_x_preferred":[
+        "Liendo"
+    ],
+    "name:swe_x_preferred":[
+        "Liendo"
+    ],
+    "name:tur_x_preferred":[
+        "Liendo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044c\u0454\u043d\u0434\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Liendo"
+    ],
+    "name:vie_x_preferred":[
+        "Liendo"
+    ],
+    "name:war_x_preferred":[
+        "Liendo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1242687449,
-    "wof:lastmodified":1536905680,
+    "wof:lastmodified":1564202901,
     "wof:name":"Liendo",
     "wof:parent_id":1108782501,
     "wof:placetype":"locality",

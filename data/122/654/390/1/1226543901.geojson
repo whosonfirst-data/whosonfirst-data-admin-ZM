@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makwa"
+    ],
+    "name:swe_x_preferred":[
+        "Makwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226543901,
-    "wof:lastmodified":1536999915,
+    "wof:lastmodified":1564203378,
     "wof:name":"Makwa",
     "wof:parent_id":1108782453,
     "wof:placetype":"locality",

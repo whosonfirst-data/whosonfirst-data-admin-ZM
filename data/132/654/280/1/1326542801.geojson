@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kapolo"
+    ],
+    "name:por_x_preferred":[
+        "Kapolo"
+    ],
     "name:und_x_variant":[
         "Kaporo",
         "Kapolo"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326542801,
-    "wof:lastmodified":1537716532,
+    "wof:lastmodified":1564201466,
     "wof:name":"Kapolo",
     "wof:parent_id":1108782349,
     "wof:placetype":"locality",

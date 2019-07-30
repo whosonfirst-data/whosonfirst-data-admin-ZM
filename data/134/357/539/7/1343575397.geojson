@@ -25,6 +25,21 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Konda"
+    ],
+    "name:deu_x_preferred":[
+        "Konda"
+    ],
+    "name:fra_x_preferred":[
+        "Konda"
+    ],
+    "name:ita_x_preferred":[
+        "Konda"
+    ],
+    "name:swe_x_preferred":[
+        "Konda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343575397,
-    "wof:lastmodified":1537074747,
+    "wof:lastmodified":1564201616,
     "wof:name":"Konda",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

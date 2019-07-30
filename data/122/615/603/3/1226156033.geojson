@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalusa"
+    ],
+    "name:swe_x_preferred":[
+        "Kalusa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226156033,
-    "wof:lastmodified":1537060153,
+    "wof:lastmodified":1564203335,
     "wof:name":"Kalusa",
     "wof:parent_id":1108782349,
     "wof:placetype":"locality",

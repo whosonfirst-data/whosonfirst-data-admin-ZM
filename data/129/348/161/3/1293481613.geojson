@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Makri"
+    ],
     "name:und_x_variant":[
         "Makai",
         "Makri"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293481613,
-    "wof:lastmodified":1537716519,
+    "wof:lastmodified":1564201783,
     "wof:name":"Makri",
     "wof:parent_id":1108782483,
     "wof:placetype":"locality",

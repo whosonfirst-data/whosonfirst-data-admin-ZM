@@ -31,8 +31,35 @@
     "mps:longitude":30.228103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043f\u043e\u0440\u043e\u043a\u043e\u0441\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Mporokoso"
+    ],
+    "name:deu_x_preferred":[
+        "Mporokoso"
+    ],
     "name:eng_x_preferred":[
         "Mporokoso"
+    ],
+    "name:ita_x_preferred":[
+        "Mporokoso"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u043f\u043e\u0440\u043e\u043a\u043e\u0441\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Mporokoso"
+    ],
+    "name:por_x_preferred":[
+        "Mporokoso"
+    ],
+    "name:ron_x_preferred":[
+        "Mporokoso"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u6ce2\u6d1b\u79d1\u7d22"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +96,7 @@
         }
     ],
     "wof:id":1108782467,
-    "wof:lastmodified":1553718772,
+    "wof:lastmodified":1564202516,
     "wof:name":"Mporokoso",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

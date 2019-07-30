@@ -25,6 +25,33 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nata"
+    ],
+    "name:deu_x_preferred":[
+        "Nata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03c4\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Nata"
+    ],
+    "name:glg_x_preferred":[
+        "Nata"
+    ],
+    "name:ita_x_preferred":[
+        "Nata"
+    ],
+    "name:por_x_preferred":[
+        "Nata"
+    ],
+    "name:spa_x_preferred":[
+        "Nata"
+    ],
+    "name:swe_x_preferred":[
+        "Nata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1343362097,
-    "wof:lastmodified":1536887680,
+    "wof:lastmodified":1564201502,
     "wof:name":"Nata",
     "wof:parent_id":1108782361,
     "wof:placetype":"locality",

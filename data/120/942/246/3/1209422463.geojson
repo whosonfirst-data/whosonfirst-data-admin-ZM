@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kaunda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +37,7 @@
         "gn:id":911735
     },
     "wof:country":"ZM",
-    "wof:geomhash":"eaf675e4a2aedd8f1b8e1250af49898d",
+    "wof:geomhash":"b98bf7b8f522a27f28085fce4d46e9f5",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209422463,
-    "wof:lastmodified":1536287486,
+    "wof:lastmodified":1564202331,
     "wof:name":"Kaunda",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     31.18333,
-    -14.166670000000002,
+    -14.16667,
     31.18333,
-    -14.166670000000002
+    -14.16667
 ],
   "geometry": {"coordinates":[31.18333,-14.16667],"type":"Point"}
 }

@@ -25,6 +25,51 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kasongo"
+    ],
+    "name:epo_x_preferred":[
+        "Kasongo"
+    ],
+    "name:fra_x_preferred":[
+        "Kasongo"
+    ],
+    "name:hun_x_preferred":[
+        "Kasongo"
+    ],
+    "name:ita_x_preferred":[
+        "Kasongo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10dd\u10dc\u10d2\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Kasongo"
+    ],
+    "name:ron_x_preferred":[
+        "Kasongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043e\u043d\u0433\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Kasongo"
+    ],
+    "name:swe_x_preferred":[
+        "Kasongo"
+    ],
+    "name:tgl_x_preferred":[
+        "Kasongo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u043e\u043d\u0433\u043e"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10dd\u10dc\u10d2\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u677e\u6208"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +79,7 @@
         "gn:id":912341
     },
     "wof:country":"ZM",
-    "wof:geomhash":"216906f753254fd0702b6e6a79f11c63",
+    "wof:geomhash":"1a839b197b82438755ce03c0830eb46e",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +87,7 @@
         }
     ],
     "wof:id":1209232399,
-    "wof:lastmodified":1536293596,
+    "wof:lastmodified":1564202236,
     "wof:name":"Kasongo",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +98,9 @@
 },
   "bbox": [
     22.6,
-    -15.566670000000002,
+    -15.56667,
     22.6,
-    -15.566670000000002
+    -15.56667
 ],
   "geometry": {"coordinates":[22.6,-15.56667],"type":"Point"}
 }

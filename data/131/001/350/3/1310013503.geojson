@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Davide"
+    ],
+    "name:ita_x_preferred":[
+        "Davide"
+    ],
+    "name:slv_x_preferred":[
+        "Davide"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310013503,
-    "wof:lastmodified":1536630058,
+    "wof:lastmodified":1564202597,
     "wof:name":"Davide",
     "wof:parent_id":1108782395,
     "wof:placetype":"locality",

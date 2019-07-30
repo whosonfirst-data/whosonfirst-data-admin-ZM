@@ -25,6 +25,24 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chapa"
+    ],
+    "name:deu_x_preferred":[
+        "Chapa"
+    ],
+    "name:glg_x_preferred":[
+        "Chapa"
+    ],
+    "name:nld_x_preferred":[
+        "Chapa"
+    ],
+    "name:por_x_preferred":[
+        "Chapa"
+    ],
+    "name:swe_x_preferred":[
+        "Chapa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1327335433,
-    "wof:lastmodified":1536819939,
+    "wof:lastmodified":1564201376,
     "wof:name":"Chapa",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

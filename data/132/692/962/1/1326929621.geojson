@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chikola"
+    ],
+    "name:ita_x_preferred":[
+        "Chikola"
+    ],
+    "name:swa_x_preferred":[
+        "Chikola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326929621,
-    "wof:lastmodified":1536908822,
+    "wof:lastmodified":1564201319,
     "wof:name":"Chikola",
     "wof:parent_id":1108782469,
     "wof:placetype":"locality",

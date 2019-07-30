@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mfue"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5bcc\u97cb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293291893,
-    "wof:lastmodified":1537576393,
+    "wof:lastmodified":1564201906,
     "wof:name":"Mfuwe",
     "wof:parent_id":1108782433,
     "wof:placetype":"locality",

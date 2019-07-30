@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chifubu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326826995,
-    "wof:lastmodified":1537576392,
+    "wof:lastmodified":1564201405,
     "wof:name":"Chifubu",
     "wof:parent_id":1108782383,
     "wof:placetype":"locality",

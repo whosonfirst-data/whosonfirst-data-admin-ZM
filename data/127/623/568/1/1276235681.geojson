@@ -25,6 +25,24 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Y\u00fassuf"
+    ],
+    "name:deu_x_preferred":[
+        "Yusuf"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0578\u0582\u057d\u0578\u0582\u0586"
+    ],
+    "name:ind_x_preferred":[
+        "Yusuf"
+    ],
+    "name:spa_x_preferred":[
+        "Yusuf"
+    ],
+    "name:swa_x_preferred":[
+        "Yusufu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276235681,
-    "wof:lastmodified":1536909767,
+    "wof:lastmodified":1564202084,
     "wof:name":"Yusuf",
     "wof:parent_id":1108782393,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kazumba"
+    ],
+    "name:swe_x_preferred":[
+        "Kazumba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209908939,
-    "wof:lastmodified":1536380882,
+    "wof:lastmodified":1564202202,
     "wof:name":"Kazumba",
     "wof:parent_id":1108782453,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09be\u09a8\u0997\u09be\u09b2\u09be"
+    ],
+    "name:fra_x_preferred":[
+        "Wangala"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0902\u0917\u093e\u0932\u093e"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b99\u0bcd\u0b95\u0bbe\u0bb2\u0bbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1193015057,
-    "wof:lastmodified":1536379370,
+    "wof:lastmodified":1564202391,
     "wof:name":"Wangala",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chomba"
+    ],
     "name:und_x_variant":[
         "Chombe",
         "Chomba"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242871009,
-    "wof:lastmodified":1537716549,
+    "wof:lastmodified":1564202874,
     "wof:name":"Chomba",
     "wof:parent_id":890427539,
     "wof:placetype":"locality",

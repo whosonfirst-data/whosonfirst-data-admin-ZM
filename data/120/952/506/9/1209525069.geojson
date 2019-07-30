@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sikonge"
+    ],
+    "name:ita_x_preferred":[
+        "Sikonge"
+    ],
+    "name:swa_x_preferred":[
+        "Sikonge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209525069,
-    "wof:lastmodified":1536284456,
+    "wof:lastmodified":1564202210,
     "wof:name":"Sikonge",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

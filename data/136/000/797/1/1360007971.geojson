@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kalovo"
+    ],
     "name:und_x_variant":[
         "Kalobo",
         "Kalovo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1360007971,
-    "wof:lastmodified":1537716539,
+    "wof:lastmodified":1564202691,
     "wof:name":"Kalovo",
     "wof:parent_id":1108782437,
     "wof:placetype":"locality",

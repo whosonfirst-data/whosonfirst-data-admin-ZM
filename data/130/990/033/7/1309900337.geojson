@@ -25,6 +25,24 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chula"
+    ],
+    "name:deu_x_preferred":[
+        "Chula"
+    ],
+    "name:por_x_preferred":[
+        "Chula"
+    ],
+    "name:swe_x_preferred":[
+        "Chula"
+    ],
+    "name:tha_x_preferred":[
+        "Chula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Chiela",
         "Chula"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309900337,
-    "wof:lastmodified":1537716548,
+    "wof:lastmodified":1564202773,
     "wof:name":"Chula",
     "wof:parent_id":1108782487,
     "wof:placetype":"locality",

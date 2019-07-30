@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mukwe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226663733,
-    "wof:lastmodified":1537576383,
+    "wof:lastmodified":1564203293,
     "wof:name":"Mukwe",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

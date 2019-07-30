@@ -25,6 +25,45 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kenneth"
+    ],
+    "name:epo_x_preferred":[
+        "Kenneth"
+    ],
+    "name:fin_x_preferred":[
+        "Kenneth"
+    ],
+    "name:gla_x_preferred":[
+        "Coinneach"
+    ],
+    "name:glg_x_preferred":[
+        "Kenneth"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05ea"
+    ],
+    "name:ita_x_preferred":[
+        "Kenneth"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30cd\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ub124\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Canicus"
+    ],
+    "name:nor_x_preferred":[
+        "Kenneth"
+    ],
+    "name:spa_x_preferred":[
+        "Kenneth"
+    ],
+    "name:swe_x_preferred":[
+        "Kennet"
+    ],
     "name:und_x_variant":[
         "Keneth",
         "Kenneth"
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1242896627,
-    "wof:lastmodified":1537716454,
+    "wof:lastmodified":1564202880,
     "wof:name":"Kenneth",
     "wof:parent_id":1108782469,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Paulo"
+    ],
+    "name:fra_x_preferred":[
+        "Paulo"
+    ],
+    "name:ita_x_preferred":[
+        "Paulo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a6\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\uc6b8\ub8e8"
+    ],
+    "name:spa_x_preferred":[
+        "Paulo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276476529,
-    "wof:lastmodified":1537081038,
+    "wof:lastmodified":1564202078,
     "wof:name":"Paulo",
     "wof:parent_id":1108782469,
     "wof:placetype":"locality",

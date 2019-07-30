@@ -31,8 +31,29 @@
     "mps:longitude":25.137631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Mufumbwe"
+    ],
     "name:eng_x_preferred":[
         "Mufumbwe"
+    ],
+    "name:ita_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0443\u0444\u0443\u043c\u0431\u0432\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:por_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:ron_x_preferred":[
+        "Mufumbwe"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5bcc\u59c6\u5e03\u97cb"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1108782447,
-    "wof:lastmodified":1553718771,
+    "wof:lastmodified":1564202506,
     "wof:name":"Mufumbwe",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

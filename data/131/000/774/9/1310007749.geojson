@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngoni"
+    ],
+    "name:fra_x_preferred":[
+        "Ngoni"
+    ],
+    "name:pol_x_preferred":[
+        "Ngoni"
+    ],
+    "name:swe_x_preferred":[
+        "Ngoni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310007749,
-    "wof:lastmodified":1536639030,
+    "wof:lastmodified":1564202574,
     "wof:name":"Ngoni",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

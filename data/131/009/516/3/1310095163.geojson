@@ -25,6 +25,27 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mapiri"
+    ],
+    "name:deu_x_preferred":[
+        "Mapiri"
+    ],
+    "name:fra_x_preferred":[
+        "Mapiri"
+    ],
+    "name:pol_x_preferred":[
+        "Mapiri"
+    ],
+    "name:que_x_preferred":[
+        "Mapiri"
+    ],
+    "name:spa_x_preferred":[
+        "Mapiri"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u76ae\u91cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310095163,
-    "wof:lastmodified":1537010736,
+    "wof:lastmodified":1564202575,
     "wof:name":"Mapiri",
     "wof:parent_id":1108782417,
     "wof:placetype":"locality",

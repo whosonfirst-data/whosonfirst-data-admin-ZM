@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nseluka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209913265,
-    "wof:lastmodified":1537576374,
+    "wof:lastmodified":1564202177,
     "wof:name":"Nseluka",
     "wof:parent_id":1108782461,
     "wof:placetype":"locality",

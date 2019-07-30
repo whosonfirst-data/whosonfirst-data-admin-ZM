@@ -25,6 +25,33 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0442\u0435\u0436\u0438 \u0422\u0435\u0436\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Itezhi Tezhi"
+    ],
+    "name:ita_x_preferred":[
+        "Itezhi Tezhi"
+    ],
+    "name:lit_x_preferred":[
+        "Ite\u017ei Te\u017eis"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0418\u0442\u0435\u0436\u0438 \u0422\u0435\u0436\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Itezhi-Tezhi"
+    ],
+    "name:por_x_preferred":[
+        "Itezhi Tezhi"
+    ],
+    "name:ron_x_preferred":[
+        "Itezhi-Tezhi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0442\u0435\u0436\u0438-\u0422\u0435\u0436\u0438"
+    ],
     "name:und_x_variant":[
         "Itezhitezhi"
     ],
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1310127263,
-    "wof:lastmodified":1537716569,
+    "wof:lastmodified":1564202534,
     "wof:name":"Itezhi-Tezhi",
     "wof:parent_id":1108782479,
     "wof:placetype":"locality",

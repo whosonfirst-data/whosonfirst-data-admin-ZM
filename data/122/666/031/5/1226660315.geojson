@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e9e\u7d0d\u99ac\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226660315,
-    "wof:lastmodified":1536837355,
+    "wof:lastmodified":1564203291,
     "wof:name":"Yanama",
     "wof:parent_id":1108782501,
     "wof:placetype":"locality",

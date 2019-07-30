@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbinga"
+    ],
+    "name:deu_x_preferred":[
+        "Mbinga"
+    ],
+    "name:fra_x_preferred":[
+        "Mbinga"
+    ],
     "name:und_x_variant":[
         "Binga",
         "Mbinga"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326942079,
-    "wof:lastmodified":1537716511,
+    "wof:lastmodified":1564201309,
     "wof:name":"Mbinga",
     "wof:parent_id":1108782385,
     "wof:placetype":"locality",

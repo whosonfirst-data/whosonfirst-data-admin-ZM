@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chinga"
+    ],
+    "name:deu_x_preferred":[
+        "Chinga"
+    ],
+    "name:swe_x_preferred":[
+        "Chinga"
+    ],
     "name:und_x_variant":[
         "Chiinga",
         "Chinga"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1193007223,
-    "wof:lastmodified":1537716557,
+    "wof:lastmodified":1564202388,
     "wof:name":"Chinga",
     "wof:parent_id":1108782427,
     "wof:placetype":"locality",

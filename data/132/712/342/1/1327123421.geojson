@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Chisato"
+    ],
     "name:und_x_variant":[
         "Chisotu",
         "Chisoru Mwendo",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327123421,
-    "wof:lastmodified":1537716457,
+    "wof:lastmodified":1564201345,
     "wof:name":"Chisato",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

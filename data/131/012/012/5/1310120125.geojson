@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Neta"
+    ],
+    "name:deu_x_preferred":[
+        "Neta"
+    ],
+    "name:fra_x_preferred":[
+        "Neta"
+    ],
+    "name:swe_x_preferred":[
+        "Neta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310120125,
-    "wof:lastmodified":1536974810,
+    "wof:lastmodified":1564202530,
     "wof:name":"Neta",
     "wof:parent_id":1108782505,
     "wof:placetype":"locality",

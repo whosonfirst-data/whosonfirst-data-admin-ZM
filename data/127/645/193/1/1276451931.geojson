@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Meleke"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05df \u05d9\u05e8\u05d5\u05e9\u05dc\u05de\u05d9\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Meleke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276451931,
-    "wof:lastmodified":1536617457,
+    "wof:lastmodified":1564202002,
     "wof:name":"Meleke",
     "wof:parent_id":1108782361,
     "wof:placetype":"locality",

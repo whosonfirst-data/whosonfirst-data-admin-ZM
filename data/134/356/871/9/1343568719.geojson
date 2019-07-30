@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kalewa"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u101c\u1031\u1038\u101d\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Kalewa"
+    ],
     "name:und_x_variant":[
         "Kalewe",
         "Kalewa"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343568719,
-    "wof:lastmodified":1537716540,
+    "wof:lastmodified":1564201629,
     "wof:name":"Kalewa",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

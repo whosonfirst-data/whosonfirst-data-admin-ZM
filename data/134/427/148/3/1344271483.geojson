@@ -25,6 +25,21 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Nguni"
+    ],
+    "name:ceb_x_preferred":[
+        "Nguni"
+    ],
+    "name:fra_x_preferred":[
+        "Nguni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0443\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Nguni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344271483,
-    "wof:lastmodified":1537065241,
+    "wof:lastmodified":1564201668,
     "wof:name":"Nguni",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

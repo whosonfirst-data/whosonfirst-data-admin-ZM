@@ -13,6 +13,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Nakonde"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u043d\u0434\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Nakonde"
+    ],
+    "name:por_x_preferred":[
+        "Nakonde"
+    ],
+    "name:spa_x_preferred":[
+        "Nakonde"
+    ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":175555,
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":421178439,
-    "wof:lastmodified":1505340637,
+    "wof:lastmodified":1564202831,
     "wof:name":"Nakonde",
     "wof:parent_id":1108782435,
     "wof:placetype":"locality",

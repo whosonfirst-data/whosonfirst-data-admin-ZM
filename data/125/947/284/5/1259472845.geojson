@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0631\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Turnverein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30ca\u30fc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259472845,
-    "wof:lastmodified":1536873149,
+    "wof:lastmodified":1564203126,
     "wof:name":"Turners",
     "wof:parent_id":1108782421,
     "wof:placetype":"locality",

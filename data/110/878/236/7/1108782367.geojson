@@ -31,8 +31,59 @@
     "mps:longitude":27.9823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u043b\u0443\u0448\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:deu_x_preferred":[
+        "Kalulushi"
+    ],
     "name:eng_x_preferred":[
         "Kalulushi"
+    ],
+    "name:fin_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:fra_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:ita_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:lit_x_preferred":[
+        "Kalulu\u0161is"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u043b\u0443\u0448\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:por_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:ron_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u043b\u0443\u0448\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kalulushi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u043b\u0443\u0448\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u76e7\u76e7\u5e0c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +120,7 @@
         }
     ],
     "wof:id":1108782367,
-    "wof:lastmodified":1553718767,
+    "wof:lastmodified":1564202521,
     "wof:name":"Kalulushi",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

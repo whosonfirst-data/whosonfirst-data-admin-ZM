@@ -25,6 +25,33 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Mwami"
+    ],
+    "name:cat_x_preferred":[
+        "Mwami"
+    ],
+    "name:est_x_preferred":[
+        "Mwami"
+    ],
+    "name:fra_x_preferred":[
+        "Mwami"
+    ],
+    "name:hun_x_preferred":[
+        "Mwami"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30ef\u30df"
+    ],
+    "name:lit_x_preferred":[
+        "Mvamis"
+    ],
+    "name:oci_x_preferred":[
+        "Mwami"
+    ],
+    "name:spa_x_preferred":[
+        "Mwami"
+    ],
     "name:und_x_variant":[
         "Mwame",
         "Mwami"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1260170431,
-    "wof:lastmodified":1537716494,
+    "wof:lastmodified":1564202478,
     "wof:name":"Mwami",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

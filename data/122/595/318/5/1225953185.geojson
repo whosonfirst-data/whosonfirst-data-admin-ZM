@@ -25,6 +25,18 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fundi"
+    ],
+    "name:deu_x_preferred":[
+        "Fundi"
+    ],
+    "name:fra_x_preferred":[
+        "Fundi"
+    ],
+    "name:swe_x_preferred":[
+        "Fundi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1225953185,
-    "wof:lastmodified":1536857214,
+    "wof:lastmodified":1564203214,
     "wof:name":"Fundi",
     "wof:parent_id":1108782355,
     "wof:placetype":"locality",

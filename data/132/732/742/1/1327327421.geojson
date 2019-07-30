@@ -25,6 +25,24 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Choma"
+    ],
+    "name:deu_x_preferred":[
+        "Choma"
+    ],
+    "name:ita_x_preferred":[
+        "Choma"
+    ],
+    "name:pol_x_preferred":[
+        "Choma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Choma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1327327421,
-    "wof:lastmodified":1536831433,
+    "wof:lastmodified":1564201382,
     "wof:name":"Choma",
     "wof:parent_id":1108782431,
     "wof:placetype":"locality",

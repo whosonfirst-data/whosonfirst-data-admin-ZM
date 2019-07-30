@@ -25,6 +25,9 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Chitete"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343773747,
-    "wof:lastmodified":1536792043,
+    "wof:lastmodified":1564201575,
     "wof:name":"Chitete",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

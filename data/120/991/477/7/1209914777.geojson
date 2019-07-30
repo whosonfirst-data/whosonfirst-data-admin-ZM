@@ -25,6 +25,15 @@
     "iso:country":"ZM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kashikishi"
+    ],
+    "name:ita_x_preferred":[
+        "Kashikishi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0438\u043a\u0438\u0448\u0438"
+    ],
     "name:und_x_variant":[
         "Kasikisi",
         "Kasnikishi",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209914777,
-    "wof:lastmodified":1537716455,
+    "wof:lastmodified":1564202173,
     "wof:name":"Kashikishi",
     "wof:parent_id":1108782411,
     "wof:placetype":"locality",
