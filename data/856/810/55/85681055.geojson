@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NR"
+    ],
     "lbl:latitude":-9.629725,
     "lbl:longitude":30.842388,
     "mps:latitude":-9.204202,
@@ -233,7 +236,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563375611,
+    "wof:lastmodified":1565740529,
     "wof:name":"Northern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

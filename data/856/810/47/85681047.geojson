@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LP"
+    ],
     "lbl:latitude":-11.638524,
     "lbl:longitude":29.227935,
     "mps:latitude":-11.656619,
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85681047,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563375615,
+    "wof:lastmodified":1565740530,
     "wof:name":"Luapula",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

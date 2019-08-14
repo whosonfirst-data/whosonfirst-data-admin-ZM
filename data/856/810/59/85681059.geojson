@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "lbl:latitude":-14.150712,
     "lbl:longitude":29.331666,
     "mps:latitude":-14.527169,
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85681059,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563375606,
+    "wof:lastmodified":1565740526,
     "wof:name":"Central",
     "wof:parent_id":85632559,
     "wof:placetype":"region",
