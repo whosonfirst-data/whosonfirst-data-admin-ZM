@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"25.16333,-16.70333,25.20333,-16.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":904081
     },
     "wof:country":"ZM",
-    "wof:geomhash":"f53621e714f52571e89f90d0449561d6",
+    "wof:geomhash":"20458ad546b680b22c6af810271635bb",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209314941,
-    "wof:lastmodified":1536290898,
+    "wof:lastmodified":1566665413,
     "wof:name":"Mupengu",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     25.18333,
-    -16.683329999999998,
+    -16.68333,
     25.18333,
-    -16.683329999999998
+    -16.68333
 ],
   "geometry": {"coordinates":[25.18333,-16.68333],"type":"Point"}
 }

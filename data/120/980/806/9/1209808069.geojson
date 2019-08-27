@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"24.46429,-13.24423,24.50429,-13.20423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209808069,
-    "wof:lastmodified":1536387698,
+    "wof:lastmodified":1566665547,
     "wof:name":"Lyale",
     "wof:parent_id":1108782443,
     "wof:placetype":"locality",

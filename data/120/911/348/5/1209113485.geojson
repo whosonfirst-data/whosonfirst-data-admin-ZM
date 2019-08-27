@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.83,-13.45333,32.87,-13.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":901024
     },
     "wof:country":"ZM",
-    "wof:geomhash":"dab4007fafd2df1d82ff974d7211858a",
+    "wof:geomhash":"1ce6b295a7e58327004fc9c7cc0f64e7",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209113485,
-    "wof:lastmodified":1536297329,
+    "wof:lastmodified":1566665534,
     "wof:name":"Ngubudu",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     32.85,
-    -13.433329999999998,
+    -13.43333,
     32.85,
-    -13.433329999999998
+    -13.43333
 ],
   "geometry": {"coordinates":[32.85,-13.43333],"type":"Point"}
 }

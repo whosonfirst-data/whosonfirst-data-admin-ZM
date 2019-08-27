@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.27872,-17.47597,27.31872,-17.43597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Siatwinda"
     ],
     "name:eng_x_variant":[
-        "Siatwindu"
-    ],
-    "name:und_x_variant":[
         "Siatwindu"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1210037635,
-    "wof:lastmodified":1537716467,
+    "wof:lastmodified":1566665585,
     "wof:name":"Siatwinda",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

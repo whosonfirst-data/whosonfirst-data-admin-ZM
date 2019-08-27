@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.07138,-16.09736,26.11138,-16.05736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":901582
     },
     "wof:country":"ZM",
-    "wof:geomhash":"fea395028b819c70d94cf8caef4e28a3",
+    "wof:geomhash":"46521e232685a1125286c2e86a1cb775",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209206309,
-    "wof:lastmodified":1536294443,
+    "wof:lastmodified":1566665541,
     "wof:name":"Nanzhila",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     26.09138,
-    -16.077360000000002,
+    -16.07736,
     26.09138,
-    -16.077360000000002
+    -16.07736
 ],
   "geometry": {"coordinates":[26.09138,-16.07736],"type":"Point"}
 }

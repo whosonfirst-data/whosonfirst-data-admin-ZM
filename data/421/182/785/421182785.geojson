@@ -10,6 +10,9 @@
     "geom:latitude":-14.55656,
     "geom:longitude":30.8149,
     "iso:country":"ZM",
+    "lbl:bbox":"30.7949,-14.57656,30.8349,-14.53656",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -167,7 +170,7 @@
     "wof:concordances":{
         "gn:id":900056,
         "gp:id":1573574,
-        "qs:id":945106,
+        "qs_pg:id":945106,
         "wd:id":"Q3031656"
     },
     "wof:country":"ZM",
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421182785,
-    "wof:lastmodified":1563376680,
+    "wof:lastmodified":1566665961,
     "wof:name":"Nyimba",
     "wof:parent_id":1108782395,
     "wof:placetype":"locality",

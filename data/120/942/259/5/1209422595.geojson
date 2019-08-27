@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.84116,-14.35423,31.88116,-14.31423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":906169
     },
     "wof:country":"ZM",
-    "wof:geomhash":"aa8247de0256eba66b4eacf96a94288c",
+    "wof:geomhash":"3cb118233934dc0d3af946d72b4ec470",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209422595,
-    "wof:lastmodified":1536287482,
+    "wof:lastmodified":1566665549,
     "wof:name":"Mngona",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     31.86116,
-    -14.334229999999998,
+    -14.33423,
     31.86116,
-    -14.334229999999998
+    -14.33423
 ],
   "geometry": {"coordinates":[31.86116,-14.33423],"type":"Point"}
 }

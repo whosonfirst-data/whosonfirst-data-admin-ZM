@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.48,-17.12,27.52,-17.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Siabuleni"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293122335,
-    "wof:lastmodified":1537716471,
+    "wof:lastmodified":1566665129,
     "wof:name":"Siabuleni",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

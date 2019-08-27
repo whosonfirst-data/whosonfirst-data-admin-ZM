@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.18,-15.20333,28.22,-15.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":898869
     },
     "wof:country":"ZM",
-    "wof:geomhash":"fdc0dcb5881732560dcabaa988e23b8c",
+    "wof:geomhash":"670bae9313f997176ae803966c3e22f0",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209524399,
-    "wof:lastmodified":1536284477,
+    "wof:lastmodified":1566665447,
     "wof:name":"Shafukuma",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     28.2,
-    -15.183329999999998,
+    -15.18333,
     28.2,
-    -15.183329999999998
+    -15.18333
 ],
   "geometry": {"coordinates":[28.2,-15.18333],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"30.03,-8.37,30.07,-8.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Museysha",
         "Musesha"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226441795,
-    "wof:lastmodified":1537716451,
+    "wof:lastmodified":1566666267,
     "wof:name":"Musesha",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.01333,-10.73667,29.05333,-10.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209839581,
-    "wof:lastmodified":1536393327,
+    "wof:lastmodified":1566665453,
     "wof:name":"Kafimbwa",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

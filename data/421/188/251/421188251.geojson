@@ -10,8 +10,12 @@
     "geom:latitude":-14.06779,
     "geom:longitude":32.43917,
     "iso:country":"ZM",
+    "lbl:bbox":"32.41917,-14.08779,32.45917,-14.04779",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0427\u0430\u0434\u0438\u0437\u0430"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":921028,
         "gp:id":1576295,
-        "qs:id":1091089,
+        "qs_pg:id":1091089,
         "wd:id":"Q1058666",
         "wk:page":"Chadiza"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421188251,
-    "wof:lastmodified":1563376664,
+    "wof:lastmodified":1566665956,
     "wof:name":"Chadiza",
     "wof:parent_id":1108782385,
     "wof:placetype":"locality",

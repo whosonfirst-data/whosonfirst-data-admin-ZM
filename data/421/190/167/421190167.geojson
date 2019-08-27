@@ -10,7 +10,12 @@
     "geom:latitude":-17.845446,
     "geom:longitude":25.885848,
     "iso:country":"ZM",
+    "lbl:bbox":"25.865848,-17.865446,25.905848,-17.825446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1571054,
-        "qs:id":1118530
+        "qs_pg:id":1118530
     },
     "wof:country":"ZM",
     "wof:created":1459009649,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421190167,
-    "wof:lastmodified":1496498212,
+    "wof:lastmodified":1566665958,
     "wof:name":"Mulamba",
     "wof:parent_id":1108782485,
     "wof:placetype":"locality",

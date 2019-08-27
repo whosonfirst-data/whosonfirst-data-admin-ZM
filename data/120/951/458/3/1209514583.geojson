@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.50506,-8.84699,31.54506,-8.80699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":176543
     },
     "wof:country":"ZM",
-    "wof:geomhash":"92168f92af9a2edebbd5fe46a9aa779b",
+    "wof:geomhash":"93d6a704581f188dc323a92ebeb09083",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209514583,
-    "wof:lastmodified":1536284774,
+    "wof:lastmodified":1566665526,
     "wof:name":"Kawimbe",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     31.52506,
-    -8.826989999999997,
+    -8.82699,
     31.52506,
-    -8.826989999999997
+    -8.82699
 ],
   "geometry": {"coordinates":[31.52506,-8.82699],"type":"Point"}
 }

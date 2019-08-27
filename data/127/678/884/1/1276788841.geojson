@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"25.44667,-12.47,25.48667,-12.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kabanga"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276788841,
-    "wof:lastmodified":1564202083,
+    "wof:lastmodified":1566665348,
     "wof:name":"Kabanga",
     "wof:parent_id":1108782451,
     "wof:placetype":"locality",

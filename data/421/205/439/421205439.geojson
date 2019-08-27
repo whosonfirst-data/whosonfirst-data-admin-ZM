@@ -10,8 +10,12 @@
     "geom:latitude":-8.76234,
     "geom:longitude":31.11405,
     "iso:country":"ZM",
+    "lbl:bbox":"31.09405,-8.78234,31.13405,-8.74234",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Mpulungu"
@@ -52,7 +56,7 @@
     "name:ron_x_preferred":[
         "Mpulungu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mpolungu"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":175961,
         "gp:id":1570515,
-        "qs:id":263168,
+        "qs_pg:id":263168,
         "wd:id":"Q1951400",
         "wk:page":"Mpulungu"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421205439,
-    "wof:lastmodified":1563376661,
+    "wof:lastmodified":1566665954,
     "wof:name":"Mpulungu",
     "wof:parent_id":1108782469,
     "wof:placetype":"locality",

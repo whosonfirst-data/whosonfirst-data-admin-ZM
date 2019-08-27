@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"25.77424,-17.31977,25.81424,-17.27977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":904877
     },
     "wof:country":"ZM",
-    "wof:geomhash":"b790948ae3aad9ce097c5ff84ac9f6c2",
+    "wof:geomhash":"5e95607b3582be1954cdc748a15a0d97",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209027999,
-    "wof:lastmodified":1536299935,
+    "wof:lastmodified":1566665527,
     "wof:name":"Mulamfu",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     25.79424,
-    -17.299770000000002,
+    -17.29977,
     25.79424,
-    -17.299770000000002
+    -17.29977
 ],
   "geometry": {"coordinates":[25.79424,-17.29977],"type":"Point"}
 }

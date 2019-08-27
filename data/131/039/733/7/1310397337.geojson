@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.38522,-17.16567,27.42522,-17.12567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sinazeze"
     ],
     "name:eng_x_variant":[
-        "Sinazezi"
-    ],
-    "name:und_x_variant":[
         "Sinazezi"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1310397337,
-    "wof:lastmodified":1537716464,
+    "wof:lastmodified":1566665765,
     "wof:name":"Sinazeze",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

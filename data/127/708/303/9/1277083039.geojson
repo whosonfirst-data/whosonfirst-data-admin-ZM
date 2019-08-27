@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.32024,-14.81347,27.36024,-14.77347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u062d\u0627\u0644\u0629"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1277083039,
-    "wof:lastmodified":1564201961,
+    "wof:lastmodified":1566665252,
     "wof:name":"Kahale",
     "wof:parent_id":1108782349,
     "wof:placetype":"locality",

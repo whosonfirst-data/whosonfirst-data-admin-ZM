@@ -10,10 +10,14 @@
     "geom:latitude":-12.539611,
     "geom:longitude":27.850021,
     "iso:country":"ZM",
+    "lbl:bbox":"27.83002071,-12.5596105765,27.87002071,-12.5196105765",
     "lbl:latitude":-12.539611,
     "lbl:longitude":27.850021,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Chingola"
     ],
@@ -220,7 +224,7 @@
         }
     ],
     "wof:id":1141906943,
-    "wof:lastmodified":1563377224,
+    "wof:lastmodified":1566666401,
     "wof:name":"Chingola",
     "wof:parent_id":1108782365,
     "wof:placetype":"locality",

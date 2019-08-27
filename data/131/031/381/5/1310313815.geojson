@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.86333,-13.58667,28.90333,-13.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Uni"
     ],
@@ -56,8 +60,7 @@
         "\u0423\u043d\u0456"
     ],
     "name:und_x_variant":[
-        "Kombolya",
-        "Uni"
+        "Kombolya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1310313815,
-    "wof:lastmodified":1564202583,
+    "wof:lastmodified":1566665750,
     "wof:name":"Uni",
     "wof:parent_id":1108782357,
     "wof:placetype":"locality",

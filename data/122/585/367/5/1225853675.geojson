@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.96054,-14.27271,27.00054,-14.23271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225853675,
-    "wof:lastmodified":1537001405,
+    "wof:lastmodified":1566666391,
     "wof:name":"Chilambi",
     "wof:parent_id":1108782359,
     "wof:placetype":"locality",

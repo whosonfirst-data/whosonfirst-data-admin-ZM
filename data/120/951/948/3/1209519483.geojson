@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.01333,-14.08667,23.05333,-14.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":901389
     },
     "wof:country":"ZM",
-    "wof:geomhash":"a65cd466bec4692d038767ba300032d8",
+    "wof:geomhash":"bbf421da69d37d2e1c72de952b5de096",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209519483,
-    "wof:lastmodified":1536284626,
+    "wof:lastmodified":1566665523,
     "wof:name":"Ndeho",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.03333,
-    -14.066670000000002,
+    -14.06667,
     23.03333,
-    -14.066670000000002
+    -14.06667
 ],
   "geometry": {"coordinates":[23.03333,-14.06667],"type":"Point"}
 }

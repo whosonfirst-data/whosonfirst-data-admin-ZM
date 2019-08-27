@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.12319,-17.1816,27.16319,-17.1416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maliko"
     ],
     "name:eng_x_variant":[
-        "Malco"
-    ],
-    "name:und_x_variant":[
         "Malco"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1259504855,
-    "wof:lastmodified":1537716517,
+    "wof:lastmodified":1566666198,
     "wof:name":"Maliko",
     "wof:parent_id":1108782473,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.58855,-11.18381,29.62855,-11.14381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u06cc\u062a\u0645\u0628\u0648"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1259784427,
-    "wof:lastmodified":1564203122,
+    "wof:lastmodified":1566666187,
     "wof:name":"Chitembo",
     "wof:parent_id":1108782413,
     "wof:placetype":"locality",

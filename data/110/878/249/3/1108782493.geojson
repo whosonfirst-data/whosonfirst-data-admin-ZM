@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.355571,
     "lbl:longitude":27.299963,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernSinazongwe",
     "meso:gadm_adm2":"Sinazongwe",
@@ -31,6 +33,7 @@
     "mps:longitude":27.299963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sinazongwe"
     ],
@@ -62,9 +65,9 @@
         "\u5e0c\u7d0d\u5b97\u683c\u97cb"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"4860",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108782493,
-    "wof:lastmodified":1564202521,
+    "wof:lastmodified":1566665699,
     "wof:name":"Sinazongwe",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

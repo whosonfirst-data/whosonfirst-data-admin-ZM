@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.01333,-15.85333,28.05333,-15.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":901277
     },
     "wof:country":"ZM",
-    "wof:geomhash":"1e0ca353c8d8ba972ac46f01b986dd38",
+    "wof:geomhash":"bbf4d208e551f3a169966a2089e6ca63",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209636635,
-    "wof:lastmodified":1536281023,
+    "wof:lastmodified":1566665442,
     "wof:name":"Nega Nega",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     28.03333,
-    -15.833329999999998,
+    -15.83333,
     28.03333,
-    -15.833329999999998
+    -15.83333
 ],
   "geometry": {"coordinates":[28.03333,-15.83333],"type":"Point"}
 }

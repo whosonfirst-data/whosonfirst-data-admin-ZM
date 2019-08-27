@@ -10,6 +10,9 @@
     "geom:latitude":-11.83431,
     "geom:longitude":31.45287,
     "iso:country":"ZM",
+    "lbl:bbox":"31.43287,-11.85431,31.47287,-11.81431",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -269,7 +272,7 @@
     "wof:concordances":{
         "gn:id":905846,
         "gp:id":1570467,
-        "qs:id":275819,
+        "qs_pg:id":275819,
         "wd:id":"Q1004510",
         "wk:page":"Mpika"
     },
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":421168765,
-    "wof:lastmodified":1563376651,
+    "wof:lastmodified":1566665951,
     "wof:name":"Mpika",
     "wof:parent_id":1108782433,
     "wof:placetype":"locality",

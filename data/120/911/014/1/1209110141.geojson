@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.94667,-14.93667,23.98667,-14.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":914034
     },
     "wof:country":"ZM",
-    "wof:geomhash":"45390257494dad2c438017f8b6f1ffda",
+    "wof:geomhash":"5ae3e5c552d17e0d3cd3ff2946eb9fcd",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209110141,
-    "wof:lastmodified":1536297434,
+    "wof:lastmodified":1566665533,
     "wof:name":"Kanala",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.96667,
-    -14.916670000000002,
+    -14.91667,
     23.96667,
-    -14.916670000000002
+    -14.91667
 ],
   "geometry": {"coordinates":[23.96667,-14.91667],"type":"Point"}
 }

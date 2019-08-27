@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.25167,-11.47956,29.29167,-11.43956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260086485,
-    "wof:lastmodified":1536982899,
+    "wof:lastmodified":1566665647,
     "wof:name":"Nsonga",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

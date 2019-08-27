@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.45546,-14.55891,27.49546,-14.51891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mwachisaka",
         "Mwanachisaka"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209013435,
-    "wof:lastmodified":1537716493,
+    "wof:lastmodified":1566665438,
     "wof:name":"Mwanachisaka",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

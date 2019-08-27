@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.38,-14.70333,26.42,-14.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":898811
     },
     "wof:country":"ZM",
-    "wof:geomhash":"ebfe3c6a1cf198c191616b8891cbe050",
+    "wof:geomhash":"84c8ae43b0765433ef9d26e39119c249",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209423895,
-    "wof:lastmodified":1536287441,
+    "wof:lastmodified":1566665554,
     "wof:name":"Shamapango",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     26.4,
-    -14.683329999999998,
+    -14.68333,
     26.4,
-    -14.683329999999998
+    -14.68333
 ],
   "geometry": {"coordinates":[26.4,-14.68333],"type":"Point"}
 }

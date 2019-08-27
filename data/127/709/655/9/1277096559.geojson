@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.63231,-13.6135,28.67231,-13.5735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277096559,
-    "wof:lastmodified":1536747550,
+    "wof:lastmodified":1566665257,
     "wof:name":"Mufusa",
     "wof:parent_id":1108782377,
     "wof:placetype":"locality",

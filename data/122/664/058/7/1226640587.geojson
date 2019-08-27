@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.16333,-17.60333,27.20333,-17.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muka"
     ],
     "name:eng_x_variant":[
-        "Muga"
-    ],
-    "name:und_x_variant":[
         "Muga"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1226640587,
-    "wof:lastmodified":1537716504,
+    "wof:lastmodified":1566666359,
     "wof:name":"Muka",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

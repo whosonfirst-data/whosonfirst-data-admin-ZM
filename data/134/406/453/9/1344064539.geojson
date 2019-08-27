@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.4175,-13.62099,32.4575,-13.58099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Misholo",
         "Mishoro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344064539,
-    "wof:lastmodified":1537716509,
+    "wof:lastmodified":1566664939,
     "wof:name":"Mishoro",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

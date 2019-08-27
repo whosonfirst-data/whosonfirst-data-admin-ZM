@@ -10,8 +10,12 @@
     "geom:latitude":-14.65685,
     "geom:longitude":28.07057,
     "iso:country":"ZM",
+    "lbl:bbox":"28.05057,-14.67685,28.09057,-14.63685",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chibombo"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":920233,
         "gp:id":1564059,
-        "qs:id":1091046,
+        "qs_pg:id":1091046,
         "wd:id":"Q1071771",
         "wk:page":"Chibombo"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421176937,
-    "wof:lastmodified":1563376682,
+    "wof:lastmodified":1566665961,
     "wof:name":"Chibombo",
     "wof:parent_id":1108782349,
     "wof:placetype":"locality",

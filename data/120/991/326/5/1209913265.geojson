@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.23375,-9.95055,31.27375,-9.91055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nseluka"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209913265,
-    "wof:lastmodified":1564202177,
+    "wof:lastmodified":1566665423,
     "wof:name":"Nseluka",
     "wof:parent_id":1108782461,
     "wof:placetype":"locality",

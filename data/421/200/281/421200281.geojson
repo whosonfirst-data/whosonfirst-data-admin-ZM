@@ -10,6 +10,9 @@
     "geom:latitude":-10.54142,
     "geom:longitude":32.08162,
     "iso:country":"ZM",
+    "lbl:bbox":"32.06162,-10.56142,32.10162,-10.52142",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0456\u043d\u0441\u0430\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chinsala"
     ],
     "name:urd_x_preferred":[
@@ -218,7 +221,7 @@
     "wof:concordances":{
         "gn:id":918905,
         "gp:id":1564744,
-        "qs:id":208838,
+        "qs_pg:id":208838,
         "wd:id":"Q1074444",
         "wk:page":"Chinsali"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":421200281,
-    "wof:lastmodified":1563376672,
+    "wof:lastmodified":1566665958,
     "wof:name":"Chinsali",
     "wof:parent_id":1108782427,
     "wof:placetype":"locality",

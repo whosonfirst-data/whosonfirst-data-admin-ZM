@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"30.98,-12.53667,31.02,-12.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Masaka"
     ],
@@ -77,8 +81,7 @@
         "Masaka"
     ],
     "name:und_x_variant":[
-        "Nkuswe",
-        "Masaka"
+        "Nkuswe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1293867773,
-    "wof:lastmodified":1564201945,
+    "wof:lastmodified":1566665240,
     "wof:name":"Masaka",
     "wof:parent_id":1108782433,
     "wof:placetype":"locality",

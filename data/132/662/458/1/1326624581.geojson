@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.98,-17.80333,27.02,-17.76333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Siawaja"
     ],
     "name:eng_x_variant":[
-        "Siawaya"
-    ],
-    "name:und_x_variant":[
         "Siawaya"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1326624581,
-    "wof:lastmodified":1537716467,
+    "wof:lastmodified":1566664859,
     "wof:name":"Siawaja",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

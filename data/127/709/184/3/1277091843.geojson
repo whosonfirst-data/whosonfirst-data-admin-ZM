@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.11333,-14.50333,22.15333,-14.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u043a\u043e\u043c\u0430"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1277091843,
-    "wof:lastmodified":1564201968,
+    "wof:lastmodified":1566665258,
     "wof:name":"Likoma",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

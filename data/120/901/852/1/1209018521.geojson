@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.99667,-15.83667,23.03667,-15.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":903835
     },
     "wof:country":"ZM",
-    "wof:geomhash":"7f1eefdce0664a49399a54af16708b99",
+    "wof:geomhash":"9335d80d33c1d5d69fb9f9cbbba163ce",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209018521,
-    "wof:lastmodified":1536300218,
+    "wof:lastmodified":1566665437,
     "wof:name":"Mushoke",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.01667,
-    -15.816670000000002,
+    -15.81667,
     23.01667,
-    -15.816670000000002
+    -15.81667
 ],
   "geometry": {"coordinates":[23.01667,-15.81667],"type":"Point"}
 }

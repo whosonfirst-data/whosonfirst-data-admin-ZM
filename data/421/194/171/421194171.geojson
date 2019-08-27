@@ -10,8 +10,12 @@
     "geom:latitude":-15.75042,
     "geom:longitude":26.43839,
     "iso:country":"ZM",
+    "lbl:bbox":"26.41839,-15.77042,26.45839,-15.73042",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Namwala"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":901766,
         "gp:id":1572779,
-        "qs:id":1029322,
+        "qs_pg:id":1029322,
         "wd:id":"Q912503",
         "wk:page":"Namwala"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421194171,
-    "wof:lastmodified":1563376656,
+    "wof:lastmodified":1566665953,
     "wof:name":"Namwala",
     "wof:parent_id":1108782491,
     "wof:placetype":"locality",

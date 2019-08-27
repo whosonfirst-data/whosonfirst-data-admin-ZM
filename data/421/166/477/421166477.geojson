@@ -10,6 +10,9 @@
     "geom:latitude":-15.76911,
     "geom:longitude":28.18136,
     "iso:country":"ZM",
+    "lbl:bbox":"28.16136,-15.78911,28.20136,-15.74911",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -263,7 +266,7 @@
     "wof:concordances":{
         "gn:id":915883,
         "gp:id":1566193,
-        "qs:id":266880,
+        "qs_pg:id":266880,
         "wd:id":"Q1022290",
         "wk:page":"Kafue"
     },
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421166477,
-    "wof:lastmodified":1563376655,
+    "wof:lastmodified":1566665952,
     "wof:name":"Kafue",
     "wof:parent_id":1108782417,
     "wof:placetype":"locality",

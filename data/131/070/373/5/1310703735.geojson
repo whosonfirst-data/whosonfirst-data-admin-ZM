@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.93298,-13.841,31.97298,-13.801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0645\u0634\u0648\u0646"
     ],
@@ -204,7 +208,7 @@
         }
     ],
     "wof:id":1310703735,
-    "wof:lastmodified":1564202549,
+    "wof:lastmodified":1566665721,
     "wof:name":"Samson",
     "wof:parent_id":1108782389,
     "wof:placetype":"locality",

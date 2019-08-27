@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.47238,-13.60173,32.51238,-13.56173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327442907,
-    "wof:lastmodified":1536665591,
+    "wof:lastmodified":1566664881,
     "wof:name":"Vuso",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

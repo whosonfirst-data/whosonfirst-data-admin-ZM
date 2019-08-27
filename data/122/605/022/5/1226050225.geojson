@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.06333,-14.02,32.10333,-13.98",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:new_x_preferred":[
         "\u0909\u0902\u0921\u093f \u092e\u0923\u094d\u0921\u0932"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226050225,
-    "wof:lastmodified":1564203264,
+    "wof:lastmodified":1566666292,
     "wof:name":"Undi",
     "wof:parent_id":1108782389,
     "wof:placetype":"locality",

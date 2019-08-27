@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"33.26333,-10.28667,33.30333,-10.24667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277060099,
-    "wof:lastmodified":1536799463,
+    "wof:lastmodified":1566665248,
     "wof:name":"Mweni Chifungwe",
     "wof:parent_id":1108782431,
     "wof:placetype":"locality",

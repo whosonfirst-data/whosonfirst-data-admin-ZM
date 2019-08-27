@@ -10,6 +10,9 @@
     "geom:latitude":-13.97147,
     "geom:longitude":28.66985,
     "iso:country":"ZM",
+    "lbl:bbox":"28.64985,-13.99147,28.68985,-13.95147",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u0456\u0440\u0456-\u041c\u043f\u043e\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kapiri Imposhi"
     ],
     "name:zho_x_preferred":[
@@ -218,7 +221,7 @@
     "wof:concordances":{
         "gn:id":913029,
         "gp:id":1567277,
-        "qs:id":1029360,
+        "qs_pg:id":1029360,
         "wd:id":"Q985822",
         "wk:page":"Kapiri Mposhi"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":421175741,
-    "wof:lastmodified":1563376668,
+    "wof:lastmodified":1566665957,
     "wof:name":"Kapiri Mposhi",
     "wof:parent_id":1108782355,
     "wof:placetype":"locality",

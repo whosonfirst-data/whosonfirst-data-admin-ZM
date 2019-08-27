@@ -10,6 +10,9 @@
     "geom:latitude":-12.54982,
     "geom:longitude":28.24071,
     "iso:country":"ZM",
+    "lbl:bbox":"28.22071,-12.56982,28.26071,-12.52982",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -244,7 +247,7 @@
     "wof:concordances":{
         "gn:id":905395,
         "gp:id":1570718,
-        "qs:id":641408,
+        "qs_pg:id":641408,
         "wd:id":"Q636209",
         "wk:page":"Mufulira"
     },
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":421168763,
-    "wof:lastmodified":1563376651,
+    "wof:lastmodified":1566665951,
     "wof:name":"Mufulira",
     "wof:parent_id":1108782381,
     "wof:placetype":"locality",

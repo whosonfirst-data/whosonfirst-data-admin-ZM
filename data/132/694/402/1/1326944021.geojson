@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.93,-15.53667,22.97,-15.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bismarckburg"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326944021,
-    "wof:lastmodified":1564201310,
+    "wof:lastmodified":1566664745,
     "wof:name":"Kasanga",
     "wof:parent_id":1108782505,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-11.73584,
     "geom:longitude":24.42926,
     "iso:country":"ZM",
+    "lbl:bbox":"24.40926,-11.75584,24.44926,-11.71584",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -56,7 +59,7 @@
     "name:spa_x_preferred":[
         "Mwinilunga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wwinilunga"
     ],
     "name:zho_x_preferred":[
@@ -185,7 +188,7 @@
     "wof:concordances":{
         "gn:id":902620,
         "gp:id":1572415,
-        "qs:id":273850,
+        "qs_pg:id":273850,
         "wd:id":"Q1956313",
         "wk:page":"Mwinilunga"
     },
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421170925,
-    "wof:lastmodified":1563376673,
+    "wof:lastmodified":1566665959,
     "wof:name":"Mwinilunga",
     "wof:parent_id":1108782449,
     "wof:placetype":"locality",

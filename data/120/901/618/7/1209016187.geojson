@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.31333,-14.08667,32.35333,-14.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":900586
     },
     "wof:country":"ZM",
-    "wof:geomhash":"01664f3ce15cbe5620ef57a82b7a9294",
+    "wof:geomhash":"710b8346e949381b7861ffe2c0539050",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209016187,
-    "wof:lastmodified":1536300292,
+    "wof:lastmodified":1566665432,
     "wof:name":"Nsadzu",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     32.33333,
-    -14.066670000000002,
+    -14.06667,
     32.33333,
-    -14.066670000000002
+    -14.06667
 ],
   "geometry": {"coordinates":[32.33333,-14.06667],"type":"Point"}
 }

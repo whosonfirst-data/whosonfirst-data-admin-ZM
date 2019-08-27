@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"24.19287,-12.80439,24.23287,-12.76439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nama"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1360307501,
-    "wof:lastmodified":1564202708,
+    "wof:lastmodified":1566665853,
     "wof:name":"Nama",
     "wof:parent_id":1108782443,
     "wof:placetype":"locality",

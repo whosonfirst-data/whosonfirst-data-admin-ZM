@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-15.406607,
     "lbl:longitude":30.104439,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Lusaka",
     "meso:dissme":"LusakaLuangwa",
     "meso:gadm_adm2":"Luangwa",
@@ -31,6 +33,7 @@
     "mps:longitude":30.104439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Luangwa"
     ],
@@ -53,9 +56,9 @@
         "Luangwa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"3471",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108782419,
-    "wof:lastmodified":1564202513,
+    "wof:lastmodified":1566665692,
     "wof:name":"Luangwa",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-12.63247,
     "geom:longitude":28.05367,
     "iso:country":"ZM",
+    "lbl:bbox":"28.03367,-12.65247,28.07367,-12.61247",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chambishi F.C."
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Chambishi F.C."
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chambezi"
     ],
     "qs:gn_country":"ZM",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":920820,
         "gp:id":1563853,
-        "qs:id":945102,
+        "qs_pg:id":945102,
         "wd:id":"Q5069688"
     },
     "wof:country":"ZM",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421182779,
-    "wof:lastmodified":1563376680,
+    "wof:lastmodified":1566665961,
     "wof:name":"Chambishi",
     "wof:parent_id":1108782367,
     "wof:placetype":"locality",

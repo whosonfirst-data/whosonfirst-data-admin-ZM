@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-15.94281,
     "lbl:longitude":26.772833,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernNamwala",
     "meso:gadm_adm2":"Itezhi-Tezhi",
@@ -31,6 +33,7 @@
     "mps:longitude":26.772833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Namwala"
     ],
@@ -62,9 +65,9 @@
         "\u7d0d\u59c6\u74e6\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"5687",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108782491,
-    "wof:lastmodified":1564202520,
+    "wof:lastmodified":1566665698,
     "wof:name":"Namwala",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

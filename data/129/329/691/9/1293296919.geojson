@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"24.58328,-16.33691,24.62328,-16.29691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293296919,
-    "wof:lastmodified":1537059132,
+    "wof:lastmodified":1566665214,
     "wof:name":"Sintema",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

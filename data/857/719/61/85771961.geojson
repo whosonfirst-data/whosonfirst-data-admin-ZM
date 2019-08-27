@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":34711347.064883,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.300894,-15.423281,28.300894,-15.423281",
     "geom:latitude":-15.423281,
     "geom:longitude":28.300894,
     "gn:latitude":-15.43333,
     "gn:longitude":28.3,
     "iso:country":"ZM",
+    "lbl:bbox":"28.295894,-15.428281,28.305894,-15.418281",
     "lbl:latitude":-15.423281,
     "lbl:longitude":28.300894,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-15.425907,
     "mps:longitude":28.299912,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Kabwata"
-    ],
-    "name:unk_x_variant":[
         "Kabwata"
     ],
     "qs:gn_adm0_cc":"ZM",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85681073,
         102191573,
         85632559,
-        1108782421,
-        85681073
+        1108782421
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":916105,
         "gp:id":1566104,
-        "qs:id":241148,
         "qs_pg:id":241148
     },
     "wof:country":"ZM",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859493,
+    "wof:lastmodified":1566665067,
     "wof:name":"Kabwata",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

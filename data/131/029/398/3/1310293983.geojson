@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.2907,-10.36617,32.3307,-10.32617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chale"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1310293983,
-    "wof:lastmodified":1564202622,
+    "wof:lastmodified":1566665782,
     "wof:name":"Chale",
     "wof:parent_id":1108782427,
     "wof:placetype":"locality",

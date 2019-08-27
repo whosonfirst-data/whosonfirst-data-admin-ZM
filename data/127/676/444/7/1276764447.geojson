@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"33.27974,-11.93073,33.31974,-11.89073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chisua",
         "Chizuwe"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276764447,
-    "wof:lastmodified":1537716549,
+    "wof:lastmodified":1566665342,
     "wof:name":"Chizuwe",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

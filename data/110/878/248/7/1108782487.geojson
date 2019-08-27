@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.02906,
     "lbl:longitude":27.954326,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernMazabuka",
     "meso:gadm_adm2":"Mazabuka",
@@ -31,6 +33,7 @@
     "mps:longitude":27.954326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mazabuka District"
     ],
@@ -71,9 +74,9 @@
         "\u99ac\u624e\u5e03\u5361\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"6242",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108782487,
-    "wof:lastmodified":1563376363,
+    "wof:lastmodified":1566665691,
     "wof:name":"Mazabuka",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

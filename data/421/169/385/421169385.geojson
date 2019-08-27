@@ -10,8 +10,12 @@
     "geom:latitude":-10.16062,
     "geom:longitude":32.63353,
     "iso:country":"ZM",
+    "lbl:bbox":"32.61353,-10.18062,32.65353,-10.14062",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Isoka"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":916668,
         "gp:id":1565813,
-        "qs:id":1300021,
+        "qs_pg:id":1300021,
         "wd:id":"Q1674448",
         "wk:page":"Isoka"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421169385,
-    "wof:lastmodified":1563376659,
+    "wof:lastmodified":1566665954,
     "wof:name":"Isoka",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

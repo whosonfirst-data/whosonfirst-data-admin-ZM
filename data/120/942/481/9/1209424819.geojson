@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.88,-15.45333,28.92,-15.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":909311
     },
     "wof:country":"ZM",
-    "wof:geomhash":"7c45dbb8be02c0e7007e20c7665da3a6",
+    "wof:geomhash":"80d5ac3995e169a3996ade23f7e466de",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209424819,
-    "wof:lastmodified":1536287414,
+    "wof:lastmodified":1566665552,
     "wof:name":"Lumwayo",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     28.9,
-    -15.433329999999998,
+    -15.43333,
     28.9,
-    -15.433329999999998
+    -15.43333
 ],
   "geometry": {"coordinates":[28.9,-15.43333],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.86005,-11.36723,32.90005,-11.32723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343556777,
-    "wof:lastmodified":1536604217,
+    "wof:lastmodified":1566664919,
     "wof:name":"Chiteba",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

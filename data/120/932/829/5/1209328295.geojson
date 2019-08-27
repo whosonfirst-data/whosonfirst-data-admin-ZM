@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.91333,-15.10333,22.95333,-15.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":921566
     },
     "wof:country":"ZM",
-    "wof:geomhash":"81002aa6ec4e9dae088fe1a7acc98a3e",
+    "wof:geomhash":"3abcf9a02408d695fcdbfb5ee684b5cc",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209328295,
-    "wof:lastmodified":1536290457,
+    "wof:lastmodified":1566665508,
     "wof:name":"Analiwa",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.93333,
-    -15.083329999999998,
+    -15.08333,
     22.93333,
-    -15.083329999999998
+    -15.08333
 ],
   "geometry": {"coordinates":[22.93333,-15.08333],"type":"Point"}
 }

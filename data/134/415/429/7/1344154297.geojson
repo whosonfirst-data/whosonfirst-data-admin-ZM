@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.80288,-13.49932,28.84288,-13.45932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "\u0f55\u0fb1\u0f74\u0f0b\u0f54\u0f0d"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344154297,
-    "wof:lastmodified":1564201545,
+    "wof:lastmodified":1566664933,
     "wof:name":"Chuba",
     "wof:parent_id":1108782377,
     "wof:placetype":"locality",

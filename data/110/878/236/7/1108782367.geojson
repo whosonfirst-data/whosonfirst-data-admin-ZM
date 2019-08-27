@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.781612,
     "lbl:longitude":27.9823,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Copperbelt",
     "meso:dissme":"CopperbeltKalulushi",
     "meso:gadm_adm2":"Kalulushi",
@@ -31,6 +33,7 @@
     "mps:longitude":27.9823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kalulushi"
     ],
@@ -86,9 +89,9 @@
         "\u5361\u76e7\u76e7\u5e0c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"725",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108782367,
-    "wof:lastmodified":1564202521,
+    "wof:lastmodified":1566665699,
     "wof:name":"Kalulushi",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

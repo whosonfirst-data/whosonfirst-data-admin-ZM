@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.39667,-13.52,22.43667,-13.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Katwanda",
         "Katwando",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243361455,
-    "wof:lastmodified":1537716541,
+    "wof:lastmodified":1566665972,
     "wof:name":"Kakwanda",
     "wof:parent_id":1108782453,
     "wof:placetype":"locality",
