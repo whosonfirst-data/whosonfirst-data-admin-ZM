@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.55688,-15.10166,29.59688,-15.06166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chimsanya",
         "Chimusania",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326825897,
-    "wof:lastmodified":1537716557,
+    "wof:lastmodified":1566664820,
     "wof:name":"Chimusanya",
     "wof:parent_id":1108782415,
     "wof:placetype":"locality",

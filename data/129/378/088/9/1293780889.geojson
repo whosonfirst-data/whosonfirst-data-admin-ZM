@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.14385,-17.0848,26.18385,-17.0448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kalenga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293780889,
-    "wof:lastmodified":1564201821,
+    "wof:lastmodified":1566665149,
     "wof:name":"Kalenga",
     "wof:parent_id":1108782483,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"30.79365,-13.16128,30.83365,-13.12128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":918528
     },
     "wof:country":"ZM",
-    "wof:geomhash":"e91bdf1f8490f6ce83b50e675940bffb",
+    "wof:geomhash":"500a0947d1a9526279e866721a5a999c",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209013277,
-    "wof:lastmodified":1536300376,
+    "wof:lastmodified":1566665437,
     "wof:name":"Chiputwa",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.81365,
-    -13.141279999999998,
+    -13.14128,
     30.81365,
-    -13.141279999999998
+    -13.14128
 ],
   "geometry": {"coordinates":[30.81365,-13.14128],"type":"Point"}
 }

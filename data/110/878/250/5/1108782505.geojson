@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.114845,
     "lbl:longitude":23.55872,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Western",
     "meso:dissme":"WesternSenanga",
     "meso:gadm_adm2":"Senanga",
@@ -31,6 +33,7 @@
     "mps:longitude":23.55872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Senanga"
     ],
@@ -68,9 +71,9 @@
         "\u585e\u5357\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"15537",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108782505,
-    "wof:lastmodified":1564202509,
+    "wof:lastmodified":1566665688,
     "wof:name":"Senanga",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

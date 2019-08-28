@@ -10,6 +10,9 @@
     "geom:latitude":-17.47593,
     "geom:longitude":24.29684,
     "iso:country":"ZM",
+    "lbl:bbox":"24.27684,-17.49593,24.31684,-17.45593",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0448\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shesheke"
     ],
     "name:zho_x_preferred":[
@@ -197,7 +200,7 @@
     "wof:concordances":{
         "gn:id":898905,
         "gp:id":1574353,
-        "qs:id":1093119,
+        "qs_pg:id":1093119,
         "wd:id":"Q1756357",
         "wk:page":"Sesheke"
     },
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421176965,
-    "wof:lastmodified":1563376681,
+    "wof:lastmodified":1566665961,
     "wof:name":"Sesheke",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

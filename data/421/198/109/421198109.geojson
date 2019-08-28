@@ -10,8 +10,12 @@
     "geom:latitude":-15.45,
     "geom:longitude":28.33333,
     "iso:country":"ZM",
+    "lbl:bbox":"28.31333,-15.47,28.35333,-15.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chilenje"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":919568,
         "gp:id":1564388,
-        "qs:id":1041694,
+        "qs_pg:id":1041694,
         "wd:id":"Q16890309"
     },
     "wof:country":"ZM",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421198109,
-    "wof:lastmodified":1561840380,
+    "wof:lastmodified":1566665958,
     "wof:name":"Chilenje",
     "wof:parent_id":1108782421,
     "wof:placetype":"locality",

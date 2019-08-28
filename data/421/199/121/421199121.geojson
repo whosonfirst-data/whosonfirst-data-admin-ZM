@@ -10,6 +10,9 @@
     "geom:latitude":-14.97004,
     "geom:longitude":22.68138,
     "iso:country":"ZM",
+    "lbl:bbox":"22.66138,-14.99004,22.70138,-14.95004",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -176,7 +179,7 @@
     "wof:concordances":{
         "gn:id":915471,
         "gp:id":1566360,
-        "qs:id":189296,
+        "qs_pg:id":189296,
         "wd:id":"Q1015056",
         "wk:page":"Kalabo"
     },
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":421199121,
-    "wof:lastmodified":1563376671,
+    "wof:lastmodified":1566665958,
     "wof:name":"Kalabo",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

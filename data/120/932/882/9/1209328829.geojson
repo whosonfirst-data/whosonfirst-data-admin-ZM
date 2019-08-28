@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.96333,-15.60333,23.00333,-15.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":919705
     },
     "wof:country":"ZM",
-    "wof:geomhash":"8a46cfbf303442a04d3a86ba8876856a",
+    "wof:geomhash":"9dd1fa6a001023e180ff06810a46ae9a",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209328829,
-    "wof:lastmodified":1536290440,
+    "wof:lastmodified":1566665511,
     "wof:name":"Chikwama",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.98333,
-    -15.583329999999998,
+    -15.58333,
     22.98333,
-    -15.583329999999998
+    -15.58333
 ],
   "geometry": {"coordinates":[22.98333,-15.58333],"type":"Point"}
 }

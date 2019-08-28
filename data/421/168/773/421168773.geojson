@@ -10,6 +10,9 @@
     "geom:latitude":-13.45836,
     "geom:longitude":25.8338,
     "iso:country":"ZM",
+    "lbl:bbox":"25.8138,-13.47836,25.8538,-13.43836",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -53,7 +56,7 @@
     "name:spa_x_preferred":[
         "Kasempa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kasama"
     ],
     "name:zho_x_preferred":[
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gn:id":912628,
         "gp:id":1567451,
-        "qs:id":273856,
+        "qs_pg:id":273856,
         "wd:id":"Q1734917",
         "wk:page":"Kasempa"
     },
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421168773,
-    "wof:lastmodified":1563376654,
+    "wof:lastmodified":1566665952,
     "wof:name":"Kasempa",
     "wof:parent_id":1108782445,
     "wof:placetype":"locality",

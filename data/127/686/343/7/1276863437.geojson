@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.17643,-17.3344,26.21643,-17.2944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0430"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276863437,
-    "wof:lastmodified":1564201980,
+    "wof:lastmodified":1566665266,
     "wof:name":"Zimba",
     "wof:parent_id":1108782481,
     "wof:placetype":"locality",

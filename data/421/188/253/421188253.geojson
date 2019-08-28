@@ -10,6 +10,9 @@
     "geom:latitude":-16.11667,
     "geom:longitude":23.26667,
     "iso:country":"ZM",
+    "lbl:bbox":"23.24667,-16.13667,23.28667,-16.09667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -59,7 +62,7 @@
     "name:spa_x_preferred":[
         "Senanga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sinanga"
     ],
     "name:zho_x_preferred":[
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":898947,
         "gp:id":1574332,
-        "qs:id":1091083,
+        "qs_pg:id":1091083,
         "wd:id":"Q569090",
         "wk:page":"Senanga"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421188253,
-    "wof:lastmodified":1563376665,
+    "wof:lastmodified":1566665956,
     "wof:name":"Senanga",
     "wof:parent_id":1108782505,
     "wof:placetype":"locality",

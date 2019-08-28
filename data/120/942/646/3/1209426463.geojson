@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.26333,-14.35333,31.30333,-14.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":920548
     },
     "wof:country":"ZM",
-    "wof:geomhash":"55afe2254f8211fd6106b2547ec3f893",
+    "wof:geomhash":"42dc702ebd86902c95a5cdbe383e25d8",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209426463,
-    "wof:lastmodified":1536287368,
+    "wof:lastmodified":1566665552,
     "wof:name":"Chapera",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     31.28333,
-    -14.333329999999998,
+    -14.33333,
     31.28333,
-    -14.333329999999998
+    -14.33333
 ],
   "geometry": {"coordinates":[31.28333,-14.33333],"type":"Point"}
 }

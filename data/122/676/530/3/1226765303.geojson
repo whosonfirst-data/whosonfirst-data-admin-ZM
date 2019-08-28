@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"24.59514,-14.73912,24.63514,-14.69912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mutondo",
         "Mwene-Mutonde",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226765303,
-    "wof:lastmodified":1537716491,
+    "wof:lastmodified":1566666335,
     "wof:name":"Mwene Mutondo",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",

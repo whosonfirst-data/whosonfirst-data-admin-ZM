@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.44933,-8.87132,31.48933,-8.83132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kowa"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209038461,
-    "wof:lastmodified":1564202285,
+    "wof:lastmodified":1566665513,
     "wof:name":"Kowa",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

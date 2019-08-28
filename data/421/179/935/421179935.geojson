@@ -10,6 +10,9 @@
     "geom:latitude":-14.4469,
     "geom:longitude":28.44644,
     "iso:country":"ZM",
+    "lbl:bbox":"28.42644,-14.4669,28.46644,-14.4269",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0431\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Broken Hill"
     ],
     "name:urd_x_preferred":[
@@ -265,7 +268,7 @@
     "wof:concordances":{
         "gn:id":916095,
         "gp:id":1566111,
-        "qs:id":266886,
+        "qs_pg:id":266886,
         "wd:id":"Q216902",
         "wk:page":"Kabwe"
     },
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421179935,
-    "wof:lastmodified":1563376675,
+    "wof:lastmodified":1566665959,
     "wof:name":"Kabwe",
     "wof:parent_id":1108782353,
     "wof:placetype":"locality",

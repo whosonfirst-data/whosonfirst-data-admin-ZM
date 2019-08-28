@@ -10,8 +10,12 @@
     "geom:latitude":-11.21304,
     "geom:longitude":33.1521,
     "iso:country":"ZM",
+    "lbl:bbox":"33.1321,-11.23304,33.1721,-11.19304",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0427\u0430\u043c\u0430"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":920901,
         "gp:id":1563829,
-        "qs:id":130021,
+        "qs_pg:id":130021,
         "wd:id":"Q1060403",
         "wk:page":"Chama, Zambia"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421167163,
-    "wof:lastmodified":1563376658,
+    "wof:lastmodified":1566665954,
     "wof:name":"Chama",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

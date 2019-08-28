@@ -10,8 +10,12 @@
     "geom:latitude":-12.84151,
     "geom:longitude":28.09479,
     "iso:country":"ZM",
+    "lbl:bbox":"28.07479,-12.86151,28.11479,-12.82151",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Kalulushi"
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0443\u043b\u0443\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalulshi"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":914959,
         "gp:id":1566580,
-        "qs:id":183991,
+        "qs_pg:id":183991,
         "wd:id":"Q1014130",
         "wk:page":"Kalulushi"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421198635,
-    "wof:lastmodified":1563376669,
+    "wof:lastmodified":1566665957,
     "wof:name":"Kalulushi",
     "wof:parent_id":1108782371,
     "wof:placetype":"locality",

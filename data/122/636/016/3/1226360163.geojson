@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.98351,-15.21374,23.02351,-15.17374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lealui"
     ],
@@ -35,8 +39,7 @@
         "\u041b\u0435\u0430\u043b\u0443\u0457"
     ],
     "name:und_x_variant":[
-        "Lialui",
-        "Lealui"
+        "Lialui"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226360163,
-    "wof:lastmodified":1564203387,
+    "wof:lastmodified":1566666385,
     "wof:name":"Lealui",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

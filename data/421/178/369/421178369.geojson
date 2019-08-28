@@ -10,6 +10,9 @@
     "geom:latitude":-12.36475,
     "geom:longitude":27.82286,
     "iso:country":"ZM",
+    "lbl:bbox":"27.80286,-12.38475,27.84286,-12.34475",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043d\u0433\u043e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bancroft"
     ],
     "name:urd_x_preferred":[
@@ -229,10 +232,12 @@
     "wof:concordances":{
         "gn:id":919009,
         "gp:id":1564691,
-        "qs:id":279571,
-        "qs_pg:id":574521,
+        "qs_pg:id":279571,
         "wd:id":"Q431533",
         "wk:page":"Chililabombwe"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":574521
     },
     "wof:country":"ZM",
     "wof:created":1459009180,
@@ -247,7 +252,7 @@
         }
     ],
     "wof:id":421178369,
-    "wof:lastmodified":1563376679,
+    "wof:lastmodified":1566665960,
     "wof:name":"Chingola",
     "wof:parent_id":1108782363,
     "wof:placetype":"locality",

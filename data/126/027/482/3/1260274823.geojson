@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.35775,-16.53315,27.39775,-16.49315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pemba"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260274823,
-    "wof:lastmodified":1564202461,
+    "wof:lastmodified":1566665653,
     "wof:name":"Pemba",
     "wof:parent_id":1108782489,
     "wof:placetype":"locality",

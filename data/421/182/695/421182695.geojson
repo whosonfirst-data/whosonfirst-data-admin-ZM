@@ -10,8 +10,11 @@
     "geom:latitude":-15.38333,
     "geom:longitude":28.26667,
     "iso:country":"ZM",
+    "lbl:bbox":"28.26167,-15.38833,28.27167,-15.37833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":1565519,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85681073,
         102191573,
         85632559,
-        1108782421,
-        85681073
+        1108782421
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":917363,
         "gp:id":1565519,
-        "qs:id":937852
+        "qs_pg:id":937852
     },
     "wof:country":"ZM",
     "wof:created":1459009339,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421182695,
-    "wof:lastmodified":1531858490,
+    "wof:lastmodified":1566665961,
     "wof:name":"Emmasdale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

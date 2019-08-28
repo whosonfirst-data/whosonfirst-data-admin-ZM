@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"30.2971,-12.76465,30.3371,-12.72465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tande Chitabesha",
         "Tande Chitabisha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242586487,
-    "wof:lastmodified":1537716462,
+    "wof:lastmodified":1566666034,
     "wof:name":"Tande Chitabisha",
     "wof:parent_id":1108782361,
     "wof:placetype":"locality",

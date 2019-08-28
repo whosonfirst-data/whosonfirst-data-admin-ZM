@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.86122,-11.09981,29.90122,-11.05981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mbulu"
     ],
@@ -38,8 +42,7 @@
         "\u041c\u0431\u0443\u043b\u0443"
     ],
     "name:und_x_variant":[
-        "Mburu",
-        "Mbulu"
+        "Mburu"
     ],
     "name:vie_x_preferred":[
         "Mbulu"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1243196429,
-    "wof:lastmodified":1564203036,
+    "wof:lastmodified":1566666122,
     "wof:name":"Mbulu",
     "wof:parent_id":1108782413,
     "wof:placetype":"locality",

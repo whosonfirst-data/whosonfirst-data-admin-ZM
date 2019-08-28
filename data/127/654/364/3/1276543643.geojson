@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.81333,-16.17,28.85333,-16.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siamuyala",
         "Siamuyaka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276543643,
-    "wof:lastmodified":1537716468,
+    "wof:lastmodified":1566665404,
     "wof:name":"Siamuyaka",
     "wof:parent_id":890427539,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.71779,-9.43681,28.75779,-9.39681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259684185,
-    "wof:lastmodified":1537063211,
+    "wof:lastmodified":1566666207,
     "wof:name":"Kambwali",
     "wof:parent_id":1108782411,
     "wof:placetype":"locality",

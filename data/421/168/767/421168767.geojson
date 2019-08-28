@@ -10,6 +10,9 @@
     "geom:latitude":-11.19976,
     "geom:longitude":28.89431,
     "iso:country":"ZM",
+    "lbl:bbox":"28.87431,-11.21976,28.91431,-11.17976",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roseberry"
     ],
     "name:urd_x_preferred":[
@@ -229,7 +232,7 @@
     "wof:concordances":{
         "gn:id":907770,
         "gp:id":1569600,
-        "qs:id":273853,
+        "qs_pg:id":273853,
         "wd:id":"Q997069",
         "wk:page":"Mansa, Zambia"
     },
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":421168767,
-    "wof:lastmodified":1563376653,
+    "wof:lastmodified":1566665951,
     "wof:name":"Mansa",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

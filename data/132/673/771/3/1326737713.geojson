@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.83,-13.23667,31.87,-13.19667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326737713,
-    "wof:lastmodified":1536687813,
+    "wof:lastmodified":1566664737,
     "wof:name":"Mtalimanja",
     "wof:parent_id":1108782393,
     "wof:placetype":"locality",

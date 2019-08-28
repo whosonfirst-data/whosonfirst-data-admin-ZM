@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.21333,-14.47,31.25333,-14.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mafunsi",
         "Mfuse"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276229505,
-    "wof:lastmodified":1537716510,
+    "wof:lastmodified":1566665338,
     "wof:name":"Mfuse",
     "wof:parent_id":1108782397,
     "wof:placetype":"locality",

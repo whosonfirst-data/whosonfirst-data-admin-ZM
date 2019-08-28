@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-9.629725,
     "lbl:longitude":30.842388,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.204202,
     "mps:longitude":30.469023,
     "mz:hierarchy_label":1,
@@ -148,7 +149,7 @@
         "Northern"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -188,9 +189,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"77,650",
     "statoids:area_mi":"29,981",
     "statoids:as_of_date":"2010-10-16",
@@ -215,7 +216,7 @@
         "gp:id":2347807,
         "hasc:id":"ZM.NR",
         "iso:id":"ZM-05",
-        "qs:id":424152,
+        "qs_pg:id":424152,
         "unlc:id":"ZM-05",
         "wd:id":"Q778738",
         "wk:page":"Northern Province, Zambia"
@@ -236,11 +237,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565740529,
+    "wof:lastmodified":1566665070,
     "wof:name":"Northern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1105824,
     "wof:population_rank":12,

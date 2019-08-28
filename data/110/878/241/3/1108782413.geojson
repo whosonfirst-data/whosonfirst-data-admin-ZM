@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-11.66029,
     "lbl:longitude":29.755416,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Luapula",
     "meso:dissme":"LuapulaSamfya",
     "meso:gadm_adm2":"Samfya",
@@ -31,6 +33,7 @@
     "mps:longitude":29.755416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0444\u044f"
     ],
@@ -71,9 +74,9 @@
         "\u85a9\u59c6\u83f2\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"10329",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108782413,
-    "wof:lastmodified":1564202515,
+    "wof:lastmodified":1566665693,
     "wof:name":"Samfya",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.82305,-13.06861,23.86305,-13.02861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kayumbo",
         "Kayambo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326527647,
-    "wof:lastmodified":1537716528,
+    "wof:lastmodified":1566664837,
     "wof:name":"Kayombo",
     "wof:parent_id":1108782443,
     "wof:placetype":"locality",

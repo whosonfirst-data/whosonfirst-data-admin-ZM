@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.68373,-14.11882,31.72373,-14.07882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":917540
     },
     "wof:country":"ZM",
-    "wof:geomhash":"e2929d2a71d1adbafe2bcb619b96757e",
+    "wof:geomhash":"e19b77bbcedc2488c92e664975cca5b9",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209113755,
-    "wof:lastmodified":1536297321,
+    "wof:lastmodified":1566665538,
     "wof:name":"Cibisa",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     31.70373,
-    -14.098820000000002,
+    -14.09882,
     31.70373,
-    -14.098820000000002
+    -14.09882
 ],
   "geometry": {"coordinates":[31.70373,-14.09882],"type":"Point"}
 }

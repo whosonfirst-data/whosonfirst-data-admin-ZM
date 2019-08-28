@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.055143,
     "lbl:longitude":24.674639,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"North Western",
     "meso:dissme":"North WesternMwinilunga",
     "meso:gadm_adm2":"Mwinilunga",
@@ -31,6 +33,7 @@
     "mps:longitude":24.674639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Mwinilunga"
     ],
@@ -71,9 +74,9 @@
         "\u59c6\u7dad\u5c3c\u502b\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"18763",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108782449,
-    "wof:lastmodified":1564202506,
+    "wof:lastmodified":1566665686,
     "wof:name":"Mwinilunga",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"24.83938,-16.16634,24.87938,-16.12634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226544007,
-    "wof:lastmodified":1536999770,
+    "wof:lastmodified":1566666378,
     "wof:name":"Sikatengwa",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

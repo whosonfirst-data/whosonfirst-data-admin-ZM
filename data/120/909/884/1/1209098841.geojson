@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.16333,-13.68667,22.20333,-13.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":913014
     },
     "wof:country":"ZM",
-    "wof:geomhash":"095dc88a15fdf2dc92bf0541fc067ec6",
+    "wof:geomhash":"46d184864c4cbaecf4cd066819bd9536",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209098841,
-    "wof:lastmodified":1536297799,
+    "wof:lastmodified":1566665410,
     "wof:name":"Kapitango",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.18333,
-    -13.666670000000002,
+    -13.66667,
     22.18333,
-    -13.666670000000002
+    -13.66667
 ],
   "geometry": {"coordinates":[22.18333,-13.66667],"type":"Point"}
 }

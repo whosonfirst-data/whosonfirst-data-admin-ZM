@@ -10,8 +10,12 @@
     "geom:latitude":-17.36667,
     "geom:longitude":27.15,
     "iso:country":"ZM",
+    "lbl:bbox":"27.13,-17.38667,27.17,-17.34667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Maamba"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":908718,
         "gp:id":1569111,
-        "qs:id":263162
+        "qs_pg:id":263162
     },
     "wof:country":"ZM",
     "wof:created":1459009238,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421179919,
-    "wof:lastmodified":1505340645,
+    "wof:lastmodified":1566665959,
     "wof:name":"Maamba",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

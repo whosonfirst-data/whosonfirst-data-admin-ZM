@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.38,-14.50333,28.42,-14.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0641\u0631\u062f"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1209528435,
-    "wof:lastmodified":1564202207,
+    "wof:lastmodified":1566665446,
     "wof:name":"Alfred",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-14.474382,
     "lbl:longitude":28.402735,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Central",
     "meso:dissme":"CentralKabwe",
     "meso:gadm_adm2":"Kabwe",
@@ -31,6 +33,7 @@
     "mps:longitude":28.402735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kabwe"
     ],
@@ -146,9 +149,9 @@
         "\u5361\u5e03\u97e6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"1572",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":1108782353,
-    "wof:lastmodified":1564202511,
+    "wof:lastmodified":1566665690,
     "wof:name":"Kabwe",
     "wof:parent_id":85681059,
     "wof:placetype":"county",

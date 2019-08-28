@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"24.56333,-15.20333,24.60333,-15.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":910200
     },
     "wof:country":"ZM",
-    "wof:geomhash":"9adb31d792d105e36f2911e310e25946",
+    "wof:geomhash":"75e8c138146859d791afda43e82b7622",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209018157,
-    "wof:lastmodified":1536300229,
+    "wof:lastmodified":1566665435,
     "wof:name":"Litakamulilo",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     24.58333,
-    -15.183329999999998,
+    -15.18333,
     24.58333,
-    -15.183329999999998
+    -15.18333
 ],
   "geometry": {"coordinates":[24.58333,-15.18333],"type":"Point"}
 }

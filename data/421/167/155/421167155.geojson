@@ -10,8 +10,12 @@
     "geom:latitude":-10.2621,
     "geom:longitude":29.92712,
     "iso:country":"ZM",
+    "lbl:bbox":"29.90712,-10.2821,29.94712,-10.2421",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Luwingu District"
@@ -40,7 +44,7 @@
     "name:pol_x_preferred":[
         "Dystrykt Luwingu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luingu"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":908913,
         "gp:id":1569061,
-        "qs:id":129957,
+        "qs_pg:id":129957,
         "wd:id":"Q3031440"
     },
     "wof:country":"ZM",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421167155,
-    "wof:lastmodified":1563376658,
+    "wof:lastmodified":1566665954,
     "wof:name":"Luwingu",
     "wof:parent_id":1108782463,
     "wof:placetype":"locality",

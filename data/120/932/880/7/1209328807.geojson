@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.13,-15.58667,23.17,-15.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":897376
     },
     "wof:country":"ZM",
-    "wof:geomhash":"bb56ddf8efbb7d73f69fd6deddfb205f",
+    "wof:geomhash":"6d2c6b5b7a02c11058f7ccb289556c2c",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209328807,
-    "wof:lastmodified":1536290440,
+    "wof:lastmodified":1566665508,
     "wof:name":"Sinjem Elo",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.15,
-    -15.566670000000002,
+    -15.56667,
     23.15,
-    -15.566670000000002
+    -15.56667
 ],
   "geometry": {"coordinates":[23.15,-15.56667],"type":"Point"}
 }

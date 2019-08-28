@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.34667,-16.22,23.38667,-16.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":916799
     },
     "wof:country":"ZM",
-    "wof:geomhash":"c8dd8b6b81078fa65b476e55883e0735",
+    "wof:geomhash":"bc9e1499182ce65c51825d2f224162ee",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209224129,
-    "wof:lastmodified":1536293856,
+    "wof:lastmodified":1566665485,
     "wof:name":"Imasiku",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.366670000000006,
+    23.36667000000001,
     -16.2,
-    23.366670000000006,
+    23.36667000000001,
     -16.2
 ],
   "geometry": {"coordinates":[23.36667000000001,-16.2],"type":"Point"}

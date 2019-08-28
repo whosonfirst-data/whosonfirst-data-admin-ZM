@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-13.116212,
     "lbl:longitude":28.394172,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Copperbelt",
     "meso:dissme":"CopperbeltLuanshya",
     "meso:gadm_adm2":"Luanshya",
@@ -31,6 +33,7 @@
     "mps:longitude":28.394172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Luanshya"
     ],
@@ -119,9 +122,9 @@
         "\u76e7\u5b89\u590f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"811",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1108782373,
-    "wof:lastmodified":1564202528,
+    "wof:lastmodified":1566665703,
     "wof:name":"Luanshya",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

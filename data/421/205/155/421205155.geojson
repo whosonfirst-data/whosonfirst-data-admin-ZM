@@ -10,8 +10,12 @@
     "geom:latitude":-17.2614,
     "geom:longitude":27.46179,
     "iso:country":"ZM",
+    "lbl:bbox":"27.44179,-17.2814,27.48179,-17.2414",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sinazongwe"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":897456,
         "gp:id":1575370,
-        "qs:id":257136,
+        "qs_pg:id":257136,
         "wd:id":"Q996098"
     },
     "wof:country":"ZM",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421205155,
-    "wof:lastmodified":1563376661,
+    "wof:lastmodified":1566665955,
     "wof:name":"Sinazongwe",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

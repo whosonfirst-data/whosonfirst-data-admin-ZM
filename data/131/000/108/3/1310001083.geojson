@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.85258,-10.6139,32.89258,-10.5739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310001083,
-    "wof:lastmodified":1536649431,
+    "wof:lastmodified":1566665740,
     "wof:name":"Mwanje",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

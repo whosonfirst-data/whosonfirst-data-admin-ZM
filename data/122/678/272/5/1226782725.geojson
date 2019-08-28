@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.58,-10.83667,28.62,-10.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Katuta",
         "Katuta Kapemba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226782725,
-    "wof:lastmodified":1537716529,
+    "wof:lastmodified":1566666337,
     "wof:name":"Katuta Kampemba",
     "wof:parent_id":1108782409,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":28.68204,
     "gn:country":"ZM",
     "gn:fcode":"PPL",
-    "gn:pop":6057,
+    "gn:population":6057,
     "iso:country":"ZM",
+    "lbl:bbox":"28.66204,-15.34916,28.70204,-15.30916",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chongwe District"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":917688,
         "gp:id":1574610,
-        "qs:id":275829,
+        "qs_pg:id":275829,
         "wd:id":"Q3031144",
         "wk:page":"Chongwe District"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890441279,
-    "wof:lastmodified":1563376684,
+    "wof:lastmodified":1566665962,
     "wof:name":"Chongwe",
     "wof:parent_id":1108782415,
     "wof:placetype":"locality",

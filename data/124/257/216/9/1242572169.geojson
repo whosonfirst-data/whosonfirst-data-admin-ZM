@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.71405,-15.74647,26.75405,-15.70647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mala"
     ],
@@ -65,8 +69,7 @@
         "Mala"
     ],
     "name:und_x_variant":[
-        "Maala",
-        "Mala"
+        "Maala"
     ],
     "name:uzb_x_preferred":[
         "Male"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1242572169,
-    "wof:lastmodified":1564202892,
+    "wof:lastmodified":1566666010,
     "wof:name":"Mala",
     "wof:parent_id":1108782491,
     "wof:placetype":"locality",

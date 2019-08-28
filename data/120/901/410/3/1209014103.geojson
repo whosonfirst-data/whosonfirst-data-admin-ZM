@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.16333,-15.43667,23.20333,-15.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":897837
     },
     "wof:country":"ZM",
-    "wof:geomhash":"3763d49f965d33740d6da7ab837bc48e",
+    "wof:geomhash":"05f3402e79c4bfb7c6c886675a67ca7e",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209014103,
-    "wof:lastmodified":1536300351,
+    "wof:lastmodified":1566665435,
     "wof:name":"Silishebo",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.18333,
-    -15.416670000000002,
+    -15.41667,
     23.18333,
-    -15.416670000000002
+    -15.41667
 ],
   "geometry": {"coordinates":[23.18333,-15.41667],"type":"Point"}
 }

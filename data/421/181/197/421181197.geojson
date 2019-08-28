@@ -10,6 +10,9 @@
     "geom:latitude":-13.13667,
     "geom:longitude":28.41661,
     "iso:country":"ZM",
+    "lbl:bbox":"28.39661,-13.15667,28.43661,-13.11667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0448\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luanshyo"
     ],
     "name:urd_x_preferred":[
@@ -277,7 +280,7 @@
     "wof:concordances":{
         "gn:id":909863,
         "gp:id":1568789,
-        "qs:id":479165,
+        "qs_pg:id":479165,
         "wd:id":"Q854109",
         "wk:page":"Luanshya"
     },
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421181197,
-    "wof:lastmodified":1563376667,
+    "wof:lastmodified":1566665957,
     "wof:name":"Luanshya",
     "wof:parent_id":1108782373,
     "wof:placetype":"locality",

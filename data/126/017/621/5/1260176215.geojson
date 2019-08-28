@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.76259,-16.42068,26.80259,-16.38068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0445\u0430"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1260176215,
-    "wof:lastmodified":1564202476,
+    "wof:lastmodified":1566665667,
     "wof:name":"Macha",
     "wof:parent_id":1108782473,
     "wof:placetype":"locality",

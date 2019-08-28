@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.98083,-13.88382,30.02083,-13.84382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243266979,
-    "wof:lastmodified":1537061488,
+    "wof:lastmodified":1566666127,
     "wof:name":"Mutalika",
     "wof:parent_id":1108782357,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.36333,-9.42,32.40333,-9.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mtulamira",
         "Mutulamila"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193126231,
-    "wof:lastmodified":1537716451,
+    "wof:lastmodified":1566665609,
     "wof:name":"Mutulamila",
     "wof:parent_id":1108782435,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-12.09514,
     "geom:longitude":26.42727,
     "iso:country":"ZM",
+    "lbl:bbox":"26.40727,-12.11514,26.44727,-12.07514",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Kansanshi"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Kansanshi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kansanshi Mine"
     ],
     "qs:gn_country":"ZM",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":913613,
         "gp:id":1567045,
-        "qs:id":263163,
+        "qs_pg:id":263163,
         "wd:id":"Q1636203"
     },
     "wof:country":"ZM",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421197931,
-    "wof:lastmodified":1563376670,
+    "wof:lastmodified":1566665958,
     "wof:name":"Kansanshi",
     "wof:parent_id":1108782451,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-8.84024,
     "geom:longitude":31.36587,
     "iso:country":"ZM",
+    "lbl:bbox":"31.34587,-8.86024,31.38587,-8.82024",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Mbala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abercorn"
     ],
     "name:zho_x_preferred":[
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":176146,
         "gp:id":1569945,
-        "qs:id":263166,
+        "qs_pg:id":263166,
         "wd:id":"Q1014108",
         "wk:page":"Mbala, Zambia"
     },
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421179923,
-    "wof:lastmodified":1563376674,
+    "wof:lastmodified":1566665959,
     "wof:name":"Mbala",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.16333,-16.63667,23.20333,-16.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":909423
     },
     "wof:country":"ZM",
-    "wof:geomhash":"d1d031650df9e7af703db35819b6be82",
+    "wof:geomhash":"694613ac890f608974e864e9b894492a",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209228733,
-    "wof:lastmodified":1536293708,
+    "wof:lastmodified":1566665484,
     "wof:name":"Lulenga",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.18333,
-    -16.616670000000006,
+    -16.61667000000001,
     23.18333,
-    -16.616670000000006
+    -16.61667000000001
 ],
   "geometry": {"coordinates":[23.18333,-16.61667000000001],"type":"Point"}
 }

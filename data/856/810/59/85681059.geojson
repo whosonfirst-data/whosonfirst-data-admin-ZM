@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-14.150712,
     "lbl:longitude":29.331666,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-14.527169,
     "mps:longitude":28.557743,
     "mz:hierarchy_label":1,
@@ -157,7 +158,7 @@
         "Central"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -170,9 +171,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Central Province"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0633\u0637\u06cc \u0635\u0648\u0628\u06c1\u060c \u0632\u06cc\u0645\u0628\u06cc\u0627"
@@ -258,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"94,394",
     "statoids:area_mi":"36,446",
     "statoids:as_of_date":"2010-10-16",
@@ -285,7 +283,7 @@
         "gp:id":2347805,
         "hasc:id":"ZM.CE",
         "iso:id":"ZM-02",
-        "qs:id":424151,
+        "qs_pg:id":424151,
         "unlc:id":"ZM-02",
         "wd:id":"Q190718",
         "wk:page":"Central Province, Zambia"
@@ -306,11 +304,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565740526,
+    "wof:lastmodified":1566665067,
     "wof:name":"Central",
     "wof:parent_id":85632559,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1307111,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.98,-13.23667,32.02,-13.19667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343959733,
-    "wof:lastmodified":1537020157,
+    "wof:lastmodified":1566664985,
     "wof:name":"Ledman Kamanga",
     "wof:parent_id":1108782393,
     "wof:placetype":"locality",

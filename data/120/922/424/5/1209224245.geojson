@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"22.58,-16.08667,22.62,-16.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":902566
     },
     "wof:country":"ZM",
-    "wof:geomhash":"3e0f3383fc71195a4d4698450da214ec",
+    "wof:geomhash":"460bc8e0d5b2d263bcbc1c2c0a284812",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209224245,
-    "wof:lastmodified":1536293852,
+    "wof:lastmodified":1566665486,
     "wof:name":"Mwiya",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.6,
-    -16.066670000000002,
+    -16.06667,
     22.6,
-    -16.066670000000002
+    -16.06667
 ],
   "geometry": {"coordinates":[22.6,-16.06667],"type":"Point"}
 }

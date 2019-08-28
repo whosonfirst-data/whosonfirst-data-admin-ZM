@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.81883,-9.98764,28.85883,-9.94764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242897913,
-    "wof:lastmodified":1537096042,
+    "wof:lastmodified":1566665999,
     "wof:name":"Lufubu",
     "wof:parent_id":1108782401,
     "wof:placetype":"locality",

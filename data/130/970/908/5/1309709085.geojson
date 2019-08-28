@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.18485,-16.07811,27.22485,-16.03811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siamasonde",
         "Siamusonde"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309709085,
-    "wof:lastmodified":1537716469,
+    "wof:lastmodified":1566665910,
     "wof:name":"Siamusonde",
     "wof:parent_id":1108782489,
     "wof:placetype":"locality",

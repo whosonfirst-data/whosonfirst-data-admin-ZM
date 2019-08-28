@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"33.23671,-9.92894,33.27671,-9.88894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Malembo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225927621,
-    "wof:lastmodified":1564203206,
+    "wof:lastmodified":1566666248,
     "wof:name":"Malembo",
     "wof:parent_id":1108782431,
     "wof:placetype":"locality",

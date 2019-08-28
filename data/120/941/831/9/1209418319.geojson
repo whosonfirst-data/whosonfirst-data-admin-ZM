@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.91333,-13.20333,29.95333,-13.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":909089
     },
     "wof:country":"ZM",
-    "wof:geomhash":"00677976534bc6659fbf94480d1e0540",
+    "wof:geomhash":"6b3227b71d138b918509934b5629fef9",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209418319,
-    "wof:lastmodified":1536287613,
+    "wof:lastmodified":1566665461,
     "wof:name":"Lusengo",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     29.93333,
-    -13.183329999999998,
+    -13.18333,
     29.93333,
-    -13.183329999999998
+    -13.18333
 ],
   "geometry": {"coordinates":[29.93333,-13.18333],"type":"Point"}
 }

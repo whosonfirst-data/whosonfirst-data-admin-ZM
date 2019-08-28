@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.40348,-17.15754,26.44348,-17.11754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310127033,
-    "wof:lastmodified":1536965286,
+    "wof:lastmodified":1566665708,
     "wof:name":"Chiringundumbu",
     "wof:parent_id":1108782481,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.59667,-13.60333,23.63667,-13.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -34,7 +38,7 @@
         "gn:id":909613
     },
     "wof:country":"ZM",
-    "wof:geomhash":"19553816f09abaafa3767e4b59bde94d",
+    "wof:geomhash":"b77e12b89bc74a0e0d9bf8c54b2f4406",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209207247,
-    "wof:lastmodified":1536294413,
+    "wof:lastmodified":1566665539,
     "wof:name":"Luhila",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.616670000000006,
-    -13.583329999999998,
-    23.616670000000006,
-    -13.583329999999998
+    23.61667000000001,
+    -13.58333,
+    23.61667000000001,
+    -13.58333
 ],
   "geometry": {"coordinates":[23.61667000000001,-13.58333],"type":"Point"}
 }

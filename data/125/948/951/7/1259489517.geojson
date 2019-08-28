@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"29.33786,-11.28445,29.37786,-11.24445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chaba"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259489517,
-    "wof:lastmodified":1564203095,
+    "wof:lastmodified":1566666166,
     "wof:name":"Chaba",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

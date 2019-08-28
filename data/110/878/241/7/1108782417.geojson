@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-15.678182,
     "lbl:longitude":28.520762,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Lusaka",
     "meso:dissme":"LusakaKafue",
     "meso:gadm_adm2":"Kafue",
@@ -31,6 +33,7 @@
     "mps:longitude":28.520762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0444\u0443\u044d"
     ],
@@ -86,9 +89,9 @@
         "\u5361\u5bcc\u57c3"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"9396",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108782417,
-    "wof:lastmodified":1564202514,
+    "wof:lastmodified":1566665693,
     "wof:name":"Kafue",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

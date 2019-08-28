@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.8623,-11.25901,32.9023,-11.21901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zowoli",
         "Zawoli",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243247405,
-    "wof:lastmodified":1537716460,
+    "wof:lastmodified":1566666047,
     "wof:name":"Zaweli",
     "wof:parent_id":1108782425,
     "wof:placetype":"locality",

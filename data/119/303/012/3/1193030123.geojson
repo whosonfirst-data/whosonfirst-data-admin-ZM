@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"23.32847,-14.22469,23.36847,-14.18469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Peso",
         "Dezo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193030123,
-    "wof:lastmodified":1537716479,
+    "wof:lastmodified":1566665618,
     "wof:name":"Pezo",
     "wof:parent_id":1108782501,
     "wof:placetype":"locality",

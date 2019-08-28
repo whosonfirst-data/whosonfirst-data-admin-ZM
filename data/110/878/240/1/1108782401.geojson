@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.776531,
     "lbl:longitude":29.248193,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Luapula",
     "meso:dissme":"LuapulaKawambwa",
     "meso:gadm_adm2":"Kawambwa",
@@ -31,6 +33,7 @@
     "mps:longitude":29.248193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0443\u0430\u043c\u0431\u0443\u0430"
     ],
@@ -68,9 +71,9 @@
         "\u5361\u842c\u5e03\u74e6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"9303",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108782401,
-    "wof:lastmodified":1564202519,
+    "wof:lastmodified":1566665697,
     "wof:name":"Kawambwa",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

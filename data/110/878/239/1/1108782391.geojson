@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.616241,
     "lbl:longitude":32.562541,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Eastern",
     "meso:dissme":"EasternLundazi",
     "meso:gadm_adm2":"Chipata",
@@ -31,6 +33,7 @@
     "mps:longitude":32.562541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Lundazi"
     ],
@@ -68,9 +71,9 @@
         "\u9686\u9054\u6fdf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"14058",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108782391,
-    "wof:lastmodified":1564202526,
+    "wof:lastmodified":1566665701,
     "wof:name":"Lundazi",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

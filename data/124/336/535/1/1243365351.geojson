@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.27545,-13.77571,32.31545,-13.73571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kalulu"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1243365351,
-    "wof:lastmodified":1564202843,
+    "wof:lastmodified":1566665971,
     "wof:name":"Kalulu",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

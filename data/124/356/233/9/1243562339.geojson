@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.22232,-13.71649,32.26232,-13.67649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Moya"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1243562339,
-    "wof:lastmodified":1564202957,
+    "wof:lastmodified":1566666058,
     "wof:name":"Moya",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

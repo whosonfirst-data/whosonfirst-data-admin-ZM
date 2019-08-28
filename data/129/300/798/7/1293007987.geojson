@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"31.43903,-14.17507,31.47903,-14.13507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0632\u0627\u0645\u0628\u06cc \u067e\u0627\u0644\u0645\u0627\u0631\u0633"
     ],
@@ -65,8 +69,7 @@
         "\u0417\u0443\u043c\u0431\u0456"
     ],
     "name:und_x_variant":[
-        "Zumbe",
-        "Zumbi"
+        "Zumbe"
     ],
     "name:yor_x_preferred":[
         "Zumbi"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1293007987,
-    "wof:lastmodified":1564201716,
+    "wof:lastmodified":1566665075,
     "wof:name":"Zumbi",
     "wof:parent_id":1108782397,
     "wof:placetype":"locality",

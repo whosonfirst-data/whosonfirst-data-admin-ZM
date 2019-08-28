@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-10.001342,
     "lbl:longitude":32.800844,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Muchinga",
     "meso:dissme":"MuchingaIsoka",
     "meso:gadm_adm2":"Isoka",
@@ -31,6 +33,7 @@
     "mps:longitude":32.800844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Isoka"
     ],
@@ -71,9 +74,9 @@
         "\u4f0a\u7d22\u5361"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"5091",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108782429,
-    "wof:lastmodified":1564202501,
+    "wof:lastmodified":1566665684,
     "wof:name":"Isoka",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

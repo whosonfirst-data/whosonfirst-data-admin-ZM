@@ -10,6 +10,9 @@
     "geom:latitude":-12.29292,
     "geom:longitude":33.1782,
     "iso:country":"ZM",
+    "lbl:bbox":"33.1582,-12.31292,33.1982,-12.27292",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -179,7 +182,7 @@
     "wof:concordances":{
         "gn:id":909299,
         "gp:id":1568959,
-        "qs:id":273854,
+        "qs_pg:id":273854,
         "wd:id":"Q260171",
         "wk:page":"Lundazi"
     },
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421168769,
-    "wof:lastmodified":1563376653,
+    "wof:lastmodified":1566665952,
     "wof:name":"Lundazi",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

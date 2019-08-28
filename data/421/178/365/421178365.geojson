@@ -10,7 +10,12 @@
     "geom:latitude":-17.85,
     "geom:longitude":25.88333,
     "iso:country":"ZM",
+    "lbl:bbox":"25.86333,-17.87,25.90333,-17.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPLX",
@@ -41,7 +46,7 @@
     "wof:concordances":{
         "gn:id":910596,
         "gp:id":1568386,
-        "qs:id":279574
+        "qs_pg:id":279574
     },
     "wof:country":"ZM",
     "wof:created":1459009179,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":421178365,
-    "wof:lastmodified":1496498212,
+    "wof:lastmodified":1566665960,
     "wof:name":"Libuyu",
     "wof:parent_id":1108782485,
     "wof:placetype":"locality",

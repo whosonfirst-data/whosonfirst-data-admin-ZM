@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"28.78935,-15.58935,28.82935,-15.54935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Malaika"
     ],
@@ -53,8 +57,7 @@
         "Malaika"
     ],
     "name:und_x_variant":[
-        "Malalika",
-        "Malaika"
+        "Malalika"
     ],
     "name:vie_x_preferred":[
         "Malaika"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1309995615,
-    "wof:lastmodified":1564202775,
+    "wof:lastmodified":1566665908,
     "wof:name":"Malaika",
     "wof:parent_id":1108782415,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"32.67228,-10.16508,32.71228,-10.12508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chinyans",
         "Chinyanshi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343556701,
-    "wof:lastmodified":1537716555,
+    "wof:lastmodified":1566664919,
     "wof:name":"Chinyanshi",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

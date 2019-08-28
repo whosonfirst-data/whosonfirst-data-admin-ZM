@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"26.99667,-16.98667,27.03667,-16.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tamalu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242769427,
-    "wof:lastmodified":1537716462,
+    "wof:lastmodified":1566666079,
     "wof:name":"Tamalu",
     "wof:parent_id":1108782473,
     "wof:placetype":"locality",

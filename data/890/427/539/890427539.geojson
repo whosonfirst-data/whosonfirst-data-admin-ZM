@@ -11,7 +11,7 @@
     "geom:longitude":28.572508,
     "gn:country":"ZM",
     "gn:fcode":"ADM2",
-    "gn:pop":58864,
+    "gn:population":58864,
     "iso:country":"ZM",
     "label:eng_x_preferred_longname":[
         "Siavonga District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-16.351867,
     "lbl:longitude":28.610295,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernSiavonga",
     "meso:gadm_adm2":"Siavonga",
@@ -34,6 +36,7 @@
     "mps:longitude":28.610295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Siavonga District"
     ],
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-16",
+    "src:population_date":"2010-10-16",
     "statoids:area_km":"3871",
     "statoids:as_of_date":"2010-10-16",
     "statoids:capital":"",
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":7671219,
         "hasc:id":"ZM.SO.SV",
-        "qs:id":696927,
+        "qs_pg:id":696927,
         "wd:id":"Q3031862",
         "wk:page":"Siavonga District"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890427539,
-    "wof:lastmodified":1563376684,
+    "wof:lastmodified":1566665962,
     "wof:name":"Siavonga",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

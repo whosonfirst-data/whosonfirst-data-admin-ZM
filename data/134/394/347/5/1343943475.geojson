@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"27.31333,-12.87,27.35333,-12.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mutasa"
     ],
     "name:und_x_variant":[
-        "Mutas",
-        "Mutasa"
+        "Mutas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343943475,
-    "wof:lastmodified":1564201643,
+    "wof:lastmodified":1566665014,
     "wof:name":"Mutasa",
     "wof:parent_id":1108782375,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lusaka",
     "iso:country":"ZM",
+    "lbl:bbox":"25.61333,-17.67,25.65333,-17.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243451279,
-    "wof:lastmodified":1536798683,
+    "wof:lastmodified":1566666111,
     "wof:name":"Nalungwana",
     "wof:parent_id":1108782483,
     "wof:placetype":"locality",
