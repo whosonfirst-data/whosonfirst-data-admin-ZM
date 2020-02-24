@@ -566,6 +566,9 @@
     },
     "wof:country":"ZM",
     "wof:created":1459009198,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7411ea7f92060b757ba92bae1b474790",
     "wof:hierarchy":[
         {
@@ -577,7 +580,7 @@
         }
     ],
     "wof:id":421178937,
-    "wof:lastmodified":1566665960,
+    "wof:lastmodified":1582350184,
     "wof:name":"Lusaka",
     "wof:parent_id":1108782421,
     "wof:placetype":"locality",

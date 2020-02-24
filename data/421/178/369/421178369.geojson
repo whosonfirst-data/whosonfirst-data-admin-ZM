@@ -219,7 +219,8 @@
     "qs:woe_id":1564691,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:population":"quattroshapes",
     "wof:belongsto":[
@@ -241,6 +242,10 @@
     },
     "wof:country":"ZM",
     "wof:created":1459009180,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"74ae70c9aa3166338e98faa637741437",
     "wof:hierarchy":[
         {
@@ -252,7 +257,7 @@
         }
     ],
     "wof:id":421178369,
-    "wof:lastmodified":1566665960,
+    "wof:lastmodified":1582350184,
     "wof:name":"Chingola",
     "wof:parent_id":1108782363,
     "wof:placetype":"locality",

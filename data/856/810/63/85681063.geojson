@@ -289,6 +289,9 @@
         "wk:page":"Copperbelt Province"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea25780dc2eb1a469adb27c7898dd2e3",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665070,
+    "wof:lastmodified":1582350171,
     "wof:name":"Copperbelt",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

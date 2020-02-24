@@ -222,6 +222,9 @@
         "wk:page":"Northern Province, Zambia"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1afc316cf784ccc4c5e7e36a4ebe4cfc",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665070,
+    "wof:lastmodified":1582350170,
     "wof:name":"Northern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

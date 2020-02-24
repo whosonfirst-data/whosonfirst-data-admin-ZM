@@ -289,6 +289,9 @@
         "wk:page":"Central Province, Zambia"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b933ed243b8c7ebf08757d8e9f16e427",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665067,
+    "wof:lastmodified":1582350169,
     "wof:name":"Central",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

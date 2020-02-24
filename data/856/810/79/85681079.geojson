@@ -287,6 +287,9 @@
         "wk:page":"Southern Province, Zambia"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea9614068012d0fb308f51d83bd82f63",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665070,
+    "wof:lastmodified":1582350171,
     "wof:name":"Southern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

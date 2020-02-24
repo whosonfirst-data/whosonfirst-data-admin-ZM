@@ -222,6 +222,9 @@
         "wk:page":"Northern Province, Zambia"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0137fecfb1e405abc21e76f9b5fa40f4",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665068,
+    "wof:lastmodified":1582350169,
     "wof:name":"Muchinga",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

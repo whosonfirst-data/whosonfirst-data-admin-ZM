@@ -100,6 +100,9 @@
     },
     "wof:country":"ZM",
     "wof:created":1469051701,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70f1d9da95493d94888c229a8c9e1a61",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890427539,
-    "wof:lastmodified":1566665962,
+    "wof:lastmodified":1582350184,
     "wof:name":"Siavonga",
     "wof:parent_id":85681079,
     "wof:placetype":"county",
