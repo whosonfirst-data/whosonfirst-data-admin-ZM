@@ -283,6 +283,9 @@
         "wk:page":"Eastern Province, Zambia"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64c141dfea41bd34de8387c7524995c3",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665069,
+    "wof:lastmodified":1582350170,
     "wof:name":"Eastern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

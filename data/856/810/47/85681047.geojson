@@ -277,6 +277,9 @@
         "wk:page":"Luapula Province"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e674131cab5f9616bea0832465357262",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665072,
+    "wof:lastmodified":1582350171,
     "wof:name":"Luapula",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

@@ -931,6 +931,11 @@
     },
     "wof:country":"ZM",
     "wof:country_alpha3":"ZMB",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"f8e389b6b3040d88444cec22442f759b",
     "wof:hierarchy":[
         {
@@ -945,7 +950,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665072,
+    "wof:lastmodified":1582350172,
     "wof:name":"Zambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

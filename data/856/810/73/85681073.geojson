@@ -274,6 +274,9 @@
         "wk:page":"Lusaka Province"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c17b2656368a2277ec0825bf87d93e75",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665067,
+    "wof:lastmodified":1582350169,
     "wof:name":"Lusaka",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

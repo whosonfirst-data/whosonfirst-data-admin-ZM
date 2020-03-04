@@ -293,6 +293,9 @@
         "wk:page":"Western Province, Zambia"
     },
     "wof:country":"ZM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0a98a844a69f11b9b2b5b0d0e49144f",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566665071,
+    "wof:lastmodified":1582350171,
     "wof:name":"Western",
     "wof:parent_id":85632559,
     "wof:placetype":"region",
