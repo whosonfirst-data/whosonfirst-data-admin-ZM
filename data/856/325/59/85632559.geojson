@@ -907,9 +907,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Zambia",
-        "digitalenvoy:country_code":[
-            894
-        ],
+        "digitalenvoy:country_code":894,
         "fb:id":"en.zambia",
         "fifa:id":"ZAM",
         "fips:code":"ZA",
@@ -953,7 +951,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529249,
+    "wof:lastmodified":1583797459,
     "wof:name":"Zambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
