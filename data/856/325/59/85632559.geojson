@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.745302,
-    "geom:area_square_m":753957103372.154419,
+    "geom:area_square_m":753957104542.262207,
     "geom:bbox":"21.996388,-18.077418,33.702222,-8.203284",
     "geom:latitude":-13.454028,
     "geom:longitude":27.797599,
@@ -43,11 +43,17 @@
     "name:amh_x_preferred":[
         "\u12db\u121d\u1262\u12eb"
     ],
+    "name:ang_x_preferred":[
+        "Sambia"
+    ],
     "name:ara_x_preferred":[
         "\u0632\u0627\u0645\u0628\u064a\u0627"
     ],
     "name:arg_x_preferred":[
         "Zambia"
+    ],
+    "name:ary_x_preferred":[
+        "\u0632\u0627\u0645\u0628\u064a\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0632\u0627\u0645\u0628\u064a\u0627"
@@ -69,6 +75,9 @@
     ],
     "name:bam_x_variant":[
         "Zanbi"
+    ],
+    "name:ban_x_preferred":[
+        "Zambia"
     ],
     "name:bcl_x_preferred":[
         "Sambya"
@@ -133,6 +142,9 @@
     "name:crh_x_preferred":[
         "Zambiya"
     ],
+    "name:csb_x_preferred":[
+        "Zambi\u00f4"
+    ],
     "name:cym_x_preferred":[
         "Sambia"
     ],
@@ -142,11 +154,20 @@
     "name:dan_x_preferred":[
         "Zambia"
     ],
+    "name:deu_at_x_preferred":[
+        "Sambia"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Sambia"
+    ],
     "name:deu_x_preferred":[
         "Sambia"
     ],
     "name:deu_x_variant":[
         "Nordrhodesien"
+    ],
+    "name:din_x_preferred":[
+        "Dhambia"
     ],
     "name:diq_x_preferred":[
         "Zambiya"
@@ -165,6 +186,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0396\u03ac\u03bc\u03c0\u03b9\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Zambia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Zambia"
     ],
     "name:eng_x_historical":[
         "Northern Rhodesia"
@@ -232,6 +259,9 @@
     ],
     "name:gag_x_preferred":[
         "Zambiya"
+    ],
+    "name:gcr_x_preferred":[
+        "Zanbi"
     ],
     "name:gla_x_preferred":[
         "Saimbia"
@@ -459,6 +489,9 @@
     "name:mon_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0438"
     ],
+    "name:mri_x_preferred":[
+        "T\u0101mipia"
+    ],
     "name:mrj_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0438"
     ],
@@ -643,6 +676,12 @@
     "name:srd_x_preferred":[
         "Z\u00e0mbia"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Zambija"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0438\u0458\u0430"
     ],
@@ -663,6 +702,9 @@
     ],
     "name:szl_x_preferred":[
         "Zambijo"
+    ],
+    "name:szy_x_preferred":[
+        "Zambia"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe"
@@ -779,11 +821,20 @@
     "name:yue_x_preferred":[
         "\u8d0a\u6bd4\u4e9e"
     ],
+    "name:zea_x_preferred":[
+        "Zambia"
+    ],
     "name:zha_x_preferred":[
         "Zambia"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8d5e\u6bd4\u4e9a"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Zambia"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c1a\u6bd4\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u8d5e\u6bd4\u4e9a"
@@ -951,7 +1002,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797459,
+    "wof:lastmodified":1587428981,
     "wof:name":"Zambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
