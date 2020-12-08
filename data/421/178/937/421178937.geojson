@@ -567,7 +567,9 @@
         85681073
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632559,
+    "wof:capital_of":[
+        85632559
+    ],
     "wof:concordances":{
         "gn:id":909137,
         "gp:id":1569006,
@@ -592,7 +594,7 @@
         }
     ],
     "wof:id":421178937,
-    "wof:lastmodified":1587428982,
+    "wof:lastmodified":1607390876,
     "wof:name":"Lusaka",
     "wof:parent_id":1108782421,
     "wof:placetype":"locality",
