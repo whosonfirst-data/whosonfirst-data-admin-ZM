@@ -578,6 +578,9 @@
         "wd:id":"Q3881",
         "wk:page":"Lusaka"
     },
+    "wof:coterminous":[
+        1108782421
+    ],
     "wof:country":"ZM",
     "wof:created":1459009198,
     "wof:geom_alt":[
@@ -594,7 +597,7 @@
         }
     ],
     "wof:id":421178937,
-    "wof:lastmodified":1607390876,
+    "wof:lastmodified":1607983540,
     "wof:name":"Lusaka",
     "wof:parent_id":1108782421,
     "wof:placetype":"locality",
