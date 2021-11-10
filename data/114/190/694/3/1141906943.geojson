@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.85002071,-12.5396105765,27.85002071,-12.5396105765",
+    "geom:bbox":"27.850021,-12.539611,27.850021,-12.539611",
     "geom:latitude":-12.539611,
     "geom:longitude":27.850021,
     "iso:country":"ZM",
@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u063a\u0648\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u0982\u0997\u09cb\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0438\u043d\u0433\u043e\u043b\u0430"
     ],
@@ -36,11 +39,17 @@
     "name:deu_x_preferred":[
         "Chingola"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03b3\u03ba\u03cc\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Chingola"
     ],
     "name:epo_x_preferred":[
         "Chingola"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0646\u06af\u0648\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Chingola"
@@ -48,7 +57,19 @@
     "name:fra_x_preferred":[
         "Chingola"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05e0\u05d2\u05d5\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u0902\u0917\u094b\u0932\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Chingola"
+    ],
+    "name:hun_x_preferred":[
+        "Chingola"
+    ],
+    "name:ind_x_preferred":[
         "Chingola"
     ],
     "name:ita_x_preferred":[
@@ -98,6 +119,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0646\u06af\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Chingola"
     ],
     "name:war_x_preferred":[
         "Chingola"
@@ -213,7 +237,7 @@
     },
     "wof:country":"ZM",
     "wof:created":1499130659,
-    "wof:geomhash":"ffe1c0d1fabaeac7d5ead02c50a10ab9",
+    "wof:geomhash":"2f99c14b6849e0932838e1dd42c6ca09",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -224,7 +248,7 @@
         }
     ],
     "wof:id":1141906943,
-    "wof:lastmodified":1566666401,
+    "wof:lastmodified":1636501948,
     "wof:name":"Chingola",
     "wof:parent_id":1108782365,
     "wof:placetype":"locality",
@@ -234,10 +258,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.85002070995984,
-    -12.53961057653112,
-    27.85002070995984,
-    -12.53961057653112
+    27.850021,
+    -12.539611,
+    27.850021,
+    -12.539611
 ],
-  "geometry": {"coordinates":[27.85002070995984,-12.53961057653112],"type":"Point"}
+  "geometry": {"coordinates":[27.850021,-12.539611],"type":"Point"}
 }

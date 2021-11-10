@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Yobe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343764061,
-    "wof:lastmodified":1566664966,
+    "wof:lastmodified":1636501910,
     "wof:name":"Yobe",
     "wof:parent_id":1108782389,
     "wof:placetype":"locality",

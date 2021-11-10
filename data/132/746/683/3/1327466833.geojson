@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Kamina"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05de\u05d9\u05e0\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Kamina"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1327466833,
-    "wof:lastmodified":1566664785,
+    "wof:lastmodified":1636501908,
     "wof:name":"Kamina",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

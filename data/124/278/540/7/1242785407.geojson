@@ -153,6 +153,9 @@
         "Luanda"
     ],
     "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05e4\u05d5\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05dc\u05d5\u05d0\u05e0\u05d3\u05d4"
     ],
     "name:hif_x_preferred":[
@@ -436,7 +439,7 @@
         }
     ],
     "wof:id":1242785407,
-    "wof:lastmodified":1566666076,
+    "wof:lastmodified":1636501942,
     "wof:name":"Luanda",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

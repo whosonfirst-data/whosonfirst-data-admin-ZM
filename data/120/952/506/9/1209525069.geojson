@@ -29,14 +29,77 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u0995\u09cb\u0982\u0997\u09c7"
+    ],
     "name:ceb_x_preferred":[
+        "Sikonge"
+    ],
+    "name:deu_x_preferred":[
+        "Sikonge"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03ba\u03cc\u03bd\u03b3\u03ba\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u06a9\u0648\u0646\u06af\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Sikonge"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e7\u05d5\u05e0\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0915\u094b\u0902\u0917\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Sikonge"
+    ],
+    "name:ind_x_preferred":[
         "Sikonge"
     ],
     "name:ita_x_preferred":[
         "Sikonge"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30b3\u30f3\u30b2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ucf69\uac8c"
+    ],
+    "name:pol_x_preferred":[
+        "Sikonge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u043e\u043d\u0434\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Sikonge"
+    ],
     "name:swa_x_preferred":[
         "Sikonge"
+    ],
+    "name:swe_x_preferred":[
+        "Sikonge"
+    ],
+    "name:tur_x_preferred":[
+        "Sikonge"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043a\u043e\u043d\u0433\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u06a9\u0648\u0646\u06af\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Sikonge"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9521\u5b54\u76d6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u53f8\u7a7a\u683c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +118,7 @@
         }
     ],
     "wof:id":1209525069,
-    "wof:lastmodified":1566665449,
+    "wof:lastmodified":1636501920,
     "wof:name":"Sikonge",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

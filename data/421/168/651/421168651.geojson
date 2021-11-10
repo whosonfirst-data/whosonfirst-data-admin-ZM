@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641 \u0646\u0634\u064a\u0644\u0646\u062c\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u099a\u09c7\u09b2\u09c7\u0982\u0997\u09c7"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0447\u0435\u043b\u0435\u043d\u0433\u0435"
     ],
@@ -29,10 +32,28 @@
     "name:deu_x_preferred":[
         "Nchelenge"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c3\u03ad\u03bb\u03b5\u03bd\u03b3\u03ba\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Nchelenge"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0686\u0644\u0646\u06af\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Nchelenge"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e6'\u05dc\u05e0\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u091a\u0947\u0932\u0947\u0902\u0917\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Nchelenge"
+    ],
+    "name:ind_x_preferred":[
         "Nchelenge"
     ],
     "name:ita_x_preferred":[
@@ -40,6 +61,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30c1\u30a7\u30ec\u30f3\u30b2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\uccbc\ub81d\uac8c"
     ],
     "name:mrj_x_preferred":[
         "\u041d\u0447\u0435\u043b\u0435\u043d\u0433\u0435"
@@ -64,6 +88,21 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u0447\u0435\u043b\u0435\u043d\u0433\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nchelenge"
+    ],
+    "name:tur_x_preferred":[
+        "Nchelenge"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0447\u0435\u043b\u0435\u043d\u0433\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0644\u06cc\u0646\u06af\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Nchelenge"
     ],
     "name:zho_x_preferred":[
         "\u6069\u5207\u502b\u6208"
@@ -208,7 +247,7 @@
         }
     ],
     "wof:id":421168651,
-    "wof:lastmodified":1566665951,
+    "wof:lastmodified":1636501935,
     "wof:name":"Nchelenge",
     "wof:parent_id":1108782411,
     "wof:placetype":"locality",

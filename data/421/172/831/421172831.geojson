@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0632\u0627\u0628\u0648\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u099c\u09be\u09ac\u09c1\u0995\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0431\u0443\u043a\u0430"
     ],
@@ -26,8 +32,14 @@
     "name:deu_x_preferred":[
         "Mazabuka"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b6\u03b1\u03bc\u03c0\u03bf\u03cd\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mazabuka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0632\u0627\u0628\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Mazabuka"
@@ -38,11 +50,23 @@
     "name:heb_x_preferred":[
         "\u05de\u05d6\u05d0\u05d1\u05d5\u05e7\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u091c\u093c\u093e\u092c\u0941\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mazabuka"
+    ],
+    "name:ind_x_preferred":[
+        "Mazabuka"
+    ],
     "name:ita_x_preferred":[
         "Mazabuka"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b6\u30d6\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc790\ubd80\uce74"
     ],
     "name:lit_x_preferred":[
         "Mazabuka"
@@ -68,8 +92,20 @@
     "name:spa_x_preferred":[
         "Mazabuka"
     ],
+    "name:swe_x_preferred":[
+        "Mazabuka"
+    ],
+    "name:tur_x_preferred":[
+        "Mazabuka"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0431\u0443\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0632\u0627\u0628\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mazabuka"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u672d\u5e03\u5361"
@@ -214,7 +250,7 @@
         }
     ],
     "wof:id":421172831,
-    "wof:lastmodified":1566665956,
+    "wof:lastmodified":1636501937,
     "wof:name":"Mazabuka",
     "wof:parent_id":1108782487,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:est_x_preferred":[
         "Katima Mulilo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u062a\u06cc\u0645\u0627 \u0645\u0648\u0644\u06cc\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Katima Mulilo"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05d8\u05d9\u05de\u05d4 \u05de\u05d5\u05dc\u05d9\u05dc\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Katima Mulilo"
     ],
     "name:ita_x_preferred":[
         "Katima Mulilo"
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1243176087,
-    "wof:lastmodified":1566666120,
+    "wof:lastmodified":1636501943,
     "wof:name":"Katima Mulilo",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

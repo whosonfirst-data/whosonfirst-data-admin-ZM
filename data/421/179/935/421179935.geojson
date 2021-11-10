@@ -29,6 +29,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0431\u0432\u044d"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ac\u09cb\u09df\u09c7"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0431\u0443\u0435"
     ],
@@ -74,7 +77,16 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d1\u05d5\u05d5\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u092c\u094d\u0935\u0947"
+    ],
     "name:hrv_x_preferred":[
+        "Kabwe"
+    ],
+    "name:hun_x_preferred":[
+        "Kabwe"
+    ],
+    "name:ind_x_preferred":[
         "Kabwe"
     ],
     "name:ita_x_preferred":[
@@ -136,6 +148,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0628\u0648\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Kabwe"
     ],
     "name:war_x_preferred":[
         "Kabwe"
@@ -285,7 +300,7 @@
         }
     ],
     "wof:id":421179935,
-    "wof:lastmodified":1566665959,
+    "wof:lastmodified":1636501939,
     "wof:name":"Kabwe",
     "wof:parent_id":1108782353,
     "wof:placetype":"locality",

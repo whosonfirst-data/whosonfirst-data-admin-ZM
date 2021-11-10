@@ -149,6 +149,9 @@
         "Lusaka"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05dc\u05d9\u05e6\u05d5\u05d1-\u05d4\u05d5\u05dc\u05dd"
+    ],
+    "name:heb_x_variant":[
         "\u05dc\u05d5\u05e1\u05e7\u05d4"
     ],
     "name:hif_x_preferred":[
@@ -563,8 +566,8 @@
     "wof:belongsto":[
         102191573,
         85632559,
-        1108782421,
-        85681073
+        85681073,
+        1108782421
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -598,7 +601,7 @@
         }
     ],
     "wof:id":421178937,
-    "wof:lastmodified":1608688176,
+    "wof:lastmodified":1636501939,
     "wof:megacity":1,
     "wof:name":"Lusaka",
     "wof:parent_id":1108782421,

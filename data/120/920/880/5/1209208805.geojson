@@ -29,6 +29,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u064a\u0646\u063a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09cb\u09df\u09c7\u0982\u0997\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Mwenga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03ad\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mwenga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Mwenga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d5\u05e0\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094d\u0935\u0947\u0902\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mwenga"
+    ],
+    "name:ind_x_preferred":[
+        "Mwenga"
+    ],
+    "name:ita_x_preferred":[
+        "Mwenga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a6\u30a7\u30f3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\uc6ec\uac00"
+    ],
+    "name:nld_x_preferred":[
+        "Mwenga"
+    ],
+    "name:pol_x_preferred":[
+        "Mwenga"
+    ],
+    "name:por_x_preferred":[
+        "Mwenga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0432\u0435\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mwenga"
+    ],
+    "name:swe_x_preferred":[
+        "Mwenga"
+    ],
+    "name:tur_x_preferred":[
+        "Mwenga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0432\u0435\u043d\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0626\u06cc\u0646\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mwenga"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u59c6\u6587\u52a0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u59c6\u6587\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632559
@@ -46,7 +124,7 @@
         }
     ],
     "wof:id":1209208805,
-    "wof:lastmodified":1566665539,
+    "wof:lastmodified":1636501921,
     "wof:name":"Mwenga",
     "wof:parent_id":85632559,
     "wof:placetype":"locality",

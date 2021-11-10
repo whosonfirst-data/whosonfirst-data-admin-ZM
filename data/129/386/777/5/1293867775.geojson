@@ -59,6 +59,9 @@
     "name:fra_x_preferred":[
         "Pemba"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05de\u05d1\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Pemba"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1293867775,
-    "wof:lastmodified":1566665241,
+    "wof:lastmodified":1636501917,
     "wof:name":"Pemba",
     "wof:parent_id":1108782435,
     "wof:placetype":"locality",

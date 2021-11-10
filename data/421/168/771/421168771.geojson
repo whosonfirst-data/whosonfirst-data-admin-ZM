@@ -21,10 +21,14 @@
         "Luangwa"
     ],
     "name:ara_x_preferred":[
-        "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627\u060c \u0632\u0627\u0645\u0628\u064a\u0627"
+        "\u0644\u0648\u0627\u0646\u062c\u0648\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627"
+        "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627",
+        "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627\u060c \u0632\u0627\u0645\u0628\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09df\u09be\u0999\u09cd\u0997\u09cb\u09df\u09be"
     ],
     "name:ceb_x_preferred":[
         "Luangwa"
@@ -32,11 +36,38 @@
     "name:deu_x_preferred":[
         "Luangwa"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba\u03bf\u03c5\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Luangwa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u06af\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Luangwa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05e0\u05d2\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0906\u0902\u0917\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Luangwa"
+    ],
+    "name:ind_x_preferred":[
         "Luangwa"
     ],
     "name:ita_x_preferred":[
         "Luangwa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30a2\u30f3\u30ef"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc559\uc640"
     ],
     "name:mrj_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433\u0432\u0430"
@@ -56,11 +87,32 @@
     "name:ron_x_preferred":[
         "Luangwa"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Luangwa"
+    ],
     "name:swa_x_preferred":[
         "Luangwa"
     ],
+    "name:swe_x_preferred":[
+        "Luangwa"
+    ],
+    "name:tur_x_preferred":[
+        "Luangwa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Feira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Luangwa"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u5b89\u6208\u74e6"
@@ -204,7 +256,7 @@
         }
     ],
     "wof:id":421168771,
-    "wof:lastmodified":1566665951,
+    "wof:lastmodified":1636501935,
     "wof:name":"Luangwa",
     "wof:parent_id":1091701729,
     "wof:placetype":"locality",

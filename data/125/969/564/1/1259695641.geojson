@@ -29,18 +29,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0643\u0627\u0644\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0995\u09be\u09b2\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Makale"
     ],
     "name:deu_x_preferred":[
         "Makale"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03ac\u03bb\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0644\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0915\u093e\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Makale"
+    ],
+    "name:ind_x_preferred":[
+        "Makale"
+    ],
+    "name:ita_x_preferred":[
+        "Makale"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uce7c\ub808"
+    ],
+    "name:por_x_preferred":[
+        "Makale"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Makale"
+    ],
     "name:swe_x_preferred":[
         "Makale"
+    ],
+    "name:tur_x_preferred":[
+        "Makale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043b\u0435"
     ],
     "name:und_x_variant":[
         "Mkali",
         "Makali"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Makale"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +116,7 @@
         }
     ],
     "wof:id":1259695641,
-    "wof:lastmodified":1566666225,
+    "wof:lastmodified":1636501945,
     "wof:name":"Makale",
     "wof:parent_id":1108782397,
     "wof:placetype":"locality",

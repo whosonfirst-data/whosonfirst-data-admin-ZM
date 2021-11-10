@@ -29,11 +29,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u099a\u09cb\u09ac\u09c7"
+    ],
     "name:deu_x_preferred":[
+        "Chobe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05d1\u05d9"
+    ],
+    "name:ind_x_preferred":[
         "Chobe"
     ],
     "name:ita_x_preferred":[
         "Chobe"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd08\ubca0"
     ],
     "name:pol_x_preferred":[
         "Chobe"
@@ -46,6 +58,15 @@
     ],
     "name:swe_x_preferred":[
         "Chobe"
+    ],
+    "name:tur_x_preferred":[
+        "Chobe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Chobe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +91,7 @@
         }
     ],
     "wof:id":1243176889,
-    "wof:lastmodified":1566666117,
+    "wof:lastmodified":1636501943,
     "wof:name":"Chobe",
     "wof:parent_id":1108782471,
     "wof:placetype":"locality",

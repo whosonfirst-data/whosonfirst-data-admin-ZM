@@ -159,6 +159,9 @@
         "\u041c\u0432\u0430\u043d\u0437\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u0632\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0645\u0648\u0627\u0646\u0632\u0627"
     ],
     "name:uzb_x_preferred":[
@@ -172,6 +175,12 @@
     ],
     "name:yor_x_preferred":[
         "Mwanza"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u59c6\u4e07\u624e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u59c6\u842c\u624e"
     ],
     "name:zho_x_preferred":[
         "\u59c6\u4e07\u624e"
@@ -199,7 +208,7 @@
         }
     ],
     "wof:id":1242883891,
-    "wof:lastmodified":1566666007,
+    "wof:lastmodified":1636501940,
     "wof:name":"Mwanza",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",

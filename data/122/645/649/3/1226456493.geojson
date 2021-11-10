@@ -32,6 +32,9 @@
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0628\u0627\u0644\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ac\u09c7\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "Kabale"
     ],
@@ -47,8 +50,20 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d1\u05d0\u05dc\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u092c\u093e\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Kabale"
+    ],
+    "name:ind_x_preferred":[
+        "Kabale"
+    ],
     "name:ita_x_preferred":[
         "Kabale"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ubc1c\ub808"
     ],
     "name:lit_x_preferred":[
         "Kabal\u0117"
@@ -71,8 +86,32 @@
     "name:slv_x_preferred":[
         "Kabale"
     ],
+    "name:spa_x_preferred":[
+        "Kabale"
+    ],
     "name:swa_x_preferred":[
         "Kabale"
+    ],
+    "name:swe_x_preferred":[
+        "Kabale"
+    ],
+    "name:tur_x_preferred":[
+        "Kabale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u043b\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0628\u0627\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Kabale"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u5df4\u83b1"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u5df4\u840a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +125,7 @@
         "gn:id":916422
     },
     "wof:country":"ZM",
-    "wof:geomhash":"b430e94f0627306addb8eab5e8f2581f",
+    "wof:geomhash":"0b17ef980e821fff1f86a7d1382c7fec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +136,7 @@
         }
     ],
     "wof:id":1226456493,
-    "wof:lastmodified":1566666275,
+    "wof:lastmodified":1636501945,
     "wof:name":"Kabale",
     "wof:parent_id":1108782507,
     "wof:placetype":"locality",
@@ -108,9 +147,9 @@
 },
   "bbox": [
     24.71667,
-    -17.11667000000001,
+    -17.11667,
     24.71667,
-    -17.11667000000001
+    -17.11667
 ],
-  "geometry": {"coordinates":[24.71667,-17.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.71667,-17.11667],"type":"Point"}
 }

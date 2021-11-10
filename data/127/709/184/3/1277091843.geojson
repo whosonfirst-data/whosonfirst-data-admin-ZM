@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Likoma"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e7\u05d5\u05de\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Likoma"
+    ],
     "name:nds_x_preferred":[
         "Likoma"
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1277091843,
-    "wof:lastmodified":1566665258,
+    "wof:lastmodified":1636501917,
     "wof:name":"Likoma",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:afr_x_preferred":[
         "Mufulira"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0641\u0648\u0644\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u09ab\u09c1\u09b2\u09bf\u09b0\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u0444\u0443\u043b\u0438\u0440\u0430"
     ],
@@ -35,6 +41,9 @@
     "name:deu_x_preferred":[
         "Mufulira"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c6\u03bf\u03c5\u03bb\u03af\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mufulira"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:est_x_preferred":[
         "Mufulira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0641\u0648\u0644\u06cc\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Mufulira"
@@ -53,10 +65,16 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e4\u05d5\u05dc\u05d9\u05e8\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u0941\u092b\u0941\u0932\u0940\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Mufulira"
     ],
     "name:hun_x_preferred":[
+        "Mufulira"
+    ],
+    "name:ind_x_preferred":[
         "Mufulira"
     ],
     "name:ita_x_preferred":[
@@ -115,6 +133,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0641\u0648\u0644\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mufulira"
     ],
     "name:war_x_preferred":[
         "Mufulira"
@@ -264,7 +285,7 @@
         }
     ],
     "wof:id":421168763,
-    "wof:lastmodified":1566665951,
+    "wof:lastmodified":1636501935,
     "wof:name":"Mufulira",
     "wof:parent_id":1108782381,
     "wof:placetype":"locality",

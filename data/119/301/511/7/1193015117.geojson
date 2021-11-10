@@ -59,7 +59,13 @@
     "name:fra_x_preferred":[
         "Musoma"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05d5\u05de\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Musoma"
+    ],
+    "name:hun_x_preferred":[
         "Musoma"
     ],
     "name:ita_x_preferred":[
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1193015117,
-    "wof:lastmodified":1566665601,
+    "wof:lastmodified":1636501922,
     "wof:name":"Musoma",
     "wof:parent_id":1108782461,
     "wof:placetype":"locality",

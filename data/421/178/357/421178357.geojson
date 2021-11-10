@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Chipata"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u067e\u0627\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Chipata"
     ],
@@ -56,10 +59,16 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0aaa\u0abe\u0aa4\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05e4\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093f\u092a\u093e\u0924\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Chipata"
+    ],
+    "name:hun_x_preferred":[
         "Chipata"
     ],
     "name:ind_x_preferred":[
@@ -294,7 +303,7 @@
         }
     ],
     "wof:id":421178357,
-    "wof:lastmodified":1566665960,
+    "wof:lastmodified":1636501939,
     "wof:name":"Chipata",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

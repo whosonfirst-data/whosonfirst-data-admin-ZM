@@ -47,7 +47,13 @@
     "name:fra_x_preferred":[
         "Nyanga"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d0\u05e0\u05d2\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Nyanga"
+    ],
+    "name:hun_x_preferred":[
         "Nyanga"
     ],
     "name:ita_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1243451141,
-    "wof:lastmodified":1566666113,
+    "wof:lastmodified":1636501943,
     "wof:name":"Nyanga",
     "wof:parent_id":1108782493,
     "wof:placetype":"locality",

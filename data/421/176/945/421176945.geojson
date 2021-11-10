@@ -17,16 +17,40 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0643\u0648\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u0995\u09c1\u09b2\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Lukulu"
     ],
     "name:deu_x_preferred":[
         "Lukulu"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Lukulu"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0648\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Lukulu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e7\u05d5\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0915\u0942\u0932\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Lukulu"
+    ],
+    "name:ind_x_preferred":[
         "Lukulu"
     ],
     "name:ita_x_preferred":[
@@ -34,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30af\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ucfe8\ub8e8"
     ],
     "name:mrj_x_preferred":[
         "\u041b\u0443\u043a\u0443\u043b\u0443"
@@ -48,6 +75,27 @@
         "Lukulu"
     ],
     "name:ron_x_preferred":[
+        "Lukulu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043a\u0443\u043b\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Lukulu"
+    ],
+    "name:swe_x_preferred":[
+        "Lukulu"
+    ],
+    "name:tur_x_preferred":[
+        "Lukulu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u0443\u043b\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06a9\u0648\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Lukulu"
     ],
     "name:zho_x_preferred":[
@@ -193,7 +241,7 @@
         }
     ],
     "wof:id":421176945,
-    "wof:lastmodified":1566665962,
+    "wof:lastmodified":1636501940,
     "wof:name":"Lukulu",
     "wof:parent_id":1108782501,
     "wof:placetype":"locality",

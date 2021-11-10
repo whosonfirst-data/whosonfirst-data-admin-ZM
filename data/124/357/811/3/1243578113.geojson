@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Makamba"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d0\u05d8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Makamba"
+    ],
     "name:nld_x_preferred":[
         "Makamba"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1243578113,
-    "wof:lastmodified":1566666053,
+    "wof:lastmodified":1636501941,
     "wof:name":"Makamba",
     "wof:parent_id":1108782411,
     "wof:placetype":"locality",

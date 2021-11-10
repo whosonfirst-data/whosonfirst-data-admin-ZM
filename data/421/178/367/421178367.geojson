@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0645\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09cb\u09ae\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u043e\u043c\u0430"
     ],
@@ -29,8 +32,14 @@
     "name:deu_x_preferred":[
         "Choma"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Choma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Choma"
@@ -38,11 +47,26 @@
     "name:frr_x_preferred":[
         "Choma"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u094b\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Choma"
+    ],
+    "name:ind_x_preferred":[
+        "Choma"
+    ],
     "name:ita_x_preferred":[
         "Choma"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e7\u30de"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd08\ub9c8"
     ],
     "name:lit_x_preferred":[
         "\u010coma"
@@ -66,6 +90,21 @@
         "\u0427\u043e\u043c\u0430"
     ],
     "name:spa_x_preferred":[
+        "Choma"
+    ],
+    "name:swe_x_preferred":[
+        "Choma"
+    ],
+    "name:tur_x_preferred":[
+        "Choma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043c\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0631\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Choma"
     ],
     "name:zho_x_preferred":[
@@ -211,7 +250,7 @@
         }
     ],
     "wof:id":421178367,
-    "wof:lastmodified":1566665960,
+    "wof:lastmodified":1636501939,
     "wof:name":"Choma",
     "wof:parent_id":1108782473,
     "wof:placetype":"locality",

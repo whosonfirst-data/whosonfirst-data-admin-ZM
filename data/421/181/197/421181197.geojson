@@ -50,6 +50,9 @@
     "name:epo_x_preferred":[
         "Luanshya"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u0634\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Luanshya"
     ],
@@ -59,10 +62,16 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a86\u0aa8\u0acd\u0ab6\u0acd\u0aaf\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05e0\u05e9\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0941\u0906\u0928\u094d\u0936\u0940\u092f"
     ],
     "name:hrv_x_preferred":[
+        "Luanshya"
+    ],
+    "name:hun_x_preferred":[
         "Luanshya"
     ],
     "name:ind_x_preferred":[
@@ -297,7 +306,7 @@
         }
     ],
     "wof:id":421181197,
-    "wof:lastmodified":1566665957,
+    "wof:lastmodified":1636501937,
     "wof:name":"Luanshya",
     "wof:parent_id":1108782373,
     "wof:placetype":"locality",

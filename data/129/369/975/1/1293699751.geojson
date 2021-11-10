@@ -29,14 +29,59 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b2\u09c1\u0982\u0997\u09c1"
+    ],
     "name:ceb_x_preferred":[
+        "Bulungu"
+    ],
+    "name:deu_x_preferred":[
+        "Bulungu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bb\u03bf\u03cd\u03bd\u03b3\u03ba\u03bf\u03c5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0646\u06af\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d5\u05e0\u05d2\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0942\u0932\u0941\u0902\u0917\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Bulungu"
+    ],
+    "name:ind_x_preferred":[
+        "Bulungu"
+    ],
+    "name:ita_x_preferred":[
+        "Bulungu"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd88\ub8fd\uad6c"
+    ],
+    "name:pol_x_preferred":[
+        "Bulungu"
+    ],
+    "name:spa_x_preferred":[
         "Bulungu"
     ],
     "name:swe_x_preferred":[
         "Bulungu"
     ],
+    "name:tur_x_preferred":[
+        "Bulungu"
+    ],
     "name:und_x_variant":[
         "Bulunga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0646\u06af\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Bulungu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +106,7 @@
         }
     ],
     "wof:id":1293699751,
-    "wof:lastmodified":1566665175,
+    "wof:lastmodified":1636501916,
     "wof:name":"Bulungu",
     "wof:parent_id":1108782349,
     "wof:placetype":"locality",

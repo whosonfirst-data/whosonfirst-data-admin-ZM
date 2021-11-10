@@ -126,6 +126,9 @@
         "Manga"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d2\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d0\u05e0\u05d2\u05d4"
     ],
     "name:hin_x_preferred":[
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":1277088585,
-    "wof:lastmodified":1566665251,
+    "wof:lastmodified":1636501917,
     "wof:name":"Manga",
     "wof:parent_id":1108782509,
     "wof:placetype":"locality",
