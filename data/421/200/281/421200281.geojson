@@ -20,13 +20,28 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0646\u0633\u0627\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u064a\u0646\u0633\u0627\u0644\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a8\u09b8\u09be\u09b2\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0438\u043d\u0441\u0430\u043b\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Chinsali"
+    ],
     "name:ceb_x_preferred":[
+        "Chinsali"
+    ],
+    "name:ces_x_preferred":[
+        "Chinsali"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0686\u06cc\u0646\u0633\u0627\u0644\u06cc"
+    ],
+    "name:dan_x_preferred":[
         "Chinsali"
     ],
     "name:deu_x_preferred":[
@@ -101,6 +116,15 @@
     "name:spa_x_preferred":[
         "Chinsali"
     ],
+    "name:swa_x_preferred":[
+        "Chinsali"
+    ],
+    "name:swe_x_preferred":[
+        "Chinsali"
+    ],
+    "name:szl_x_preferred":[
+        "Chinsali"
+    ],
     "name:tur_x_preferred":[
         "Chinsali"
     ],
@@ -118,6 +142,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6b3d\u85a9\u5229"
+    ],
+    "name:zul_x_preferred":[
+        "Chinsali"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -259,7 +286,7 @@
         }
     ],
     "wof:id":421200281,
-    "wof:lastmodified":1636501938,
+    "wof:lastmodified":1690930112,
     "wof:name":"Chinsali",
     "wof:parent_id":1108782427,
     "wof:placetype":"locality",

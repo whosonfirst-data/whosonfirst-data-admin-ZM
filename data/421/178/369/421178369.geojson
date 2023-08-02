@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u063a\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u064a\u0646\u062c\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Chingola"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u0982\u0997\u09cb\u09b2\u09be"
     ],
@@ -54,6 +60,9 @@
         "Chingola"
     ],
     "name:fra_x_preferred":[
+        "Chingola"
+    ],
+    "name:gle_x_preferred":[
         "Chingola"
     ],
     "name:heb_x_preferred":[
@@ -107,7 +116,13 @@
     "name:spa_x_preferred":[
         "Chingola"
     ],
+    "name:swa_x_preferred":[
+        "Chingola"
+    ],
     "name:swe_x_preferred":[
+        "Chingola"
+    ],
+    "name:tum_x_preferred":[
         "Chingola"
     ],
     "name:tur_x_preferred":[
@@ -122,6 +137,9 @@
     "name:urd_x_preferred":[
         "\u0686\u0646\u06af\u0648\u0644\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Chingola"
+    ],
     "name:vie_x_preferred":[
         "Chingola"
     ],
@@ -130,6 +148,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6b3d\u6208\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Chingola"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -281,7 +302,7 @@
         }
     ],
     "wof:id":421178369,
-    "wof:lastmodified":1636501939,
+    "wof:lastmodified":1690930114,
     "wof:name":"Chingola",
     "wof:parent_id":1108782363,
     "wof:placetype":"locality",

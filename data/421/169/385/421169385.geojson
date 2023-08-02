@@ -62,8 +62,14 @@
     "name:spa_x_preferred":[
         "Isoka"
     ],
+    "name:swa_x_preferred":[
+        "Isoka"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u7d22\u5361"
+    ],
+    "name:zul_x_preferred":[
+        "Isoka"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421169385,
-    "wof:lastmodified":1566665954,
+    "wof:lastmodified":1690930108,
     "wof:name":"Isoka",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

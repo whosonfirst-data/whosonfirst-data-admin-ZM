@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u0627\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0644\u0627\u0628\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09be\u09ac\u09cb"
     ],
@@ -97,6 +100,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u535a"
+    ],
+    "name:zul_x_preferred":[
+        "Kalabo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -238,7 +244,7 @@
         }
     ],
     "wof:id":421199121,
-    "wof:lastmodified":1636501937,
+    "wof:lastmodified":1690930112,
     "wof:name":"Kalabo",
     "wof:parent_id":1108782497,
     "wof:placetype":"locality",

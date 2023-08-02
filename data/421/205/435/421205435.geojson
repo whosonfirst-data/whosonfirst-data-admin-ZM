@@ -56,6 +56,9 @@
     "name:zho_x_preferred":[
         "\u59c6\u6ce2\u6d1b\u79d1\u7d22"
     ],
+    "name:zul_x_preferred":[
+        "Mporokoso"
+    ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":175967,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421205435,
-    "wof:lastmodified":1566665955,
+    "wof:lastmodified":1690930108,
     "wof:name":"Mporokoso",
     "wof:parent_id":1108782467,
     "wof:placetype":"locality",

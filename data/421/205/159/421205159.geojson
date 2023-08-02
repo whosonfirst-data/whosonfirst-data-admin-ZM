@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Serenje"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05e0\u05d6'\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Serenje"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:zho_x_preferred":[
         "\u585e\u4f26\u6770"
+    ],
+    "name:zul_x_preferred":[
+        "Serenje"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421205159,
-    "wof:lastmodified":1566665954,
+    "wof:lastmodified":1690930108,
     "wof:name":"Serenje",
     "wof:parent_id":1108782361,
     "wof:placetype":"locality",

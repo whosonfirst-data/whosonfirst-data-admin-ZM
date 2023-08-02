@@ -23,6 +23,9 @@
     "name:nld_x_preferred":[
         "Shiwa Ngandu"
     ],
+    "name:zul_x_preferred":[
+        "Shiwa Ngandu"
+    ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":898494,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421195137,
-    "wof:lastmodified":1566665953,
+    "wof:lastmodified":1690930106,
     "wof:name":"Shiwa Ngandu",
     "wof:parent_id":1108782427,
     "wof:placetype":"locality",

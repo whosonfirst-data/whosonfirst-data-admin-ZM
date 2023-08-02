@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0627\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0633\u0627\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kasama"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u0430\u043c\u0430"
     ],
@@ -60,6 +66,9 @@
         "Kasama"
     ],
     "name:frr_x_preferred":[
+        "Kasama"
+    ],
+    "name:gle_x_preferred":[
         "Kasama"
     ],
     "name:guj_x_preferred":[
@@ -137,6 +146,9 @@
     "name:spa_x_preferred":[
         "Kasama"
     ],
+    "name:swa_x_preferred":[
+        "Kasama"
+    ],
     "name:swe_x_preferred":[
         "Kasama"
     ],
@@ -148,6 +160,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e0b\u0e32\u0e21\u0e32"
+    ],
+    "name:tum_x_preferred":[
+        "Kasama"
     ],
     "name:tur_x_preferred":[
         "Kasama"
@@ -161,11 +176,17 @@
     "name:urd_x_variant":[
         "\u06a9\u0627\u0633\u0627\u0645\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Kasama"
+    ],
     "name:vie_x_preferred":[
         "Kasama"
     ],
     "name:zho_x_preferred":[
         "\u5361\u85a9\u99ac"
+    ],
+    "name:zul_x_preferred":[
+        "Kasama"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -309,7 +330,7 @@
         }
     ],
     "wof:id":421175739,
-    "wof:lastmodified":1636501937,
+    "wof:lastmodified":1690930110,
     "wof:name":"Kasama",
     "wof:parent_id":1108782461,
     "wof:placetype":"locality",

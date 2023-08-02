@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043c\u0431\u0443\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Mumbwa"
+    ],
     "name:ceb_x_preferred":[
         "Mumbwa"
     ],
@@ -86,6 +89,9 @@
     "name:spa_x_preferred":[
         "Mumbwa"
     ],
+    "name:swa_x_preferred":[
+        "Mumbwa"
+    ],
     "name:swe_x_preferred":[
         "Mumbwa"
     ],
@@ -103,6 +109,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u5e03\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "Mumbwa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":421179971,
-    "wof:lastmodified":1636501938,
+    "wof:lastmodified":1690930113,
     "wof:name":"Mumbwa",
     "wof:parent_id":1108782359,
     "wof:placetype":"locality",

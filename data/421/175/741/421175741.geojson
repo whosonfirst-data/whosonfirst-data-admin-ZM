@@ -23,11 +23,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u064a\u0631\u064a \u0645\u0628\u0648\u0634\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0628\u064a\u0631\u0649 \u0645\u0628\u0648\u0634\u0649"
+    ],
+    "name:avk_x_preferred":[
+        "Kapiri Mposhi"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09aa\u09bf\u09b0\u09bf \u098f\u09ae\u09cd\u09aa\u09cb\u09b6\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043f\u0438\u0440\u0438 \u041c\u043f\u043e\u0448\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Kapiri Mposhi"
     ],
     "name:ceb_x_preferred":[
         "Kapiri Mposhi"
@@ -46,6 +55,9 @@
     ],
     "name:epo_x_preferred":[
         "Kapiri Mposhi"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u067e\u06cc\u0631\u06cc \u0627\u0645\u067e\u0648\u0634\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kapiri Mposhi"
@@ -107,6 +119,9 @@
     "name:spa_x_preferred":[
         "Kapiri Mposhi"
     ],
+    "name:swa_x_preferred":[
+        "Kapiri Mposhi"
+    ],
     "name:swe_x_preferred":[
         "Kapiri Mposhi"
     ],
@@ -127,6 +142,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u76ae\u91cc\u59c6\u6ce2\u5e0c"
+    ],
+    "name:zul_x_preferred":[
+        "Kapiri Mposhi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -268,7 +286,7 @@
         }
     ],
     "wof:id":421175741,
-    "wof:lastmodified":1636501937,
+    "wof:lastmodified":1690930110,
     "wof:name":"Kapiri Mposhi",
     "wof:parent_id":1108782355,
     "wof:placetype":"locality",

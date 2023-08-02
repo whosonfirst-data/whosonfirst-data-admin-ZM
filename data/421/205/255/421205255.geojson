@@ -56,8 +56,14 @@
     "name:spa_x_preferred":[
         "Petauke"
     ],
+    "name:swa_x_preferred":[
+        "Petauke"
+    ],
     "name:zho_x_preferred":[
         "\u4f69\u9676\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Petauke"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421205255,
-    "wof:lastmodified":1566665955,
+    "wof:lastmodified":1690930109,
     "wof:name":"Petauke",
     "wof:parent_id":1108782397,
     "wof:placetype":"locality",

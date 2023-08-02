@@ -27,10 +27,16 @@
         "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627",
         "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u063a\u0648\u0627\u060c \u0632\u0627\u0645\u0628\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0647\u0631 \u0644\u0648\u0627\u0646\u062c\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09df\u09be\u0999\u09cd\u0997\u09cb\u09df\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Luangwa"
+    ],
+    "name:dan_x_preferred":[
         "Luangwa"
     ],
     "name:deu_x_preferred":[
@@ -75,6 +81,9 @@
     "name:nld_x_preferred":[
         "Luangwa"
     ],
+    "name:nno_x_preferred":[
+        "Luangwa"
+    ],
     "name:nob_x_preferred":[
         "Luangwa"
     ],
@@ -116,6 +125,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76e7\u5b89\u6208\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "Luangwa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -256,7 +268,7 @@
         }
     ],
     "wof:id":421168771,
-    "wof:lastmodified":1636501935,
+    "wof:lastmodified":1690930104,
     "wof:name":"Luangwa",
     "wof:parent_id":1091701729,
     "wof:placetype":"locality",

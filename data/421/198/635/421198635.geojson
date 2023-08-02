@@ -71,6 +71,9 @@
     "name:spa_x_preferred":[
         "Kalulushi"
     ],
+    "name:swa_x_preferred":[
+        "Kalulushi"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0443\u043b\u0443\u0448\u0456"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u76e7\u76e7\u5e0c"
+    ],
+    "name:zul_x_preferred":[
+        "Kalulushi"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421198635,
-    "wof:lastmodified":1566665957,
+    "wof:lastmodified":1690930111,
     "wof:name":"Kalulushi",
     "wof:parent_id":1108782371,
     "wof:placetype":"locality",

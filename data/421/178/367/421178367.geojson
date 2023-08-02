@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0648\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09cb\u09ae\u09be"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u55ac\u99ac"
+    ],
+    "name:zul_x_preferred":[
+        "Choma"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -250,7 +256,7 @@
         }
     ],
     "wof:id":421178367,
-    "wof:lastmodified":1636501939,
+    "wof:lastmodified":1690930114,
     "wof:name":"Choma",
     "wof:parent_id":1108782473,
     "wof:placetype":"locality",

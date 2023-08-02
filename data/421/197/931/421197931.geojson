@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Kansanshi"
     ],
+    "name:swa_x_preferred":[
+        "Kansanshi"
+    ],
     "name:und_x_variant":[
         "Kansanshi Mine"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421197931,
-    "wof:lastmodified":1566665958,
+    "wof:lastmodified":1690930111,
     "wof:name":"Kansanshi",
     "wof:parent_id":1108782451,
     "wof:placetype":"locality",

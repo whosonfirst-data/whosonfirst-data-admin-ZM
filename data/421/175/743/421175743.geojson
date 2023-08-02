@@ -89,6 +89,9 @@
     "name:spa_x_preferred":[
         "Kaoma"
     ],
+    "name:swa_x_preferred":[
+        "Kaoma"
+    ],
     "name:swe_x_preferred":[
         "Kaoma"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8003\u99ac"
+    ],
+    "name:zul_x_preferred":[
+        "Kaoma"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -250,7 +256,7 @@
         }
     ],
     "wof:id":421175743,
-    "wof:lastmodified":1636501937,
+    "wof:lastmodified":1690930111,
     "wof:name":"Kaoma",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",

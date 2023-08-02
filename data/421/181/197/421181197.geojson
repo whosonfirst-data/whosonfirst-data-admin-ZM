@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0627\u0646\u0634\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u0634\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Luanshya"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09af\u09bc\u09be\u09a8\u09b6\u09bf\u09af\u09bc\u09be"
     ],
@@ -57,6 +63,9 @@
         "Luanshya"
     ],
     "name:fra_x_preferred":[
+        "Luanshya"
+    ],
+    "name:gle_x_preferred":[
         "Luanshya"
     ],
     "name:guj_x_preferred":[
@@ -131,6 +140,9 @@
     "name:spa_x_preferred":[
         "Luanshya"
     ],
+    "name:swa_x_preferred":[
+        "Luanshya"
+    ],
     "name:swe_x_preferred":[
         "Luanshya"
     ],
@@ -142,6 +154,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e27\u0e19\u0e0a\u0e22\u0e32"
+    ],
+    "name:tum_x_preferred":[
+        "Luanshya"
     ],
     "name:tur_x_preferred":[
         "Luanshya"
@@ -155,6 +170,12 @@
     "name:urd_x_preferred":[
         "\u0644\u0648\u0627\u0646\u0634\u06cc\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Luanshya"
+    ],
+    "name:vec_x_preferred":[
+        "Luanshya"
+    ],
     "name:vie_x_preferred":[
         "Luanshya"
     ],
@@ -163,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76e7\u5b89\u590f"
+    ],
+    "name:zul_x_preferred":[
+        "Luanshya"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -306,7 +330,7 @@
         }
     ],
     "wof:id":421181197,
-    "wof:lastmodified":1636501937,
+    "wof:lastmodified":1690930110,
     "wof:name":"Luanshya",
     "wof:parent_id":1108782373,
     "wof:placetype":"locality",

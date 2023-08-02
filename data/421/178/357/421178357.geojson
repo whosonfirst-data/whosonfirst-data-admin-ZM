@@ -23,11 +23,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0628\u0627\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u064a\u0628\u0627\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Chipata"
+    ],
+    "name:avk_x_preferred":[
+        "Chipata"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09aa\u09be\u09a4\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0438\u043f\u0430\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Chipata"
     ],
     "name:ceb_x_preferred":[
         "Chipata"
@@ -62,6 +74,9 @@
     "name:heb_x_preferred":[
         "\u05e6'\u05d9\u05e4\u05d8\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e6'\u05d9\u05e4\u05d0\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093f\u092a\u093e\u0924\u093e"
     ],
@@ -70,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Chipata"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u056b\u057a\u0561\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Chipata"
@@ -131,6 +149,9 @@
     "name:spa_x_preferred":[
         "Chipata"
     ],
+    "name:swa_x_preferred":[
+        "Chipata"
+    ],
     "name:swe_x_preferred":[
         "Chipata"
     ],
@@ -142,6 +163,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e35\u0e1b\u0e32\u0e15\u0e32"
+    ],
+    "name:tum_x_preferred":[
+        "Chipata"
     ],
     "name:tur_x_preferred":[
         "Chipata"
@@ -158,8 +182,14 @@
     "name:vie_x_preferred":[
         "Chipata"
     ],
+    "name:war_x_preferred":[
+        "Chipata"
+    ],
     "name:zho_x_preferred":[
         "\u5947\u5e15\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Chipata"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -303,7 +333,7 @@
         }
     ],
     "wof:id":421178357,
-    "wof:lastmodified":1636501939,
+    "wof:lastmodified":1690930114,
     "wof:name":"Chipata",
     "wof:parent_id":1108782391,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0632\u0627\u0628\u0648\u0643\u0627"
     ],
+    "name:avk_x_preferred":[
+        "Mazabuka"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u099c\u09be\u09ac\u09c1\u0995\u09be"
     ],
@@ -85,6 +88,9 @@
     "name:mrj_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0431\u0443\u043a\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Mazabuka Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Mazabuka District"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u624e\u5e03\u5361\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Mazabuka District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":1108782487,
-    "wof:lastmodified":1636501927,
+    "wof:lastmodified":1690930102,
     "wof:name":"Mazabuka",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

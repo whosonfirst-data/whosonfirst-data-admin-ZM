@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Chibombo"
+    ],
     "name:ceb_x_preferred":[
         "Chibombo"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5947\u90a6\u535a"
+    ],
+    "name:zul_x_preferred":[
+        "Chibombo"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421176937,
-    "wof:lastmodified":1566665961,
+    "wof:lastmodified":1690930115,
     "wof:name":"Chibombo",
     "wof:parent_id":1108782349,
     "wof:placetype":"locality",
