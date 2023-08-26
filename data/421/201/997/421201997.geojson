@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Mongu"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u0999\u09cd\u0997\u09c1"
     ],
@@ -30,6 +33,9 @@
         "\u041c\u043e\u043d\u0433\u0443"
     ],
     "name:cat_x_preferred":[
+        "Mongu"
+    ],
+    "name:ceb_x_preferred":[
         "Mongu"
     ],
     "name:dan_x_preferred":[
@@ -47,11 +53,17 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u06af\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Mongu"
+    ],
     "name:fra_x_preferred":[
         "Mongu"
     ],
     "name:frr_x_preferred":[
         "Mongu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d2\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0902\u0917\u0941"
@@ -104,6 +116,9 @@
     "name:spa_x_preferred":[
         "Mongu"
     ],
+    "name:swa_x_preferred":[
+        "Mongu"
+    ],
     "name:swe_x_preferred":[
         "Mongu"
     ],
@@ -124,6 +139,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8292\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Mongu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -266,7 +284,7 @@
         }
     ],
     "wof:id":421201997,
-    "wof:lastmodified":1636501938,
+    "wof:lastmodified":1690930112,
     "wof:name":"Mongu",
     "wof:parent_id":1108782503,
     "wof:placetype":"locality",

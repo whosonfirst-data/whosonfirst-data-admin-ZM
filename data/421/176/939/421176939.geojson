@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:avk_x_preferred":[
+        "Samfya"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0444\u044f"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Samfya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05de\u05e4\u05d9\u05d4"
     ],
     "name:ita_x_preferred":[
         "Samfya"
@@ -53,11 +59,20 @@
     "name:ron_x_preferred":[
         "Samfya"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0444\u044c\u044f"
+    ],
     "name:spa_x_preferred":[
+        "Samfya"
+    ],
+    "name:swa_x_preferred":[
         "Samfya"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u59c6\u83f2\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "Samfya"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":421176939,
-    "wof:lastmodified":1566665961,
+    "wof:lastmodified":1690930115,
     "wof:name":"Samfya",
     "wof:parent_id":1108782413,
     "wof:placetype":"locality",

@@ -23,11 +23,23 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0628\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kabwe"
+    ],
+    "name:avk_x_preferred":[
+        "Kabwe"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0628\u0648\u0648\u06cc"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0431\u0432\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0431\u0432\u044d"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ac\u09cb\u09df\u09c7"
@@ -74,6 +86,9 @@
     "name:frr_x_preferred":[
         "Kabwe"
     ],
+    "name:gle_x_preferred":[
+        "Kabwe"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d1\u05d5\u05d5\u05d4"
     ],
@@ -86,6 +101,9 @@
     "name:hun_x_preferred":[
         "Kabwe"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0562\u057e\u0565"
+    ],
     "name:ind_x_preferred":[
         "Kabwe"
     ],
@@ -94,6 +112,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d6\u30a6\u30a7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d1\u10d5\u10d4"
     ],
     "name:kor_x_preferred":[
         "\uce74\ube0c\uc6e8"
@@ -131,7 +152,13 @@
     "name:spa_x_preferred":[
         "Kabwe"
     ],
+    "name:swa_x_preferred":[
+        "Kabwe"
+    ],
     "name:swe_x_preferred":[
+        "Kabwe"
+    ],
+    "name:szl_x_preferred":[
         "Kabwe"
     ],
     "name:tgl_x_preferred":[
@@ -149,6 +176,12 @@
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0628\u0648\u06d2"
     ],
+    "name:uzb_x_preferred":[
+        "Kabve"
+    ],
+    "name:vec_x_preferred":[
+        "Kabwe"
+    ],
     "name:vie_x_preferred":[
         "Kabwe"
     ],
@@ -157,6 +190,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u5e03\u97e6"
+    ],
+    "name:zul_x_preferred":[
+        "Kabwe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -300,7 +336,7 @@
         }
     ],
     "wof:id":421179935,
-    "wof:lastmodified":1636501939,
+    "wof:lastmodified":1690930113,
     "wof:name":"Kabwe",
     "wof:parent_id":1108782353,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:fra_x_preferred":[
         "Chambishi F.C."
     ],
+    "name:lit_x_preferred":[
+        "Chambishi"
+    ],
     "name:nld_x_preferred":[
         "Chambishi F.C."
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421182779,
-    "wof:lastmodified":1566665961,
+    "wof:lastmodified":1690930115,
     "wof:name":"Chambishi",
     "wof:parent_id":1108782367,
     "wof:placetype":"locality",

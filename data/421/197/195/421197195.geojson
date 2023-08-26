@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0646\u062f\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u062f\u0648\u0644\u0627"
+    ],
     "name:ast_x_preferred":[
         "Ndola"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0434\u043e\u043b\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0434\u043e\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09a6\u09b2\u09be"
@@ -80,8 +86,14 @@
     "name:frr_x_preferred":[
         "Ndola"
     ],
+    "name:gle_x_preferred":[
+        "Ndola"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0aa1\u0acb\u0ab2\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Ndola"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d3\u05d5\u05dc\u05d4"
@@ -130,6 +142,12 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0921\u094b\u0932\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041d\u0434\u043e\u043b\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Ndola"
     ],
     "name:mrj_x_preferred":[
         "\u041d\u0434\u043e\u043b\u0430"
@@ -188,6 +206,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e47\u0e19\u0e42\u0e14\u0e25\u0e32"
     ],
+    "name:tum_x_preferred":[
+        "Ndola"
+    ],
     "name:tur_x_preferred":[
         "Ndola"
     ],
@@ -200,6 +221,9 @@
     "name:uzb_x_preferred":[
         "Ndola"
     ],
+    "name:vec_x_preferred":[
+        "Ndola"
+    ],
     "name:vie_x_preferred":[
         "Ndola"
     ],
@@ -208,6 +232,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u591a\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Ndola"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -354,7 +381,7 @@
         }
     ],
     "wof:id":421197195,
-    "wof:lastmodified":1566665958,
+    "wof:lastmodified":1690930112,
     "wof:name":"Ndola",
     "wof:parent_id":1108782383,
     "wof:placetype":"locality",

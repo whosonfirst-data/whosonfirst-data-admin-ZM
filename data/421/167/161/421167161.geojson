@@ -50,6 +50,9 @@
     "name:zho_x_preferred":[
         "\u683c\u6eab\u8c9d"
     ],
+    "name:zul_x_preferred":[
+        "Gwembe"
+    ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":917011,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421167161,
-    "wof:lastmodified":1566665953,
+    "wof:lastmodified":1690930106,
     "wof:name":"Gwembe",
     "wof:parent_id":1108782475,
     "wof:placetype":"locality",

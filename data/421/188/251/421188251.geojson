@@ -53,8 +53,14 @@
     "name:spa_x_preferred":[
         "Chadiza"
     ],
+    "name:tum_x_preferred":[
+        "Chadiza"
+    ],
     "name:zho_x_preferred":[
         "\u6070\u8fea\u624e"
+    ],
+    "name:zul_x_preferred":[
+        "Chadiza"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421188251,
-    "wof:lastmodified":1566665956,
+    "wof:lastmodified":1690930109,
     "wof:name":"Chadiza",
     "wof:parent_id":1108782385,
     "wof:placetype":"locality",

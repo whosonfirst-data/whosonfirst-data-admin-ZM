@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u0627\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0628\u0627\u0644\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09ac\u09be\u09b2\u09be"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d1\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d1\u05d0\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094d\u092c\u093e\u0932\u093e"
@@ -98,6 +104,9 @@
     "name:spa_x_preferred":[
         "Mbala"
     ],
+    "name:swa_x_preferred":[
+        "Mbala"
+    ],
     "name:swe_x_preferred":[
         "Mbala"
     ],
@@ -118,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u5df4\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mbala"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -259,7 +271,7 @@
         }
     ],
     "wof:id":421179923,
-    "wof:lastmodified":1636501938,
+    "wof:lastmodified":1690930113,
     "wof:name":"Mbala",
     "wof:parent_id":1108782465,
     "wof:placetype":"locality",

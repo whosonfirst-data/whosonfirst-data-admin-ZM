@@ -59,8 +59,14 @@
     "name:spa_x_preferred":[
         "Mkushi"
     ],
+    "name:swa_x_preferred":[
+        "Mkushi"
+    ],
     "name:zho_x_preferred":[
         "\u59c6\u5e93\u5e0c"
+    ],
+    "name:zul_x_preferred":[
+        "Mkushi"
     ],
     "qs:gn_country":"ZM",
     "qs:gn_fcode":"PPL",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421168087,
-    "wof:lastmodified":1566665952,
+    "wof:lastmodified":1690930105,
     "wof:name":"Mkushi",
     "wof:parent_id":1108782357,
     "wof:placetype":"locality",

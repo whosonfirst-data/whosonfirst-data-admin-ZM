@@ -68,6 +68,9 @@
     "name:mrj_x_preferred":[
         "\u041d\u044c\u0438\u043c\u0431\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Nyimba Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Nyimba District"
     ],
@@ -100,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u56e0\u5df4\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Nyimba District"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":421182785,
-    "wof:lastmodified":1636501939,
+    "wof:lastmodified":1690930115,
     "wof:name":"Nyimba",
     "wof:parent_id":1108782395,
     "wof:placetype":"locality",

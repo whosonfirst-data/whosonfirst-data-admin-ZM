@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0641\u0648\u0644\u064a\u0631\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Mufulira"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09ab\u09c1\u09b2\u09bf\u09b0\u09be"
     ],
@@ -33,6 +36,9 @@
         "Mufulira"
     ],
     "name:ceb_x_preferred":[
+        "Mufulira"
+    ],
+    "name:ces_x_preferred":[
         "Mufulira"
     ],
     "name:dan_x_preferred":[
@@ -62,6 +68,9 @@
     "name:fra_x_preferred":[
         "Mufulira"
     ],
+    "name:gle_x_preferred":[
+        "Mufulira"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e4\u05d5\u05dc\u05d9\u05e8\u05d4"
     ],
@@ -77,11 +86,17 @@
     "name:ind_x_preferred":[
         "Mufulira"
     ],
+    "name:isl_x_preferred":[
+        "Mufulira"
+    ],
     "name:ita_x_preferred":[
         "Mufulira"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30d5\u30ea\u30e9"
+    ],
+    "name:kal_x_preferred":[
+        "Mufulira"
     ],
     "name:kor_x_preferred":[
         "\ubb34\ud480\ub9ac\ub77c"
@@ -122,7 +137,16 @@
     "name:spa_x_preferred":[
         "Mufulira"
     ],
+    "name:swa_x_preferred":[
+        "Mufulira"
+    ],
     "name:swe_x_preferred":[
+        "Mufulira"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e39\u0e1f\u0e38\u0e25\u0e34\u0e23\u0e32"
+    ],
+    "name:tum_x_preferred":[
         "Mufulira"
     ],
     "name:tur_x_preferred":[
@@ -134,6 +158,12 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0641\u0648\u0644\u06cc\u0631\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Mufulira"
+    ],
+    "name:vec_x_preferred":[
+        "Mufulira"
+    ],
     "name:vie_x_preferred":[
         "Mufulira"
     ],
@@ -142,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u5bcc\u5229\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mufulira"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -285,7 +318,7 @@
         }
     ],
     "wof:id":421168763,
-    "wof:lastmodified":1636501935,
+    "wof:lastmodified":1690930104,
     "wof:name":"Mufulira",
     "wof:parent_id":1108782381,
     "wof:placetype":"locality",

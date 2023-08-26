@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0641\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0444\u0443\u044d"
     ],
@@ -116,7 +119,13 @@
     "name:spa_x_preferred":[
         "Kafue"
     ],
+    "name:swa_x_preferred":[
+        "Kafue"
+    ],
     "name:swe_x_preferred":[
+        "Kafue"
+    ],
+    "name:szl_x_preferred":[
         "Kafue"
     ],
     "name:tam_x_preferred":[
@@ -127,6 +136,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e1f\u0e39\u0e19\u0e4c"
+    ],
+    "name:tum_x_preferred":[
+        "Kafue"
     ],
     "name:tur_x_preferred":[
         "Kafue"
@@ -145,6 +157,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u5bcc\u57c3"
+    ],
+    "name:zul_x_preferred":[
+        "Kafue"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -286,7 +301,7 @@
         }
     ],
     "wof:id":421166477,
-    "wof:lastmodified":1636501936,
+    "wof:lastmodified":1690930105,
     "wof:name":"Kafue",
     "wof:parent_id":1108782417,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Namwala"
     ],
+    "name:pol_x_preferred":[
+        "Namwala"
+    ],
     "name:por_x_preferred":[
         "Namwala"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421194171,
-    "wof:lastmodified":1566665953,
+    "wof:lastmodified":1690930106,
     "wof:name":"Namwala",
     "wof:parent_id":1108782491,
     "wof:placetype":"locality",

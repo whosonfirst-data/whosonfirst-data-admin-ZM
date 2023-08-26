@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0648\u064a\u0632\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Solwezi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043e\u043b\u0432\u0435\u0437\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c7\u0987\u099c\u09bf"
     ],
@@ -47,6 +53,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0648\u0644\u0648\u0632\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Solwezi"
+    ],
     "name:fra_x_preferred":[
         "Solwezi"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05dc\u05d1\u05d6\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d5\u05dc\u05d5\u05d5\u05d6\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0938\u094b\u0932\u0935\u0947\u091c\u093c\u0940"
@@ -107,7 +119,13 @@
     "name:spa_x_preferred":[
         "Solwezi"
     ],
+    "name:swa_x_preferred":[
+        "Solwezi"
+    ],
     "name:swe_x_preferred":[
+        "Solwezi"
+    ],
+    "name:tum_x_preferred":[
         "Solwezi"
     ],
     "name:tur_x_preferred":[
@@ -124,6 +142,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d22\u76e7\u97cb\u9f4a"
+    ],
+    "name:zul_x_preferred":[
+        "Solwezi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -267,7 +288,7 @@
         }
     ],
     "wof:id":421176943,
-    "wof:lastmodified":1636501940,
+    "wof:lastmodified":1690930116,
     "wof:name":"Solwezi",
     "wof:parent_id":1108782451,
     "wof:placetype":"locality",

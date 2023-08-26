@@ -23,7 +23,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0633\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0646\u0633\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Mansa"
+    ],
+    "name:avk_x_preferred":[
         "Mansa"
     ],
     "name:ben_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:ceb_x_preferred":[
         "Mansa"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0627\u0646\u0633\u0627"
     ],
     "name:deu_x_preferred":[
         "Mansa"
@@ -54,6 +63,9 @@
         "Mansa"
     ],
     "name:frr_x_preferred":[
+        "Mansa"
+    ],
+    "name:gle_x_preferred":[
         "Mansa"
     ],
     "name:heb_x_preferred":[
@@ -107,6 +119,9 @@
     "name:spa_x_preferred":[
         "Mansa"
     ],
+    "name:swa_x_preferred":[
+        "Mansa"
+    ],
     "name:swe_x_preferred":[
         "Mansa"
     ],
@@ -125,11 +140,17 @@
     "name:urd_x_variant":[
         "\u0645\u0627\u0646\u0633\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Mansa"
+    ],
     "name:vie_x_preferred":[
         "Mansa"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u85a9"
+    ],
+    "name:zul_x_preferred":[
+        "Mansa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Zambia",
@@ -273,7 +294,7 @@
         }
     ],
     "wof:id":421168767,
-    "wof:lastmodified":1636501935,
+    "wof:lastmodified":1690930104,
     "wof:name":"Mansa",
     "wof:parent_id":1108782403,
     "wof:placetype":"locality",

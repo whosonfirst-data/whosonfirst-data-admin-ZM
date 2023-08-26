@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Chongwe District"
     ],
+    "name:deu_x_preferred":[
+        "Chongwe"
+    ],
     "name:eng_x_preferred":[
         "Chongwe District"
     ],
@@ -34,6 +37,12 @@
     "name:lit_x_preferred":[
         "\u010congv\u0117s apskritis"
     ],
+    "name:mrj_x_preferred":[
+        "\u0427\u043e\u043d\u0433\u0432\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Chongwe Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Chongwe District"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74ca\u6208\u97cb\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Chongwe District"
     ],
     "qs:name":"Chongwe",
     "qs:photos_9r":0,
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":890441279,
-    "wof:lastmodified":1566665962,
+    "wof:lastmodified":1690930117,
     "wof:name":"Chongwe",
     "wof:parent_id":1108782415,
     "wof:placetype":"locality",

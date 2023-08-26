@@ -31,16 +31,28 @@
     "name:arg_x_preferred":[
         "Lusaka"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0648\u0635\u0627\u0643\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0644\u0648\u0633\u0627\u0643\u0627"
     ],
     "name:ast_x_preferred":[
         "Lusaka"
     ],
+    "name:avk_x_preferred":[
+        "Lusaka"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0633\u0627\u06a9\u0627"
     ],
     "name:aze_x_preferred":[
+        "Lusaka"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u043a\u0430"
+    ],
+    "name:ban_x_preferred":[
         "Lusaka"
     ],
     "name:bel_x_preferred":[
@@ -106,10 +118,16 @@
     "name:eus_x_preferred":[
         "Lusaka"
     ],
+    "name:ext_x_preferred":[
+        "Lusaka"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0633\u0627\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
+        "Lusaka"
+    ],
+    "name:fit_x_preferred":[
         "Lusaka"
     ],
     "name:fra_x_preferred":[
@@ -226,7 +244,13 @@
     "name:lav_x_preferred":[
         "Lusaka"
     ],
+    "name:lfn_x_preferred":[
+        "Lusaka"
+    ],
     "name:lij_x_preferred":[
+        "Lusaka"
+    ],
+    "name:lin_x_preferred":[
         "Lusaka"
     ],
     "name:lit_x_preferred":[
@@ -244,6 +268,12 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0938\u093e\u0915\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u043a\u0430"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u043a\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u0441\u0430\u043a\u0430"
     ],
@@ -258,6 +288,9 @@
     ],
     "name:msa_x_preferred":[
         "Lusaka"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u06a9\u0627"
     ],
     "name:nah_x_preferred":[
         "Lusaka"
@@ -319,11 +352,17 @@
     "name:que_x_preferred":[
         "Lusaka"
     ],
+    "name:rmf_x_preferred":[
+        "Lusaka"
+    ],
     "name:ron_x_preferred":[
         "Lusaka"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0441\u0430\u043a\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c69\u1c65\u1c5f\u1c60\u1c5f"
     ],
     "name:sco_x_preferred":[
         "Lusaka"
@@ -331,10 +370,34 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd4\u0dc3\u0dcf\u0d9a\u0dcf"
     ],
+    "name:sjd_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u043a\u0430"
+    ],
+    "name:sje_x_preferred":[
+        "Lusaka"
+    ],
+    "name:sju_x_preferred":[
+        "Lusaka"
+    ],
     "name:slk_x_preferred":[
         "Lusaka"
     ],
     "name:slv_x_preferred":[
+        "Lusaka"
+    ],
+    "name:sma_x_preferred":[
+        "Lusaka"
+    ],
+    "name:sme_x_preferred":[
+        "Lusaka"
+    ],
+    "name:smj_x_preferred":[
+        "Lusaka"
+    ],
+    "name:smn_x_preferred":[
+        "Lusaka"
+    ],
+    "name:sms_x_preferred":[
         "Lusaka"
     ],
     "name:sna_x_preferred":[
@@ -349,8 +412,14 @@
     "name:sqi_x_preferred":[
         "Lusaka"
     ],
+    "name:srd_x_preferred":[
+        "Lusaka"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0441\u0430\u043a\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "Lusaka"
     ],
     "name:swa_x_preferred":[
         "Lusaka"
@@ -441,6 +510,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8def\u6c99\u5361"
+    ],
+    "name:zul_x_preferred":[
+        "Lusaka"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Zambia",
@@ -601,7 +673,7 @@
         }
     ],
     "wof:id":421178937,
-    "wof:lastmodified":1636501939,
+    "wof:lastmodified":1690930114,
     "wof:megacity":1,
     "wof:name":"Lusaka",
     "wof:parent_id":1108782421,
