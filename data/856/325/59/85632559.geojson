@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.745302,
-    "geom:area_square_m":753957104542.262207,
+    "geom:area_square_m":753957104542.244995,
     "geom:bbox":"21.996388,-18.077418,33.702222,-8.203284",
     "geom:latitude":-13.454028,
     "geom:longitude":27.797599,
@@ -14,6 +14,9 @@
     "iso:country":"ZM",
     "itu:country_code":[
         "260"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "ZM"
@@ -993,7 +996,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"260",
     "statoids:ds":"Z",
     "statoids:fifa":"ZAM",
@@ -1053,7 +1057,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"a1503a8cf191bdc93cdc548ac82beed9",
+    "wof:geomhash":"e2369ef0f06e58bc43bf7f2c30615fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1067,12 +1071,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827567,
+    "wof:lastmodified":1694492092,
     "wof:name":"Zambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":14309466,
-    "wof:population_rank":14,
+    "wof:population":17861030,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-zm",
     "wof:shortcode":"ZM",
     "wof:superseded_by":[],
