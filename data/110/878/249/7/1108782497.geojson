@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.510391,
-    "geom:area_square_m":18035746329.625374,
+    "geom:area_square_m":18035746956.086815,
     "geom:bbox":"21.998889,-16.141491,23.010981,-14.00919",
     "geom:latitude":-15.041004,
     "geom:longitude":22.409078,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.WE.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743530,
-    "wof:geomhash":"e6fb2c576053cb82f73ca4c9b2d4d6d9",
+    "wof:geomhash":"2159c25ac6aef64c43712992141086cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108782497,
-    "wof:lastmodified":1636501930,
+    "wof:lastmodified":1695886040,
     "wof:name":"Kalabo",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

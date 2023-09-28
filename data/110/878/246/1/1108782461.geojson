@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.875415,
-    "geom:area_square_m":10646675420.916918,
+    "geom:area_square_m":10646674395.668219,
     "geom:bbox":"30.284306,-11.321532,31.536736,-9.731807",
     "geom:latitude":-10.400247,
     "geom:longitude":30.95491,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NR.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743513,
-    "wof:geomhash":"29ae587e4872d6e3698587b774e1d30f",
+    "wof:geomhash":"70cdbb919cb6735ada202b07c39e2e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108782461,
-    "wof:lastmodified":1636501928,
+    "wof:lastmodified":1695886805,
     "wof:name":"Kasama",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

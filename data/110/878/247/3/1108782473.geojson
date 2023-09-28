@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.596223,
-    "geom:area_square_m":7059700583.027128,
+    "geom:area_square_m":7059700877.657516,
     "geom:bbox":"26.695416,-17.532829,27.661495,-16.188386",
     "geom:latitude":-16.745431,
     "geom:longitude":27.093461,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743519,
-    "wof:geomhash":"aec06c2a98c3d6b15d22ed97da30d991",
+    "wof:geomhash":"de7ef0c62d821cd9087f398208d632ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108782473,
-    "wof:lastmodified":1636501929,
+    "wof:lastmodified":1695886806,
     "wof:name":"Choma",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

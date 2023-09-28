@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318581,
-    "geom:area_square_m":3820722147.90548,
+    "geom:area_square_m":3820722104.022163,
     "geom:bbox":"31.493461,-14.412268,32.320765,-13.72505",
     "geom:latitude":-14.093715,
     "geom:longitude":31.946058,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.ES.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743480,
-    "wof:geomhash":"09534186d099add4c97fde7ee6919f78",
+    "wof:geomhash":"7bdacd93eacc503fe531b1b5406479df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108782389,
-    "wof:lastmodified":1627523018,
+    "wof:lastmodified":1695886240,
     "wof:name":"Katete",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

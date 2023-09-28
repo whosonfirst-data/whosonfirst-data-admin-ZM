@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.495224,
-    "geom:area_square_m":5958249413.355504,
+    "geom:area_square_m":5958249413.355901,
     "geom:bbox":"31.5454852544,-13.8106031068,32.4648354232,-12.8852218738",
     "geom:latitude":-13.340919,
     "geom:longitude":31.990087,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.ES.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743482,
-    "wof:geomhash":"22273211d48f1fa8a06c259f60baf00b",
+    "wof:geomhash":"0decf27dd45129bb7bb8eda283c9b574",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108782393,
-    "wof:lastmodified":1566665702,
+    "wof:lastmodified":1695886575,
     "wof:name":"Mambwe",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

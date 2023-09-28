@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.944355,
-    "geom:area_square_m":23225191059.430401,
+    "geom:area_square_m":23225191654.880699,
     "geom:bbox":"23.664912,-16.106731,25.597708,-13.962396",
     "geom:latitude":-14.974727,
     "geom:longitude":24.691044,
@@ -162,9 +162,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.WE.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743531,
-    "wof:geomhash":"f6703cd509e26fb786f8b038f3f9caef",
+    "wof:geomhash":"3be99b58280989c75729559703db33bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108782499,
-    "wof:lastmodified":1636501929,
+    "wof:lastmodified":1695886039,
     "wof:name":"Kaoma",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

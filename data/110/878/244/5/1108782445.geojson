@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.821601,
-    "geom:area_square_m":21884016903.49276,
+    "geom:area_square_m":21884015871.822094,
     "geom:bbox":"25.143977,-14.723357,26.978922,-12.862037",
     "geom:latitude":-13.688464,
     "geom:longitude":26.222516,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743505,
-    "wof:geomhash":"8982343638c4ae9ef4bd963c6c70ae8d",
+    "wof:geomhash":"010222380ae01fd86bad90b100b7da00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108782445,
-    "wof:lastmodified":1636501926,
+    "wof:lastmodified":1695886804,
     "wof:name":"Kasempa",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

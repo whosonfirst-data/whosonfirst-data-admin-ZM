@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.811235,
-    "geom:area_square_m":9835474305.325666,
+    "geom:area_square_m":9835474839.354742,
     "geom:bbox":"28.384785,-11.990405,29.593069,-10.655265",
     "geom:latitude":-11.329681,
     "geom:longitude":28.894831,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LP.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743487,
-    "wof:geomhash":"0ba8f7283c44d8b598770ff1932fc03d",
+    "wof:geomhash":"ba01f318fc43f28c35b50549e45754a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108782403,
-    "wof:lastmodified":1636501929,
+    "wof:lastmodified":1695886806,
     "wof:name":"Mansa",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

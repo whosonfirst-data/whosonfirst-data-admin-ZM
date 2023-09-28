@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.659187,
-    "geom:area_square_m":20003227669.171265,
+    "geom:area_square_m":20003227472.419147,
     "geom:bbox":"31.970041,-13.995607,33.5475,-11.574436",
     "geom:latitude":-12.826013,
     "geom:longitude":32.682029,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.ES.LN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743481,
-    "wof:geomhash":"638af4abc5fbbec4d8732f8cf112e2c7",
+    "wof:geomhash":"95ebf33ade84048aeacc56c1da44594c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108782391,
-    "wof:lastmodified":1636501930,
+    "wof:lastmodified":1695886040,
     "wof:name":"Lundazi",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

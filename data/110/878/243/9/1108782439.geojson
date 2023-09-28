@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176097,
-    "geom:area_square_m":2135664961.335814,
+    "geom:area_square_m":2135665179.698472,
     "geom:bbox":"23.994274,-11.592003,24.638813,-10.887828",
     "geom:latitude":-11.24527,
     "geom:longitude":24.242783,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.IG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743503,
-    "wof:geomhash":"86749b8e8e02fb484641170c29b4db57",
+    "wof:geomhash":"8fdfcf99512db45952d07d3eb80cf4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782439,
-    "wof:lastmodified":1627523017,
+    "wof:lastmodified":1695886239,
     "wof:name":"Ikelenge",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

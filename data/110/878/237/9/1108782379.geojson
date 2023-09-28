@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.743874,
-    "geom:area_square_m":8940952389.544697,
+    "geom:area_square_m":8940951934.06798,
     "geom:bbox":"26.775536,-13.934093,28.525316,-13.17828",
     "geom:latitude":-13.580255,
     "geom:longitude":27.742782,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CO.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743476,
-    "wof:geomhash":"d6a0e9e43ab9a0fd29d47c537a11611d",
+    "wof:geomhash":"2c129818f06f5af6b87fe9ca0c97c507",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782379,
-    "wof:lastmodified":1627523019,
+    "wof:lastmodified":1695886241,
     "wof:name":"Mpongwe",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

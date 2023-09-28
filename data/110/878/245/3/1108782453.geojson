@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.189174,
-    "geom:area_square_m":14293709942.761379,
+    "geom:area_square_m":14293709311.982498,
     "geom:bbox":"21.997223,-14.18871,23.71066,-13.0",
     "geom:latitude":-13.570206,
     "geom:longitude":23.040373,
@@ -321,9 +321,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743510,
-    "wof:geomhash":"a25f29577c1f4ffdccb8784d77cfd0e3",
+    "wof:geomhash":"bac522f7ff4d3382ee0a69632c0f14d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +334,7 @@
         }
     ],
     "wof:id":1108782453,
-    "wof:lastmodified":1636501925,
+    "wof:lastmodified":1695886804,
     "wof:name":"Zambezi",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

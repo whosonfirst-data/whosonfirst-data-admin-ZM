@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.311263,
-    "geom:area_square_m":15714931881.6544,
+    "geom:area_square_m":15714931410.944811,
     "geom:bbox":"21.998055,-14.839515,24.644241,-13.75567",
     "geom:latitude":-14.251131,
     "geom:longitude":23.371121,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.WE.LK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743532,
-    "wof:geomhash":"c1a85a5db04cddc3426b25c03269c13e",
+    "wof:geomhash":"507455c4f3d7927c39724a125c7affc4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108782501,
-    "wof:lastmodified":1636501926,
+    "wof:lastmodified":1695886804,
     "wof:name":"Lukulu",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

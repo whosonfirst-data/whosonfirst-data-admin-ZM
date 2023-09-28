@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.517616,
-    "geom:area_square_m":6261889445.981977,
+    "geom:area_square_m":6261888640.217937,
     "geom:bbox":"28.756309,-12.460163,29.567659,-11.404129",
     "geom:latitude":-11.939978,
     "geom:longitude":29.181385,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LP.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743488,
-    "wof:geomhash":"d94c061d3e8dc1b9d264a03ea79e727f",
+    "wof:geomhash":"c9d1f3725d8fcaa1e66a241239632e62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108782407,
-    "wof:lastmodified":1627523019,
+    "wof:lastmodified":1695886241,
     "wof:name":"Milenge",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

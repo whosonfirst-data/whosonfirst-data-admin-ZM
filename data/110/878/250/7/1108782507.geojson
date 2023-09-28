@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.500981,
-    "geom:area_square_m":29612307299.528542,
+    "geom:area_square_m":29612307366.114166,
     "geom:bbox":"23.146168,-17.637868,25.408035,-15.478455",
     "geom:latitude":-16.746669,
     "geom:longitude":24.39503,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.WE.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743535,
-    "wof:geomhash":"7b1283e3b205de8a1f6c6978fbbb8cbd",
+    "wof:geomhash":"f2c2e1f9d03ac9c07e9ebf1f73164b82",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108782507,
-    "wof:lastmodified":1636501926,
+    "wof:lastmodified":1695886804,
     "wof:name":"Sesheke",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

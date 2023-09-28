@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457802,
-    "geom:area_square_m":5443052763.468518,
+    "geom:area_square_m":5443052763.468685,
     "geom:bbox":"26.3331965376,-16.3481749421,27.2092496005,-15.5801397957",
     "geom:latitude":-15.942845,
     "geom:longitude":26.772825,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743528,
-    "wof:geomhash":"16c0714d0dd4cb3d9285e4b388dbab0b",
+    "wof:geomhash":"a2513de761b7e4d37cefd329a7f85b71",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108782491,
-    "wof:lastmodified":1566665698,
+    "wof:lastmodified":1695886574,
     "wof:name":"Namwala",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

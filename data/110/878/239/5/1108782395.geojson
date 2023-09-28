@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.863316,
-    "geom:area_square_m":10340512834.037567,
+    "geom:area_square_m":10340513222.192072,
     "geom:bbox":"29.985712,-14.9961,31.215731,-13.779098",
     "geom:latitude":-14.379737,
     "geom:longitude":30.581171,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.ES.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743483,
-    "wof:geomhash":"e09a2b536de247109279da3fc2f9e429",
+    "wof:geomhash":"b901e644bbdfa4c6dbec73cb1dfe57b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108782395,
-    "wof:lastmodified":1636501931,
+    "wof:lastmodified":1695886040,
     "wof:name":"Nyimba",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

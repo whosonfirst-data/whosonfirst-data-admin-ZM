@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.989302,
-    "geom:area_square_m":12058486636.355223,
+    "geom:area_square_m":12058486582.895763,
     "geom:bbox":"29.318874,-10.3193,31.16103,-9.21453",
     "geom:latitude":-9.68403,
     "geom:longitude":30.214228,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NR.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743516,
-    "wof:geomhash":"e3655ea90beaf565ba1b1e503d06ad34",
+    "wof:geomhash":"c47e9c7d6d836cdb1fdbe8b8f6ed1b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108782467,
-    "wof:lastmodified":1627523019,
+    "wof:lastmodified":1695886242,
     "wof:name":"Mporokoso",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.429209,
-    "geom:area_square_m":5208460309.440941,
+    "geom:area_square_m":5208461225.388554,
     "geom:bbox":"29.816611,-11.491291,30.726934,-10.667315",
     "geom:latitude":-11.070678,
     "geom:longitude":30.261766,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NR.CI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743511,
-    "wof:geomhash":"1e4e378246d50c0ceec8b454f6074672",
+    "wof:geomhash":"7f2916d7d4640deca86a88e241846414",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108782455,
-    "wof:lastmodified":1627523017,
+    "wof:lastmodified":1695886239,
     "wof:name":"Chilubi",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

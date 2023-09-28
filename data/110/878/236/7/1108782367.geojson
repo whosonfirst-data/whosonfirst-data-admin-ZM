@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089812,
-    "geom:area_square_m":1083122630.17205,
+    "geom:area_square_m":1083122630.172033,
     "geom:bbox":"27.7311019512,-12.9025374885,28.1515905025,-12.5626803075",
     "geom:latitude":-12.757096,
     "geom:longitude":27.940252,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CO.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743471,
-    "wof:geomhash":"af68b61cc72649f5645b2b8e04a39fb2",
+    "wof:geomhash":"a61e8429d48ead154fc59677efc9bbf8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108782367,
-    "wof:lastmodified":1566665699,
+    "wof:lastmodified":1695886574,
     "wof:name":"Kalulushi",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

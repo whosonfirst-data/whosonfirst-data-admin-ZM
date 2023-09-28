@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.825588,
-    "geom:area_square_m":10004258015.795837,
+    "geom:area_square_m":10004258015.795851,
     "geom:bbox":"29.3654418742,-12.234425,30.4639486626,-10.7051577041",
     "geom:latitude":-11.476526,
     "geom:longitude":29.809416,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LP.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743491,
-    "wof:geomhash":"415edb1cf085be701336e75a9242df48",
+    "wof:geomhash":"000dcb441651548dfc9ebdfddb590d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108782413,
-    "wof:lastmodified":1566665693,
+    "wof:lastmodified":1695886574,
     "wof:name":"Samfya",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.738126,
-    "geom:area_square_m":8971757155.133844,
+    "geom:area_square_m":8971756420.990917,
     "geom:bbox":"29.092205,-11.100273,30.779328,-10.060158",
     "geom:latitude":-10.582909,
     "geom:longitude":29.960138,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NR.LW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743514,
-    "wof:geomhash":"aec8e5c307b0d39968380de117a247e3",
+    "wof:geomhash":"79313d6c7e2a108726ec92c46be45a79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782463,
-    "wof:lastmodified":1627523018,
+    "wof:lastmodified":1695886240,
     "wof:name":"Luwingu",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074589,
-    "geom:area_square_m":878285447.877456,
+    "geom:area_square_m":878285592.515328,
     "geom:bbox":"25.636409,-17.983913,26.052588,-17.610622",
     "geom:latitude":-17.772884,
     "geom:longitude":25.863209,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743525,
-    "wof:geomhash":"dd4e2775bfb9c84e2cd709f1cdfa9a2a",
+    "wof:geomhash":"041d5532ae7616ff9d66ddcac70ee31e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108782485,
-    "wof:lastmodified":1636501928,
+    "wof:lastmodified":1695886805,
     "wof:name":"Livingstone",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

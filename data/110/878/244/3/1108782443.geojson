@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.212096,
-    "geom:area_square_m":14587570846.009035,
+    "geom:area_square_m":14587571335.665051,
     "geom:bbox":"23.492852,-14.036672,24.726445,-12.487505",
     "geom:latitude":-13.265003,
     "geom:longitude":24.151666,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743504,
-    "wof:geomhash":"b782b9357b4e30216772b227160d865a",
+    "wof:geomhash":"65f0fcd8e458e25214f0b793c666a5e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108782443,
-    "wof:lastmodified":1636501926,
+    "wof:lastmodified":1695886804,
     "wof:name":"Kabompo",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

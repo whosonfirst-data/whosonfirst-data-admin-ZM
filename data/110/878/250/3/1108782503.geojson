@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.836561,
-    "geom:area_square_m":9980827815.045616,
+    "geom:area_square_m":9980828162.767006,
     "geom:bbox":"22.815246,-15.806646,24.12132,-14.616411",
     "geom:latitude":-15.230326,
     "geom:longitude":23.495411,
@@ -147,9 +147,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.WE.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743533,
-    "wof:geomhash":"adfc589602368c6ed404325d9c2392c4",
+    "wof:geomhash":"b8211d9d07600321afed74c617cb00d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108782503,
-    "wof:lastmodified":1636501927,
+    "wof:lastmodified":1695886805,
     "wof:name":"Mongu",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

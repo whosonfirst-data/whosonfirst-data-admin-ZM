@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333567,
-    "geom:area_square_m":4069856434.828743,
+    "geom:area_square_m":4069856514.091112,
     "geom:bbox":"28.38008,-9.771183,29.32791,-9.026814",
     "geom:latitude":-9.345121,
     "geom:longitude":28.79807,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LP.NC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743490,
-    "wof:geomhash":"80cfbc55ec488c7378308fa5b4c0f77f",
+    "wof:geomhash":"d147df8827c120f3d2b81e2f7a1aaf93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108782411,
-    "wof:lastmodified":1636501928,
+    "wof:lastmodified":1695886805,
     "wof:name":"Nchelenge",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.32003,
-    "geom:area_square_m":15644402071.518124,
+    "geom:area_square_m":15644401222.682476,
     "geom:bbox":"22.0,-17.41937,23.711974,-15.80418",
     "geom:latitude":-16.568863,
     "geom:longitude":22.862963,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.WE.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743536,
-    "wof:geomhash":"56a97d68890f6efb0f9d9adda56b0c2e",
+    "wof:geomhash":"cd75fe2bb0715b383e3f8ac107a9237b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108782509,
-    "wof:lastmodified":1627523020,
+    "wof:lastmodified":1695886243,
     "wof:name":"Shangombo",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

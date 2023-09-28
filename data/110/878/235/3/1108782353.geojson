@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13018,
-    "geom:area_square_m":1558613576.446062,
+    "geom:area_square_m":1558613988.113849,
     "geom:bbox":"28.125387,-14.697854,28.628131,-14.238872",
     "geom:latitude":-14.472742,
     "geom:longitude":28.385591,
@@ -186,9 +186,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CE.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743458,
-    "wof:geomhash":"286472e8ff1bf209c76fe04440548251",
+    "wof:geomhash":"021e63aa3a2153c97b34e080e6f191b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":1108782353,
-    "wof:lastmodified":1636501927,
+    "wof:lastmodified":1695886805,
     "wof:name":"Kabwe",
     "wof:parent_id":85681059,
     "wof:placetype":"county",

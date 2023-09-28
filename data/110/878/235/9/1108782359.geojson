@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.808393,
-    "geom:area_square_m":21598991820.454292,
+    "geom:area_square_m":21598992205.717464,
     "geom:bbox":"25.31998,-15.747307,27.97275,-14.181802",
     "geom:latitude":-14.999151,
     "geom:longitude":26.635179,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CE.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743467,
-    "wof:geomhash":"cc12195b073ed24e48f668997224d729",
+    "wof:geomhash":"36cc75db5ddbb4e48e676f8ff308ef92",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108782359,
-    "wof:lastmodified":1636501927,
+    "wof:lastmodified":1695886805,
     "wof:name":"Mumbwa",
     "wof:parent_id":85681059,
     "wof:placetype":"county",
