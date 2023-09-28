@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.227923,
-    "geom:area_square_m":85650106573.689682,
+    "geom:area_square_m":85650105501.441788,
     "geom:bbox":"24.952542,-18.077418,28.92079,-15.27317",
     "geom:latitude":-16.584841,
     "geom:longitude":26.651602,
@@ -288,6 +288,7 @@
         "gn:id":896972,
         "gp:id":2347804,
         "hasc:id":"ZM.SO",
+        "iso:code":"ZM-07",
         "iso:id":"ZM-07",
         "loc:id":"n83022861",
         "qs_pg:id":895030,
@@ -295,11 +296,12 @@
         "wd:id":"Q738382",
         "wk:page":"Southern Province, Zambia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea4df2dd1b3910055a17a933ed121480",
+    "wof:geomhash":"4d40c2e06b3d0e87fdbb5b53e52fb12a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -314,7 +316,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501913,
+    "wof:lastmodified":1695884919,
     "wof:name":"Southern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

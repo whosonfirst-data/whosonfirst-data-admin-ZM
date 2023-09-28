@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.277014,
-    "geom:area_square_m":51403584777.829201,
+    "geom:area_square_m":51403585136.200928,
     "geom:bbox":"29.985712,-14.9961,33.5475,-11.574436",
     "geom:latitude":-13.5762,
     "geom:longitude":31.900751,
@@ -285,17 +285,19 @@
         "gn:id":917388,
         "gp:id":2347806,
         "hasc:id":"ZM.ES",
+        "iso:code":"ZM-03",
         "iso:id":"ZM-03",
         "qs_pg:id":1285712,
         "unlc:id":"ZM-03",
         "wd:id":"Q823810",
         "wk:page":"Eastern Province, Zambia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"602d9c73f188130e0e34fec07758cce6",
+    "wof:geomhash":"f9e25df49bec0534517fd7640eb3853a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501912,
+    "wof:lastmodified":1695884918,
     "wof:name":"Eastern",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

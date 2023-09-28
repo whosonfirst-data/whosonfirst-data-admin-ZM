@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.939325,
-    "geom:area_square_m":95169747416.107132,
+    "geom:area_square_m":95169748275.1931,
     "geom:bbox":"25.31998,-15.747307,31.448273,-12.000402",
     "geom:latitude":-14.183618,
     "geom:longitude":28.61469,
@@ -291,17 +291,19 @@
         "gn:id":921064,
         "gp:id":2347805,
         "hasc:id":"ZM.CE",
+        "iso:code":"ZM-02",
         "iso:id":"ZM-02",
         "qs_pg:id":424151,
         "unlc:id":"ZM-02",
         "wd:id":"Q190718",
         "wk:page":"Central Province, Zambia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e153589958affc35aab80d0b907505fd",
+    "wof:geomhash":"88a974ea9e1418096f6fbb673a6e6a8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501911,
+    "wof:lastmodified":1695884918,
     "wof:name":"Central",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

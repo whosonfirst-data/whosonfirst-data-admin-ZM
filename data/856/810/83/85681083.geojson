@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.708417,
-    "geom:area_square_m":127489120650.399155,
+    "geom:area_square_m":127489121658.70903,
     "geom:bbox":"21.998055,-17.637868,25.597708,-13.75567",
     "geom:latitude":-15.642313,
     "geom:longitude":23.68568,
@@ -294,6 +294,7 @@
         "gn:id":896140,
         "gp:id":2347803,
         "hasc:id":"ZM.WE",
+        "iso:code":"ZM-01",
         "iso:id":"ZM-01",
         "loc:id":"n83055144",
         "qs_pg:id":895029,
@@ -301,11 +302,12 @@
         "wd:id":"Q748486",
         "wk:page":"Western Province, Zambia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7844e069a46354c841d5fdaa59d9e6b5",
+    "wof:geomhash":"8259700153ceee8880ae878d714e06b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501914,
+    "wof:lastmodified":1695884920,
     "wof:name":"Western",
     "wof:parent_id":85632559,
     "wof:placetype":"region",
