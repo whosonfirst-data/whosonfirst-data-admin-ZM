@@ -1036,6 +1036,7 @@
         "hasc:id":"ZM",
         "icao:code":"9J",
         "ioc:id":"ZAM",
+        "iso:code":"ZM",
         "itu:id":"ZMB",
         "loc:id":"n80089997",
         "m49:code":"894",
@@ -1050,6 +1051,7 @@
         "wk:page":"Zambia",
         "wmo:id":"ZB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:country_alpha3":"ZMB",
     "wof:geom_alt":[
@@ -1071,7 +1073,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639545,
+    "wof:lastmodified":1695881203,
     "wof:name":"Zambia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
