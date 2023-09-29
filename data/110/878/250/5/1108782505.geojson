@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.284836,
-    "geom:area_square_m":15275714193.593225,
+    "geom:area_square_m":15275714885.227884,
     "geom:bbox":"22.545992,-16.691602,24.613171,-15.323318",
     "geom:latitude":-15.945889,
     "geom:longitude":23.574351,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.WE.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743534,
-    "wof:geomhash":"b10c31d736582ffc00c16cecd65efb37",
+    "wof:geomhash":"7aed113b6e842de7737c73c68683effa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108782505,
-    "wof:lastmodified":1636501927,
+    "wof:lastmodified":1695886805,
     "wof:name":"Senanga",
     "wof:parent_id":85681083,
     "wof:placetype":"county",

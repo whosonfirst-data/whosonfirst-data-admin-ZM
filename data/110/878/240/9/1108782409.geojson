@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54678,
-    "geom:area_square_m":6648730822.448302,
+    "geom:area_square_m":6648730879.367895,
     "geom:bbox":"28.541903,-11.04373,29.530293,-10.027718",
     "geom:latitude":-10.455406,
     "geom:longitude":28.995377,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LP.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743489,
-    "wof:geomhash":"5af98b6727f162e9e06023a8805f4305",
+    "wof:geomhash":"d40add7dda26944b025c489b118058bd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782409,
-    "wof:lastmodified":1627523020,
+    "wof:lastmodified":1695886242,
     "wof:name":"Mwense",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

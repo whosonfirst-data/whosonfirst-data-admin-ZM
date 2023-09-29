@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.520309,
-    "geom:area_square_m":30434073678.771801,
+    "geom:area_square_m":30434075142.887451,
     "geom:bbox":"24.831812,-13.437877,27.729404,-11.563135",
     "geom:latitude":-12.420847,
     "geom:longitude":26.195155,
@@ -162,9 +162,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743508,
-    "wof:geomhash":"81b12a985f06da1b391e20856eb29d7e",
+    "wof:geomhash":"ad5959e95c5e2ed1800d00baeb9c755e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108782451,
-    "wof:lastmodified":1636501924,
+    "wof:lastmodified":1695886803,
     "wof:name":"Solwezi",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

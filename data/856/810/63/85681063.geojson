@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.582033,
-    "geom:area_square_m":31092060010.528484,
+    "geom:area_square_m":31092058933.48542,
     "geom:bbox":"26.775536,-13.934093,29.058141,-12.221684",
     "geom:latitude":-13.128408,
     "geom:longitude":27.854385,
@@ -288,17 +288,19 @@
         "gn:id":917524,
         "gp:id":2347802,
         "hasc:id":"ZM.CO",
+        "iso:code":"ZM-08",
         "iso:id":"ZM-08",
         "qs_pg:id":1047842,
         "unlc:id":"ZM-08",
         "wd:id":"Q1131523",
         "wk:page":"Copperbelt Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa9307f1f5a82ea67b4d108df2ef23e3",
+    "wof:geomhash":"8668bc14f28fc3a7bbc581f2766f173f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -313,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501913,
+    "wof:lastmodified":1695884919,
     "wof:name":"Copperbelt",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

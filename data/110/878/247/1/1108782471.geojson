@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.801046,
-    "geom:area_square_m":9757823177.708776,
+    "geom:area_square_m":9757823559.770992,
     "geom:bbox":"31.131553,-10.559753,32.353067,-9.407504",
     "geom:latitude":-9.888985,
     "geom:longitude":31.736157,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NR.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743518,
-    "wof:geomhash":"c522e28d306c31e237a451c26bb57773",
+    "wof:geomhash":"e82f94b8b512909377172812b24b8938",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782471,
-    "wof:lastmodified":1627523019,
+    "wof:lastmodified":1695886242,
     "wof:name":"Mungwi",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

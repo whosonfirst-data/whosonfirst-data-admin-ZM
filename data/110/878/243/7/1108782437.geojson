@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.379097,
-    "geom:area_square_m":4563257119.887802,
+    "geom:area_square_m":4563257250.289935,
     "geom:bbox":"21.996388,-13.623677,23.022777,-13.0",
     "geom:latitude":-13.225973,
     "geom:longitude":22.388042,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.CV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743502,
-    "wof:geomhash":"7183a273ea72bb6d93541dc98fbfdf52",
+    "wof:geomhash":"ff4fc4516cb1815e8ec3269ce64e8bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108782437,
-    "wof:lastmodified":1627523017,
+    "wof:lastmodified":1695886239,
     "wof:name":"Chavuma",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.350984,
-    "geom:area_square_m":4280892259.534079,
+    "geom:area_square_m":4280892800.488389,
     "geom:bbox":"32.158672,-9.836835,33.016944,-9.089952",
     "geom:latitude":-9.464871,
     "geom:longitude":32.558887,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.MU.NK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743501,
-    "wof:geomhash":"dc8602cb96362a864b2c24a7346d63c9",
+    "wof:geomhash":"18cbae946242d40ddeac93a017bcc3a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108782435,
-    "wof:lastmodified":1627523020,
+    "wof:lastmodified":1695886242,
     "wof:name":"Nakonde",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

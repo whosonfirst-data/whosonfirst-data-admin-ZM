@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.957683,
-    "geom:area_square_m":11486289199.898886,
+    "geom:area_square_m":11486289664.671679,
     "geom:bbox":"26.841944,-14.537841,28.737164,-13.655526",
     "geom:latitude":-14.076463,
     "geom:longitude":27.773958,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CE.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743465,
-    "wof:geomhash":"207aef042aaa9e68a1b940f2ca14f04d",
+    "wof:geomhash":"59a93b83bef5f315a81510063d2b95aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782355,
-    "wof:lastmodified":1627523018,
+    "wof:lastmodified":1695886239,
     "wof:name":"Kapiri mposhi",
     "wof:parent_id":85681059,
     "wof:placetype":"county",

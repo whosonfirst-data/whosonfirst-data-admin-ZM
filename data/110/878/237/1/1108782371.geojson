@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101537,
-    "geom:area_square_m":1224405089.179084,
+    "geom:area_square_m":1224405089.179081,
     "geom:bbox":"28.077334604,-13.0160717851,28.534695,-12.5735861644",
     "geom:latitude":-12.781907,
     "geom:longitude":28.276637,
@@ -183,9 +183,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CO.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743472,
-    "wof:geomhash":"71f870444d9bee4f0f4f0be8625bb469",
+    "wof:geomhash":"fd24aad35a749b5aca24f61ec99b7e55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":1108782371,
-    "wof:lastmodified":1566665703,
+    "wof:lastmodified":1695886575,
     "wof:name":"Kitwe",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

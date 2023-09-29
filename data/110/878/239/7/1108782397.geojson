@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.732254,
-    "geom:area_square_m":8780583674.692608,
+    "geom:area_square_m":8780583960.728987,
     "geom:bbox":"30.882548,-14.7694,31.959394,-13.413154",
     "geom:latitude":-14.124094,
     "geom:longitude":31.398433,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.ES.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743484,
-    "wof:geomhash":"8cad0e3d37f30c2e23fa9a7713f7f919",
+    "wof:geomhash":"cb65a01e8bef63bf0f6c3d51e0812a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108782397,
-    "wof:lastmodified":1627523020,
+    "wof:lastmodified":1695886242,
     "wof:name":"Petauke",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

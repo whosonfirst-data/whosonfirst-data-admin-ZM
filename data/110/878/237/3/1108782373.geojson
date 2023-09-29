@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053837,
-    "geom:area_square_m":648391142.314728,
+    "geom:area_square_m":648390992.06047,
     "geom:bbox":"28.218998,-13.240691,28.564928,-12.911892",
     "geom:latitude":-13.095763,
     "geom:longitude":28.382381,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CO.LS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743473,
-    "wof:geomhash":"5def015edb76a239d1045c6a0464ad88",
+    "wof:geomhash":"305ff395eb557e9c74d6044b96577dcb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108782373,
-    "wof:lastmodified":1636501931,
+    "wof:lastmodified":1695886040,
     "wof:name":"Luanshya",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036982,
-    "geom:area_square_m":440767940.295545,
+    "geom:area_square_m":440767940.29562,
     "geom:bbox":"28.207662,-15.576061,28.495144,-15.334687",
     "geom:latitude":-15.448999,
     "geom:longitude":28.319412,
@@ -435,12 +435,13 @@
     "wof:concordances":{
         "hasc:id":"ZM.LS.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421178937
     ],
     "wof:country":"ZM",
     "wof:created":1481743495,
-    "wof:geomhash":"9cd20b420c3afab8167454f7d56e1b39",
+    "wof:geomhash":"88f16d4a3b9bb42ab1d2abe57002cc02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -450,7 +451,7 @@
         }
     ],
     "wof:id":1108782421,
-    "wof:lastmodified":1636501925,
+    "wof:lastmodified":1695886803,
     "wof:name":"Lusaka",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

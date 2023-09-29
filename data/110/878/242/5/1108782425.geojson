@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.464244,
-    "geom:area_square_m":17760239706.16954,
+    "geom:area_square_m":17760239838.256233,
     "geom:bbox":"32.220877,-12.180229,33.698877,-10.330821",
     "geom:latitude":-11.200386,
     "geom:longitude":32.804567,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.MU.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743496,
-    "wof:geomhash":"317db78521b44d11d7bcb981f7ba02d7",
+    "wof:geomhash":"e7371814e7a23317cb8ab28566d1c709",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108782425,
-    "wof:lastmodified":1627523017,
+    "wof:lastmodified":1695886239,
     "wof:name":"Chama",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

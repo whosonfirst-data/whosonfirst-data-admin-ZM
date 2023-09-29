@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.090123,
-    "geom:area_square_m":49689571592.682152,
+    "geom:area_square_m":49689571839.688393,
     "geom:bbox":"28.38008,-12.460163,30.463949,-8.380775",
     "geom:latitude":-10.689457,
     "geom:longitude":29.212107,
@@ -273,17 +273,19 @@
         "gn:id":909845,
         "gp:id":2347808,
         "hasc:id":"ZM.LP",
+        "iso:code":"ZM-04",
         "iso:id":"ZM-04",
         "qs_pg:id":235670,
         "unlc:id":"ZM-04",
         "wd:id":"Q386667",
         "wk:page":"Luapula Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4717e78257fde9f0d96b110bd6686406",
+    "wof:geomhash":"2becc4574a820d12d8a90b1c8fcad74d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -298,7 +300,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501914,
+    "wof:lastmodified":1695884920,
     "wof:name":"Luapula",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

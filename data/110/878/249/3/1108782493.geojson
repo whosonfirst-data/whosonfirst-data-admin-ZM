@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.432266,
-    "geom:area_square_m":5100405797.150223,
+    "geom:area_square_m":5100406114.768185,
     "geom:bbox":"26.720303,-17.994392,27.815752,-16.881353",
     "geom:latitude":-17.393976,
     "geom:longitude":27.291628,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743529,
-    "wof:geomhash":"56c0b64446d417ddc02acdea8b97766a",
+    "wof:geomhash":"3918a807fbf239489a03c3b413e912cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108782493,
-    "wof:lastmodified":1627523020,
+    "wof:lastmodified":1695886242,
     "wof:name":"Sinazongwe",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

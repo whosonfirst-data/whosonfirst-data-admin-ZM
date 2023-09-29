@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208452,
-    "geom:area_square_m":2500289038.667929,
+    "geom:area_square_m":2500289217.523288,
     "geom:bbox":"32.180954,-14.308397,33.241223,-13.786415",
     "geom:latitude":-14.062861,
     "geom:longitude":32.630321,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.ES.CD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743479,
-    "wof:geomhash":"23cb4c5d3b9690b8742a35ac37756c45",
+    "wof:geomhash":"0084b7ff5259b6fb55d9dabc24fe6b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108782385,
-    "wof:lastmodified":1627523016,
+    "wof:lastmodified":1695886238,
     "wof:name":"Chadiza",
     "wof:parent_id":85681065,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.560006,
-    "geom:area_square_m":18436313800.49498,
+    "geom:area_square_m":18436313800.49551,
     "geom:bbox":"24.9525419113,-18.002367,26.3813337407,-16.0976545907",
     "geom:latitude":-17.101517,
     "geom:longitude":25.629242,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.KZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743524,
-    "wof:geomhash":"66072ea2aee60134ea794976fb02ca9f",
+    "wof:geomhash":"fa1e42c111785a972ca0faeb400c7273",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108782483,
-    "wof:lastmodified":1566665692,
+    "wof:lastmodified":1695886573,
     "wof:name":"Kazungula",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

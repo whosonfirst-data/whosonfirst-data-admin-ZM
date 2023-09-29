@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.885077,
-    "geom:area_square_m":22603755696.496708,
+    "geom:area_square_m":22603755550.23901,
     "geom:bbox":"28.590231,-14.995154,30.311772,-13.203669",
     "geom:latitude":-14.127878,
     "geom:longitude":29.389576,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CE.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743466,
-    "wof:geomhash":"fcbc21bb92b4e190be7270502256a1b0",
+    "wof:geomhash":"75e4599066abc3f1614543e546aa34d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108782357,
-    "wof:lastmodified":1627523019,
+    "wof:lastmodified":1695886240,
     "wof:name":"Mkushi",
     "wof:parent_id":85681059,
     "wof:placetype":"county",

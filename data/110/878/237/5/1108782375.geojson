@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.901025,
-    "geom:area_square_m":10857386911.137684,
+    "geom:area_square_m":10857387463.333275,
     "geom:bbox":"26.866335,-13.522405,28.21397,-12.34365",
     "geom:latitude":-12.960895,
     "geom:longitude":27.486533,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CO.LF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743474,
-    "wof:geomhash":"0cddf2d8bc497aa27027b02bbf9af2d5",
+    "wof:geomhash":"5daa57b825db8dd8500cded3979d648a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108782375,
-    "wof:lastmodified":1627523018,
+    "wof:lastmodified":1695886240,
     "wof:name":"Lufwanyama",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

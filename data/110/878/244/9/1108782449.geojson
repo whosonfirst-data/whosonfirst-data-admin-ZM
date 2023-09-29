@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.559334,
-    "geom:area_square_m":18859928483.240391,
+    "geom:area_square_m":18859927937.373787,
     "geom:bbox":"23.965834,-13.103244,25.474512,-11.188301",
     "geom:latitude":-11.995676,
     "geom:longitude":24.663175,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743507,
-    "wof:geomhash":"4ec05e155fb7ffe6e6c26984d37abae4",
+    "wof:geomhash":"db36f547cd14ab389bd9890d2620c717",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108782449,
-    "wof:lastmodified":1636501926,
+    "wof:lastmodified":1695886804,
     "wof:name":"Mwinilunga",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

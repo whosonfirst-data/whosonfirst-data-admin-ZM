@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106356,
-    "geom:area_square_m":1281559018.434607,
+    "geom:area_square_m":1281559018.434528,
     "geom:bbox":"28.3080993357,-13.1790629098,28.7729751016,-12.7500537905",
     "geom:latitude":-12.969363,
     "geom:longitude":28.547016,
@@ -195,9 +195,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CO.ND"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743478,
-    "wof:geomhash":"6ddc12a59c847b4e5311c7bff60fee03",
+    "wof:geomhash":"f0e22c0f0588e3f553e571065e719054",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":1108782383,
-    "wof:lastmodified":1566665700,
+    "wof:lastmodified":1695886574,
     "wof:name":"Ndola",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

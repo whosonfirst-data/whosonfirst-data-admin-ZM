@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302081,
-    "geom:area_square_m":3692035288.657193,
+    "geom:area_square_m":3692035074.423873,
     "geom:bbox":"28.693488,-9.143672,29.551093,-8.380775",
     "geom:latitude":-8.72618,
     "geom:longitude":29.132984,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LP.CE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743485,
-    "wof:geomhash":"6556de33523a3bda49d96d2f771714cc",
+    "wof:geomhash":"616a03282dfeb902ad5256d5bfe74035",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108782399,
-    "wof:lastmodified":1627523017,
+    "wof:lastmodified":1695886238,
     "wof:name":"Chiengi",
     "wof:parent_id":85681047,
     "wof:placetype":"county",

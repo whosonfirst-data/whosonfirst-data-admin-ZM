@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07534,
-    "geom:area_square_m":909925268.737725,
+    "geom:area_square_m":909925450.672048,
     "geom:bbox":"27.660457,-12.538372,28.140541,-12.221684",
     "geom:latitude":-12.380097,
     "geom:longitude":27.89898,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.CO.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743469,
-    "wof:geomhash":"f2d99548425b37fc7a412676f3da5f68",
+    "wof:geomhash":"acbe1d5f4857229d56bf8816ea068ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108782363,
-    "wof:lastmodified":1636501930,
+    "wof:lastmodified":1695886039,
     "wof:name":"Chililabombwe",
     "wof:parent_id":85681063,
     "wof:placetype":"county",

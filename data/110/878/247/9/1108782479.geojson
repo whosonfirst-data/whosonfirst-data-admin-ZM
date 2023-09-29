@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.366102,
-    "geom:area_square_m":16256700861.005083,
+    "geom:area_square_m":16256700532.780714,
     "geom:bbox":"25.227344,-16.551246,27.277742,-15.27317",
     "geom:latitude":-15.762002,
     "geom:longitude":26.028305,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.IT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743522,
-    "wof:geomhash":"385ce7941eaf310c47ad90540bfec352",
+    "wof:geomhash":"59d94c7e10aca4cba970d63b58e6a6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782479,
-    "wof:lastmodified":1627523018,
+    "wof:lastmodified":1695886240,
     "wof:name":"Itezhi tezhi",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

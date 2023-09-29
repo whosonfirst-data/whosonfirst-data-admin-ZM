@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.052688,
-    "geom:area_square_m":12863271244.160156,
+    "geom:area_square_m":12863270529.550316,
     "geom:bbox":"29.099459,-9.342094,30.686427,-8.215838",
     "geom:latitude":-8.800916,
     "geom:longitude":29.90218,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NR.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743512,
-    "wof:geomhash":"28d4c03f51424a25c51a85d7a5dd2d6a",
+    "wof:geomhash":"be89feb6caef3ba037d8245023e791bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782457,
-    "wof:lastmodified":1627523018,
+    "wof:lastmodified":1695886240,
     "wof:name":"Kaputa",
     "wof:parent_id":85681055,
     "wof:placetype":"county",

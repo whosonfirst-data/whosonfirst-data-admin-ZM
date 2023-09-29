@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.198027,
-    "geom:area_square_m":87259422686.036469,
+    "geom:area_square_m":87259422604.587952,
     "geom:bbox":"29.789597,-13.421058,33.702222,-9.089952",
     "geom:latitude":-11.328933,
     "geom:longitude":31.971223,
@@ -221,17 +221,19 @@
         "gn:id":900601,
         "gp:id":2347807,
         "hasc:id":"ZM.MU",
+        "iso:code":"ZM-10",
         "iso:id":"ZM-10",
         "qs_pg:id":424152,
         "unlc:id":"ZM-10",
         "wd:id":"Q778738",
         "wk:page":"Northern Province, Zambia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d324809179b3f48fc595c241c8a3b490",
+    "wof:geomhash":"fdbdef22638e789f6c9de442e5bb3760",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -246,7 +248,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501912,
+    "wof:lastmodified":1695884919,
     "wof:name":"Muchinga",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

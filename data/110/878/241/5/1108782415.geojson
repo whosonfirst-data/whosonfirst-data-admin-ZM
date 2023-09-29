@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.991367,
-    "geom:area_square_m":11829680395.2736,
+    "geom:area_square_m":11829680303.051088,
     "geom:bbox":"28.321774,-15.691358,30.223934,-14.644219",
     "geom:latitude":-15.196965,
     "geom:longitude":29.341575,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LS.LR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743492,
-    "wof:geomhash":"8d83be26357c35de37e715eca173ee1d",
+    "wof:geomhash":"1bb718bb51c507fec38d7ad127ea7fa6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108782415,
-    "wof:lastmodified":1627523017,
+    "wof:lastmodified":1695886238,
     "wof:name":"Chongwe",
     "wof:parent_id":85681073,
     "wof:placetype":"county",

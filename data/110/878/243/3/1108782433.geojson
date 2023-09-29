@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.327565,
-    "geom:area_square_m":40232618220.203972,
+    "geom:area_square_m":40232617512.876823,
     "geom:bbox":"29.789597,-13.421058,32.579558,-10.919698",
     "geom:latitude":-12.084132,
     "geom:longitude":31.310665,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.MU.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743500,
-    "wof:geomhash":"e7495846e4777a5652eb5407d707b34a",
+    "wof:geomhash":"5940f09c468405aae21370ac39e69396",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108782433,
-    "wof:lastmodified":1636501925,
+    "wof:lastmodified":1695886804,
     "wof:name":"Mpika",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

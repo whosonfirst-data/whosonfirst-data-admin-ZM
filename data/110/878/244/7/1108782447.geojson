@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.589081,
-    "geom:area_square_m":19079449625.728172,
+    "geom:area_square_m":19079449857.111515,
     "geom:bbox":"24.345962,-14.625766,26.213107,-12.898144",
     "geom:latitude":-13.825217,
     "geom:longitude":25.229358,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.NW.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743506,
-    "wof:geomhash":"6ff49f4d21ebe3bf831053ef87ef00af",
+    "wof:geomhash":"9996d25e90469d89241f6c0e9070304a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108782447,
-    "wof:lastmodified":1627523019,
+    "wof:lastmodified":1695886241,
     "wof:name":"Mufumbwe",
     "wof:parent_id":85681075,
     "wof:placetype":"county",

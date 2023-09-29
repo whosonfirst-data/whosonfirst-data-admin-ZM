@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.852881,
-    "geom:area_square_m":22091602399.411507,
+    "geom:area_square_m":22091602510.958557,
     "geom:bbox":"27.793101,-15.971299,30.421836,-14.644219",
     "geom:latitude":-15.369437,
     "geom:longitude":29.211408,
@@ -273,17 +273,19 @@
         "gn:id":909129,
         "gp:id":2347809,
         "hasc:id":"ZM.LS",
+        "iso:code":"ZM-09",
         "iso:id":"ZM-09",
         "qs_pg:id":235671,
         "unlc:id":"ZM-09",
         "wd:id":"Q819998",
         "wk:page":"Lusaka Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7974d7f3a9380fb566b90a5c2ba34ff4",
+    "wof:geomhash":"ed9da25f656b29cb89e22fdb966f65c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -298,7 +300,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501912,
+    "wof:lastmodified":1695884918,
     "wof:name":"Lusaka",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

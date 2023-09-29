@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.128931,
-    "geom:area_square_m":13337846733.619143,
+    "geom:area_square_m":13337846733.618288,
     "geom:bbox":"25.9741563694,-18.077418,27.0558085302,-16.293804542",
     "geom:latitude":-17.156732,
     "geom:longitude":26.516888,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.KL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743523,
-    "wof:geomhash":"5f7610e9e4caabb8ce1b42c3e552b6dd",
+    "wof:geomhash":"55feef7a0d56fb8eb69e41ff0427552b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108782481,
-    "wof:lastmodified":1566665691,
+    "wof:lastmodified":1695886573,
     "wof:name":"Kalomo",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

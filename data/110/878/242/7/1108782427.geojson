@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.273212,
-    "geom:area_square_m":15467352434.559988,
+    "geom:area_square_m":15467352522.076178,
     "geom:bbox":"31.104135,-11.647494,32.583344,-9.742214",
     "geom:latitude":-10.739382,
     "geom:longitude":31.910815,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.MU.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743497,
-    "wof:geomhash":"2db40a347e82388bdd0588f69fee102e",
+    "wof:geomhash":"be31fe02e91e60e97ac51741a92004a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108782427,
-    "wof:lastmodified":1636501925,
+    "wof:lastmodified":1695886803,
     "wof:name":"Chinsali",
     "wof:parent_id":85681087,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.446788,
-    "geom:area_square_m":125837671561.226578,
+    "geom:area_square_m":125837671886.829468,
     "geom:bbox":"21.996388,-14.723357,27.729404,-10.887828",
     "geom:latitude":-13.030217,
     "geom:longitude":25.057071,
@@ -287,17 +287,19 @@
         "gn:id":900594,
         "gp:id":2347801,
         "hasc:id":"ZM.NW",
+        "iso:code":"ZM-06",
         "iso:id":"ZM-06",
         "qs_pg:id":1047800,
         "unlc:id":"ZM-06",
         "wd:id":"Q846320",
         "wk:page":"North-Western Province, Zambia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ZM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f54e1e3a53d95265fbbc182d5be362d6",
+    "wof:geomhash":"e19cc3ff6401d84386ac1f1659f22904",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501912,
+    "wof:lastmodified":1695884919,
     "wof:name":"North-Western",
     "wof:parent_id":85632559,
     "wof:placetype":"region",

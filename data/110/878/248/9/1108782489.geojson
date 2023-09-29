@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.415362,
-    "geom:area_square_m":4931601378.987632,
+    "geom:area_square_m":4931601378.987378,
     "geom:bbox":"26.9998832954,-16.5383552283,28.1456963814,-15.7201730782",
     "geom:latitude":-16.218793,
     "geom:longitude":27.43637,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.SO.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743527,
-    "wof:geomhash":"ccec2d17042ab2aa0aa3acfeb8f6523b",
+    "wof:geomhash":"8fc82c73781edda5867f3610d4be09d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108782489,
-    "wof:lastmodified":1566665690,
+    "wof:lastmodified":1695886573,
     "wof:name":"Monze",
     "wof:parent_id":85681079,
     "wof:placetype":"county",

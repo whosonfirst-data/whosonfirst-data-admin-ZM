@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.753256,
-    "geom:area_square_m":9177327279.643705,
+    "geom:area_square_m":9177327883.089138,
     "geom:bbox":"28.621936,-10.306839,29.926633,-9.218128",
     "geom:latitude":-9.830535,
     "geom:longitude":29.292651,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"ZM.LP.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ZM",
     "wof:created":1481743486,
-    "wof:geomhash":"4b23c53f17ceb5e0217dc438efb26003",
+    "wof:geomhash":"68804a71aa94249bae2b5415a58c08fd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108782401,
-    "wof:lastmodified":1636501929,
+    "wof:lastmodified":1695886805,
     "wof:name":"Kawambwa",
     "wof:parent_id":85681047,
     "wof:placetype":"county",
