@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":907170
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            907169
+        ]
+    },
     "wof:country":"ZM",
     "wof:geomhash":"b214492e403b2e4f7bc827fc5d08f765",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293788083,
-    "wof:lastmodified":1566665150,
+    "wof:lastmodified":1706241145,
     "wof:name":"Mayankwa",
     "wof:parent_id":1108782499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-zm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310309031
+    ],
     "wof:tags":[]
 },
   "bbox": [
